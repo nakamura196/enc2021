@@ -4,17 +4,20 @@
       <v-row>
         <v-col cols="12" sm="6">
           <v-sheet class="pa-3" dark color="primary">
-            {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
-              source.authors.join(', ')
-            }}],
-            {{
-              lang == 'ja' ? source.publish_year + '年' : source.publish_year
-            }}, {{ getVolAndPage }}
+            <small>
+              {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
+                source.authors.join(', ')
+              }}],
+              {{
+                lang == 'ja' ? source.publish_year + '年' : source.publish_year
+              }}, {{ getVolAndPage }}
+            </small>
           </v-sheet>
 
           <v-card outlined flat class="pa-4 mt-5">
             <div
               style="height: 600px; overflow-y: auto"
+              class="pa-3"
               v-html="source.texthtml_re"
             ></div>
             <div class="mt-5 text-right">
@@ -37,7 +40,7 @@
           </v-tabs>
 
           <v-card outlined flat class="pa-4 mt-5">
-            <div style="height: 600px; overflow-y: auto" class="pa-5">
+            <div style="height: 600px; overflow-y: auto" class="pa-3">
               <v-simple-table dense>
                 <template v-slot:default>
                   <thead>
@@ -105,12 +108,9 @@
             </div>
             <div class="mt-5 text-center">
               {{ $t('作業者名') }}: {{ userName }}
-              <v-btn
-                class="ml-5"
-                color="primary"
-                :to="localePath({ name: 'edit' })"
-                >{{ $t('送信') }}</v-btn
-              >
+              <v-btn class="ml-5" color="primary" @click="submit">{{
+                $t('送信')
+              }}</v-btn>
             </div>
           </v-card>
         </v-col>
@@ -122,6 +122,9 @@
 <script>
 import axios from 'axios'
 import firebase from '@/plugins/firebase'
+
+const FieldValue = firebase.firestore.FieldValue
+const firestore = firebase.firestore()
 
 export default {
   async asyncData({ payload, app }) {
@@ -146,7 +149,7 @@ export default {
         source.next = keys[0]
       }
 
-      return { source }
+      return { source, id }
     }
   },
   data() {
@@ -210,6 +213,7 @@ export default {
         },
       ],
       tabN: 1,
+      userUids: [],
     }
   },
   computed: {
@@ -222,6 +226,9 @@ export default {
     isSignedIn() {
       return this.$store.getters.getIsSignedIn
     },
+    userUid() {
+      return this.$store.getters.getUserUid
+    },
     getVolAndPage() {
       const pages = this.source.pages
       const es = pages.split('-')
@@ -230,8 +237,164 @@ export default {
         : 'Vol.' + es[0] + ', p.' + es[1]
     },
   },
-  mounted() {
-    console.log(this.source)
+  created() {
+    firebase
+      .firestore()
+      .collection('items')
+      .doc(this.id)
+      .onSnapshot(
+        (res) => {
+          let userUids = []
+
+          if (res.exists && res.data().likedUsers) {
+            userUids = res.data().likedUsers
+          }
+
+          this.userUids = userUids
+          console.log({ userUids })
+        },
+        (error) => {
+          console.error('GET_REALTIME_LIST', error)
+        }
+      )
+  },
+  methods: {
+    async submit() {
+      const addFlag = true
+
+      // ----------
+
+      // itemRef
+      const item = await firebase
+        .firestore()
+        .collection('items')
+        .doc(this.id)
+        .get()
+      const itemRef = item.ref
+      if (!item.exists) {
+        await itemRef.set({
+          id: this.id,
+          createTime: FieldValue.serverTimestamp(),
+          updateTime: FieldValue.serverTimestamp(),
+        })
+      }
+
+      const batch = firestore.batch()
+
+      // anotherRef
+      const anotherUser = await firebase
+        .firestore()
+        .collection('users')
+        .doc(this.userUid)
+        .get()
+
+      const anotherUserRef = anotherUser.ref
+      if (!anotherUser.exists) {
+        await anotherUserRef.set({
+          id: this.userUid,
+          createTime: FieldValue.serverTimestamp(),
+          updateTime: FieldValue.serverTimestamp(),
+        })
+      }
+
+      if (addFlag) {
+        batch.update(firestore.doc(itemRef.path), {
+          // id: anotherUserRef.id,
+          updateTime: FieldValue.serverTimestamp(),
+          likedUsers: firebase.firestore.FieldValue.arrayUnion(
+            anotherUserRef.id
+          ),
+        })
+
+        batch.set(
+          firestore
+            .doc(anotherUserRef.path)
+            .collection('likedItems')
+            .doc(itemRef.id),
+          {
+            id: itemRef.id,
+            itemRef,
+            createTime: FieldValue.serverTimestamp(),
+          }
+        )
+
+        // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
+        batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
+      }
+
+      await batch.commit()
+
+      /*
+      const batch = firestore.batch()
+
+      // anotherRef
+      const anotherUser = await firebase
+        .firestore()
+        .collection('users')
+        .doc(this.userUid)
+        .get()
+
+      const anotherUserRef = anotherUser.ref
+      if (!anotherUser.exists) {
+        await anotherUserRef.set({
+          id: this.userUid,
+          createTime: FieldValue.serverTimestamp(),
+          updateTime: FieldValue.serverTimestamp(),
+        })
+      }
+
+      if (addFlag) {
+        batch.update(firestore.doc(itemRef.path), {
+          // id: anotherUserRef.id,
+          updateTime: FieldValue.serverTimestamp(),
+          likedUsers: firebase.firestore.FieldValue.arrayUnion(
+            anotherUserRef.id
+          ),
+        })
+
+        batch.set(
+          firestore
+            .doc(anotherUserRef.path)
+            .collection('likedItems')
+            .doc(itemRef.id),
+          {
+            id: itemRef.id,
+            itemRef,
+            createTime: FieldValue.serverTimestamp(),
+            title: this.source._label[0],
+            thumbnail: this.source._thumbnail[0],
+          }
+        )
+
+        // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
+        batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
+      } else {
+        batch.update(firestore.doc(itemRef.path), {
+          // id: anotherUserRef.id,
+          updateTime: FieldValue.serverTimestamp(),
+          likedUsers: firebase.firestore.FieldValue.arrayRemove(
+            anotherUserRef.id
+          ),
+        })
+
+        batch.delete(
+          firestore
+            .doc(anotherUserRef.path)
+            .collection('likedItems')
+            .doc(itemRef.id)
+        )
+
+        // batch.update(itemRef, { likeCount: FieldValue.increment(-1) })
+        batch.update(anotherUserRef, {
+          likeItemCount: FieldValue.increment(-1),
+        })
+      }
+
+      
+
+      await batch.commit()
+      */
+    },
   },
   head() {
     const title = this.title
