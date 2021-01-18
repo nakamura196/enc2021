@@ -18,7 +18,7 @@
             <div
               style="height: 600px; overflow-y: auto"
               class="pa-3"
-              v-html="source.texthtml_re"
+              v-html="getHtml"
             ></div>
             <div class="mt-5 text-right">
               <v-btn
@@ -34,88 +34,118 @@
           </v-card>
         </v-col>
         <v-col v-if="isSignedIn" cols="12" sm="6">
-          <v-tabs background-color="primary" dark>
-            <v-tab v-for="n in tabN" :key="n">{{ $t('典拠') }}{{ n }}</v-tab>
-            <v-tab @click="tabN += 1"><v-icon>mdi-plus</v-icon></v-tab>
+          <v-tabs v-model="tab" background-color="primary" dark>
+            <v-tab v-for="(item, key) in formData.length" :key="key">{{
+              key !== 0 ? $t('典拠') + key : $t('新規')
+            }}</v-tab>
           </v-tabs>
 
-          <v-card outlined flat class="pa-4 mt-5">
-            <div style="height: 600px; overflow-y: auto" class="pa-3">
-              <v-simple-table dense>
-                <template v-slot:default>
-                  <thead>
-                    <tr>
-                      <th class="text-left">{{ $t('抽出要素') }}</th>
-                      <th class="text-left">{{ $t('入力欄') }}</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>{{ $t('Nomenclature') }}</td>
-                      <td>
-                        <v-row>
-                          <v-col cols="12" sm="8"
-                            ><v-text-field
+          <v-tabs-items v-model="tab">
+            <v-tab-item v-for="(item, key) in formData" :key="key">
+              <v-card outlined flat class="pa-4 mt-5">
+                <div style="height: 600px; overflow-y: auto" class="pa-3">
+                  <v-simple-table dense>
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th class="text-left">{{ $t('抽出要素') }}</th>
+                          <th class="text-left">{{ $t('入力欄') }}</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>{{ $t('Nomenclature') }}</td>
+                          <td>
+                            <v-row>
+                              <v-col cols="12" sm="8"
+                                ><v-text-field
+                                  dense
+                                  class="mt-5"
+                                  placeholder="Ex. あいう"
+                                  clearable
+                                ></v-text-field
+                              ></v-col>
+                              <v-col cols="12" sm="4"
+                                ><v-checkbox
+                                  dense
+                                  class="mt-5"
+                                  :label="$t('スモールキャピタル')"
+                                ></v-checkbox
+                              ></v-col>
+                            </v-row>
+                          </td>
+                        </tr>
+                        <tr v-for="(obj, key2) in fields" :key="key2">
+                          <td>{{ $t(obj.label) }}</td>
+                          <td>
+                            <v-text-field
+                              v-model="item[obj.label]"
                               dense
                               class="mt-5"
-                              placeholder="Ex. あいう"
+                              :placeholder="obj.placeholder"
                               clearable
-                            ></v-text-field
-                          ></v-col>
-                          <v-col cols="12" sm="4"
-                            ><v-checkbox
+                            ></v-text-field>
+                          </td>
+                        </tr>
+                      </tbody>
+                      <thead>
+                        <tr>
+                          <th class="text-left pt-10 pb-3">
+                            {{ $t('書誌情報') }}
+                          </th>
+                          <th class="text-left pt-10 pb-3">
+                            {{ $t('入力欄') }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr v-for="(obj, key2) in metadata" :key="key2">
+                          <td>{{ $t(obj.label) }}</td>
+                          <td>
+                            <v-text-field
+                              v-model="item[obj.label]"
                               dense
                               class="mt-5"
-                              :label="$t('スモールキャピタル')"
-                            ></v-checkbox
-                          ></v-col>
-                        </v-row>
-                      </td>
-                    </tr>
-                    <tr v-for="(obj, key) in fields" :key="key">
-                      <td>{{ $t(obj.label) }}</td>
-                      <td>
-                        <v-text-field
-                          dense
-                          class="mt-5"
-                          :placeholder="obj.placeholder"
-                          clearable
-                        ></v-text-field>
-                      </td>
-                    </tr>
-                  </tbody>
-                  <thead>
-                    <tr>
-                      <th class="text-left pt-10 pb-3">{{ $t('書誌情報') }}</th>
-                      <th class="text-left pt-10 pb-3">{{ $t('入力欄') }}</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr v-for="(obj, key) in metadata" :key="key">
-                      <td>{{ $t(obj.label) }}</td>
-                      <td>
-                        <v-text-field
-                          dense
-                          class="mt-5"
-                          :placeholder="obj.placeholder"
-                          clearable
-                        ></v-text-field>
-                      </td>
-                    </tr>
-                  </tbody>
-                </template>
-              </v-simple-table>
-            </div>
-            <div class="mt-5 text-center">
-              {{ $t('作業者名') }}: {{ userName }}
-              <v-btn class="ml-5" color="primary" @click="submit">{{
-                $t('送信')
-              }}</v-btn>
-            </div>
-          </v-card>
+                              :placeholder="obj.placeholder"
+                              clearable
+                            ></v-text-field>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </div>
+                <div class="mt-5 text-center">
+                  {{ $t('作業者名') }}: {{ userName }}
+                  <v-btn
+                    class="ml-5"
+                    color="primary"
+                    :loading="loading"
+                    :disabled="loading"
+                    @click="submit"
+                    >{{ $t('送信') }}</v-btn
+                  >
+                </div>
+              </v-card>
+            </v-tab-item>
+          </v-tabs-items>
         </v-col>
       </v-row>
     </v-container>
+
+    <v-dialog v-model="dialog" persistent max-width="290">
+      <v-card>
+        <v-card-title>
+          {{ $t('登録しました。') }}
+        </v-card-title>
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn color="primary" text @click="dialog = false">
+            {{ $t('close') }}
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
   </div>
 </template>
 
@@ -212,8 +242,12 @@ export default {
           value: '',
         },
       ],
-      tabN: 1,
       userUids: [],
+      authority: {},
+      authorities: [],
+      tab: 0,
+      dialog: true,
+      loading: false,
     }
   },
   computed: {
@@ -236,22 +270,47 @@ export default {
         ? es[0] + '巻, p.' + es[1]
         : 'Vol.' + es[0] + ', p.' + es[1]
     },
+    formData() {
+      const formData = [this.authority]
+      const authorities = this.authorities
+      const fields = this.fields
+      for (let i = 0; i < authorities.length; i++) {
+        const authority = authorities[i]
+        const data = {}
+        for (let j = 0; j < fields.length; j++) {
+          const obj = fields[j]
+          data[obj.label] = authority[obj.label] || ''
+        }
+        formData.push(data)
+      }
+      return formData
+    },
+    getHtml() {
+      let html = this.source.texthtml_re
+      const authorities = this.authorities
+      for (let i = 0; i < authorities.length; i++) {
+        const authority = authorities[i]
+        const title = authority['Titre mentionne'] || ''
+        if (title !== '') {
+          html = html.replace(title, `<span type="titre">${title}</span>`)
+        }
+      }
+      return html
+    },
   },
   created() {
     firebase
       .firestore()
       .collection('items')
       .doc(this.id)
+      .collection('authorities')
       .onSnapshot(
         (res) => {
-          let userUids = []
-
-          if (res.exists && res.data().likedUsers) {
-            userUids = res.data().likedUsers
-          }
-
-          this.userUids = userUids
-          console.log({ userUids })
+          const authorities = []
+          res.forEach(function (doc) {
+            authorities.push(doc.data())
+          })
+          this.authorities = authorities
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)
@@ -259,7 +318,17 @@ export default {
       )
   },
   methods: {
+    initAuthority() {
+      const fields = this.fields
+      const data = {}
+      for (let j = 0; j < fields.length; j++) {
+        const obj = fields[j]
+        data[obj.label] = ''
+      }
+      this.authority = data
+    },
     async submit() {
+      this.loading = true
       const addFlag = true
 
       // ----------
@@ -306,6 +375,16 @@ export default {
           ),
         })
 
+        const item = this.formData[this.tab]
+        item.createTime = FieldValue.serverTimestamp()
+        item.updateTime = FieldValue.serverTimestamp()
+        item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
+
+        batch.set(
+          firestore.doc(itemRef.path).collection('authorities').doc(),
+          item
+        )
+
         batch.set(
           firestore
             .doc(anotherUserRef.path)
@@ -323,6 +402,12 @@ export default {
       }
 
       await batch.commit()
+
+      this.dialog = true
+
+      this.initAuthority()
+
+      this.loading = false
 
       /*
       const batch = firestore.batch()
@@ -417,6 +502,10 @@ span[type='proposed'] {
   color: #f44336;
 }
 span[type='auteur_p'] {
+  font-weight: bold;
+}
+span[type='titre'] {
+  color: #2196f3;
   font-weight: bold;
 }
 i > span[type='proposed'] {
