@@ -12,24 +12,22 @@ export class Utils {
     }
   }
 
-  getProjectFooter(lang: string) {
-    const value =
-      lang === 'ja' ? process.env.projectFooterJa : process.env.projectFooterEn
-    return value
-  }
+  timestampToTime(timestamp: any): any {
+    try {
+      const date = timestamp.toDate()
+      const yyyy = `${date.getFullYear()}`
+      // .slice(-2)で文字列中の末尾の2文字を取得する
+      // `0${date.getHoge()}`.slice(-2) と書くことで０埋めをする
+      const MM = `0${date.getMonth() + 1}`.slice(-2) // getMonth()の返り値は0が基点
+      const dd = `0${date.getDate()}`.slice(-2)
+      const HH = `0${date.getHours()}`.slice(-2)
+      const mm = `0${date.getMinutes()}`.slice(-2)
+      const ss = `0${date.getSeconds()}`.slice(-2)
 
-  getProjectName(lang: string) {
-    const value =
-      lang === 'ja' ? process.env.projectNameJa : process.env.projectNameEn
-    return value
-  }
-
-  getProjectDescription(lang: string) {
-    const value =
-      lang === 'ja'
-        ? process.env.projectDescriptionJa
-        : process.env.projectDescriptionEn
-    return value
+      return `${yyyy}/${MM}/${dd} ${HH}:${mm}:${ss}`
+    } catch (e) {
+      return ''
+    }
   }
 
   truncate(str: any, length: number): string {

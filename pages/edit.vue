@@ -1,9 +1,9 @@
 <template>
   <div>
-    <v-container class="my-5">
+    <v-container fluid class="my-5">
       <v-row>
         <v-col cols="12" sm="6">
-          <v-sheet class="pa-3" dark color="primary">
+          <v-sheet class="pa-3 text-center" dark color="primary">
             <small>
               {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
                 source.authors.join(', ')
@@ -16,6 +16,7 @@
 
           <v-card outlined flat class="pa-4 mt-5">
             <div
+              id="html"
               style="height: 600px; overflow-y: auto"
               class="pa-3"
               v-html="getHtml"
@@ -44,6 +45,39 @@
             <v-tab-item v-for="(item, key) in formData" :key="key">
               <v-card outlined flat class="pa-4 mt-5">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
+                  <v-sheet
+                    v-if="tab != 0 && authorities[tab - 1]"
+                    class="pa-3 mb-5"
+                    color="grey lighten-3"
+                  >
+                    <small>
+                      <span class="mr-4">
+                        <b>ID</b>:
+                        {{ authorities[tab - 1].geel_id }}
+                      </span>
+                      <span class="mr-4">
+                        <b>作業者</b>:
+                        {{ authorities[tab - 1].editors.join(', ') }}
+                      </span>
+                      <span class="mr-4">
+                        <b>作成日</b>:
+                        {{
+                          $utils.timestampToTime(
+                            authorities[tab - 1].createTime
+                          )
+                        }}
+                      </span>
+                      <span>
+                        <b>更新日</b>:
+                        {{
+                          $utils.timestampToTime(
+                            authorities[tab - 1].updateTime
+                          )
+                        }}
+                      </span>
+                    </small>
+                  </v-sheet>
+
                   <v-simple-table dense>
                     <template v-slot:default>
                       <thead>
@@ -76,13 +110,15 @@
                           </td>
                         </tr>
                         <tr v-for="(obj, key2) in fields" :key="key2">
-                          <td>{{ $t(obj.label) }}</td>
+                          <td>{{ obj.label }}</td>
                           <td>
                             <v-text-field
                               v-model="item[obj.label]"
                               dense
                               class="mt-5"
-                              :placeholder="obj.placeholder"
+                              :placeholder="
+                                obj.placeholder || $t('値を入力してください。')
+                              "
                               clearable
                             ></v-text-field>
                           </td>
@@ -91,7 +127,7 @@
                       <thead>
                         <tr>
                           <th class="text-left pt-10 pb-3">
-                            {{ $t('書誌情報') }}
+                            {{ $t('書誌情報（正規化用）') }}
                           </th>
                           <th class="text-left pt-10 pb-3">
                             {{ $t('入力欄') }}
@@ -100,13 +136,15 @@
                       </thead>
                       <tbody>
                         <tr v-for="(obj, key2) in metadata" :key="key2">
-                          <td>{{ $t(obj.label) }}</td>
+                          <td>{{ obj.label }}</td>
                           <td>
                             <v-text-field
                               v-model="item[obj.label]"
                               dense
                               class="mt-5"
-                              :placeholder="obj.placeholder"
+                              :placeholder="
+                                obj.placeholder || $t('値を入力してください。')
+                              "
                               clearable
                             ></v-text-field>
                           </td>
@@ -123,17 +161,41 @@
                     :loading="loading"
                     :disabled="loading"
                     @click="submit"
-                    >{{ $t('送信') }}</v-btn
+                    >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
+                  >
+                  <v-btn
+                    v-if="tab !== 0"
+                    class="ml-2"
+                    color="error"
+                    :loading="loading"
+                    :disabled="loading"
+                    @click="modal = true"
+                    >{{ $t('削除') }}</v-btn
                   >
                 </div>
               </v-card>
             </v-tab-item>
           </v-tabs-items>
+          <div class="text-right mt-5">
+            <v-btn color="cyan" dark :to="localePath({ name: 'table', query: { id } })"
+              >一覧</v-btn
+            >
+          </div>
         </v-col>
       </v-row>
     </v-container>
 
-    <v-dialog v-model="dialog" persistent max-width="290">
+    <v-snackbar v-model="dialog" top :timeout="2000">
+      {{ $t('登録しました。') }}
+
+      <template v-slot:action="{ attrs }">
+        <v-btn color="blue" text v-bind="attrs" @click="dialog = false">
+          Close
+        </v-btn>
+      </template>
+    </v-snackbar>
+
+    <v-dialog v-if="false" v-model="dialog" persistent max-width="290">
       <v-card>
         <v-card-title>
           {{ $t('登録しました。') }}
@@ -146,11 +208,39 @@
         </v-card-actions>
       </v-card>
     </v-dialog>
+
+    <v-dialog
+      v-model="modal"
+      persistent
+      max-width="290"
+    >
+      <v-card>
+        <v-card-title class="headline">
+          本当に削除してよいですか?
+        </v-card-title>
+        
+        <v-card-actions>
+          <v-spacer></v-spacer>
+          <v-btn
+            @click="modal = false"
+          >
+            {{$t("キャンセル")}}
+          </v-btn>
+          <v-btn
+            color="error"
+            @click="del"
+          >
+            {{$t("実行")}}
+          </v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-dialog>
   </div>
 </template>
 
 <script>
 import axios from 'axios'
+import VueScrollTo from 'vue-scrollto'
 import firebase from '@/plugins/firebase'
 
 const FieldValue = firebase.firestore.FieldValue
@@ -196,7 +286,7 @@ export default {
           value: '',
         },
         {
-          label: 'Designant',
+          label: 'Désignant',
           value: '',
         },
         {
@@ -208,17 +298,17 @@ export default {
           value: '',
         },
         {
-          label: 'Auteur mentionne',
+          label: 'Auteur mentionné',
           value: '',
         },
         {
-          label: 'Titre mentionne',
+          label: 'Titre mentionné',
           value: '',
         },
       ],
       metadata: [
         {
-          label: 'nb de ref',
+          label: 'nb de réf',
           value: '',
         },
         {
@@ -230,7 +320,7 @@ export default {
           value: '',
         },
         {
-          label: 'annee de la pub.',
+          label: 'année de la pub.',
           value: '',
         },
         {
@@ -246,8 +336,9 @@ export default {
       authority: {},
       authorities: [],
       tab: 0,
-      dialog: true,
+      dialog: false,
       loading: false,
+      modal: false
     }
   },
   computed: {
@@ -264,11 +355,10 @@ export default {
       return this.$store.getters.getUserUid
     },
     getVolAndPage() {
-      const pages = this.source.pages
-      const es = pages.split('-')
+      const source = this.source
       return this.lang === 'ja'
-        ? es[0] + '巻, p.' + es[1]
-        : 'Vol.' + es[0] + ', p.' + es[1]
+        ? source.tome + '巻, p.' + source.pages
+        : 'Vol.' + source.tome + ', p.' + source.pages
     },
     formData() {
       const formData = [this.authority]
@@ -290,12 +380,33 @@ export default {
       const authorities = this.authorities
       for (let i = 0; i < authorities.length; i++) {
         const authority = authorities[i]
-        const title = authority['Titre mentionne'] || ''
+        const title = authority['Titre mentionné'] || ''
         if (title !== '') {
-          html = html.replace(title, `<span type="titre">${title}</span>`)
+          html = html.replace(
+            title,
+            `<span type="titre" id="e${this.id}-${i + 1}">${title}</span>`
+          )
+        }
+
+        const author = authority['Auteur mentionné'] || ''
+        if (author !== '') {
+          html = html.replace(
+            author,
+            `<span type="author">${author}</span>`
+          )
         }
       }
       return html
+    },
+  },
+  watch: {
+    tab() {
+      const id = this.id + '-' + this.tab
+      const options = {
+        container: '#html',
+        y: true,
+      }
+      VueScrollTo.scrollTo('#e' + id, 500, options)
     },
   },
   created() {
@@ -308,7 +419,9 @@ export default {
         (res) => {
           const authorities = []
           res.forEach(function (doc) {
-            authorities.push(doc.data())
+            const authority = doc.data()
+            authority.geel_id = doc.id
+            authorities.push(authority)
           })
           this.authorities = authorities
         },
@@ -329,18 +442,17 @@ export default {
     },
     async submit() {
       this.loading = true
-      const addFlag = true
 
       // ----------
 
       // itemRef
-      const item = await firebase
+      const fItem = await firebase
         .firestore()
         .collection('items')
         .doc(this.id)
         .get()
-      const itemRef = item.ref
-      if (!item.exists) {
+      const itemRef = fItem.ref
+      if (!fItem.exists) {
         await itemRef.set({
           id: this.id,
           createTime: FieldValue.serverTimestamp(),
@@ -366,40 +478,58 @@ export default {
         })
       }
 
-      if (addFlag) {
-        batch.update(firestore.doc(itemRef.path), {
-          // id: anotherUserRef.id,
-          updateTime: FieldValue.serverTimestamp(),
-          likedUsers: firebase.firestore.FieldValue.arrayUnion(
-            anotherUserRef.id
-          ),
-        })
+      batch.update(firestore.doc(itemRef.path), {
+        // id: anotherUserRef.id,
+        updateTime: FieldValue.serverTimestamp(),
+        likedUsers: firebase.firestore.FieldValue.arrayUnion(anotherUserRef.id),
+      })
 
-        const item = this.formData[this.tab]
+      const tab = this.tab
+
+      const item = this.formData[tab]
+      let index = -1
+      if (tab === 0) {
         item.createTime = FieldValue.serverTimestamp()
-        item.updateTime = FieldValue.serverTimestamp()
         item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
-
-        batch.set(
-          firestore.doc(itemRef.path).collection('authorities').doc(),
-          item
-        )
-
-        batch.set(
-          firestore
-            .doc(anotherUserRef.path)
-            .collection('likedItems')
-            .doc(itemRef.id),
-          {
-            id: itemRef.id,
-            itemRef,
-            createTime: FieldValue.serverTimestamp(),
-          }
-        )
-
-        // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
-        batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
+        index = this.authorities.length + 1
+      } else {
+        const authority = this.authorities[tab - 1]
+        item.createTime = authority.createTime
+        const editors = authority.editors
+        const newEditors = []
+        for (const i in editors) {
+          newEditors.push(editors[i])
+        }
+        if (!newEditors.includes(this.userName)) {
+          newEditors.push(this.userName)
+        }
+        item.editors = newEditors
+        index = tab
       }
+
+      item.updateTime = FieldValue.serverTimestamp()
+      // item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
+
+      const id = this.id + '-' + index
+      batch.set(
+        firestore.doc(itemRef.path).collection('authorities').doc(id),
+        item
+      )
+
+      batch.set(
+        firestore
+          .doc(anotherUserRef.path)
+          .collection('likedItems')
+          .doc(itemRef.id),
+        {
+          id: itemRef.id,
+          itemRef,
+          createTime: FieldValue.serverTimestamp(),
+        }
+      )
+
+      // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
+      batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
 
       await batch.commit()
 
@@ -408,8 +538,22 @@ export default {
       this.initAuthority()
 
       this.loading = false
+    },
+    async del() {
 
-      /*
+      this.modal = false
+      this.loading = true
+
+      // ----------
+
+      // itemRef
+      const item = await firebase
+        .firestore()
+        .collection('items')
+        .doc(this.id)
+        .get()
+      const itemRef = item.ref
+
       const batch = firestore.batch()
 
       // anotherRef
@@ -420,65 +564,32 @@ export default {
         .get()
 
       const anotherUserRef = anotherUser.ref
-      if (!anotherUser.exists) {
-        await anotherUserRef.set({
-          id: this.userUid,
-          createTime: FieldValue.serverTimestamp(),
-          updateTime: FieldValue.serverTimestamp(),
-        })
-      }
 
-      if (addFlag) {
-        batch.update(firestore.doc(itemRef.path), {
-          // id: anotherUserRef.id,
-          updateTime: FieldValue.serverTimestamp(),
-          likedUsers: firebase.firestore.FieldValue.arrayUnion(
-            anotherUserRef.id
-          ),
-        })
+      batch.update(firestore.doc(itemRef.path), {
+        // id: anotherUserRef.id,
+        updateTime: FieldValue.serverTimestamp(),
+        likedUsers: firebase.firestore.FieldValue.arrayRemove(
+          anotherUserRef.id
+        ),
+      })
 
-        batch.set(
-          firestore
-            .doc(anotherUserRef.path)
-            .collection('likedItems')
-            .doc(itemRef.id),
-          {
-            id: itemRef.id,
-            itemRef,
-            createTime: FieldValue.serverTimestamp(),
-            title: this.source._label[0],
-            thumbnail: this.source._thumbnail[0],
-          }
-        )
+      const id = this.authorities[this.tab - 1].geel_id
+      batch.delete(
+        firestore.doc(itemRef.path).collection('authorities').doc(id)
+      )
 
-        // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
-        batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
-      } else {
-        batch.update(firestore.doc(itemRef.path), {
-          // id: anotherUserRef.id,
-          updateTime: FieldValue.serverTimestamp(),
-          likedUsers: firebase.firestore.FieldValue.arrayRemove(
-            anotherUserRef.id
-          ),
-        })
-
-        batch.delete(
-          firestore
-            .doc(anotherUserRef.path)
-            .collection('likedItems')
-            .doc(itemRef.id)
-        )
-
-        // batch.update(itemRef, { likeCount: FieldValue.increment(-1) })
-        batch.update(anotherUserRef, {
-          likeItemCount: FieldValue.increment(-1),
-        })
-      }
-
-      
+      // batch.update(itemRef, { likeCount: FieldValue.increment(-1) })
+      batch.update(anotherUserRef, {
+        likeItemCount: FieldValue.increment(-1),
+      })
 
       await batch.commit()
-      */
+
+      this.dialog = true
+
+      this.initAuthority()
+
+      this.loading = false
     },
   },
   head() {
@@ -495,8 +606,13 @@ tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
 td {
+  /*
   border-left: 0.5px solid grey;
+  border-right: 0.5px solid grey;
   border-top: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
+  */
+  border: 0.1px solid lightgrey;
 }
 span[type='proposed'] {
   color: #f44336;
@@ -505,8 +621,11 @@ span[type='auteur_p'] {
   font-weight: bold;
 }
 span[type='titre'] {
-  color: #2196f3;
+  color: #9c27b0;
   font-weight: bold;
+}
+span[type='author'] {
+  color: #03A9F4;
 }
 i > span[type='proposed'] {
   font-weight: bold;
@@ -514,5 +633,8 @@ i > span[type='proposed'] {
 }
 i {
   font-weight: bold;
+}
+.prp-pages-output a {
+  color: #ff9800 !important;
 }
 </style>

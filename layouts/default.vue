@@ -12,6 +12,18 @@
             </v-list-item-content>
           </v-list-item>
 
+          <v-list-item
+            link
+            :to="localePath({ name: 'toc-vol', params: { vol: 2 } })"
+          >
+            <v-list-item-action>
+              <v-icon>mdi-view-list</v-icon>
+            </v-list-item-action>
+            <v-list-item-content>
+              <v-list-item-title>{{ $t('目次ページ') }}</v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+
           <v-list-item link :to="localePath({ name: 'edit' })">
             <v-list-item-action>
               <v-icon>mdi-square-edit-outline</v-icon>
@@ -239,3 +251,17 @@ export default class search extends Vue {
   }
 }
 </script>
+<style>
+tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+td {
+  /*
+  border-left: 0.5px solid grey;
+  border-right: 0.5px solid grey;
+  border-top: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
+  */
+  border: 0.1px solid lightgrey;
+}
+</style>
