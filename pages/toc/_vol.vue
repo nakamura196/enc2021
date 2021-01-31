@@ -14,7 +14,7 @@
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
                   <v-row>
                     <v-col
-                      v-for="(value, index) in status[vol].undone"
+                      v-for="(value, index) in status.undone"
                       :key="index"
                       cols="12"
                       sm="6"
@@ -32,7 +32,7 @@
               <v-card outlined flat class="pa-4 mt-2">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
                   <ul>
-                    <li v-for="(value, index) in status[vol].done" :key="index">
+                    <li v-for="(value, index) in status.done" :key="index">
                       <span
                         :style="
                           value.status === 'double' ? 'color: #F44336' : ''
@@ -47,46 +47,46 @@
             </v-col>
           </v-row>
         </v-col>
-        <v-col v-if="isSignedIn" cols="12" sm="6">
+        <v-col cols="12" sm="6">
           <v-card outlined flat class="pa-4">
             <h4>【進捗管理欄】</h4>
             <p class="mt-5">
               現在、<br />
-              {{ status[vol].done.length }}
+              {{ status.done.length }}
               /
               {{ total }}
               項目の作業が完了しています（
-              {{ (status[vol].done.length / total) * 100 }} %）<br />
+              {{ frm((status.done.length / total) * 100) }} %）<br />
               {{ sizeDouble }} /
               {{ total }} 項目のダブルチェックが完了しています（
-              {{ (sizeDouble / total) * 100 }} %）
+              {{ frm((sizeDouble / total) * 100) }} %）
             </p>
           </v-card>
 
-          <v-card outlined flat class="pa-4 mt-5">
-            <h4>【作業に関わる連絡事項】</h4>
-            <div style="height: 300px; overflow-y: auto" class="pa-3 mt-5">
-              <div v-for="n in 5" :key="n">
-                コメント {{ n }}
-                <hr class="my-2" />
+          <template v-if="isSignedIn">
+            <v-card outlined flat class="pa-4 mt-5">
+              <h4>【作業に関わる連絡事項】</h4>
+              <div style="height: 300px; overflow-y: auto" class="pa-3 mt-5">
+                <div v-for="n in 5" :key="n">
+                  コメント {{ n }}
+                  <hr class="my-2" />
+                </div>
               </div>
+            </v-card>
+
+            <v-textarea
+              filled
+              auto-grow
+              rows="1"
+              class="mt-5"
+              value=""
+              placeholder="値を入力してください。"
+            ></v-textarea>
+
+            <div class="text-right">
+              <v-btn>{{ $t('送信') }}</v-btn>
             </div>
-          </v-card>
-
-          <v-textarea
-            filled
-            auto-grow
-            rows="1"
-            class="mt-5"
-            value=""
-            placeholder="値を入力してください。"
-          ></v-textarea>
-
-          <div class="text-right">
-            <v-btn>{{
-              $t('送信')
-            }}</v-btn>
-          </div>
+          </template>
         </v-col>
       </v-row>
     </v-container>
@@ -96,32 +96,22 @@
 <script>
 import firebase from '@/plugins/firebase'
 
-const FieldValue = firebase.firestore.FieldValue
-const firestore = firebase.firestore()
-
 export default {
   asyncData({ payload, app }) {
     if (payload) {
       return payload
     } else {
       const vol = Number(app.context.route.params.vol) || 2
+      const data = process.env.toc[String(vol)]
 
-      return { vol }
+      return { vol, data }
     }
   },
   data() {
     return {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
-      status: {
-        2: {
-          undone: ['BLAFERT PLAPPERT', 'BLANINVILLE'],
-          done: [
-            { label: 'BORT', status: 'double' },
-            { label: 'BORTWICK', status: 'single' },
-          ],
-        },
-      },
+      authorities: [],
     }
   },
   computed: {
@@ -138,7 +128,7 @@ export default {
       return this.$store.getters.getUserUid
     },
     total() {
-      const status = this.status[this.vol]
+      const status = this.status
       let total = 0
       for (const key in status) {
         total += status[key].length
@@ -147,7 +137,7 @@ export default {
     },
 
     sizeDouble() {
-      const status = this.status[this.vol].done
+      const status = this.status.done
       let total = 0
       for (let i = 0; i < status.length; i++) {
         if (status[i].status === 'double') {
@@ -155,6 +145,25 @@ export default {
         }
       }
       return total
+    },
+
+    status() {
+      const data = this.data
+      console.log(this.authorities)
+
+      const undone = []
+      for (let i = 0; i < data.length; i++) {
+        const obj = data[i]
+        undone.push(`${obj.label} (${this.vol}-${i + 1})`)
+      }
+
+      return {
+        undone,
+        done: [
+          { label: 'BORT', status: 'double' },
+          { label: 'BORTWICK', status: 'single' },
+        ],
+      }
     },
   },
   created() {
@@ -172,13 +181,20 @@ export default {
             authorities.push(authority)
           })
           this.authorities = authorities
+          console.log(authorities)
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)
         }
       )
+
+    console.log(this.data)
   },
-  methods: {},
+  methods: {
+    frm(value, n = 2) {
+      return Math.floor(value * Math.pow(10, n)) / Math.pow(10, n)
+    },
+  },
   head() {
     const title = this.title
     return {

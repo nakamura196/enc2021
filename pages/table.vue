@@ -11,6 +11,15 @@
 
       <div class="mt-5 text-right">
         <v-btn :to="localePath({ name: 'edit', query: { id } })">編集</v-btn>
+        <v-btn
+          color="primary"
+          class="ml-2"
+          :href="
+            baseUrl + localePath({ name: 'table', query: { id: source.next } })
+          "
+          ><v-icon>mdi-arrow-right-bold</v-icon>
+          {{ $t('次の大項目に進む') }}</v-btn
+        >
       </div>
 
       <v-card class="pa-4 mt-5" flat>

@@ -1,46 +1,10 @@
+import fs from 'fs'
 import colors from 'vuetify/es5/util/colors'
 
 const environment = process.env.NODE_ENV
 const env = require(`./env/${environment}.ts`)
 
-env.facetOptions = {
-  type: {
-    label: 'タイプ',
-    open: false,
-  },
-  agentials: {
-    label: '人物',
-    open: false,
-  },
-  keywords: {
-    label: 'タグ',
-    open: false,
-  },
-  places: {
-    label: '場所',
-    open: false,
-  },
-  times: {
-    label: '時間',
-    open: false,
-  },
-  orgs: {
-    label: '組織',
-    open: false,
-  },
-  events: {
-    label: '出来事',
-    open: false,
-  },
-  mtags: {
-    label: '機械タグ',
-    open: false,
-  },
-  label: {
-    label: '帖数',
-    open: false,
-  },
-}
+env.toc = JSON.parse(fs.readFileSync('static/data/toc.json'))
 
 console.log({ env })
 

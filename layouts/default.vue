@@ -113,7 +113,7 @@
 
     <v-footer :dark="true" class="mt-5">
       <v-container>
-        <p class="text-center my-5">hogehoge</p>
+        <p class="text-center my-5">GEEL</p>
       </v-container>
     </v-footer>
 

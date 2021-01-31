@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="mb-5 grey">
-      <v-img height="300px" contain>
+      <v-img height="300px" contain :src="`${baseUrl}/img/ogp/home.jpg`">
         <v-row align="center" class="white--text pa-2 fill-height text-center">
           <v-col>
             <h1 class="display-1">

@@ -81,20 +81,6 @@ export default class grid extends Vue {
     })
 
     headers.push({
-      text: 'Nomenclature',
-      value: 'Nomenclature',
-    })
-
-    const fields = this.fields.concat(this.metadata)
-    for (let i = 0; i < fields.length; i++) {
-      const field = fields[i]
-      headers.push({
-        text: field.label,
-        value: field.label,
-      })
-    }
-
-    headers.push({
       text: 'editors',
       value: 'editors',
     })
@@ -109,6 +95,25 @@ export default class grid extends Vue {
       value: 'updateTime',
     })
 
+    headers.push({
+      text: 'doubleChecked',
+      value: 'doubleChecked',
+    })
+
+    headers.push({
+      text: 'Nomenclature',
+      value: 'Nomenclature',
+    })
+
+    const fields = this.fields.concat(this.metadata)
+    for (let i = 0; i < fields.length; i++) {
+      const field = fields[i]
+      headers.push({
+        text: field.label,
+        value: field.label,
+      })
+    }
+
     return headers
   }
 
@@ -118,6 +123,8 @@ export default class grid extends Vue {
     for (let i = 0; i < authorities.length; i++) {
       const authority = authorities[i]
       const item: any = {}
+
+      console.log(authority)
 
       const fields = this.headers
       for (let j = 0; j < fields.length; j++) {

@@ -67,13 +67,18 @@
                           )
                         }}
                       </span>
-                      <span>
+                      <span class="mr-4">
                         <b>更新日</b>:
                         {{
                           $utils.timestampToTime(
                             authorities[tab - 1].updateTime
                           )
                         }}
+                      </span>
+                      <span class="mr-4">
+                        <b>{{ $t('ダブルチェック') }}</b
+                        >:
+                        {{ authorities[tab - 1].doubleChecked ? 'Y' : 'N' }}
                       </span>
                     </small>
                   </v-sheet>
@@ -160,24 +165,38 @@
                     color="primary"
                     :loading="loading"
                     :disabled="loading"
-                    @click="submit"
+                    @click="submit()"
                     >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
                   >
-                  <v-btn
-                    v-if="tab !== 0"
-                    class="ml-2"
-                    color="error"
-                    :loading="loading"
-                    :disabled="loading"
-                    @click="modal = true"
-                    >{{ $t('削除') }}</v-btn
-                  >
+
+                  <template v-if="tab !== 0">
+                    <v-btn
+                      v-if="!authorities[tab - 1].doubleChecked"
+                      class="ml-2"
+                      color="primary"
+                      :loading="loading"
+                      :disabled="loading"
+                      @click="submit(true)"
+                      >{{ $t('ダブルチェック') }}</v-btn
+                    >
+                    <v-btn
+                      class="ml-2"
+                      color="error"
+                      :loading="loading"
+                      :disabled="loading"
+                      @click="modal = true"
+                      >{{ $t('削除') }}</v-btn
+                    >
+                  </template>
                 </div>
               </v-card>
             </v-tab-item>
           </v-tabs-items>
           <div class="text-right mt-5">
-            <v-btn color="cyan" dark :to="localePath({ name: 'table', query: { id } })"
+            <v-btn
+              color="cyan"
+              dark
+              :to="localePath({ name: 'table', query: { id } })"
               >一覧</v-btn
             >
           </div>
@@ -209,28 +228,19 @@
       </v-card>
     </v-dialog>
 
-    <v-dialog
-      v-model="modal"
-      persistent
-      max-width="290"
-    >
+    <v-dialog v-model="modal" persistent max-width="290">
       <v-card>
         <v-card-title class="headline">
           本当に削除してよいですか?
         </v-card-title>
-        
+
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn
-            @click="modal = false"
-          >
-            {{$t("キャンセル")}}
+          <v-btn @click="modal = false">
+            {{ $t('キャンセル') }}
           </v-btn>
-          <v-btn
-            color="error"
-            @click="del"
-          >
-            {{$t("実行")}}
+          <v-btn color="error" @click="del">
+            {{ $t('実行') }}
           </v-btn>
         </v-card-actions>
       </v-card>
@@ -338,7 +348,7 @@ export default {
       tab: 0,
       dialog: false,
       loading: false,
-      modal: false
+      modal: false,
     }
   },
   computed: {
@@ -390,10 +400,7 @@ export default {
 
         const author = authority['Auteur mentionné'] || ''
         if (author !== '') {
-          html = html.replace(
-            author,
-            `<span type="author">${author}</span>`
-          )
+          html = html.replace(author, `<span type="author">${author}</span>`)
         }
       }
       return html
@@ -440,7 +447,7 @@ export default {
       }
       this.authority = data
     },
-    async submit() {
+    async submit(doubleCheckFlag = false) {
       this.loading = true
 
       // ----------
@@ -510,6 +517,8 @@ export default {
       item.updateTime = FieldValue.serverTimestamp()
       // item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
 
+      item.doubleChecked = doubleCheckFlag ? 1 : 0
+
       const id = this.id + '-' + index
       batch.set(
         firestore.doc(itemRef.path).collection('authorities').doc(id),
@@ -540,7 +549,6 @@ export default {
       this.loading = false
     },
     async del() {
-
       this.modal = false
       this.loading = true
 
@@ -619,14 +627,18 @@ span[type='proposed'] {
 }
 span[type='auteur_p'] {
   font-weight: bold;
+  color: #03a9f4;
 }
 span[type='titre'] {
   color: #9c27b0;
   font-weight: bold;
 }
+
+/*
 span[type='author'] {
-  color: #03A9F4;
+  color: #03a9f4;
 }
+*/
 i > span[type='proposed'] {
   font-weight: bold;
   color: #f44336;
