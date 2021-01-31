@@ -46,39 +46,35 @@
               <v-card outlined flat class="pa-4 mt-5">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
                   <v-sheet
-                    v-if="tab != 0 && authorities[tab - 1]"
+                    v-if="tab != 0 && currentAuthority"
                     class="pa-3 mb-5"
                     color="grey lighten-3"
                   >
                     <small>
                       <span class="mr-4">
                         <b>ID</b>:
-                        {{ authorities[tab - 1].geel_id }}
+                        {{ currentAuthority.geel_id }}
                       </span>
                       <span class="mr-4">
                         <b>作業者</b>:
-                        {{ authorities[tab - 1].editors.join(', ') }}
+                        {{ currentAuthority.editors.join(', ') }}
                       </span>
                       <span class="mr-4">
                         <b>作成日</b>:
                         {{
-                          $utils.timestampToTime(
-                            authorities[tab - 1].createTime
-                          )
+                          $utils.timestampToTime(currentAuthority.createTime)
                         }}
                       </span>
                       <span class="mr-4">
                         <b>更新日</b>:
                         {{
-                          $utils.timestampToTime(
-                            authorities[tab - 1].updateTime
-                          )
+                          $utils.timestampToTime(currentAuthority.updateTime)
                         }}
                       </span>
                       <span class="mr-4">
                         <b>{{ $t('ダブルチェック') }}</b
                         >:
-                        {{ authorities[tab - 1].doubleChecked ? 'Y' : 'N' }}
+                        {{ currentAuthority.doubleChecked ? 'Y' : 'N' }}
                       </span>
                     </small>
                   </v-sheet>
@@ -159,9 +155,14 @@
                   </v-simple-table>
                 </div>
                 <div class="mt-5 text-center">
+                  <!--
                   {{ $t('作業者名') }}: {{ userName }}
+                   ml-5
+                    ml-2
+                     ml-2
+                  -->
                   <v-btn
-                    class="ml-5"
+                    class="ma-1"
                     color="primary"
                     :loading="loading"
                     :disabled="loading"
@@ -169,37 +170,36 @@
                     >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
                   >
 
-                  <template v-if="tab !== 0">
+                  <template v-if="tab !== 0 && currentAuthority">
                     <v-btn
-                      v-if="!authorities[tab - 1].doubleChecked"
-                      class="ml-2"
-                      color="primary"
+                      v-if="!currentAuthority.doubleChecked"
+                      class="ma-1"
+                      color="success"
                       :loading="loading"
                       :disabled="loading"
                       @click="submit(true)"
                       >{{ $t('ダブルチェック') }}</v-btn
                     >
                     <v-btn
-                      class="ml-2"
+                      class="ma-1"
                       color="error"
                       :loading="loading"
                       :disabled="loading"
                       @click="modal = true"
                       >{{ $t('削除') }}</v-btn
                     >
+                    <v-btn
+                      class="ma-1"
+                      color="cyan"
+                      dark
+                      :to="localePath({ name: 'table', query: { id } })"
+                      >一覧</v-btn
+                    >
                   </template>
                 </div>
               </v-card>
             </v-tab-item>
           </v-tabs-items>
-          <div class="text-right mt-5">
-            <v-btn
-              color="cyan"
-              dark
-              :to="localePath({ name: 'table', query: { id } })"
-              >一覧</v-btn
-            >
-          </div>
         </v-col>
       </v-row>
     </v-container>
@@ -405,6 +405,14 @@ export default {
       }
       return html
     },
+    currentAuthority() {
+      const tab = this.tab
+      if (tab !== 0) {
+        return this.authorities[tab - 1]
+      } else {
+        return null
+      }
+    },
   },
   watch: {
     tab() {
@@ -494,13 +502,15 @@ export default {
       const tab = this.tab
 
       const item = this.formData[tab]
-      let index = -1
+      // let index = -1
+      let id = ''
       if (tab === 0) {
         item.createTime = FieldValue.serverTimestamp()
         item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
-        index = this.authorities.length + 1
+        // index = this.authorities.length + 1
+        id = this.id + '-' + generateUuid() // index
       } else {
-        const authority = this.authorities[tab - 1]
+        const authority = this.currentAuthority
         item.createTime = authority.createTime
         const editors = authority.editors
         const newEditors = []
@@ -511,15 +521,14 @@ export default {
           newEditors.push(this.userName)
         }
         item.editors = newEditors
-        index = tab
+        // index = tab
+        id = authority.geel_id
       }
 
       item.updateTime = FieldValue.serverTimestamp()
-      // item.editors = firebase.firestore.FieldValue.arrayUnion(this.userName)
 
       item.doubleChecked = doubleCheckFlag ? 1 : 0
 
-      const id = this.id + '-' + index
       batch.set(
         firestore.doc(itemRef.path).collection('authorities').doc(id),
         item
@@ -607,6 +616,23 @@ export default {
       title,
     }
   },
+}
+
+function generateUuid() {
+  // https://github.com/GoogleChrome/chrome-platform-analytics/blob/master/src/internal/identifier.js
+  // const FORMAT: string = "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";
+  const chars = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.split('')
+  for (let i = 0, len = chars.length; i < len; i++) {
+    switch (chars[i]) {
+      case 'x':
+        chars[i] = Math.floor(Math.random() * 16).toString(16)
+        break
+      case 'y':
+        chars[i] = (Math.floor(Math.random() * 4) + 8).toString(16)
+        break
+    }
+  }
+  return chars.join('')
 }
 </script>
 <style>

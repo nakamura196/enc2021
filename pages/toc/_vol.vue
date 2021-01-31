@@ -2,13 +2,13 @@
   <div>
     <v-container fluid class="my-5">
       <v-row>
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="9">
           <v-sheet class="pa-3 text-center" dark color="primary"
             >第{{ vol }}巻 目次</v-sheet
           >
 
           <v-row class="mt-5">
-            <v-col cols="12" sm="6">
+            <v-col cols="12" sm="8">
               <h4>手付かずの項</h4>
               <v-card outlined flat class="pa-4 mt-2">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
@@ -27,7 +27,7 @@
                 </div>
               </v-card>
             </v-col>
-            <v-col cols="12" sm="6">
+            <v-col cols="12" sm="4">
               <h4>作業中・作業済の項</h4>
               <v-card outlined flat class="pa-4 mt-2">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
@@ -47,7 +47,7 @@
             </v-col>
           </v-row>
         </v-col>
-        <v-col cols="12" sm="6">
+        <v-col cols="12" sm="3">
           <v-card outlined flat class="pa-4">
             <h4>【進捗管理欄】</h4>
             <p class="mt-5">
