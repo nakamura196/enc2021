@@ -54,7 +54,7 @@
                           value.status === 'finished' ? 'color: #F44336' : ''
                         "
                       >
-                        {{ value.label }}
+                        {{ `(${value.id}) ${value.label}` }}
                       </nuxt-link>
                     </li>
                   </ul>

@@ -417,16 +417,53 @@ export default {
         const authority = authorities[i]
         let title = (authority['Titre mentionné'] || '').trim()
 
-        let bar = html.match(title.split(' ').join('(.+?)'))
-        html = html.replace(
-          bar[0],
-          `<span type="titre" id="e${this.id}-${i + 1}">${bar[0]}</span>`
-        )
+        if (title !== '') {
+          const query =
+            '(>| |’)' + title.split(' ').join('(.+?)') + '(<| |,|\\.)'
+
+          const bar = html.match(query)
+
+          if (bar) {
+            const barLength = bar.length
+            let text = bar[0]
+            if (bar[1] !== '') {
+              text = text.substring(1)
+            }
+            if (bar[barLength - 1] !== '') {
+              text = text.substring(0, text.length - 1)
+            }
+
+            html = html
+              .split(text)
+              .join(
+                `<span type="titre" id="e${this.id}-${i + 1}">${text}</span>`
+              )
+          }
+        }
+
+        // ---------------------
 
         title = (authority['Auteur mentionné'] || '').trim()
 
-        bar = html.match(title.split(' ').join('(.+?)'))
-        html = html.replace(bar[0], `<span type="author">${bar[0]}</span>`)
+        if (title !== '') {
+          const query =
+            '(>| |’)' + title.split(' ').join('(.+?)') + '(<| |,|\\.)'
+
+          const bar = html.match(query)
+
+          if (bar) {
+            const barLength = bar.length
+            let text = bar[0]
+            if (bar[1] !== '') {
+              text = text.substring(1)
+            }
+            if (bar[barLength - 1] !== '') {
+              text = text.substring(0, text.length - 1)
+            }
+
+            html = html.split(text).join(`<span type="author">${text}</span>`)
+          }
+        }
       }
       return html
     },
