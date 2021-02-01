@@ -20,7 +20,17 @@
                       sm="6"
                     >
                       <ul>
-                        <li>{{ value }}</li>
+                        <li>
+                          <nuxt-link
+                            :to="
+                              localePath({
+                                name: 'edit',
+                                query: { id: value.id },
+                              })
+                            "
+                            >{{ `(${value.id}) ${value.label}` }}</nuxt-link
+                          >
+                        </li>
                       </ul>
                     </v-col>
                   </v-row>
@@ -33,13 +43,19 @@
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
                   <ul>
                     <li v-for="(value, index) in status.done" :key="index">
-                      <span
+                      <nuxt-link
+                        :to="
+                          localePath({
+                            name: 'edit',
+                            query: { id: value.id },
+                          })
+                        "
                         :style="
-                          value.status === 'double' ? 'color: #F44336' : ''
+                          value.status === 'finished' ? 'color: #F44336' : ''
                         "
                       >
                         {{ value.label }}
-                      </span>
+                      </nuxt-link>
                     </li>
                   </ul>
                 </div>
@@ -55,10 +71,9 @@
               {{ status.done.length }}
               /
               {{ total }}
-              項目の作業が完了しています（
+              項目の作業が進行しています（
               {{ frm((status.done.length / total) * 100) }} %）<br />
-              {{ sizeDouble }} /
-              {{ total }} 項目のダブルチェックが完了しています（
+              {{ sizeDouble }} / {{ total }} 項目の作業が完了しています（
               {{ frm((sizeDouble / total) * 100) }} %）
             </p>
           </v-card>
@@ -111,7 +126,7 @@ export default {
     return {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
-      authorities: [],
+      items: [],
     }
   },
   computed: {
@@ -140,7 +155,7 @@ export default {
       const status = this.status.done
       let total = 0
       for (let i = 0; i < status.length; i++) {
-        if (status[i].status === 'double') {
+        if (status[i].status === 'finished') {
           total += 1
         }
       }
@@ -149,20 +164,37 @@ export default {
 
     status() {
       const data = this.data
-      console.log(this.authorities)
+
+      const items = this.items
+      const map = {}
+      for (let i = 0; i < items.length; i++) {
+        const item = items[i]
+        map[item.id] = item
+      }
 
       const undone = []
+      const done = []
       for (let i = 0; i < data.length; i++) {
         const obj = data[i]
-        undone.push(`${obj.label} (${this.vol}-${i + 1})`)
+        const id = this.vol + '-' + (i + 1)
+        if (map[id]) {
+          const item = map[id]
+          done.push({
+            label: obj.label,
+            id,
+            status: item.finish === 1 ? 'finished' : 'unfinished',
+          })
+        } else {
+          undone.push({
+            label: obj.label,
+            id,
+          })
+        }
       }
 
       return {
         undone,
-        done: [
-          { label: 'BORT', status: 'double' },
-          { label: 'BORTWICK', status: 'single' },
-        ],
+        done,
       }
     },
   },
@@ -170,25 +202,19 @@ export default {
     firebase
       .firestore()
       .collection('items')
-      .doc(this.id)
-      .collection('authorities')
       .onSnapshot(
         (res) => {
-          const authorities = []
+          const items = []
           res.forEach(function (doc) {
-            const authority = doc.data()
-            authority.geel_id = doc.id
-            authorities.push(authority)
+            const item = doc.data()
+            items.push(item)
           })
-          this.authorities = authorities
-          console.log(authorities)
+          this.items = items
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)
         }
       )
-
-    console.log(this.data)
   },
   methods: {
     frm(value, n = 2) {

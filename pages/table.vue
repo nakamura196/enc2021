@@ -1,19 +1,22 @@
 <template>
   <div>
     <v-container fluid class="my-5">
-      <v-sheet class="pa-3 text-center" dark color="primary">
-        {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
-          source.authors.join(', ')
-        }}],
-        {{ lang == 'ja' ? source.publish_year + '年' : source.publish_year }},
-        {{ getVolAndPage }}
-      </v-sheet>
-
-      <div class="mt-5 text-right">
-        <v-btn :to="localePath({ name: 'edit', query: { id } })">編集</v-btn>
+      <div class="mb-5 text-center">
         <v-btn
           color="primary"
-          class="ml-2"
+          class="ma-1"
+          :href="
+            baseUrl + localePath({ name: 'table', query: { id: source.prev } })
+          "
+          ><v-icon>mdi-arrow-left-bold</v-icon>
+          {{ $t('前の大項目に進む') }}</v-btn
+        >
+        <v-btn class="ma-1" :to="localePath({ name: 'edit', query: { id } })"
+          >編集</v-btn
+        >
+        <v-btn
+          color="primary"
+          class="ma-1"
           :href="
             baseUrl + localePath({ name: 'table', query: { id: source.next } })
           "
@@ -21,6 +24,13 @@
           {{ $t('次の大項目に進む') }}</v-btn
         >
       </div>
+      <v-sheet class="pa-3 text-center" dark color="primary">
+        {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
+          source.authors.join(', ')
+        }}],
+        {{ lang == 'ja' ? source.publish_year + '年' : source.publish_year }},
+        {{ getVolAndPage }}
+      </v-sheet>
 
       <v-card class="pa-4 mt-5" flat>
         <Table :data="authorities"></Table>

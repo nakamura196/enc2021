@@ -1,6 +1,41 @@
 <template>
   <div>
     <v-container fluid class="my-5">
+      <div class="mb-5 text-center">
+        <v-btn
+          color="primary"
+          class="ma-1"
+          :href="
+            baseUrl + localePath({ name: 'edit', query: { id: source.prev } })
+          "
+          ><v-icon>mdi-arrow-left-bold</v-icon>
+          {{ $t('前の大項目に進む') }}</v-btn
+        >
+        <v-btn
+          class="ma-1"
+          color="cyan"
+          dark
+          :to="localePath({ name: 'table', query: { id } })"
+          >一覧</v-btn
+        >
+
+        <v-btn
+          class="ma-1"
+          :color="!finished ? 'success' : 'error'"
+          dark
+          @click="finish()"
+          >{{ !finished ? '完了にする' : '未完了にする' }}</v-btn
+        >
+        <v-btn
+          color="primary"
+          class="ma-1"
+          :href="
+            baseUrl + localePath({ name: 'edit', query: { id: source.next } })
+          "
+          ><v-icon>mdi-arrow-right-bold</v-icon>
+          {{ $t('次の大項目に進む') }}</v-btn
+        >
+      </div>
       <v-row>
         <v-col cols="12" sm="6">
           <v-sheet class="pa-3 text-center" dark color="primary">
@@ -21,17 +56,6 @@
               class="pa-3"
               v-html="getHtml"
             ></div>
-            <div class="mt-5 text-right">
-              <v-btn
-                color="primary"
-                :href="
-                  baseUrl +
-                  localePath({ name: 'edit', query: { id: source.next } })
-                "
-                ><v-icon>mdi-arrow-right-bold</v-icon>
-                {{ $t('次の大項目に進む') }}</v-btn
-              >
-            </div>
           </v-card>
         </v-col>
         <v-col v-if="isSignedIn" cols="12" sm="6">
@@ -188,13 +212,6 @@
                       @click="modal = true"
                       >{{ $t('削除') }}</v-btn
                     >
-                    <v-btn
-                      class="ma-1"
-                      color="cyan"
-                      dark
-                      :to="localePath({ name: 'table', query: { id } })"
-                      >一覧</v-btn
-                    >
                   </template>
                 </div>
               </v-card>
@@ -279,6 +296,12 @@ export default {
         source.next = keys[0]
       }
 
+      if (index === 0) {
+        source.prev = keys[keys.length - 1]
+      } else {
+        source.prev = keys[index - 1]
+      }
+
       return { source, id }
     }
   },
@@ -349,6 +372,7 @@ export default {
       dialog: false,
       loading: false,
       modal: false,
+      finished: false,
     }
   },
   computed: {
@@ -388,20 +412,21 @@ export default {
     getHtml() {
       let html = this.source.texthtml_re
       const authorities = this.authorities
+
       for (let i = 0; i < authorities.length; i++) {
         const authority = authorities[i]
-        const title = authority['Titre mentionné'] || ''
-        if (title !== '') {
-          html = html.replace(
-            title,
-            `<span type="titre" id="e${this.id}-${i + 1}">${title}</span>`
-          )
-        }
+        let title = (authority['Titre mentionné'] || '').trim()
 
-        const author = authority['Auteur mentionné'] || ''
-        if (author !== '') {
-          html = html.replace(author, `<span type="author">${author}</span>`)
-        }
+        let bar = html.match(title.split(' ').join('(.+?)'))
+        html = html.replace(
+          bar[0],
+          `<span type="titre" id="e${this.id}-${i + 1}">${bar[0]}</span>`
+        )
+
+        title = (authority['Auteur mentionné'] || '').trim()
+
+        bar = html.match(title.split(' ').join('(.+?)'))
+        html = html.replace(bar[0], `<span type="author">${bar[0]}</span>`)
       }
       return html
     },
@@ -425,6 +450,19 @@ export default {
     },
   },
   created() {
+    firebase
+      .firestore()
+      .collection('items')
+      .doc(this.id)
+      .onSnapshot(
+        (res) => {
+          this.finished = res.data().finish === 1
+        },
+        (error) => {
+          console.error('GET_REALTIME_LIST', error)
+        }
+      )
+
     firebase
       .firestore()
       .collection('items')
@@ -454,6 +492,31 @@ export default {
         data[obj.label] = ''
       }
       this.authority = data
+    },
+    async finish() {
+      const fItem = await firebase
+        .firestore()
+        .collection('items')
+        .doc(this.id)
+        .get()
+      const itemRef = fItem.ref
+      if (!fItem.exists) {
+        await itemRef.set({
+          id: this.id,
+          createTime: FieldValue.serverTimestamp(),
+          updateTime: FieldValue.serverTimestamp(),
+        })
+      }
+
+      const batch = firestore.batch()
+
+      batch.update(firestore.doc(itemRef.path), {
+        // id: anotherUserRef.id,
+        updateTime: FieldValue.serverTimestamp(),
+        finish: !this.finished ? 1 : 0,
+      })
+
+      await batch.commit()
     },
     async submit(doubleCheckFlag = false) {
       this.loading = true
@@ -640,12 +703,6 @@ tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
 td {
-  /*
-  border-left: 0.5px solid grey;
-  border-right: 0.5px solid grey;
-  border-top: 0.5px solid grey;
-  border-bottom: 0.5px solid grey;
-  */
   border: 0.1px solid lightgrey;
 }
 span[type='proposed'] {
@@ -653,18 +710,16 @@ span[type='proposed'] {
 }
 span[type='auteur_p'] {
   font-weight: bold;
-  color: #03a9f4;
+  color: #00f;
 }
 span[type='titre'] {
   color: #9c27b0;
   font-weight: bold;
 }
 
-/*
 span[type='author'] {
   color: #03a9f4;
 }
-*/
 i > span[type='proposed'] {
   font-weight: bold;
   color: #f44336;
