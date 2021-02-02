@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Denis Diderot"
+    ],
+    "item_id": "2-166",
+    "next": "2-724",
+    "pages": "166",
+    "prev": "2-722",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAXEA (<i>Hist. anc. &amp; Antiq.</i>), espece de chaussure \nancienne, du nombre de celles qui s’attachant\nsur le pié avec des bandes, ne le couvroient pas entierement.\nPlaute en a fait mention : mais on croit\nque le <i>baxea</i> de Plaute étoit une sorte de sandale à\nl’usage des philosophes. Arnobe parle de <i>baxées</i> faites\nde feuilles de palmier.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAXEA (<i>Hist. anc. &amp; Antiq.</i>), espece de chaussure \nancienne, du nombre de celles qui s’attachant\nsur le pié avec des bandes, ne le couvroient pas entierement.\nPlaute en a fait mention : mais on croit\nque le <i>baxea</i> de <span type=\"auteur_p\">Plaute</span> étoit une sorte de sandale à\nl’usage des philosophes. <span type=\"auteur_p\">Arnobe</span> parle de <i>baxées</i> faites\nde feuilles de palmier.\n \n</p>\n</div>",
+    "title": "BAXEA",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAXEA"
+}

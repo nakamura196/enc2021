@@ -1,0 +1,13 @@
+{
+    "authors": [],
+    "item_id": "2-259",
+    "next": "2-1338",
+    "pages": "259",
+    "prev": "2-1336",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIOGRAPHE, s. m. (<i>Littérat.</i>) terme formé du \nGrec <span class=\"lang-grc\" lang=\"grc\">βίος</span> <i>vie</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">γράφω</span>, <i>j’écris</i>. Il est consacré dans \nla Littérature pour exprimer un auteur qui a écrit la \nvie particuliere d’un ou de plusieurs personnages célebres : \ntels sont parmi les anciens, Plutarque &amp; Cornélius \nNépos, qui ont écrit les vies des hommes illustres, \nGrecs &amp; Romains ; &amp; parmi les modernes \nLéti, qui nous a donné les vies d’Elisabeth, de Charles V. \nde Sixte V. de Cromwel ; M. Flechier, M. \nMarsollier, M. de Voltaire, M. l’abbé de la Bletterie, \n&amp;c. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIOGRAPHE, s. m. (<i>Littérat.</i>) terme formé du \nGrec <span class=\"lang-grc\" lang=\"grc\">βίος</span> <i>vie</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">γράφω</span>, <i>j’écris</i>. Il est consacré dans \nla Littérature pour exprimer un auteur qui a écrit la \nvie particuliere d’un ou de plusieurs personnages célebres : \ntels sont parmi les anciens, <span type=\"auteur_p\">Plutarque</span> &amp; Cornélius \nNépos, qui ont écrit les <span type=\"proposed\">vies</span> des hommes illustres, \nGrecs &amp; Romains ; &amp; parmi les modernes \nLéti, qui nous a donné les <span type=\"proposed\">vies</span> d’Elisabeth, de Charles<span type=\"bold\"> V. </span>\nde Sixte<span type=\"bold\"> V. </span>de Cromwel ; M. Flechier, M. \nMarsollier, M. de <span type=\"auteur_p\">Voltaire</span>, M. l’abbé de la Bletterie, \n&amp;c. \n \n</p>\n</div>",
+    "title": "BIOGRAPHE",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIOGRAPHE"
+}

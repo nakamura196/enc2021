@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Denis Diderot"
+    ],
+    "item_id": "2-10",
+    "next": "2-83",
+    "pages": "10",
+    "prev": "2-81",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACU, BACHIE, BACHU, BARVIE (<i>Géog.</i>)\nville de Perse, sur la mer Caspienne, &amp; dans la province \nde Servan. Il y a près de la ville une source\nqui jette une liqueur noire dont on se sert par toute\nla Perse, au lieu d’huile à brûler. Elle donne son nom\nà la mer qu’on connoît sous celui de mer de <i>Bacu</i>,\nou mer de <i>Sala</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACU, BACHIE, BACHU, BARVIE (<i>Géog.</i>)\nville de <span type=\"auteur_p\">Perse</span>, sur la mer Caspienne, &amp; dans la province \nde Servan. Il y a près de la ville une source\nqui jette une liqueur noire dont on se sert par toute\nla <span type=\"auteur_p\">Perse</span>, au lieu d’huile à brûler. Elle donne son nom\nà la mer qu’on connoît sous celui de mer de <i>Bacu</i>,\nou mer de <i>Sala</i>.\n \n</p>\n</div>",
+    "title": "BACU, BACHIE, BACHU, BARVIE",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACU,_BACHIE,_BACHU,_BARVIE"
+}

@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Denis Diderot"
+    ],
+    "item_id": "2-10",
+    "next": "2-81",
+    "pages": "10",
+    "prev": "2-79",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACTRIANE, s. f. (<i>Géographie anc. &amp; mod.</i>)\nancienne province de Perse, entre la Margiane, la\nScythie, l’Inde &amp; le pays des Messagetes ; c’est aujourd’hui \nune contrée de la Perse, formée en partie\ndu Chorasan, &amp; en partie du Mawaralnahar, ou plus\ncommunément Usbeck, en Tartarie.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACTRIANE, s. f. (<i>Géographie anc. &amp; mod.</i>)\nancienne province de <span type=\"auteur_p\">Perse</span>, entre la Margiane, la\nScythie, l’Inde &amp; le pays des Messagetes ; c’est aujourd’hui \nune contrée de la <span type=\"auteur_p\">Perse</span>, formée en partie\ndu Chorasan, &amp; en<span type=\"proposed\"> partie </span>du Mawaralnahar, ou plus\ncommunément Usbeck, en Tartarie.\n \n</p>\n</div>",
+    "title": "BACTRIANE",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACTRIANE"
+}

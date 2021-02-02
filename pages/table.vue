@@ -11,9 +11,9 @@
           ><v-icon>mdi-arrow-left-bold</v-icon>
           {{ $t('前の大項目に進む') }}</v-btn
         >
-        <v-btn class="ma-1" :to="localePath({ name: 'edit', query: { id } })"
-          >編集</v-btn
-        >
+        <v-btn class="ma-1" :to="localePath({ name: 'edit', query: { id } })">{{
+          $t('編集')
+        }}</v-btn>
         <v-btn
           color="primary"
           class="ma-1"
@@ -25,11 +25,13 @@
         >
       </div>
       <v-sheet class="pa-3 text-center" dark color="primary">
-        {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
-          source.authors.join(', ')
-        }}],
-        {{ lang == 'ja' ? source.publish_year + '年' : source.publish_year }},
-        {{ getVolAndPage }}
+        <small>
+          {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
+            source.authors.join(', ')
+          }}],
+          {{ lang == 'ja' ? source.publish_year + '年' : source.publish_year }},
+          {{ getVolAndPage }}
+        </small>
       </v-sheet>
 
       <v-card class="pa-4 mt-5" flat>
@@ -51,20 +53,10 @@ export default {
       const id = app.context.route.query.id || '2-1'
 
       const response = await axios.get(
-        process.env.BASE_URL + '/data/sample.json'
+        process.env.BASE_URL + '/data/json/' + id + '.json'
       )
 
-      const data = response.data
-
-      const keys = Object.keys(data)
-      const index = keys.indexOf(id)
-
-      const source = data[id]
-      if (index !== keys.length - 1) {
-        source.next = keys[index + 1]
-      } else {
-        source.next = keys[0]
-      }
+      const source = response.data
 
       return { source, id }
     }

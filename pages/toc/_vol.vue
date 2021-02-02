@@ -1,109 +1,120 @@
 <template>
   <div>
     <v-container fluid class="my-5">
-      <v-row>
-        <v-col cols="12" sm="9">
-          <v-sheet class="pa-3 text-center" dark color="primary"
-            >第{{ vol }}巻 目次</v-sheet
-          >
+      <template v-if="!loaded">
+        <div class="text-center pa-10">
+          <v-progress-circular
+            indeterminate
+            color="primary"
+          ></v-progress-circular>
+        </div>
+      </template>
+      <template v-else>
+        <v-row>
+          <v-col cols="12" sm="9">
+            <v-sheet class="pa-3 text-center" dark color="primary"
+              >{{ lang == 'en' ? 'Vol. ' + vol : '第' + vol + '巻' }}
+              {{ $t('目次') }}</v-sheet
+            >
 
-          <v-row class="mt-5">
-            <v-col cols="12" sm="8">
-              <h4>手付かずの項</h4>
-              <v-card outlined flat class="pa-4 mt-2">
-                <div style="height: 600px; overflow-y: auto" class="pa-3">
-                  <v-row>
-                    <v-col
-                      v-for="(value, index) in status.undone"
-                      :key="index"
-                      cols="12"
-                      sm="6"
-                    >
-                      <ul>
-                        <li>
-                          <nuxt-link
-                            :to="
-                              localePath({
-                                name: 'edit',
-                                query: { id: value.id },
-                              })
-                            "
-                            >{{ `(${value.id}) ${value.label}` }}</nuxt-link
-                          >
-                        </li>
-                      </ul>
-                    </v-col>
-                  </v-row>
-                </div>
-              </v-card>
-            </v-col>
-            <v-col cols="12" sm="4">
-              <h4>作業中・作業済の項</h4>
-              <v-card outlined flat class="pa-4 mt-2">
-                <div style="height: 600px; overflow-y: auto" class="pa-3">
-                  <ul>
-                    <li v-for="(value, index) in status.done" :key="index">
-                      <nuxt-link
-                        :to="
-                          localePath({
-                            name: 'edit',
-                            query: { id: value.id },
-                          })
-                        "
-                        :style="
-                          value.status === 'finished' ? 'color: #F44336' : ''
-                        "
+            <v-row class="mt-5">
+              <v-col cols="12" sm="8">
+                <h4>{{ $t('手付かずの項') }}</h4>
+                <v-card outlined flat class="pa-4 mt-2">
+                  <div style="height: 600px; overflow-y: auto" class="pa-3">
+                    <v-row>
+                      <v-col
+                        v-for="(value, index) in status.undone"
+                        :key="index"
+                        cols="12"
+                        sm="6"
                       >
-                        {{ `(${value.id}) ${value.label}` }}
-                      </nuxt-link>
-                    </li>
-                  </ul>
-                </div>
-              </v-card>
-            </v-col>
-          </v-row>
-        </v-col>
-        <v-col cols="12" sm="3">
-          <v-card outlined flat class="pa-4">
-            <h4>【進捗管理欄】</h4>
-            <p class="mt-5">
-              現在、<br />
-              {{ status.done.length }}
-              /
-              {{ total }}
-              項目の作業が進行しています（
-              {{ frm((status.done.length / total) * 100) }} %）<br />
-              {{ sizeDouble }} / {{ total }} 項目の作業が完了しています（
-              {{ frm((sizeDouble / total) * 100) }} %）
-            </p>
-          </v-card>
-
-          <template v-if="isSignedIn">
-            <v-card outlined flat class="pa-4 mt-5">
-              <h4>【作業に関わる連絡事項】</h4>
-              <div style="height: 300px; overflow-y: auto" class="pa-3 mt-5">
-                <div v-for="n in 5" :key="n">
-                  コメント {{ n }}
-                  <hr class="my-2" />
-                </div>
-              </div>
+                        <ul>
+                          <li>
+                            <nuxt-link
+                              :to="
+                                localePath({
+                                  name: 'edit',
+                                  query: { id: value.id },
+                                })
+                              "
+                              >{{ `(${value.id}) ${value.label}` }}</nuxt-link
+                            >
+                          </li>
+                        </ul>
+                      </v-col>
+                    </v-row>
+                  </div>
+                </v-card>
+              </v-col>
+              <v-col cols="12" sm="4">
+                <h4>{{ $t('作業中・作業済の項') }}</h4>
+                <v-card outlined flat class="pa-4 mt-2">
+                  <div style="height: 600px; overflow-y: auto" class="pa-3">
+                    <ul>
+                      <li v-for="(value, index) in status.done" :key="index">
+                        <nuxt-link
+                          :to="
+                            localePath({
+                              name: 'edit',
+                              query: { id: value.id },
+                            })
+                          "
+                          :style="
+                            value.status === 'finished' ? 'color: #F44336' : ''
+                          "
+                        >
+                          {{ `(${value.id}) ${value.label}` }}
+                        </nuxt-link>
+                      </li>
+                    </ul>
+                  </div>
+                </v-card>
+              </v-col>
+            </v-row>
+          </v-col>
+          <v-col cols="12" sm="3">
+            <v-card outlined flat class="pa-4">
+              <h4>【{{ $t('進捗管理欄') }}】</h4>
+              <p class="mt-5">
+                現在、<br />
+                {{ status.done.length }}
+                /
+                {{ total }}
+                項目の作業が進行しています（
+                {{ frm((status.done.length / total) * 100) }} %）<br />
+                {{ sizeDouble }} / {{ total }} 項目の作業が完了しています（
+                {{ frm((sizeDouble / total) * 100) }} %）
+              </p>
             </v-card>
 
-            <v-textarea
-              filled
-              auto-grow
-              rows="1"
-              class="mt-5"
-              value=""
-              placeholder="値を入力してください。"
-            ></v-textarea>
+            <template v-if="isSignedIn">
+              <v-card outlined flat class="pa-4 mt-5">
+                <h4>【{{ $t('作業に関わる連絡事項') }}】</h4>
+                <div style="height: 300px; overflow-y: auto" class="pa-3 mt-5">
+                  <div v-for="n in 5" :key="n">
+                    コメント {{ n }}
+                    <hr class="my-2" />
+                  </div>
+                </div>
+              </v-card>
 
-            <div class="text-right">
-              <v-btn>{{ $t('送信') }}</v-btn>
-            </div>
-          </template>
-        </v-col>
-      </v-row>
+              <v-textarea
+                filled
+                auto-grow
+                rows="1"
+                class="mt-5"
+                value=""
+                :placeholder="$t('値を入力してください。')"
+              ></v-textarea>
+
+              <div class="text-right">
+                <v-btn>{{ $t('送信') }}</v-btn>
+              </div>
+            </template>
+          </v-col>
+        </v-row>
+      </template>
     </v-container>
   </div>
 </template>
@@ -116,7 +127,7 @@ export default {
     if (payload) {
       return payload
     } else {
-      const vol = Number(app.context.route.params.vol) || 2
+      const vol = Number(app.context.route.query.vol) || 2
       const data = process.env.toc[String(vol)]
 
       return { vol, data }
@@ -127,6 +138,7 @@ export default {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
       items: [],
+      loaded: false,
     }
   },
   computed: {
@@ -207,9 +219,12 @@ export default {
           const items = []
           res.forEach(function (doc) {
             const item = doc.data()
-            items.push(item)
+            if (item.likedUsers && Object.keys(item.likedUsers).length > 0) {
+              items.push(item)
+            }
           })
           this.items = items
+          this.loaded = true
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)

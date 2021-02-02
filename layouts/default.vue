@@ -14,7 +14,7 @@
 
           <v-list-item
             link
-            :to="localePath({ name: 'toc-vol', params: { vol: 2 } })"
+            :to="localePath({ name: 'toc-vol', query: { vol: 2 } })"
           >
             <v-list-item-action>
               <v-icon>mdi-view-list</v-icon>
@@ -24,7 +24,7 @@
             </v-list-item-content>
           </v-list-item>
 
-          <v-list-item link :to="localePath({ name: 'edit' })">
+          <v-list-item v-if="false" link :to="localePath({ name: 'edit' })">
             <v-list-item-action>
               <v-icon>mdi-square-edit-outline</v-icon>
             </v-list-item-action>
@@ -33,7 +33,7 @@
             </v-list-item-content>
           </v-list-item>
 
-          <v-list-item link :to="localePath({ name: 'fav' })">
+          <v-list-item v-if="false" link :to="localePath({ name: 'fav' })">
             <v-list-item-action>
               <v-icon>mdi-heart-outline</v-icon>
             </v-list-item-action>
@@ -55,7 +55,7 @@
             "
             style="color: inherit; text-decoration: inherit"
           >
-            {{ title }}
+            {{ $t(title) }}
           </nuxt-link>
         </v-toolbar-title>
 
@@ -263,5 +263,8 @@ td {
   border-bottom: 0.5px solid grey;
   */
   border: 0.1px solid lightgrey;
+}
+* {
+  text-transform: none !important;
 }
 </style>

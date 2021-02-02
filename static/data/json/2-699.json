@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Denis Diderot"
+    ],
+    "item_id": "2-162",
+    "next": "2-700",
+    "pages": "162",
+    "prev": "2-698",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAUDOSE, s. f. espece d’instrument de Musique \nà plusieurs cordes, dont Aimery du Peyrat, abbé \nde Moisac, fait mention dans une vie de Charlemagne, \nmanuscrite. <i>Voyez</i> n°. 1343, de la bibliotheque \ndu Roi, <i><span class=\"lang-la\" lang=\"la\">quidam baudosam concordabant</span></i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAUDOSE, s. f. espece d’instrument de Musique \nà plusieurs cordes, dont Aimery du Peyrat, abbé \nde Moisac, fait mention dans une vie de <span type=\"auteur_p\">Charlemagne</span>, \nmanuscrite. <i><span type=\"bold\">Voyez</span></i> n°. 1343, de la <span type=\"proposed\">bibliotheque</span> \ndu Roi, <i><span class=\"lang-la\" lang=\"la\">quidam baudosam concordabant</span></i>.\n \n</p>\n</div>",
+    "title": "BAUDOSE",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAUDOSE"
+}

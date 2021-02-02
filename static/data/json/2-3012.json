@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Denis Diderot"
+    ],
+    "item_id": "2-542",
+    "next": "2-3013",
+    "pages": "542",
+    "prev": "2-3011",
+    "publish_year": "1751",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CALCIO</i>, (<i>Jeu</i>) <i><span class=\"lang-it\" lang=\"it\">il giuoco del calcio</span></i>, c’est une\nespece de jeu de ballon fort usité en Italie, sur-tout\ndans les environs de Florence ; on y joue avec bien\ndes formalités &amp; solennités pendant l’hiver : les jeunes \ngens qui y jouent se partagent en deux bandes,\nqui pour se distinguer portent les unes des rubans\nrouges, d’autres des rubans verds ; chaque bande élit\nun chef qu’on nomme <i><span class=\"lang-it\" lang=\"it\">principe del calcio</span></i>, qui est pour\nl’ordinaire un gentilhomme riche ; ce prince ou chef\nse choisit des officiers, &amp; se forme une cour parmi\nceux de sa bande ou de son parti : il envoye des ambassadeurs \nau chef qui lui est opposé, &amp; en use comme \nferoient de vrais souverains. Comme il ne manque \njamais d’arriver une rupture, il lui déclare la\nguerre, &amp; va lui livrer bataille, qui n’est point sanglante ; \nc’est une partie au ballon qui décide de la\nvictoire, &amp; le vainqueur marche la tête haute aussi\ncontent de lui, que s’il avoit remporté des lauriers\nplus sanglans. Cette bataille se livre ordinairement\ndans la ville de Florence, &amp; ci-devant se donnoit sous\nles fenêtres du grand duc.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CALCIO</i>, (<i>Jeu</i>) <i><span class=\"lang-it\" lang=\"it\">il giuoco del calcio</span></i>, c’est une\nespece de jeu de ballon fort usité en Italie, sur-tout\ndans les environs de Florence ; on y joue avec bien\ndes formalités &amp; solennités pendant l’hiver : les jeunes \ngens qui y jouent se partagent en deux bandes,\nqui pour se distinguer portent les unes des rubans\nrouges, d’autres des rubans verds ; chaque bande élit\nun chef qu’on nomme <i><span class=\"lang-it\" lang=\"it\">principe del calcio</span></i>, qui est pour\nl’ordinaire un gentilhomme riche ; ce prince ou chef\nse choisit des officiers, &amp; se forme une cour parmi\nceux de sa bande ou de son parti : il envoye des ambassadeurs \nau chef qui lui est opposé, &amp; en use comme \nferoient de vrais souverains. Comme il ne manque \njamais d’arriver une rupture, il lui déclare la\nguerre, &amp; va lui livrer bataille, qui n’est point sanglante ; \nc’est une<span type=\"proposed\"> partie </span>au ballon qui décide de la\nvictoire, &amp; le vainqueur marche la tête haute aussi\ncontent de lui, que s’il avoit remporté des lauriers\nplus sanglans. Cette bataille se<span type=\"proposed\"> livre </span>ordinairement\ndans la ville de Florence, &amp; ci-devant se donnoit sous\nles fenêtres du grand duc.\n \n</p>\n</div>",
+    "title": "CALCIO",
+    "tome": "2",
+    "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALCIO"
+}

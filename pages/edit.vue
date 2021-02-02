@@ -3,6 +3,7 @@
     <v-container fluid class="my-5">
       <div class="mb-5 text-center">
         <v-btn
+          v-if="source.prev"
           color="primary"
           class="ma-1"
           :href="
@@ -16,7 +17,7 @@
           color="cyan"
           dark
           :to="localePath({ name: 'table', query: { id } })"
-          >一覧</v-btn
+          >{{ $t('一覧') }}</v-btn
         >
 
         <v-btn
@@ -24,9 +25,10 @@
           :color="!finished ? 'success' : 'error'"
           dark
           @click="finish()"
-          >{{ !finished ? '完了にする' : '未完了にする' }}</v-btn
+          >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
         >
         <v-btn
+          v-if="source.next"
           color="primary"
           class="ma-1"
           :href="
@@ -80,17 +82,20 @@
                         {{ currentAuthority.geel_id }}
                       </span>
                       <span class="mr-4">
-                        <b>作業者</b>:
+                        <b>{{ $t('作業者') }}</b
+                        >:
                         {{ currentAuthority.editors.join(', ') }}
                       </span>
                       <span class="mr-4">
-                        <b>作成日</b>:
+                        <b>{{ $t('作成日') }}</b
+                        >:
                         {{
                           $utils.timestampToTime(currentAuthority.createTime)
                         }}
                       </span>
                       <span class="mr-4">
-                        <b>更新日</b>:
+                        <b>{{ $t('更新日') }}</b
+                        >:
                         {{
                           $utils.timestampToTime(currentAuthority.updateTime)
                         }}
@@ -248,7 +253,7 @@
     <v-dialog v-model="modal" persistent max-width="290">
       <v-card>
         <v-card-title class="headline">
-          本当に削除してよいですか?
+          {{ $t('本当に削除してよいですか?') }}
         </v-card-title>
 
         <v-card-actions>
@@ -281,26 +286,10 @@ export default {
       const id = app.context.route.query.id || '2-1'
 
       const response = await axios.get(
-        process.env.BASE_URL + '/data/sample.json'
+        process.env.BASE_URL + '/data/json/' + id + '.json'
       )
 
-      const data = response.data
-
-      const keys = Object.keys(data)
-      const index = keys.indexOf(id)
-
-      const source = data[id]
-      if (index !== keys.length - 1) {
-        source.next = keys[index + 1]
-      } else {
-        source.next = keys[0]
-      }
-
-      if (index === 0) {
-        source.prev = keys[keys.length - 1]
-      } else {
-        source.prev = keys[index - 1]
-      }
+      const source = response.data
 
       return { source, id }
     }
@@ -411,6 +400,7 @@ export default {
     },
     getHtml() {
       let html = this.source.texthtml_re
+      // html = html.split('\n').join(' ')
       const authorities = this.authorities
 
       for (let i = 0; i < authorities.length; i++) {
@@ -419,7 +409,7 @@ export default {
 
         if (title !== '') {
           const query =
-            '(>| |’)' + title.split(' ').join('(.+?)') + '(<| |,|\\.)'
+            '(>| |’|\n)' + title.split(' ').join('(.+?)') + '(<| |,|\\.|\n)'
 
           const bar = html.match(query)
 
@@ -634,6 +624,7 @@ export default {
         item
       )
 
+      /*
       batch.set(
         firestore
           .doc(anotherUserRef.path)
@@ -645,6 +636,7 @@ export default {
           createTime: FieldValue.serverTimestamp(),
         }
       )
+      */
 
       // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
       batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
@@ -699,6 +691,15 @@ export default {
       batch.update(anotherUserRef, {
         likeItemCount: FieldValue.increment(-1),
       })
+
+      /*
+      batch.delete(
+        firestore
+          .doc(anotherUserRef.path)
+          .collection('likedItems')
+          .doc(itemRef.id)
+      )
+      */
 
       await batch.commit()
 
