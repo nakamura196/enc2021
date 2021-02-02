@@ -14,7 +14,7 @@
 
           <v-list-item
             link
-            :to="localePath({ name: 'toc-vol', query: { vol: 2 } })"
+            :to="localePath({ name: 'toc', query: { vol: 2 } })"
           >
             <v-list-item-action>
               <v-icon>mdi-view-list</v-icon>
