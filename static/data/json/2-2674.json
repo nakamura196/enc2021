@@ -6,7 +6,7 @@
     "prev": "2-2673",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUST <i>ou</i> BOST, (<i>Géog.</i>) ville forte d’Asie, en\nPerse, capitale du Sablestan. <i>Long. 87. 50. lat. 31. </i>\n<i>50</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUST <i>ou</i> BOST, (<i>Géog.</i>) ville forte d’Asie, en\nPerse, capitale du Sablestan. <i>Long. 87. 50. lat. 31. </i>\n<i>50</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUST <i>ou</i> BOST, (<i>Géog.</i>) ville forte d’Asie, en\n<span type=\"auteur_p\">Perse</span>, capitale du Sablestan. <i>Long. 87. 50. lat. 31. </i>\n<i>50</i>.\n \n</p>\n</div>",
     "title": "BUST ou BOST",
     "tome": "2",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUST_ou_BOST"

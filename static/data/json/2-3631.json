@@ -6,7 +6,7 @@
     "prev": "2-3630",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARGA, (<i>Géog.</i>) île d’Asie, dépendante de la\nPerse, de la province de Kerman.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARGA, (<i>Géog.</i>) île d’Asie, dépendante de la\nPerse, de la province de Kerman.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARGA, (<i>Géog.</i>) île d’Asie, dépendante de la\n<span type=\"auteur_p\">Perse</span>, de la province de Kerman.\n \n</p>\n</div>",
     "title": "CARGA",
     "tome": "2",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARGA"

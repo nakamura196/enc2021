@@ -5,6 +5,8 @@ const environment = process.env.NODE_ENV
 const env = require(`./env/${environment}.ts`)
 
 env.toc = JSON.parse(fs.readFileSync('static/data/toc.json'))
+env.auteur_list = JSON.parse(fs.readFileSync('static/data/auteur_list.json'))
+env.titre_list = JSON.parse(fs.readFileSync('static/data/titre_list.json'))
 
 console.log({ env })
 

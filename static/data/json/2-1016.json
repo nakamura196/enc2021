@@ -8,7 +8,7 @@
     "prev": "2-1015",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERDOE <i>ou</i> BERDOA, ville d’Asie dans la\nPerse, province de Grandja. <i>Long. 65. 30. lat. 41</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERDOE <i>ou</i> BERDOA, ville d’Asie dans la\nPerse, province de Grandja. <i>Long. 65. 30. lat. 41</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERDOE <i>ou</i> BERDOA, ville d’Asie dans la\n<span type=\"auteur_p\">Perse</span>, province de Grandja. <i>Long. 65. 30. lat. 41</i>.\n \n</p>\n</div>",
     "title": "BERDOE ou BERDOA",
     "tome": "2",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERDOE_ou_BERDOA"

@@ -117,6 +117,7 @@
                         </tr>
                       </thead>
                       <tbody>
+                        <!--
                         <tr>
                           <td>{{ $t('Nomenclature') }}</td>
                           <td>
@@ -139,6 +140,7 @@
                             </v-row>
                           </td>
                         </tr>
+                        -->
                         <tr v-for="(obj, key2) in fields" :key="key2">
                           <td>{{ obj.label }}</td>
                           <td>
@@ -299,6 +301,10 @@ export default {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
       fields: [
+        {
+          label: 'Nomenclature',
+          value: '',
+        },
         {
           label: 'Page',
           value: '',
@@ -767,5 +773,8 @@ i {
 }
 .prp-pages-output a {
   color: #ff9800 !important;
+}
+.sc {
+  font-variant: small-caps;
 }
 </style>
