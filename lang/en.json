@@ -404,5 +404,6 @@
   "作成日" : "createTime",
   "更新日" : "updateTime",
   "編集" : "Edit",
-  "本当に削除してよいですか?" : "Are you sure?"
+  "本当に削除してよいですか?" : "Are you sure?",
+  "イタリック" : "Italic"
 }

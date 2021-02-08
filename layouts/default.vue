@@ -24,6 +24,21 @@
             </v-list-item-content>
           </v-list-item>
 
+          <v-list-item
+            v-if="userRole === 'global_admin'"
+            link
+            :to="localePath({ name: 'admin' })"
+          >
+            <v-list-item-action>
+              <v-icon>mdi-cog</v-icon>
+            </v-list-item-action>
+            <v-list-item-content>
+              <v-list-item-title>{{
+                $t('管理ダッシュボード')
+              }}</v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+
           <v-list-item v-if="false" link :to="localePath({ name: 'edit' })">
             <v-list-item-action>
               <v-icon>mdi-square-edit-outline</v-icon>
@@ -163,6 +178,9 @@ import { Vue, Component } from 'nuxt-property-decorator'
 import firebase from '../plugins/firebase'
 import FullTextSearch from '~/components/search/FullTextSearch.vue'
 
+const FieldValue = firebase.firestore.FieldValue
+const firestore = firebase.firestore()
+
 @Component({
   components: {
     FullTextSearch,
@@ -183,6 +201,14 @@ export default class search extends Vue {
 
   set userName(value: any) {
     this.$store.commit('setUserName', value)
+  }
+
+  get userRole(): any {
+    return this.$store.getters.getUserRole
+  }
+
+  set userRole(value: any) {
+    this.$store.commit('setUserRole', value)
   }
 
   get userPic(): any {
@@ -243,7 +269,43 @@ export default class search extends Vue {
       this.userName = user ? user.displayName : null
       this.userPic = user ? user.photoURL : null
       this.isSignedIn = !!user
+
+      if (user) {
+        this.initFsUser(user)
+      }
     })
+  }
+
+  async initFsUser(user: any) {
+    // anotherRef
+    let anotherUser = await firebase
+      .firestore()
+      .collection('users')
+      .doc(user.uid)
+      .get()
+
+    const anotherUserRef = anotherUser.ref
+    if (!anotherUser.exists) {
+      const batch = firestore.batch()
+      await anotherUserRef.set({
+        id: user.uid,
+        name: user.displayName,
+        role: 'editor',
+        createTime: FieldValue.serverTimestamp(),
+        updateTime: FieldValue.serverTimestamp(),
+      })
+
+      await batch.commit()
+
+      anotherUser = await firebase
+        .firestore()
+        .collection('users')
+        .doc(user.uid)
+        .get()
+    }
+
+    const fsUser: any = anotherUser.data()
+    this.userRole = fsUser.role
   }
 
   async signOut() {

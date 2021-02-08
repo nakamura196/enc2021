@@ -21,6 +21,7 @@
         >
 
         <v-btn
+          v-if="userRole == 'global_admin'"
           class="ma-1"
           :color="!finished ? 'success' : 'error'"
           dark
@@ -108,90 +109,57 @@
                     </small>
                   </v-sheet>
 
-                  <v-simple-table dense>
-                    <template v-slot:default>
-                      <thead>
-                        <tr>
-                          <th class="text-left">{{ $t('抽出要素') }}</th>
-                          <th class="text-left">{{ $t('入力欄') }}</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <!--
-                        <tr>
-                          <td>{{ $t('Nomenclature') }}</td>
-                          <td>
-                            <v-row>
-                              <v-col cols="12" sm="8"
-                                ><v-text-field
+                  <div v-for="(f, key3) in fields" :key="key3" class="mb-10">
+                    <h3 class="mb-5">{{ f.label }}</h3>
+                    <v-simple-table dense>
+                      <template v-slot:default>
+                        <tbody>
+                          <tr v-for="(obj, key2) in f.children" :key="key2">
+                            <td width="25%">{{ obj.label }}</td>
+                            <td>
+                              <template v-if="obj.type == 'checkbox'">
+                                <v-row>
+                                  <v-col>
+                                    <v-text-field
+                                      v-model="item[obj.label].input"
+                                      dense
+                                      class="mt-5"
+                                      :placeholder="
+                                        obj.placeholder ||
+                                        $t('値を入力してください。')
+                                      "
+                                      clearable
+                                    ></v-text-field
+                                  ></v-col>
+                                  <v-col>
+                                    <v-checkbox
+                                      v-model="item[obj.label].etcValue"
+                                      :label="obj.etcLabel"
+                                    ></v-checkbox>
+                                  </v-col>
+                                </v-row>
+                              </template>
+
+                              <template v-else>
+                                <v-text-field
+                                  v-model="item[obj.label].input"
                                   dense
                                   class="mt-5"
-                                  placeholder="Ex. あいう"
+                                  :placeholder="
+                                    obj.placeholder ||
+                                    $t('値を入力してください。')
+                                  "
                                   clearable
-                                ></v-text-field
-                              ></v-col>
-                              <v-col cols="12" sm="4"
-                                ><v-checkbox
-                                  dense
-                                  class="mt-5"
-                                  :label="$t('スモールキャピタル')"
-                                ></v-checkbox
-                              ></v-col>
-                            </v-row>
-                          </td>
-                        </tr>
-                        -->
-                        <tr v-for="(obj, key2) in fields" :key="key2">
-                          <td>{{ obj.label }}</td>
-                          <td>
-                            <v-text-field
-                              v-model="item[obj.label]"
-                              dense
-                              class="mt-5"
-                              :placeholder="
-                                obj.placeholder || $t('値を入力してください。')
-                              "
-                              clearable
-                            ></v-text-field>
-                          </td>
-                        </tr>
-                      </tbody>
-                      <thead>
-                        <tr>
-                          <th class="text-left pt-10 pb-3">
-                            {{ $t('書誌情報（正規化用）') }}
-                          </th>
-                          <th class="text-left pt-10 pb-3">
-                            {{ $t('入力欄') }}
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr v-for="(obj, key2) in metadata" :key="key2">
-                          <td>{{ obj.label }}</td>
-                          <td>
-                            <v-text-field
-                              v-model="item[obj.label]"
-                              dense
-                              class="mt-5"
-                              :placeholder="
-                                obj.placeholder || $t('値を入力してください。')
-                              "
-                              clearable
-                            ></v-text-field>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </template>
-                  </v-simple-table>
+                                ></v-text-field>
+                              </template>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </template>
+                    </v-simple-table>
+                  </div>
                 </div>
                 <div class="mt-5 text-center">
-                  <!--
-                  {{ $t('作業者名') }}: {{ userName }}
-                   ml-5
-                    ml-2
-                     ml-2
-                  -->
                   <v-btn
                     class="ma-1"
                     color="primary"
@@ -302,62 +270,78 @@ export default {
       title: process.env.siteName,
       fields: [
         {
-          label: 'Nomenclature',
-          value: '',
+          label: this.$t('抽出要素'),
+          children: [
+            {
+              label: 'Nomenclature',
+              value: '',
+              type: 'checkbox',
+              etcValue: '',
+              etcLabel: this.$t('スモールキャピタル'),
+              id: 'sc',
+            },
+            {
+              label: 'Page',
+              value: '',
+            },
+            {
+              label: 'Schwab',
+              value: '',
+            },
+            {
+              label: 'Désignant',
+              value: '',
+              type: 'checkbox',
+              etcValue: '',
+              etcLabel: this.$t('イタリック'),
+              id: 'i',
+            },
+            {
+              label: 'Signature',
+              value: '',
+            },
+            {
+              label: 'Collaborateur',
+              value: '',
+            },
+            {
+              label: 'Auteur mentionné',
+              value: '',
+            },
+            {
+              label: 'Titre mentionné',
+              value: '',
+            },
+          ],
         },
         {
-          label: 'Page',
-          value: '',
-        },
-        {
-          label: 'Schwab',
-          value: '',
-        },
-        {
-          label: 'Désignant',
-          value: '',
-        },
-        {
-          label: 'Signature',
-          value: '',
-        },
-        {
-          label: 'Collaborateur',
-          value: '',
-        },
-        {
-          label: 'Auteur mentionné',
-          value: '',
-        },
-        {
-          label: 'Titre mentionné',
-          value: '',
-        },
-      ],
-      metadata: [
-        {
-          label: 'nb de réf',
-          value: '',
-        },
-        {
-          label: 'Auteur',
-          value: '',
-        },
-        {
-          label: 'titre',
-          value: '',
-        },
-        {
-          label: 'année de la pub.',
-          value: '',
-        },
-        {
-          label: '研究会設定の分類名（仮）',
-          value: '',
-        },
-        {
-          label: 'Notes',
-          value: '',
+          label: this.$t('書誌情報（正規化用）'),
+          children: [
+            {
+              label: 'nb de réf',
+              value: '',
+            },
+            {
+              label: 'Auteur',
+              value: '',
+            },
+            {
+              label: 'titre',
+              value: '',
+            },
+            {
+              label: 'année de la pub.',
+              value: '',
+            },
+            {
+              label: '研究会設定の分類名（仮）',
+              value: '',
+            },
+            {
+              label: 'Notes',
+              value: '',
+            },
+          ],
         },
       ],
       userUids: [],
@@ -373,6 +357,9 @@ export default {
   computed: {
     lang() {
       return this.$i18n.locale
+    },
+    userRole() {
+      return this.$store.getters.getUserRole
     },
     userName() {
       return this.$store.getters.getUserName
@@ -396,10 +383,34 @@ export default {
       for (let i = 0; i < authorities.length; i++) {
         const authority = authorities[i]
         const data = {}
-        for (let j = 0; j < fields.length; j++) {
-          const obj = fields[j]
-          data[obj.label] = authority[obj.label] || ''
+
+        for (let k = 0; k < fields.length; k++) {
+          const children = fields[k].children
+
+          for (let j = 0; j < children.length; j++) {
+            const obj = children[j]
+
+            if (obj.id) {
+              const value = authority[obj.label] || ''
+              const etcValue = value.includes('<' + obj.id + '>')
+              data[obj.label] = {
+                input: value
+                  .replace('<' + obj.id + '>', '')
+                  .replace('</' + obj.id + '>', ''),
+                raw: value,
+                etcValue,
+                id: obj.id,
+              }
+            } else {
+              const value = authority[obj.label] || ''
+              data[obj.label] = {
+                input: value,
+                raw: value,
+              }
+            }
+          }
         }
+
         formData.push(data)
       }
       return formData
@@ -483,6 +494,12 @@ export default {
     },
   },
   created() {
+    firebase.analytics().logEvent('read', {
+      uid: this.userUid,
+      eid: this.id,
+    })
+
+    this.initAuthority()
     firebase
       .firestore()
       .collection('items')
@@ -520,10 +537,19 @@ export default {
     initAuthority() {
       const fields = this.fields
       const data = {}
-      for (let j = 0; j < fields.length; j++) {
-        const obj = fields[j]
-        data[obj.label] = ''
+
+      for (let i = 0; i < fields.length; i++) {
+        const children = fields[i].children
+
+        for (let j = 0; j < children.length; j++) {
+          const obj = children[j]
+          data[obj.label] = {
+            input: '',
+            raw: '',
+          }
+        }
       }
+
       this.authority = data
     },
     async finish() {
@@ -597,7 +623,19 @@ export default {
 
       const tab = this.tab
 
-      const item = this.formData[tab]
+      const formData = this.formData[tab]
+
+      const item = {}
+      for (const key in formData) {
+        const value = formData[key]
+        if (!value.etcValue) {
+          item[key] = value.input
+        } else {
+          const tag = value.id
+          item[key] = '<' + tag + '>' + value.input + '</' + tag + '>'
+        }
+      }
+
       // let index = -1
       let id = ''
       if (tab === 0) {
@@ -648,6 +686,15 @@ export default {
       batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
 
       await batch.commit()
+
+      let event = 'create'
+      if (tab !== 0) {
+        event = 'update'
+      }
+      firebase.analytics().logEvent(event, {
+        uid: this.userUid,
+        eid: this.id,
+      })
 
       this.dialog = true
 
@@ -709,6 +756,11 @@ export default {
 
       await batch.commit()
 
+      firebase.analytics().logEvent('delete', {
+        uid: this.userUid,
+        eid: this.id,
+      })
+
       this.dialog = true
 
       this.initAuthority()
@@ -746,7 +798,8 @@ function generateUuid() {
 tbody tr:nth-of-type(odd) {
   background-color: rgba(0, 0, 0, 0.05);
 }
-td {
+td,
+th {
   border: 0.1px solid lightgrey;
 }
 span[type='proposed'] {
