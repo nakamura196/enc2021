@@ -59,7 +59,7 @@
         </v-list>
       </v-navigation-drawer>
 
-      <v-app-bar>
+      <v-app-bar dark>
         <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
         <v-toolbar-title>
           <nuxt-link

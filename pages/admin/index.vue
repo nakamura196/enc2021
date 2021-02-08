@@ -1,5 +1,5 @@
 <template>
-  <AdminLayout>
+  <AdminLayout :breadcrumbs="breadcrumbs">
     <h2>{{ $t('管理ダッシュボード') }}</h2>
 
     <p class="my-5">
@@ -44,9 +44,6 @@ export default {
       return [
         {
           text: this.$t('管理ダッシュボード'),
-          disabled: false,
-          to: this.localePath({ name: 'admin' }),
-          exact: true,
         },
       ]
     },

@@ -1,5 +1,14 @@
 <template>
   <div>
+    <v-sheet color="grey lighten-2">
+      <v-container fluid class="py-4">
+        <v-breadcrumbs class="py-0" :items="breadcrumbs">
+          <template #divider>
+            <v-icon>mdi-chevron-right</v-icon>
+          </template>
+        </v-breadcrumbs>
+      </v-container>
+    </v-sheet>
     <v-container fluid class="my-5">
       <template v-if="!loaded">
         <div class="text-center pa-10">
@@ -12,12 +21,7 @@
       <template v-else>
         <v-row>
           <v-col cols="12" sm="9">
-            <v-sheet class="pa-3 text-center" dark color="primary"
-              >{{ lang == 'en' ? 'Vol. ' + vol : '第' + vol + '巻' }}
-              {{ $t('目次') }}</v-sheet
-            >
-
-            <v-row class="mt-5">
+            <v-row>
               <v-col cols="12" sm="8">
                 <h4>{{ $t('手付かずの項') }}</h4>
                 <v-card outlined flat class="pa-4 mt-2">
@@ -209,6 +213,27 @@ export default {
         done,
       }
     },
+    breadcrumbs() {
+      /*
+      {{ lang == 'en' ? 'Vol. ' + vol : '第' + vol + '巻' }}
+              {{ $t('目次') }}
+              */
+      const vol = this.vol
+      return [
+        {
+          text: this.$t('HOME'),
+          disabled: false,
+          to: this.localePath({ name: 'index' }),
+          exact: true,
+        },
+        {
+          text:
+            (this.lang === 'en' ? `Vol. ${vol}` : `第${vol}巻`) +
+            ' ' +
+            this.$t('目次'),
+        },
+      ]
+    },
   },
   created() {
     firebase
@@ -219,9 +244,7 @@ export default {
           const items = []
           res.forEach(function (doc) {
             const item = doc.data()
-            if (item.likedUsers && Object.keys(item.likedUsers).length > 0) {
-              items.push(item)
-            }
+            items.push(item)
           })
           this.items = items
           this.loaded = true

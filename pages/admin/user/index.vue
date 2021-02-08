@@ -1,6 +1,5 @@
 <template>
   <AdminLayout :breadcrumbs="breadcrumbs">
-    <h2 class="mb-5">{{ $t('ユーザ一覧') }}</h2>
     <v-data-table :headers="headers" :items="users" :items-per-page="-1">
       <template v-slot:item.id="{ item }">
         <nuxt-link
@@ -55,6 +54,9 @@ export default {
           disabled: false,
           to: this.localePath({ name: 'admin' }),
           exact: true,
+        },
+        {
+          text: this.$t('ユーザ一覧'),
         },
       ]
     },

@@ -1,21 +1,16 @@
 <template>
   <AdminLayout :breadcrumbs="breadcrumbs">
-    <v-row class="mb-5">
-      <v-col
-        ><h2>{{ user.id }}</h2></v-col
+    <div class="text-right mb-5">
+      <v-btn
+        :to="
+          localePath({
+            name: 'admin-user-id-edit',
+            params: { id: user.id },
+          })
+        "
+        >{{ $t('ユーザの編集') }}</v-btn
       >
-      <v-col class="text-right"
-        ><v-btn
-          :to="
-            localePath({
-              name: 'admin-user-id-edit',
-              params: { id: user.id },
-            })
-          "
-          >{{ $t('ユーザの編集') }}</v-btn
-        ></v-col
-      >
-    </v-row>
+    </div>
     <v-simple-table>
       <template v-slot:default>
         <tbody>
@@ -68,6 +63,9 @@ export default {
           disabled: false,
           to: this.localePath({ name: 'admin-user' }),
           exact: true,
+        },
+        {
+          text: this.user.id,
         },
       ]
     },

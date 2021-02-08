@@ -7,6 +7,8 @@ const env = require(`./env/${environment}.ts`)
 env.toc = JSON.parse(fs.readFileSync('static/data/toc.json'))
 env.auteur_list = JSON.parse(fs.readFileSync('static/data/auteur_list.json'))
 env.titre_list = JSON.parse(fs.readFileSync('static/data/titre_list.json'))
+env.allAuteur = JSON.parse(fs.readFileSync('static/data/auteur.json'))
+env.allTitle = JSON.parse(fs.readFileSync('static/data/title.json'))
 
 console.log({ env })
 

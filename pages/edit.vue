@@ -1,56 +1,57 @@
 <template>
   <div>
+    <v-sheet color="grey lighten-2">
+      <v-container fluid class="py-4">
+        <v-breadcrumbs class="py-0" :items="breadcrumbs">
+          <template #divider>
+            <v-icon>mdi-chevron-right</v-icon>
+          </template>
+        </v-breadcrumbs>
+      </v-container>
+    </v-sheet>
     <v-container fluid class="my-5">
-      <div class="mb-5 text-center">
-        <v-btn
-          v-if="source.prev"
-          color="primary"
-          class="ma-1"
-          :href="
-            baseUrl + localePath({ name: 'edit', query: { id: source.prev } })
-          "
-          ><v-icon>mdi-arrow-left-bold</v-icon>
-          {{ $t('前の大項目に進む') }}</v-btn
-        >
-        <v-btn
-          class="ma-1"
-          color="cyan"
-          dark
-          :to="localePath({ name: 'table', query: { id } })"
-          >{{ $t('一覧') }}</v-btn
-        >
-
-        <v-btn
-          v-if="userRole == 'global_admin'"
-          class="ma-1"
-          :color="!finished ? 'success' : 'error'"
-          dark
-          @click="finish()"
-          >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
-        >
-        <v-btn
-          v-if="source.next"
-          color="primary"
-          class="ma-1"
-          :href="
-            baseUrl + localePath({ name: 'edit', query: { id: source.next } })
-          "
-          ><v-icon>mdi-arrow-right-bold</v-icon>
-          {{ $t('次の大項目に進む') }}</v-btn
-        >
-      </div>
       <v-row>
         <v-col cols="12" sm="6">
-          <v-sheet class="pa-3 text-center" dark color="primary">
-            <small>
-              {{ $t('項目名') }}[{{ source.title }}], {{ $t('著者') }}[{{
-                source.authors.join(', ')
-              }}],
-              {{
-                lang == 'ja' ? source.publish_year + '年' : source.publish_year
-              }}, {{ getVolAndPage }}
-            </small>
-          </v-sheet>
+          <div class="mb-5 text-center">
+            <v-btn
+              v-if="source.prev"
+              color="primary"
+              class="ma-1"
+              :href="
+                baseUrl +
+                localePath({ name: 'edit', query: { id: source.prev } })
+              "
+              ><v-icon>mdi-arrow-left-bold</v-icon>
+              {{ $t('前の大項目に進む') }}</v-btn
+            >
+            <v-btn
+              class="ma-1"
+              color="cyan"
+              dark
+              :to="localePath({ name: 'table', query: { id } })"
+              >{{ $t('一覧') }}</v-btn
+            >
+
+            <v-btn
+              v-if="userRole == 'global_admin'"
+              class="ma-1"
+              :color="!finished ? 'success' : 'error'"
+              dark
+              @click="finish()"
+              >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
+            >
+            <v-btn
+              v-if="source.next"
+              color="primary"
+              class="ma-1"
+              :href="
+                baseUrl +
+                localePath({ name: 'edit', query: { id: source.next } })
+              "
+              ><v-icon>mdi-arrow-right-bold</v-icon>
+              {{ $t('次の大項目に進む') }}</v-btn
+            >
+          </div>
 
           <v-card outlined flat class="pa-4 mt-5">
             <div
@@ -119,19 +120,19 @@
                             <td>
                               <template v-if="obj.type == 'checkbox'">
                                 <v-row>
-                                  <v-col>
-                                    <v-text-field
+                                  <v-col cols="12" sm="8">
+                                    <v-textarea
                                       v-model="item[obj.label].input"
-                                      dense
-                                      class="mt-5"
+                                      auto-grow
+                                      rows="1"
                                       :placeholder="
                                         obj.placeholder ||
                                         $t('値を入力してください。')
                                       "
                                       clearable
-                                    ></v-text-field
-                                  ></v-col>
-                                  <v-col>
+                                    ></v-textarea>
+                                  </v-col>
+                                  <v-col cols="12" sm="4">
                                     <v-checkbox
                                       v-model="item[obj.label].etcValue"
                                       :label="obj.etcLabel"
@@ -139,18 +140,43 @@
                                   </v-col>
                                 </v-row>
                               </template>
-
-                              <template v-else>
-                                <v-text-field
+                              <template v-else-if="obj.changed">
+                                <v-textarea
                                   v-model="item[obj.label].input"
-                                  dense
-                                  class="mt-5"
+                                  auto-grow
+                                  rows="1"
                                   :placeholder="
                                     obj.placeholder ||
                                     $t('値を入力してください。')
                                   "
                                   clearable
-                                ></v-text-field>
+                                  @input="formUpdated(obj.label)"
+                                ></v-textarea>
+                              </template>
+                              <template v-else-if="obj.target">
+                                <v-combobox
+                                  v-model="item[obj.label].input"
+                                  class="mt-5"
+                                  :items="config[obj.target].items"
+                                  :placeholder="
+                                    obj.placeholder ||
+                                    $t('値を入力してください。')
+                                  "
+                                  dense
+                                ></v-combobox>
+                              </template>
+                              <template v-else>
+                                <v-textarea
+                                  v-model="item[obj.label].input"
+                                  auto-grow
+                                  rows="1"
+                                  :placeholder="
+                                    obj.placeholder ||
+                                    $t('値を入力してください。')
+                                  "
+                                  clearable
+                                  @input="formUpdated(obj.label)"
+                                ></v-textarea>
                               </template>
                             </td>
                           </tr>
@@ -159,7 +185,7 @@
                     </v-simple-table>
                   </div>
                 </div>
-                <div class="mt-5 text-center">
+                <div class="text-center">
                   <v-btn
                     class="ma-1"
                     color="primary"
@@ -268,7 +294,29 @@ export default {
     return {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
-      fields: [
+      userUids: [],
+      authority: {},
+      authorities: [],
+      tab: 0,
+      dialog: false,
+      loading: false,
+      modal: false,
+      finished: false,
+      config: {
+        'Auteur mentionné': {
+          all: process.env.allAuteur,
+          items: [],
+        },
+        'Titre mentionné': {
+          all: process.env.allTitle,
+          items: [],
+        },
+      },
+    }
+  },
+  computed: {
+    fields() {
+      return [
         {
           label: this.$t('抽出要素'),
           children: [
@@ -299,6 +347,10 @@ export default {
             {
               label: 'Signature',
               value: '',
+              type: 'checkbox',
+              etcValue: '',
+              etcLabel: this.$t('イタリック'),
+              id: 'i',
             },
             {
               label: 'Collaborateur',
@@ -307,10 +359,12 @@ export default {
             {
               label: 'Auteur mentionné',
               value: '',
+              changed: true,
             },
             {
               label: 'Titre mentionné',
               value: '',
+              changed: true,
             },
           ],
         },
@@ -324,10 +378,12 @@ export default {
             {
               label: 'Auteur',
               value: '',
+              target: 'Auteur mentionné',
             },
             {
               label: 'titre',
               value: '',
+              target: 'Titre mentionné',
             },
             {
               label: 'année de la pub.',
@@ -343,18 +399,8 @@ export default {
             },
           ],
         },
-      ],
-      userUids: [],
-      authority: {},
-      authorities: [],
-      tab: 0,
-      dialog: false,
-      loading: false,
-      modal: false,
-      finished: false,
-    }
-  },
-  computed: {
+      ]
+    },
     lang() {
       return this.$i18n.locale
     },
@@ -392,11 +438,15 @@ export default {
 
             if (obj.id) {
               const value = authority[obj.label] || ''
-              const etcValue = value.includes('<' + obj.id + '>')
+              const etcValue = value.split('<' + obj.id + '>').length === 2
               data[obj.label] = {
-                input: value
-                  .replace('<' + obj.id + '>', '')
-                  .replace('</' + obj.id + '>', ''),
+                input: etcValue
+                  ? value
+                      .split('<' + obj.id + '>')
+                      .join('')
+                      .split('</' + obj.id + '>')
+                      .join('')
+                  : value,
                 raw: value,
                 etcValue,
                 id: obj.id,
@@ -416,6 +466,108 @@ export default {
       return formData
     },
     getHtml() {
+      let html = this.source.texthtml
+      // html = html.split('\n').join(' ')
+      const authorities = this.authorities
+
+      const map = {}
+
+      for (let i = 0; i < authorities.length; i++) {
+        const authority = authorities[i]
+        let title = (authority['Titre mentionné'] || '').trim()
+
+        if (title !== '') {
+          const query =
+            '(>| |’|\n)' + title.split(' ').join('(.+?)') + '(<| |,|\\.|\n)'
+
+          const bar = html.match(query)
+
+          if (bar) {
+            const barLength = bar.length
+            let text = bar[0]
+            if (bar[1] !== '') {
+              text = text.substring(1)
+            }
+            if (bar[barLength - 1] !== '') {
+              text = text.substring(0, text.length - 1)
+            }
+
+            /*
+            html = html
+              .split(text)
+              .join(
+                `<span type="titre" id="e${this.id}-${i + 1}">${text}</span>`
+              )
+            */
+
+            const uuid = generateUuid()
+            html = html.split(text).join(uuid)
+
+            map[uuid] = `<span type="titre" id="e${this.id}-${
+              i + 1
+            }">${text}</span>`
+          }
+        }
+
+        // ---------------------
+
+        title = (authority['Auteur mentionné'] || '').trim()
+
+        if (title !== '') {
+          const query =
+            '(>| |’)' + title.split(' ').join('(.+?)') + '(<| |,|\\.)'
+
+          const bar = html.match(query)
+
+          if (bar) {
+            const barLength = bar.length
+            let text = bar[0]
+            if (bar[1] !== '') {
+              text = text.substring(1)
+            }
+            if (bar[barLength - 1] !== '') {
+              text = text.substring(0, text.length - 1)
+            }
+
+            const uuid = generateUuid()
+            html = html.split(text).join(uuid)
+
+            map[uuid] = `<span type="author">${text}</span>`
+          }
+        }
+      }
+
+      const auteurList = process.env.auteur_list
+      auteurList.sort(function (a, b) {
+        return b.length - a.length
+      })
+
+      for (let i = 0; i < auteurList.length; i++) {
+        const value = auteurList[i]
+        if (html.includes(value)) {
+          console.log(value)
+        }
+        html = html.split(value).join(`<span type="auteur_p">${value}</span>`)
+      }
+
+      const list = process.env.titre_list
+      list.sort(function (a, b) {
+        return b.length - a.length
+      })
+
+      for (let i = 0; i < list.length; i++) {
+        const value = list[i]
+
+        html = html.split(value).join(`<span type="proposed">${value}</span>`)
+      }
+
+      for (const uuid in map) {
+        html = html.split(uuid).join(map[uuid])
+      }
+
+      return html
+    },
+    getHtml2() {
       let html = this.source.texthtml_re
       // html = html.split('\n').join(' ')
       const authorities = this.authorities
@@ -482,6 +634,37 @@ export default {
         return null
       }
     },
+    breadcrumbs() {
+      const source = this.source
+      return [
+        {
+          text: this.$t('HOME'),
+          disabled: false,
+          to: this.localePath({ name: 'index' }),
+          exact: true,
+        },
+        {
+          text:
+            (this.lang === 'en' ? `Vol. ${2}` : `第${2}巻`) +
+            ' ' +
+            this.$t('目次'),
+          disabled: false,
+          to: this.localePath({ name: 'toc' }),
+          exact: true,
+        },
+        {
+          text:
+            `${this.$t('項目名')}[${source.title}], ${this.$t(
+              '著者'
+            )}[${source.authors.join(', ')}],` +
+            (this.lang === 'ja'
+              ? `${source.publish_year}年`
+              : source.publish_year) +
+            ', ' +
+            this.getVolAndPage,
+        },
+      ]
+    },
   },
   watch: {
     tab() {
@@ -491,6 +674,10 @@ export default {
         y: true,
       }
       VueScrollTo.scrollTo('#e' + id, 500, options)
+
+      for (const key in this.config) {
+        this.formUpdated(key)
+      }
     },
   },
   created() {
@@ -518,6 +705,7 @@ export default {
       .collection('items')
       .doc(this.id)
       .collection('authorities')
+      .orderBy('createTime')
       .onSnapshot(
         (res) => {
           const authorities = []
@@ -534,6 +722,11 @@ export default {
       )
   },
   methods: {
+    formUpdated(key) {
+      const config = this.config[key]
+      const value = this.formData[this.tab][key].input
+      config.items = config.all[value]
+    },
     initAuthority() {
       const fields = this.fields
       const data = {}
@@ -803,23 +996,23 @@ th {
   border: 0.1px solid lightgrey;
 }
 span[type='proposed'] {
-  color: #f44336;
+  color: #f44336; /* 赤 */
 }
 span[type='auteur_p'] {
   font-weight: bold;
-  color: #00f;
+  color: #00f; /* 青 */
 }
 span[type='titre'] {
-  color: #9c27b0;
+  color: #9c27b0; /* 紫 */
   font-weight: bold;
 }
 
 span[type='author'] {
-  color: #03a9f4;
+  color: #03a9f4; /* 水色 */
 }
 i > span[type='proposed'] {
   font-weight: bold;
-  color: #f44336;
+  color: #f44336; /* 赤 */
 }
 i {
   font-weight: bold;

@@ -1,24 +1,8 @@
 <template>
   <AdminLayout :breadcrumbs="breadcrumbs">
-    <v-row class="mb-5">
-      <v-col
-        ><h2>{{ user.id }}・{{ $t('編集') }}</h2></v-col
-      >
-      <v-col class="text-right">
-        <v-btn
-          :to="
-            localePath({
-              name: 'admin-user-id',
-              params: { id: user.id },
-            })
-          "
-          >{{ $t('キャンセル') }}</v-btn
-        >
-        <v-btn :loading="loading" @click="save()">{{
-          $t('保存')
-        }}</v-btn></v-col
-      >
-    </v-row>
+    <div class="text-right mb-5">
+      <v-btn :loading="loading" @click="save()">{{ $t('保存') }}</v-btn>
+    </div>
     <v-simple-table>
       <template v-slot:default>
         <tbody>
@@ -109,6 +93,18 @@ export default {
           disabled: false,
           to: this.localePath({ name: 'admin-user' }),
           exact: true,
+        },
+        {
+          text: this.user.id,
+          disabled: false,
+          to: this.localePath({
+            name: 'admin-user-id',
+            params: { id: this.user.id },
+          }),
+          exact: true,
+        },
+        {
+          text: this.$t('編集'),
         },
       ]
     },

@@ -1,21 +1,34 @@
 <template>
-  <v-data-table :headers="headers" :items="items" :items-per-page="-1">
-    <template v-slot:item.Nomenclature="{ item }">
-      <span v-html="item.Nomenclature"></span>
-    </template>
-    <template v-slot:item.Désignant="{ item }">
-      <span v-html="item.Désignant"></span>
-    </template>
-  </v-data-table>
+  <div>
+    <v-data-table :headers="headers" :items="items" :items-per-page="-1">
+      <template v-slot:item.Nomenclature="{ item }">
+        <span v-html="handleSc(item.Nomenclature)"></span>
+      </template>
+      <template v-slot:item.Désignant="{ item }">
+        <span v-html="item.Désignant"></span>
+      </template>
+      <template v-slot:item.Signature="{ item }">
+        <span v-html="item.Signature"></span>
+      </template>
+    </v-data-table>
+
+    <v-btn color="primary" class="mt-5" @click="downloadExcelFile()"
+      >エクセルファイルをダウンロード</v-btn
+    >
+  </div>
 </template>
 
 <script lang="ts">
 import { Vue, Prop, Component } from 'vue-property-decorator'
+import XLSX from 'xlsx'
 
 @Component
 export default class grid extends Vue {
   @Prop()
   data!: any[]
+
+  @Prop()
+  id!: string
 
   fields: any[] = [
     {
@@ -155,16 +168,23 @@ export default class grid extends Vue {
           value = this.$utils.timestampToTime(value)
         }
 
-        if (field === 'Nomenclature') {
-          value = value.replace('<sc>', "<sc class='sc'>")
-        }
-
         item[field] = value
       }
 
       items.push(item)
     }
     return items
+  }
+
+  handleSc(value: string) {
+    return value.split('<sc>').join("<sc class='sc'>")
+  }
+
+  downloadExcelFile() {
+    const exportBook = XLSX.utils.book_new()
+    const sexportSheet = XLSX.utils.json_to_sheet(this.items)
+    XLSX.utils.book_append_sheet(exportBook, sexportSheet, 'sheetName')
+    XLSX.writeFile(exportBook, this.id + '.xlsx')
   }
 }
 </script>
