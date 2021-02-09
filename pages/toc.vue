@@ -195,11 +195,19 @@ export default {
         const id = this.vol + '-' + (i + 1)
         if (map[id]) {
           const item = map[id]
-          done.push({
-            label: obj.label,
-            id,
-            status: item.finish === 1 ? 'finished' : 'unfinished',
-          })
+
+          if ((item.authorities && item.authorities > 0) || item.noA === 1) {
+            done.push({
+              label: obj.label,
+              id,
+              status: item.finish === 1 ? 'finished' : 'unfinished',
+            })
+          } else {
+            undone.push({
+              label: obj.label,
+              id,
+            })
+          }
         } else {
           undone.push({
             label: obj.label,

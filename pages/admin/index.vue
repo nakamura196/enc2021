@@ -13,27 +13,65 @@
         }}</nuxt-link>
       </li>
     </ul>
+
+    <h3 class="mt-10">{{ $t('History Log') }}</h3>
+
+    <v-data-table
+      :headers="headers"
+      :items="items"
+      :items-per-page="5"
+      class="mt-5"
+    >
+      <template v-slot:item.id="{ item }">
+        <nuxt-link :to="localePath({ name: 'edit', query: { id: item.id } })">
+          {{ item.id }}
+        </nuxt-link>
+      </template>
+      <template v-slot:item.authorities="{ item }">
+        {{ item.authorities || 0 }}
+      </template>
+      <template v-slot:item.event="{ item }">
+        {{ $t(item.event) }}
+      </template>
+      <template v-slot:item.finish="{ item }">
+        {{ item.finish === 1 ? '○' : '' }}
+      </template>
+      <template v-slot:item.noA="{ item }">
+        {{ item.noA === 1 ? '○' : '' }}
+      </template>
+      <template v-slot:item.updateTime="{ item }">
+        {{ $utils.timestampToTime(item.updateTime) }}
+      </template>
+    </v-data-table>
+
+    <Ranking></Ranking>
   </AdminLayout>
 </template>
 
 <script>
 import firebase from '@/plugins/firebase'
 import AdminLayout from '~/components/admin/Layout.vue'
+import Ranking from '~/components/admin/Ranking.vue'
 
 export default {
   components: {
     AdminLayout,
+    Ranking,
   },
   data() {
     return {
       users: [],
       headers: [
+        { text: '更新日', value: 'updateTime' },
         { text: 'ID', value: 'id' },
-        { text: '表示名', value: 'name' },
-        { text: '役割', value: 'role' },
-        { text: '作成日', value: 'createTime' },
+        { text: this.$t('User'), value: 'editor' },
+        { text: this.$t('Action'), value: 'event' },
+        { text: '典拠数', value: 'authorities' },
+        { text: '完了', value: 'finish' },
+        { text: '典拠なし', value: 'noA' },
       ],
       title: process.env.siteName,
+      items: [],
     }
   },
   computed: {
@@ -61,6 +99,24 @@ export default {
             users.push(user)
           })
           this.users = users
+        },
+        (error) => {
+          console.error('GET_REALTIME_LIST', error)
+        }
+      )
+
+    firebase
+      .firestore()
+      .collection('items')
+      .orderBy('updateTime', 'desc')
+      .onSnapshot(
+        (res) => {
+          const items = []
+          res.forEach(function (doc) {
+            const item = doc.data()
+            items.push(item)
+          })
+          this.items = items
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)

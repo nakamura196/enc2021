@@ -1,264 +1,287 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="breadcrumbs">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
-    <v-container fluid class="my-5">
-      <v-row>
-        <v-col cols="12" sm="6">
-          <div class="mb-6 text-center">
-            <v-btn
-              v-if="source.prev"
-              color="primary"
-              class="ma-1"
-              :href="
-                baseUrl +
-                localePath({ name: 'edit', query: { id: source.prev } })
-              "
-              ><v-icon>mdi-arrow-left-bold</v-icon>
-              {{ $t('前の大項目に進む') }}</v-btn
-            >
-            <v-btn
-              class="ma-1"
-              color="cyan"
-              dark
-              :to="localePath({ name: 'table', query: { id } })"
-              >{{ $t('一覧') }}</v-btn
-            >
+    <template v-if="!loaded">
+      <div class="text-center pa-10">
+        <v-progress-circular
+          indeterminate
+          color="primary"
+        ></v-progress-circular>
+      </div>
+    </template>
+    <template v-else>
+      <v-sheet color="grey lighten-2">
+        <v-container fluid class="py-4">
+          <v-breadcrumbs class="py-0" :items="breadcrumbs">
+            <template #divider>
+              <v-icon>mdi-chevron-right</v-icon>
+            </template>
+          </v-breadcrumbs>
+        </v-container>
+      </v-sheet>
+      <v-container fluid class="my-5">
+        <v-row>
+          <v-col cols="12" sm="6">
+            <div class="mb-6 text-center">
+              <v-btn
+                v-if="source.prev"
+                color="primary"
+                class="ma-1"
+                :href="
+                  baseUrl +
+                  localePath({ name: 'edit', query: { id: source.prev } })
+                "
+                ><v-icon>mdi-arrow-left-bold</v-icon>
+                {{ $t('前の大項目に進む') }}</v-btn
+              >
+              <v-btn
+                class="ma-1"
+                color="cyan"
+                dark
+                :to="localePath({ name: 'table', query: { id } })"
+                >{{ $t('一覧') }}</v-btn
+              >
 
-            <v-btn
-              v-if="userRole == 'global_admin'"
-              class="ma-1"
-              :color="!finished ? 'success' : 'error'"
-              dark
-              @click="finish()"
-              >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
-            >
-            <v-btn
-              v-if="source.next"
-              color="primary"
-              class="ma-1"
-              :href="
-                baseUrl +
-                localePath({ name: 'edit', query: { id: source.next } })
-              "
-              ><v-icon>mdi-arrow-right-bold</v-icon>
-              {{ $t('次の大項目に進む') }}</v-btn
-            >
-          </div>
+              <v-btn
+                v-if="formData.length < 2"
+                class="ma-1"
+                :color="!noA ? 'success' : 'error'"
+                dark
+                @click="setNoA()"
+                >{{ !noA ? $t('典拠なしにする') : $t('典拠ありに戻す') }}</v-btn
+              >
 
-          <v-card outlined flat class="pa-4 mt-5">
-            <div
-              id="html"
-              style="height: 650px; overflow-y: auto"
-              class="pa-3"
-              v-html="getHtml"
-            ></div>
-          </v-card>
-        </v-col>
-        <v-col v-if="isSignedIn" cols="12" sm="6">
-          <v-tabs v-model="tab" background-color="primary" dark>
-            <v-tab v-for="(item, key) in formData.length" :key="key">{{
-              key !== 0 ? $t('典拠') + key : $t('新規')
-            }}</v-tab>
-          </v-tabs>
+              <v-btn
+                v-if="userRole == 'global_admin'"
+                class="ma-1"
+                :color="!finished ? 'success' : 'error'"
+                dark
+                @click="finish()"
+                >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
+              >
+              <v-btn
+                v-if="source.next"
+                color="primary"
+                class="ma-1"
+                :href="
+                  baseUrl +
+                  localePath({ name: 'edit', query: { id: source.next } })
+                "
+                ><v-icon>mdi-arrow-right-bold</v-icon>
+                {{ $t('次の大項目に進む') }}</v-btn
+              >
+            </div>
 
-          <v-tabs-items v-model="tab">
-            <v-tab-item v-for="(item, key) in formData" :key="key">
-              <v-card outlined flat class="pa-4 mt-5">
-                <div style="height: 600px; overflow-y: auto" class="pa-3">
-                  <div v-for="(f, key3) in fields" :key="key3" class="mb-10">
-                    <h4 class="mb-2">{{ f.label }}</h4>
-                    <v-simple-table dense>
-                      <template v-slot:default>
-                        <tbody>
-                          <tr v-for="(obj, key2) in f.children" :key="key2">
-                            <td width="25%">{{ obj.label }}</td>
-                            <td>
-                              <template v-if="obj.type == 'checkbox'">
-                                <v-row>
-                                  <v-col cols="12" sm="8">
-                                    <v-textarea
-                                      v-model="item[obj.label].input"
-                                      auto-grow
-                                      rows="1"
-                                      :placeholder="
-                                        obj.placeholder ||
-                                        $t('値を入力してください。')
-                                      "
-                                      clearable
-                                    ></v-textarea>
-                                  </v-col>
-                                  <v-col cols="12" sm="4">
-                                    <v-checkbox
-                                      v-model="item[obj.label].etcValue"
-                                      :label="obj.etcLabel"
-                                    ></v-checkbox>
-                                  </v-col>
-                                </v-row>
-                              </template>
-                              <template v-else-if="obj.changed">
-                                <v-textarea
-                                  v-model="item[obj.label].input"
-                                  auto-grow
-                                  rows="1"
-                                  :placeholder="
-                                    obj.placeholder ||
-                                    $t('値を入力してください。')
-                                  "
-                                  clearable
-                                  @input="formUpdated(obj.label)"
-                                ></v-textarea>
-                              </template>
-                              <template v-else-if="obj.target">
-                                <v-combobox
-                                  v-model="item[obj.label].input"
-                                  class="mt-5"
-                                  :items="config[obj.target].items"
-                                  :placeholder="
-                                    obj.placeholder ||
-                                    $t('値を入力してください。')
-                                  "
-                                  dense
-                                ></v-combobox>
-                              </template>
-                              <template v-else>
-                                <v-textarea
-                                  v-model="item[obj.label].input"
-                                  auto-grow
-                                  rows="1"
-                                  :placeholder="
-                                    obj.placeholder ||
-                                    $t('値を入力してください。')
-                                  "
-                                  clearable
-                                  @input="formUpdated(obj.label)"
-                                ></v-textarea>
-                              </template>
-                            </td>
-                          </tr>
-                        </tbody>
-                      </template>
-                    </v-simple-table>
+            <v-card outlined flat class="pa-4 mt-5">
+              <div
+                id="html"
+                style="height: 650px; overflow-y: auto"
+                class="pa-3"
+                v-html="getHtml"
+              ></div>
+            </v-card>
+          </v-col>
+          <v-col v-if="isSignedIn" cols="12" sm="6">
+            <v-tabs v-model="tab" background-color="primary" dark>
+              <v-tab v-for="(item, key) in formData.length" :key="key">{{
+                key !== 0 ? $t('典拠') + key : $t('新規')
+              }}</v-tab>
+            </v-tabs>
+
+            <v-tabs-items v-model="tab">
+              <v-tab-item v-for="(item, key) in formData" :key="key">
+                <v-card outlined flat class="pa-4 mt-5">
+                  <div style="height: 600px; overflow-y: auto" class="pa-3">
+                    <div v-for="(f, key3) in fields" :key="key3" class="mb-10">
+                      <h4 class="mb-2">{{ f.label }}</h4>
+                      <v-simple-table dense>
+                        <template v-slot:default>
+                          <tbody>
+                            <tr v-for="(obj, key2) in f.children" :key="key2">
+                              <td width="25%">{{ obj.label }}</td>
+                              <td>
+                                <template v-if="obj.type == 'checkbox'">
+                                  <v-row>
+                                    <v-col cols="12" sm="8">
+                                      <v-textarea
+                                        v-model="item[obj.label].input"
+                                        auto-grow
+                                        rows="1"
+                                        :placeholder="
+                                          obj.placeholder ||
+                                          $t('値を入力してください。')
+                                        "
+                                        clearable
+                                      ></v-textarea>
+                                    </v-col>
+                                    <v-col cols="12" sm="4">
+                                      <v-checkbox
+                                        v-model="item[obj.label].etcValue"
+                                        :label="obj.etcLabel"
+                                      ></v-checkbox>
+                                    </v-col>
+                                  </v-row>
+                                </template>
+                                <template v-else-if="obj.changed">
+                                  <v-textarea
+                                    v-model="item[obj.label].input"
+                                    auto-grow
+                                    rows="1"
+                                    :placeholder="
+                                      obj.placeholder ||
+                                      $t('値を入力してください。')
+                                    "
+                                    clearable
+                                    @input="formUpdated(obj.label)"
+                                  ></v-textarea>
+                                </template>
+                                <template v-else-if="obj.target">
+                                  <v-combobox
+                                    v-model="item[obj.label].input"
+                                    class="mt-5"
+                                    :items="config[obj.target].items"
+                                    :placeholder="
+                                      obj.placeholder ||
+                                      $t('値を入力してください。')
+                                    "
+                                    dense
+                                  ></v-combobox>
+                                </template>
+                                <template v-else>
+                                  <v-textarea
+                                    v-model="item[obj.label].input"
+                                    auto-grow
+                                    rows="1"
+                                    :placeholder="
+                                      obj.placeholder ||
+                                      $t('値を入力してください。')
+                                    "
+                                    clearable
+                                    @input="formUpdated(obj.label)"
+                                  ></v-textarea>
+                                </template>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </template>
+                      </v-simple-table>
+                    </div>
                   </div>
-                </div>
-                <div class="text-center mt-5">
-                  <v-btn
-                    class="ma-1"
-                    color="primary"
-                    :loading="loading"
-                    :disabled="loading"
-                    @click="submit()"
-                    >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
+                  <div class="text-center mt-5">
+                    <v-btn
+                      class="ma-1"
+                      color="primary"
+                      :loading="loading"
+                      :disabled="loading"
+                      @click="submit()"
+                      >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
+                    >
+
+                    <template v-if="tab !== 0 && currentAuthority">
+                      <v-btn
+                        v-if="!currentAuthority.doubleChecked"
+                        class="ma-1"
+                        color="success"
+                        :loading="loading"
+                        :disabled="loading"
+                        @click="submit(true)"
+                        >{{ $t('ダブルチェック') }}</v-btn
+                      >
+                      <v-btn
+                        class="ma-1"
+                        color="error"
+                        :loading="loading"
+                        :disabled="loading"
+                        @click="modal = true"
+                        >{{ $t('削除') }}</v-btn
+                      >
+                    </template>
+                  </div>
+
+                  <v-sheet
+                    v-if="tab != 0 && currentAuthority"
+                    class="pa-3 mt-5"
+                    color="grey lighten-3"
                   >
+                    <small>
+                      <span class="mr-4">
+                        <b>ID</b>:
+                        {{ currentAuthority.geel_id }}
+                      </span>
+                      <span class="mr-4">
+                        <b>{{ $t('作業者') }}</b
+                        >:
+                        {{ currentAuthority.editors.join(', ') }}
+                      </span>
+                      <span class="mr-4">
+                        <b>{{ $t('作成日') }}</b
+                        >:
+                        {{
+                          $utils.timestampToTime(currentAuthority.createTime)
+                        }}
+                      </span>
+                      <span class="mr-4">
+                        <b>{{ $t('更新日') }}</b
+                        >:
+                        {{
+                          $utils.timestampToTime(currentAuthority.updateTime)
+                        }}
+                      </span>
+                      <span class="mr-4">
+                        <b>{{ $t('ダブルチェック') }}</b
+                        >:
+                        {{ currentAuthority.doubleChecked ? 'Y' : 'N' }}
+                      </span>
+                    </small>
+                  </v-sheet>
+                </v-card>
+              </v-tab-item>
+            </v-tabs-items>
+          </v-col>
+        </v-row>
+      </v-container>
 
-                  <template v-if="tab !== 0 && currentAuthority">
-                    <v-btn
-                      v-if="!currentAuthority.doubleChecked"
-                      class="ma-1"
-                      color="success"
-                      :loading="loading"
-                      :disabled="loading"
-                      @click="submit(true)"
-                      >{{ $t('ダブルチェック') }}</v-btn
-                    >
-                    <v-btn
-                      class="ma-1"
-                      color="error"
-                      :loading="loading"
-                      :disabled="loading"
-                      @click="modal = true"
-                      >{{ $t('削除') }}</v-btn
-                    >
-                  </template>
-                </div>
+      <v-snackbar v-model="dialog" top :timeout="2000">
+        {{ $t('登録しました。') }}
 
-                <v-sheet
-                  v-if="tab != 0 && currentAuthority"
-                  class="pa-3 mt-5"
-                  color="grey lighten-3"
-                >
-                  <small>
-                    <span class="mr-4">
-                      <b>ID</b>:
-                      {{ currentAuthority.geel_id }}
-                    </span>
-                    <span class="mr-4">
-                      <b>{{ $t('作業者') }}</b
-                      >:
-                      {{ currentAuthority.editors.join(', ') }}
-                    </span>
-                    <span class="mr-4">
-                      <b>{{ $t('作成日') }}</b
-                      >:
-                      {{ $utils.timestampToTime(currentAuthority.createTime) }}
-                    </span>
-                    <span class="mr-4">
-                      <b>{{ $t('更新日') }}</b
-                      >:
-                      {{ $utils.timestampToTime(currentAuthority.updateTime) }}
-                    </span>
-                    <span class="mr-4">
-                      <b>{{ $t('ダブルチェック') }}</b
-                      >:
-                      {{ currentAuthority.doubleChecked ? 'Y' : 'N' }}
-                    </span>
-                  </small>
-                </v-sheet>
-              </v-card>
-            </v-tab-item>
-          </v-tabs-items>
-        </v-col>
-      </v-row>
-    </v-container>
-
-    <v-snackbar v-model="dialog" top :timeout="2000">
-      {{ $t('登録しました。') }}
-
-      <template v-slot:action="{ attrs }">
-        <v-btn color="blue" text v-bind="attrs" @click="dialog = false">
-          Close
-        </v-btn>
-      </template>
-    </v-snackbar>
-
-    <v-dialog v-if="false" v-model="dialog" persistent max-width="290">
-      <v-card>
-        <v-card-title>
-          {{ $t('登録しました。') }}
-        </v-card-title>
-        <v-card-actions>
-          <v-spacer></v-spacer>
-          <v-btn color="primary" text @click="dialog = false">
-            {{ $t('close') }}
+        <template v-slot:action="{ attrs }">
+          <v-btn color="blue" text v-bind="attrs" @click="dialog = false">
+            Close
           </v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-dialog>
+        </template>
+      </v-snackbar>
 
-    <v-dialog v-model="modal" persistent max-width="290">
-      <v-card>
-        <v-card-title class="headline">
-          {{ $t('本当に削除してよいですか?') }}
-        </v-card-title>
+      <v-dialog v-if="false" v-model="dialog" persistent max-width="290">
+        <v-card>
+          <v-card-title>
+            {{ $t('登録しました。') }}
+          </v-card-title>
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn color="primary" text @click="dialog = false">
+              {{ $t('close') }}
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
 
-        <v-card-actions>
-          <v-spacer></v-spacer>
-          <v-btn @click="modal = false">
-            {{ $t('キャンセル') }}
-          </v-btn>
-          <v-btn color="error" @click="del">
-            {{ $t('実行') }}
-          </v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-dialog>
+      <v-dialog v-model="modal" persistent max-width="290">
+        <v-card>
+          <v-card-title class="headline">
+            {{ $t('本当に削除してよいですか?') }}
+          </v-card-title>
+
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn @click="modal = false">
+              {{ $t('キャンセル') }}
+            </v-btn>
+            <v-btn color="error" @click="del">
+              {{ $t('実行') }}
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
+    </template>
   </div>
 </template>
 
@@ -298,6 +321,8 @@ export default {
       loading: false,
       modal: false,
       finished: false,
+      noA: false,
+      loaded: false,
       config: {
         'Auteur mentionné': {
           all: process.env.allAuteur,
@@ -686,7 +711,11 @@ export default {
       .doc(this.id)
       .onSnapshot(
         (res) => {
-          this.finished = res.data().finish === 1
+          const data = res.data()
+          if (data) {
+            this.finished = res.data().finish === 1
+            this.noA = res.data().noA === 1
+          }
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)
@@ -708,6 +737,7 @@ export default {
             authorities.push(authority)
           })
           this.authorities = authorities
+          this.loaded = true
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)
@@ -762,6 +792,35 @@ export default {
         // id: anotherUserRef.id,
         updateTime: FieldValue.serverTimestamp(),
         finish: !this.finished ? 1 : 0,
+        editor: this.userName,
+        event: 'action_finish',
+      })
+
+      await batch.commit()
+    },
+    async setNoA() {
+      const fItem = await firebase
+        .firestore()
+        .collection('items')
+        .doc(this.id)
+        .get()
+      const itemRef = fItem.ref
+      if (!fItem.exists) {
+        await itemRef.set({
+          id: this.id,
+          createTime: FieldValue.serverTimestamp(),
+          updateTime: FieldValue.serverTimestamp(),
+        })
+      }
+
+      const batch = firestore.batch()
+
+      batch.update(firestore.doc(itemRef.path), {
+        // id: anotherUserRef.id,
+        updateTime: FieldValue.serverTimestamp(),
+        noA: !this.noA ? 1 : 0,
+        editor: this.userName,
+        event: 'action_authority',
       })
 
       await batch.commit()
@@ -804,13 +863,26 @@ export default {
         })
       }
 
-      batch.update(firestore.doc(itemRef.path), {
+      const tab = this.tab
+
+      let event = 'create'
+      if (tab !== 0) {
+        event = 'update'
+      }
+
+      const params = {
         // id: anotherUserRef.id,
         updateTime: FieldValue.serverTimestamp(),
         likedUsers: firebase.firestore.FieldValue.arrayUnion(anotherUserRef.id),
-      })
+        editor: this.userName,
+        event,
+      }
 
-      const tab = this.tab
+      // 新規追加の場合
+      if (tab === 0) {
+        params.authorities = FieldValue.increment(1)
+      }
+      batch.update(firestore.doc(itemRef.path), params)
 
       const formData = this.formData[tab]
 
@@ -872,14 +944,13 @@ export default {
       */
 
       // batch.update(itemRef, { likeCount: FieldValue.increment(1) })
-      batch.update(anotherUserRef, { likeItemCount: FieldValue.increment(1) })
+      batch.update(anotherUserRef, {
+        likeItemCount: FieldValue.increment(1),
+        authorities: firebase.firestore.FieldValue.arrayUnion(id),
+      })
 
       await batch.commit()
 
-      let event = 'create'
-      if (tab !== 0) {
-        event = 'update'
-      }
       firebase.analytics().logEvent(event, {
         uid: this.userUid,
         eid: this.id,
@@ -922,6 +993,9 @@ export default {
         likedUsers: firebase.firestore.FieldValue.arrayRemove(
           anotherUserRef.id
         ),
+        authorities: FieldValue.increment(-1),
+        editor: this.userName,
+        event: 'delete',
       })
 
       const id = this.authorities[this.tab - 1].geel_id
@@ -932,6 +1006,7 @@ export default {
       // batch.update(itemRef, { likeCount: FieldValue.increment(-1) })
       batch.update(anotherUserRef, {
         likeItemCount: FieldValue.increment(-1),
+        authorities: firebase.firestore.FieldValue.arrayRemove(id),
       })
 
       /*
