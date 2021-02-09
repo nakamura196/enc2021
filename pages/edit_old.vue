@@ -12,7 +12,7 @@
     <v-container fluid class="my-5">
       <v-row>
         <v-col cols="12" sm="6">
-          <div class="mb-5 text-center">
+          <div class="mb-6 text-center">
             <v-btn
               v-if="source.prev"
               color="primary"
@@ -56,7 +56,7 @@
           <v-card outlined flat class="pa-4 mt-5">
             <div
               id="html"
-              style="height: 600px; overflow-y: auto"
+              style="height: 650px; overflow-y: auto"
               class="pa-3"
               v-html="getHtml"
             ></div>
@@ -73,43 +73,6 @@
             <v-tab-item v-for="(item, key) in formData" :key="key">
               <v-card outlined flat class="pa-4 mt-5">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
-                  <v-sheet
-                    v-if="tab != 0 && currentAuthority"
-                    class="pa-3 mb-5"
-                    color="grey lighten-3"
-                  >
-                    <small>
-                      <span class="mr-4">
-                        <b>ID</b>:
-                        {{ currentAuthority.geel_id }}
-                      </span>
-                      <span class="mr-4">
-                        <b>{{ $t('作業者') }}</b
-                        >:
-                        {{ currentAuthority.editors.join(', ') }}
-                      </span>
-                      <span class="mr-4">
-                        <b>{{ $t('作成日') }}</b
-                        >:
-                        {{
-                          $utils.timestampToTime(currentAuthority.createTime)
-                        }}
-                      </span>
-                      <span class="mr-4">
-                        <b>{{ $t('更新日') }}</b
-                        >:
-                        {{
-                          $utils.timestampToTime(currentAuthority.updateTime)
-                        }}
-                      </span>
-                      <span class="mr-4">
-                        <b>{{ $t('ダブルチェック') }}</b
-                        >:
-                        {{ currentAuthority.doubleChecked ? 'Y' : 'N' }}
-                      </span>
-                    </small>
-                  </v-sheet>
-
                   <div v-for="(f, key3) in fields" :key="key3" class="mb-10">
                     <h3 class="mb-5">{{ f.label }}</h3>
                     <v-simple-table dense>
@@ -215,6 +178,39 @@
                     >
                   </template>
                 </div>
+
+                <v-sheet
+                  v-if="tab != 0 && currentAuthority"
+                  class="pa-3 mt-5"
+                  color="grey lighten-3"
+                >
+                  <small>
+                    <span class="mr-4">
+                      <b>ID</b>:
+                      {{ currentAuthority.geel_id }}
+                    </span>
+                    <span class="mr-4">
+                      <b>{{ $t('作業者') }}</b
+                      >:
+                      {{ currentAuthority.editors.join(', ') }}
+                    </span>
+                    <span class="mr-4">
+                      <b>{{ $t('作成日') }}</b
+                      >:
+                      {{ $utils.timestampToTime(currentAuthority.createTime) }}
+                    </span>
+                    <span class="mr-4">
+                      <b>{{ $t('更新日') }}</b
+                      >:
+                      {{ $utils.timestampToTime(currentAuthority.updateTime) }}
+                    </span>
+                    <span class="mr-4">
+                      <b>{{ $t('ダブルチェック') }}</b
+                      >:
+                      {{ currentAuthority.doubleChecked ? 'Y' : 'N' }}
+                    </span>
+                  </small>
+                </v-sheet>
               </v-card>
             </v-tab-item>
           </v-tabs-items>
