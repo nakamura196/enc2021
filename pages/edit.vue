@@ -74,7 +74,7 @@
               <v-card outlined flat class="pa-4 mt-5">
                 <div style="height: 600px; overflow-y: auto" class="pa-3">
                   <div v-for="(f, key3) in fields" :key="key3" class="mb-10">
-                    <h3 class="mb-5">{{ f.label }}</h3>
+                    <h4 class="mb-2">{{ f.label }}</h4>
                     <v-simple-table dense>
                       <template v-slot:default>
                         <tbody>
@@ -148,7 +148,7 @@
                     </v-simple-table>
                   </div>
                 </div>
-                <div class="text-center">
+                <div class="text-center mt-5">
                   <v-btn
                     class="ma-1"
                     color="primary"
@@ -473,12 +473,14 @@ export default {
         let title = (authority['Titre mentionné'] || '').trim()
 
         if (title !== '') {
-          const query =
-            '(>| |’|\n)' + title.split(' ').join('(.+?)') + '(<| |,|\\.|\n)'
+          const query = /* '(>| |’|\n)' + */ title.split(' ').join('(.+?)') // +
+          // '(<| |,|\\.|\n|&nbsp;)'
 
           const bar = html.match(query)
 
           if (bar) {
+            const text = bar[0]
+            /*
             const barLength = bar.length
             let text = bar[0]
             if (bar[1] !== '') {
@@ -487,13 +489,6 @@ export default {
             if (bar[barLength - 1] !== '') {
               text = text.substring(0, text.length - 1)
             }
-
-            /*
-            html = html
-              .split(text)
-              .join(
-                `<span type="titre" id="e${this.id}-${i + 1}">${text}</span>`
-              )
             */
 
             const uuid = generateUuid()
@@ -510,20 +505,25 @@ export default {
         title = (authority['Auteur mentionné'] || '').trim()
 
         if (title !== '') {
-          const query =
-            '(>| |’)' + title.split(' ').join('(.+?)') + '(<| |,|\\.)'
+          const query = /* '(>| |’)' + */ title
+            .split(' ')
+            .join('(.+?)') /* + '(<| |,|\\.)' */
 
           const bar = html.match(query)
 
           if (bar) {
+            const text = bar[0]
+
+            /*
             const barLength = bar.length
-            let text = bar[0]
+            
             if (bar[1] !== '') {
               text = text.substring(1)
             }
             if (bar[barLength - 1] !== '') {
               text = text.substring(0, text.length - 1)
             }
+            */
 
             const uuid = generateUuid()
             html = html.split(text).join(uuid)
@@ -540,9 +540,6 @@ export default {
 
       for (let i = 0; i < auteurList.length; i++) {
         const value = auteurList[i]
-        if (html.includes(value)) {
-          console.log(value)
-        }
         html = html.split(value).join(`<span type="auteur_p">${value}</span>`)
       }
 
@@ -735,6 +732,9 @@ export default {
           data[obj.label] = {
             input: '',
             raw: '',
+          }
+          if (obj.id) {
+            data[obj.label].id = obj.id
           }
         }
       }
