@@ -10,8 +10,6 @@ env.titre_list = JSON.parse(fs.readFileSync('static/data/titre_list.json'))
 env.allAuteur = JSON.parse(fs.readFileSync('static/data/auteur.json'))
 env.allTitle = JSON.parse(fs.readFileSync('static/data/title.json'))
 
-console.log({ env })
-
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 const routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'

@@ -22,24 +22,36 @@
         <v-row>
           <v-col cols="12" sm="6">
             <div class="mb-6 text-center">
-              <v-btn
-                v-if="source.prev"
-                color="primary"
-                class="ma-1"
-                :href="
-                  baseUrl +
-                  localePath({ name: 'edit', query: { id: source.prev } })
-                "
-                ><v-icon>mdi-arrow-left-bold</v-icon>
-                {{ $t('前の大項目に進む') }}</v-btn
-              >
-              <v-btn
-                class="ma-1"
-                color="cyan"
-                dark
-                :to="localePath({ name: 'table', query: { id } })"
-                >{{ $t('一覧') }}</v-btn
-              >
+              <v-tooltip bottom>
+                <template v-slot:activator="{ on }">
+                  <v-btn
+                    v-if="source.prev"
+                    color="primary"
+                    class="ma-1"
+                    :href="
+                      baseUrl +
+                      localePath({ name: 'edit', query: { id: source.prev } })
+                    "
+                    v-on="on"
+                    ><v-icon>mdi-arrow-left-bold</v-icon>
+                  </v-btn>
+                </template>
+                <span>{{ $t('前の大項目に進む') }}</span>
+              </v-tooltip>
+
+              <v-tooltip bottom>
+                <template v-slot:activator="{ on }">
+                  <v-btn
+                    class="ma-1"
+                    color="cyan"
+                    dark
+                    :to="localePath({ name: 'table', query: { id } })"
+                    v-on="on"
+                    ><v-icon>mdi-table</v-icon></v-btn
+                  >
+                </template>
+                <span>{{ $t('一覧') }}</span>
+              </v-tooltip>
 
               <v-btn
                 v-if="formData.length < 2"
@@ -47,7 +59,9 @@
                 :color="!noA ? 'success' : 'error'"
                 dark
                 @click="setNoA()"
-                >{{ !noA ? $t('典拠なしにする') : $t('典拠ありに戻す') }}</v-btn
+                >{{
+                  !noA ? $t('action_authority') : $t('典拠ありに戻す')
+                }}</v-btn
               >
 
               <v-btn
@@ -58,17 +72,23 @@
                 @click="finish()"
                 >{{ !finished ? $t('完了にする') : $t('未完了にする') }}</v-btn
               >
-              <v-btn
-                v-if="source.next"
-                color="primary"
-                class="ma-1"
-                :href="
-                  baseUrl +
-                  localePath({ name: 'edit', query: { id: source.next } })
-                "
-                ><v-icon>mdi-arrow-right-bold</v-icon>
-                {{ $t('次の大項目に進む') }}</v-btn
-              >
+
+              <v-tooltip bottom>
+                <template v-slot:activator="{ on }">
+                  <v-btn
+                    v-if="source.next"
+                    color="primary"
+                    class="ma-1"
+                    :href="
+                      baseUrl +
+                      localePath({ name: 'edit', query: { id: source.next } })
+                    "
+                    v-on="on"
+                    ><v-icon>mdi-arrow-right-bold</v-icon>
+                  </v-btn>
+                </template>
+                <span>{{ $t('次の大項目に進む') }}</span>
+              </v-tooltip>
             </div>
 
             <v-card outlined flat class="pa-4 mt-5">
@@ -488,24 +508,83 @@ export default {
     },
     getHtml() {
       let html = this.source.texthtml
-      // html = html.split('\n').join(' ')
+      html = html
+        /*
+        .split('\n')
+        .join(' ')
+        .split('<p>')
+        .join('\n<p>')
+        .split('  ')
+        .join(' ')
+        */
+        .split('&amp;')
+        .join('&')
+        .split('Page:Diderot')
+        .join('Page:XXXXX')
+
       const authorities = this.authorities
 
       const map = {}
 
+      const arr = []
+      const auteurs = []
+      const nomenclatures = []
+
+      const arrMap = {}
+
       for (let i = 0; i < authorities.length; i++) {
         const authority = authorities[i]
-        let title = (authority['Titre mentionné'] || '').trim()
+        const title = (authority['Titre mentionné'] || '').trim()
+
+        const auteur = (authority['Auteur mentionné'] || '').trim()
+
+        const nomenclature = (authority.Nomenclature || '').trim()
 
         if (title !== '') {
-          const query = /* '(>| |’|\n)' + */ title.split(' ').join('(.+?)') // +
+          arr.push(title)
+          arrMap[title] = i
+        }
+
+        if (auteur !== '') {
+          auteurs.push(auteur)
+        }
+
+        if (nomenclature !== '') {
+          nomenclatures.push(nomenclature.replace(/<[^>]*>?/gm, ''))
+        }
+      }
+
+      arr.sort(function (a, b) {
+        return b.length - a.length
+      })
+
+      for (let i = 0; i < arr.length; i++) {
+        const value = arr[i]
+
+        // console.log(`------ title: ${value}-----`)
+
+        let query = ''
+        if (html.includes(value)) {
+          // そのまま含む
+          query = value
+            .split('.') // ドット対応
+            .join('\\.')
+        } else {
+          query = /* '(>| |’|\n)' + */ value
+            .split('.') // ドット対応
+            .join('(.*?)\\.')
+            .split(' ')
+            .join('(.*?)') // +
           // '(<| |,|\\.|\n|&nbsp;)'
+        }
 
-          const bar = html.match(query)
+        const bar = html.match(query)
 
-          if (bar) {
-            const text = bar[0]
-            /*
+        // console.log(query, bar)
+
+        if (bar) {
+          const text = bar[0]
+          /*
             const barLength = bar.length
             let text = bar[0]
             if (bar[1] !== '') {
@@ -516,45 +595,108 @@ export default {
             }
             */
 
-            const uuid = generateUuid()
-            html = html.split(text).join(uuid)
+          const uuid = generateUuid()
+          html = html.split(text).join(uuid)
 
-            map[uuid] = `<span type="titre" id="e${this.id}-${
-              i + 1
-            }">${text}</span>`
-          }
+          map[uuid] = `<span type="titre" id="e${this.id}-${
+            arrMap[value] + 1
+          }">${text}</span>`
+        }
+      }
+
+      auteurs.sort(function (a, b) {
+        return b.length - a.length
+      })
+
+      for (let i = 0; i < auteurs.length; i++) {
+        const value = auteurs[i]
+
+        // console.log(`------ author: ${value}-----`)
+
+        let query = ''
+        if (html.includes(value)) {
+          // そのまま含む
+          query = value
+            .split('.') // ドット対応
+            .join('\\.')
+        } else {
+          query = /* '(>| |’)' + */ value
+            .split('.') // ドット対応
+            .join('(.*?)\\.')
+            .split(' ')
+            .join('(.*?)') /* + '(<| |,|\\.)' */
         }
 
-        // ---------------------
+        const bar = html.match(query)
 
-        title = (authority['Auteur mentionné'] || '').trim()
+        // console.log(query, bar)
 
-        if (title !== '') {
-          const query = /* '(>| |’)' + */ title
-            .split(' ')
-            .join('(.+?)') /* + '(<| |,|\\.)' */
+        if (bar) {
+          const text = bar[0]
 
-          const bar = html.match(query)
-
-          if (bar) {
-            const text = bar[0]
-
-            /*
-            const barLength = bar.length
-            
-            if (bar[1] !== '') {
-              text = text.substring(1)
-            }
-            if (bar[barLength - 1] !== '') {
-              text = text.substring(0, text.length - 1)
-            }
-            */
-
-            const uuid = generateUuid()
-            html = html.split(text).join(uuid)
-
-            map[uuid] = `<span type="author">${text}</span>`
+          /*
+          const barLength = bar.length
+          
+          if (bar[1] !== '') {
+            text = text.substring(1)
           }
+          if (bar[barLength - 1] !== '') {
+            text = text.substring(0, text.length - 1)
+          }
+          */
+
+          const uuid = generateUuid()
+          html = html.split(text).join(uuid)
+
+          map[uuid] = `<span type="author">${text}</span>`
+        }
+      }
+
+      nomenclatures.sort(function (a, b) {
+        return b.length - a.length
+      })
+
+      for (let i = 0; i < nomenclatures.length; i++) {
+        const value = nomenclatures[i]
+
+        // console.log(`------ nomenclature: ${value}-----`)
+
+        let query = ''
+        if (html.includes(value)) {
+          // そのまま含む
+          query = value
+            .split('.') // ドット対応
+            .join('\\.')
+        } else {
+          query = /* '(>| |’)' + */ value
+            .split('.') // ドット対応
+            .join('(.*?)\\.')
+            .split(' ')
+            .join('(.*?)') /* + '(<| |,|\\.)' */
+        }
+
+        const bar = html.match(query)
+
+        // console.log(query, bar)
+
+        if (bar) {
+          const text = bar[0]
+
+          /*
+          const barLength = bar.length
+          
+          if (bar[1] !== '') {
+            text = text.substring(1)
+          }
+          if (bar[barLength - 1] !== '') {
+            text = text.substring(0, text.length - 1)
+          }
+          */
+
+          const uuid = generateUuid()
+          html = html.split(text).join(uuid)
+
+          map[uuid] = `<span type="nomenclature"><span>${text}</span></span>`
         }
       }
 
@@ -747,6 +889,9 @@ export default {
   methods: {
     formUpdated(key) {
       const config = this.config[key]
+      if (!config) {
+        return
+      }
       const value = this.formData[this.tab][key].input
       config.items = config.all[value]
     },
@@ -1088,6 +1233,11 @@ i > span[type='proposed'] {
 i {
   font-weight: bold;
 }
+
+span[type='nomenclature'] {
+  background-color: #ff0;
+}
+
 .prp-pages-output a {
   color: #ff9800 !important;
 }

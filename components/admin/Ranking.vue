@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3 class="mt-10">{{ $t('ユーザ別') }}</h3>
+    <h3 class="mt-10">{{ $t('ユーザ別典拠登録数') }}</h3>
     <Chart :chart-data="chartData" :chart-option="chartOption"></Chart>
   </div>
 </template>
@@ -42,7 +42,7 @@ export default class Ranking extends Vue {
           const labels: string[] = []
           const dataset: number[] = []
 
-          const map = {}
+          const map: any = {}
 
           res.forEach(function (doc) {
             const user = doc.data()

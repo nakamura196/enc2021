@@ -437,5 +437,8 @@
   "Action" : "操作",
   "User": "ユーザ",
   "History Log" : "作業履歴",
-  "authority" : "典拠"
+  "authority" : "典拠",
+
+  "HOME" : "HOME",
+  "ユーザ別典拠登録数" : "ユーザ別典拠登録数"
 }

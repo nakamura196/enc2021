@@ -38,6 +38,7 @@
     "firebase": "^8.2.1",
     "firebase-tools": "^9.1.0",
     "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
     "nuxt": "^2.14.7",
     "nuxt-i18n": "^6.15.4",
     "nuxt-property-decorator": "^2.8.8",
