@@ -16,7 +16,7 @@
       </template>
     </v-data-table>
 
-    <ul class="mt-5">
+    <ul v-if="lang === 'ja'" class="mt-5">
       <li>{{ $t('global_admin') }}: すべての権限あり</li>
       <li>{{ $t('editor') }}: 編集権限あり、ただし「完了にする」権限はなし</li>
       <li>{{ $t('researcher') }}: 閲覧のみ</li>
@@ -37,9 +37,9 @@ export default {
       users: [],
       headers: [
         { text: 'ID', value: 'id' },
-        { text: '表示名', value: 'name' },
-        { text: '役割', value: 'role' },
-        { text: '作成日', value: 'createTime' },
+        { text: this.$t('表示名'), value: 'name' },
+        { text: this.$t('役割'), value: 'role' },
+        { text: this.$t('作成日'), value: 'createTime' },
       ],
     }
   },

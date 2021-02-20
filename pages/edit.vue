@@ -169,6 +169,7 @@
                                 <template v-else>
                                   <v-textarea
                                     v-model="item[obj.label].input"
+                                    :disabled="obj.disabled"
                                     auto-grow
                                     rows="1"
                                     :placeholder="
@@ -415,6 +416,8 @@ export default {
             {
               label: 'nb de réf',
               value: '',
+              disabled: true,
+              placeholder: this.$t('入力不可項目です。'),
             },
             {
               label: 'Auteur',

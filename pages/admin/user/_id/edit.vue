@@ -62,15 +62,15 @@ export default {
       loading: false,
       items: [
         {
-          text: this.$t('グローバル管理者'),
+          text: this.$t('global_admin'),
           value: 'global_admin',
         },
         {
-          text: this.$t('編集者'),
+          text: this.$t('editor'),
           value: 'editor',
         },
         {
-          text: this.$t('研究者'),
+          text: this.$t('researcher'),
           value: 'researcher',
         },
       ],

@@ -62,13 +62,13 @@ export default {
     return {
       users: [],
       headers: [
-        { text: '更新日', value: 'updateTime' },
+        { text: this.$t('更新日'), value: 'updateTime' },
         { text: 'ID', value: 'id' },
         { text: this.$t('User'), value: 'editor' },
         { text: this.$t('Action'), value: 'event' },
-        { text: '典拠数', value: 'authorities' },
-        { text: '完了', value: 'finish' },
-        { text: '典拠なし', value: 'noA' },
+        { text: this.$t('典拠数'), value: 'authorities' },
+        { text: this.$t('完了'), value: 'finish' },
+        { text: this.$t('典拠なし'), value: 'noA' },
       ],
       title: process.env.siteName,
       items: [],

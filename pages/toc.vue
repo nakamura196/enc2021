@@ -141,7 +141,7 @@
               </v-card>
 
               <v-textarea
-                :value="comment"
+                v-model="text"
                 auto-grow
                 rows="1"
                 class="mt-5"
@@ -192,11 +192,18 @@ export default {
       items: [],
       loaded: false,
       messages: [],
-      comment: '',
       loading: false,
     }
   },
   computed: {
+    text: {
+      get() {
+        return this.comment
+      },
+      set(value) {
+        this.comment = value
+      },
+    },
     lang() {
       return this.$i18n.locale
     },
