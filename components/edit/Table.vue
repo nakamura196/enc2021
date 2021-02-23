@@ -74,6 +74,11 @@ export default class grid extends Vue {
           label: 'Titre mentionné',
           value: '',
         },
+        {
+          label: '備考',
+          value: '',
+          changed: true,
+        },
       ],
     },
     {

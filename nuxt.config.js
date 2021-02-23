@@ -9,6 +9,11 @@ env.auteur_list = JSON.parse(fs.readFileSync('static/data/auteur_list.json'))
 env.titre_list = JSON.parse(fs.readFileSync('static/data/titre_list.json'))
 env.allAuteur = JSON.parse(fs.readFileSync('static/data/auteur.json'))
 env.allTitle = JSON.parse(fs.readFileSync('static/data/title.json'))
+env.signature = JSON.parse(
+  fs.readFileSync(
+    'static/data/Symbols_of_the_Contributors_appearing_in_the_Encyclopedie_txt.json'
+  )
+)
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 const routerBase =

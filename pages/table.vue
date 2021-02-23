@@ -77,62 +77,6 @@ export default {
     return {
       baseUrl: process.env.BASE_URL,
       title: process.env.siteName,
-      fields: [
-        {
-          label: 'Page',
-          value: '',
-        },
-        {
-          label: 'Schwab',
-          value: '',
-        },
-        {
-          label: 'Désignant',
-          value: '',
-        },
-        {
-          label: 'Signature',
-          value: '',
-        },
-        {
-          label: 'Collaborateur',
-          value: '',
-        },
-        {
-          label: 'Auteur mentionné',
-          value: '',
-        },
-        {
-          label: 'Titre mentionné',
-          value: '',
-        },
-      ],
-      metadata: [
-        {
-          label: 'nb de réf',
-          value: '',
-        },
-        {
-          label: 'Auteur',
-          value: '',
-        },
-        {
-          label: 'titre',
-          value: '',
-        },
-        {
-          label: 'année de la pub.',
-          value: '',
-        },
-        {
-          label: '研究会設定の分類名（仮）',
-          value: '',
-        },
-        {
-          label: 'Notes',
-          value: '',
-        },
-      ],
       authorities: [],
     }
   },

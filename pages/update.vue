@@ -15,6 +15,20 @@
         <template v-slot:default>
           <tbody>
             <tr>
+              <td>{{ '2021-02-23' }}</td>
+              <td class="py-2">
+                <ul>
+                  <li>
+                    抽出要素の入力欄の末尾（Titre
+                    mentionnéの下）に備考欄を追加しました。
+                  </li>
+                  <li>
+                    抽出要素のSignatureとContributeurの入力をアシストする機能を追加しました。
+                  </li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
               <td>{{ '2021-02-21' }}</td>
               <td class="py-2">
                 <ul>

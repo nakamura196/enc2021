@@ -122,16 +122,33 @@
                                 <template v-if="obj.type == 'checkbox'">
                                   <v-row>
                                     <v-col cols="12" sm="8">
-                                      <v-textarea
-                                        v-model="item[obj.label].input"
-                                        auto-grow
-                                        rows="1"
-                                        :placeholder="
-                                          obj.placeholder ||
-                                          $t('値を入力してください。')
-                                        "
-                                        clearable
-                                      ></v-textarea>
+                                      <template
+                                        v-if="obj.label === 'Signature'"
+                                      >
+                                        <v-combobox
+                                          v-model="item[obj.label].input"
+                                          class="mt-5"
+                                          :items="signatures"
+                                          :placeholder="
+                                            obj.placeholder ||
+                                            $t('値を入力してください。')
+                                          "
+                                          dense
+                                        ></v-combobox>
+                                      </template>
+
+                                      <template v-else>
+                                        <v-textarea
+                                          v-model="item[obj.label].input"
+                                          auto-grow
+                                          rows="1"
+                                          :placeholder="
+                                            obj.placeholder ||
+                                            $t('値を入力してください。')
+                                          "
+                                          clearable
+                                        ></v-textarea>
+                                      </template>
                                     </v-col>
                                     <v-col cols="12" sm="4">
                                       <v-checkbox
@@ -154,6 +171,7 @@
                                     @input="formUpdated(obj.label)"
                                   ></v-textarea>
                                 </template>
+
                                 <template v-else-if="obj.target">
                                   <v-combobox
                                     v-model="item[obj.label].input"
@@ -167,18 +185,34 @@
                                   ></v-combobox>
                                 </template>
                                 <template v-else>
-                                  <v-textarea
-                                    v-model="item[obj.label].input"
-                                    :disabled="obj.disabled"
-                                    auto-grow
-                                    rows="1"
-                                    :placeholder="
-                                      obj.placeholder ||
-                                      $t('値を入力してください。')
-                                    "
-                                    clearable
-                                    @input="formUpdated(obj.label)"
-                                  ></v-textarea>
+                                  <template
+                                    v-if="obj.label === 'Collaborateur'"
+                                  >
+                                    <v-combobox
+                                      v-model="item[obj.label].input"
+                                      class="mt-5"
+                                      :items="collaborateurs"
+                                      :placeholder="
+                                        obj.placeholder ||
+                                        $t('値を入力してください。')
+                                      "
+                                      dense
+                                    ></v-combobox>
+                                  </template>
+                                  <template v-else>
+                                    <v-textarea
+                                      v-model="item[obj.label].input"
+                                      :disabled="obj.disabled"
+                                      auto-grow
+                                      rows="1"
+                                      :placeholder="
+                                        obj.placeholder ||
+                                        $t('値を入力してください。')
+                                      "
+                                      clearable
+                                      @input="formUpdated(obj.label)"
+                                    ></v-textarea>
+                                  </template>
                                 </template>
                               </td>
                             </tr>
@@ -344,6 +378,7 @@ export default {
       finished: false,
       noA: false,
       loaded: false,
+      signature: process.env.signature,
       config: {
         'Auteur mentionné': {
           all: process.env.allAuteur,
@@ -354,9 +389,17 @@ export default {
           items: [],
         },
       },
+      collaborateurs: [],
     }
   },
   computed: {
+    signatures() {
+      const signatures = []
+      for (const key in this.signature) {
+        signatures.push(key)
+      }
+      return signatures
+    },
     fields() {
       return [
         {
@@ -405,6 +448,11 @@ export default {
             },
             {
               label: 'Titre mentionné',
+              value: '',
+              changed: true,
+            },
+            {
+              label: '備考',
               value: '',
               changed: true,
             },
@@ -841,6 +889,14 @@ export default {
       for (const key in this.config) {
         this.formUpdated(key)
       }
+    },
+    formData: {
+      handler() {
+        const obj = this.formData[this.tab]
+        const signature = obj.Signature.input
+        this.collaborateurs = this.signature[signature]
+      },
+      deep: true,
     },
   },
   created() {
