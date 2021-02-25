@@ -34,7 +34,7 @@
           </v-list-item>
 
           <v-list-item
-            v-if="userRole === 'global_admin'"
+            v-if="userRole === 'global_admin' || true"
             link
             :to="localePath({ name: 'admin' })"
           >

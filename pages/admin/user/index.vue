@@ -2,11 +2,16 @@
   <AdminLayout :breadcrumbs="breadcrumbs">
     <v-data-table :headers="headers" :items="users" :items-per-page="-1">
       <template v-slot:item.id="{ item }">
-        <nuxt-link
-          :to="localePath({ name: 'admin-user-id', params: { id: item.id } })"
-        >
+        <template v-if="userRole == 'global_admin' || item.id === userUid">
+          <nuxt-link
+            :to="localePath({ name: 'admin-user-id', params: { id: item.id } })"
+          >
+            {{ item.id }}
+          </nuxt-link>
+        </template>
+        <template v-else>
           {{ item.id }}
-        </nuxt-link>
+        </template>
       </template>
       <template v-slot:item.role="{ item }">
         {{ $t(item.role) }}
@@ -44,6 +49,9 @@ export default {
     }
   },
   computed: {
+    userUid() {
+      return this.$store.getters.getUserUid
+    },
     lang() {
       return this.$i18n.locale
     },

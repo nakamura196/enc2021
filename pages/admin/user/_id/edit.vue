@@ -1,7 +1,12 @@
 <template>
   <AdminLayout :breadcrumbs="breadcrumbs">
     <div class="text-right mb-5">
-      <v-btn :loading="loading" @click="save()">{{ $t('保存') }}</v-btn>
+      <v-btn
+        v-if="userRole == 'global_admin' || user.id === userUid"
+        :loading="loading"
+        @click="save()"
+        >{{ $t('保存') }}</v-btn
+      >
     </div>
     <v-simple-table>
       <template v-slot:default>
@@ -77,6 +82,9 @@ export default {
     }
   },
   computed: {
+    userUid() {
+      return this.$store.getters.getUserUid
+    },
     lang() {
       return this.$i18n.locale
     },

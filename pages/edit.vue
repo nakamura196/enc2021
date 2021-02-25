@@ -54,7 +54,10 @@
               </v-tooltip>
 
               <v-btn
-                v-if="formData.length < 2"
+                v-if="
+                  (!finished || userRole === 'global_admin') &&
+                  formData.length < 2
+                "
                 class="ma-1"
                 :color="!noA ? 'success' : 'error'"
                 dark
@@ -100,7 +103,11 @@
               ></div>
             </v-card>
           </v-col>
-          <v-col v-if="isSignedIn" cols="12" sm="6">
+          <v-col
+            v-if="isSignedIn && (!finished || userRole === 'global_admin')"
+            cols="12"
+            sm="6"
+          >
             <v-tabs v-model="tab" background-color="primary" dark>
               <v-tab v-for="(item, key) in formData.length" :key="key">{{
                 key !== 0 ? $t('典拠') + key : $t('新規')
@@ -221,36 +228,60 @@
                       </v-simple-table>
                     </div>
                   </div>
-                  <div class="text-center mt-5">
-                    <v-btn
-                      class="ma-1"
-                      color="primary"
-                      :loading="loading"
-                      :disabled="loading"
-                      @click="submit()"
-                      >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
-                    >
-
-                    <template v-if="tab !== 0 && currentAuthority">
-                      <v-btn
-                        v-if="!currentAuthority.doubleChecked"
-                        class="ma-1"
-                        color="success"
-                        :loading="loading"
-                        :disabled="loading"
-                        @click="submit(true)"
-                        >{{ $t('ダブルチェック') }}</v-btn
-                      >
-                      <v-btn
-                        class="ma-1"
-                        color="error"
-                        :loading="loading"
-                        :disabled="loading"
-                        @click="modal = true"
-                        >{{ $t('削除') }}</v-btn
-                      >
-                    </template>
-                  </div>
+                  <v-row class="mt-5">
+                    <v-col>
+                      <div class="text-center">
+                        <v-btn
+                          class="ma-1"
+                          color="primary"
+                          :loading="loading"
+                          :disabled="loading"
+                          @click="submit()"
+                          >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
+                        >
+                        <template v-if="tab == 0"> </template>
+                        <template v-if="tab !== 0 && currentAuthority">
+                          <v-btn
+                            v-if="!currentAuthority.doubleChecked"
+                            class="ma-1"
+                            color="success"
+                            :loading="loading"
+                            :disabled="loading"
+                            @click="submit(true)"
+                            >{{ $t('ダブルチェック') }}</v-btn
+                          >
+                          <v-btn
+                            class="ma-1"
+                            color="error"
+                            :loading="loading"
+                            :disabled="loading"
+                            @click="modal = true"
+                            >{{ $t('削除') }}</v-btn
+                          >
+                        </template>
+                      </div>
+                    </v-col>
+                    <v-col v-if="tab == 0">
+                      <v-row>
+                        <v-col
+                          ><v-select
+                            v-model="copyValue"
+                            dense
+                            :items="copies"
+                            :label="$t('コピー元')"
+                          ></v-select
+                        ></v-col>
+                        <v-col
+                          ><v-btn
+                            class="ma-1"
+                            color="primary"
+                            @click="copy()"
+                            >{{ $t('コピー') }}</v-btn
+                          ></v-col
+                        >
+                      </v-row>
+                    </v-col>
+                  </v-row>
 
                   <v-sheet
                     v-if="tab != 0 && currentAuthority"
@@ -390,9 +421,20 @@ export default {
         },
       },
       collaborateurs: [],
+      copyValue: '',
     }
   },
   computed: {
+    copies() {
+      const arr = []
+      for (let i = 1; i < this.formData.length; i++) {
+        arr.push({
+          text: this.$t('典拠') + i,
+          value: i,
+        })
+      }
+      return arr
+    },
     signatures() {
       const signatures = []
       for (const key in this.signature) {
@@ -946,6 +988,28 @@ export default {
       )
   },
   methods: {
+    copy() {
+      const authority = this.authorities[this.copyValue - 1]
+      if (!authority) {
+        alert(this.$t('典拠を選択してください。'))
+        return
+      }
+      const currentAuthority = this.formData[this.tab]
+      const fields = [
+        'Nomenclature',
+        'Page',
+        'Schwab',
+        'Désignant',
+        'Signature',
+        'Collaborateur',
+      ]
+      for (let i = 0; i < fields.length; i++) {
+        const field = fields[i]
+        currentAuthority[field].input = authority[field]
+      }
+
+      this.formData[this.tab] = currentAuthority
+    },
     formUpdated(key) {
       const config = this.config[key]
       if (!config) {

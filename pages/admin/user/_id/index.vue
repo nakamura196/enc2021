@@ -2,6 +2,7 @@
   <AdminLayout :breadcrumbs="breadcrumbs">
     <div class="text-right mb-5">
       <v-btn
+        v-if="userRole == 'global_admin' || user.id === userUid"
         :to="
           localePath({
             name: 'admin-user-id-edit',
@@ -47,6 +48,9 @@ export default {
     }
   },
   computed: {
+    userUid() {
+      return this.$store.getters.getUserUid
+    },
     lang() {
       return this.$i18n.locale
     },

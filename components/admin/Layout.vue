@@ -13,7 +13,7 @@
       </v-container>
     </v-sheet>
     <v-container class="my-5">
-      <template v-if="userRole == 'global_admin'"><slot /></template>
+      <template v-if="userRole == 'global_admin' || true"><slot /></template>
       <template v-else>{{ $t('権限がありません。') }}</template>
     </v-container>
   </div>
