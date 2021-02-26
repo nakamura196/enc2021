@@ -27,6 +27,7 @@
             <td>
               <v-select
                 v-model="user.role"
+                :disabled="userRole == 'global_admin' ? false : true"
                 :items="items"
                 class="mt-6 mb-0"
                 outlined
