@@ -85,14 +85,27 @@
 
         <v-spacer></v-spacer>
 
+        <v-btn
+          icon
+          target="_blank"
+          :href="`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+            '百科全書典拠作業アプリ | 百科全書典拠作業アプリケーションのプロトタイプです。'
+          )}&hashtags=${encodeURIComponent(
+            '百科全書'
+          )}&url=${encodeURIComponent('https://enc2021-2807d.web.app/')}`"
+        >
+          <v-icon>mdi-twitter</v-icon>
+        </v-btn>
+
         <v-menu offset-y>
           <template #activator="{ on }">
             <v-btn depressed btn v-on="on">
-              <v-icon class="mr-2">mdi-translate</v-icon>
-              <template v-if="$vuetify.breakpoint.name != 'xs'">
-                {{ $i18n.locale == 'ja' ? '日本語' : 'English' }}</template
-              >
-              <v-icon class="ml-2">mdi-menu-down</v-icon>
+              <v-icon>mdi-translate</v-icon>
+              <span v-if="!mobileFlag" class="ml-2">
+                {{ $i18n.locale == 'ja' ? '日本語' : 'English' }}
+
+                <v-icon class="ml-2">mdi-menu-down</v-icon>
+              </span>
             </v-btn>
           </template>
 
@@ -242,6 +255,14 @@ export default class search extends Vue {
 
   set isSignedIn(value: boolean) {
     this.$store.commit('setSignedIn', value)
+  }
+
+  get mobileFlag() {
+    if ((this as any).$vuetify.breakpoint.name === 'xs') {
+      return true
+    } else {
+      return false
+    }
   }
 
   created() {

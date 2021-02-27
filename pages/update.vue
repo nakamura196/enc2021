@@ -15,6 +15,14 @@
         <template v-slot:default>
           <tbody>
             <tr>
+              <td>{{ '2021-02-28' }}</td>
+              <td class="py-2">
+                <ul>
+                  <li>上部メニューにTwitter シェアボタンを設置しました。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
               <td>{{ '2021-02-25' }}</td>
               <td class="py-2">
                 <ul>
