@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-181",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-756-0/",
+    "item_id": "2-759",
     "next": "2-760",
     "pages": "181",
     "prev": "2-758",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEAU-PERE <i>ou</i> BELLE-MERE, est le terme qui\ncorrespond à ceux de <i>beau-fils</i> ou <i>belle-fille</i>, dans les\ndeux sens exprimés ci-dessus au mot <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEAU-FILS_ou_BELLE-FILLE\" title=\"L’Encyclopédie/1re édition/BEAU-FILS ou BELLE-FILLE\"><span class=\"sc\">Beau-fils</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEAU-PERE <i>ou</i> BELLE-MERE, est le terme qui\ncorrespond à ceux de <i>beau-fils</i> ou <i>belle-fille</i>, dans les\ndeux sens exprimés ci-dessus au mot <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEAU-FILS_ou_BELLE-FILLE\" title=\"L’Encyclopédie/1re édition/BEAU-FILS ou BELLE-FILLE\"><span class=\"sc\">Beau-fils</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "BEAU-PERE ou BELLE-MERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEAU-PERE_ou_BELLE-MERE"
 }

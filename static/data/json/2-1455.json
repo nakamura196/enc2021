@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-269",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1452-0/",
+    "item_id": "2-1455",
     "next": "2-1456",
     "pages": "269",
     "prev": "2-1454",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAMONT, (<i>Géog.</i>) petite ville de Lorraine\nsur la riviere de Vezaize. <i>Long. 24. 20. lat. 48. 35</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAMONT, (<i>Géog.</i>) petite ville de Lorraine\nsur la riviere de Vezaize. <i>Long. 24. 20. lat. 48. 35</i>.\n \n</p>\n</div>",
     "title": "BLAMONT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLAMONT"
 }

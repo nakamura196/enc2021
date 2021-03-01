@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-418",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2274-0/",
+    "item_id": "2-2269",
     "next": "2-2270",
     "pages": "418",
     "prev": "2-2268",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDPORD, (<i>Géog.</i>) petite ville d’Angleterre, \ndans la province de Dorset.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDPORD, (<i>Géog.</i>) petite ville d’Angleterre, \ndans la province de Dorset.\n \n</p>\n</div>",
     "title": "BRIDPORD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIDPORD"
 }

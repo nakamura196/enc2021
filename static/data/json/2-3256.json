@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-589",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3259-0/",
+    "item_id": "2-3256",
     "next": "2-3257",
     "pages": "589",
     "prev": "2-3255",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCHE, (<i>Géog.</i>) riviere de France, en Picardie, qui prend sa source en Artois.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCHE, (<i>Géog.</i>) riviere de France, en Picardie, qui prend sa source en Artois.\n \n</p>\n</div>",
     "title": "CANCHE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANCHE"
 }

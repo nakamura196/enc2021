@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-807",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4173-0/",
+    "item_id": "2-4183",
     "next": "2-4184",
     "pages": "807",
     "prev": "2-4182",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELL, (<i>Géog.</i>) petite riviere d’Allemagne, en\nSouabe, qui se jette dans le Danube,\n</p><p><span class=\"sc\">Cell</span>, (<i>Géog.</i>) petite ville d’Allemagne, dans l’électorat \nde Treves, sur la Mosele.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELL, (<i>Géog.</i>) petite riviere d’Allemagne, en\nSouabe, qui se jette dans le Danube,\n</p><p><span class=\"sc\">Cell</span>, (<i>Géog.</i>) petite ville d’Allemagne, dans l’électorat \nde Treves, sur la Mosele.\n \n</p>\n</div>",
     "title": "CELL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CELL"
 }

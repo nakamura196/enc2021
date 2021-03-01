@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2008-1/",
+    "item_id": "2-2001",
     "next": "2-2002",
     "pages": "380",
     "prev": "2-2000",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boute-selle</span>, s. m. (<i>Art milit.</i>) <i>sonner le boute-selle ;</i> \nc’est battre le tambour d’une maniere particuliere,\npour que les cavaliers sellent leurs chevaux,\n&amp; qu’ils se mettent en état de monter à cheval au\npremier commandement. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boute-selle</span>, s. m. (<i>Art milit.</i>) <i>sonner le boute-selle ;</i> \nc’est battre le tambour d’une maniere particuliere,\npour que les cavaliers sellent leurs chevaux,\n&amp; qu’ils se mettent en état de monter à cheval au\npremier commandement. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "BOUTE-SELLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTE-SELLE"
 }

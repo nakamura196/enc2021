@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-450",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2461-0/",
+    "item_id": "2-2458",
     "next": "2-2459",
     "pages": "450",
     "prev": "2-2457",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUME, s. f. on nomme ainsi sur mer, le brouillard : \non dit <i>le tems est embrumé</i>, quand l’air est couvert \nde brouillards. Les Marins ont pour proverbe, \nque dans la <i>brume</i> tout le monde est matelot, parce \nque dans le tems d’un brouillard épais, où l’on ne \nvoit ni le soleil, ni les étoiles, chacun dit son sentiment \nsur la route, qui est fort sujette à erreur en pareil \ntems. (<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUME, s. f. on nomme ainsi sur mer, le brouillard : \non dit <i>le tems est embrumé</i>, quand l’air est couvert \nde brouillards. Les Marins ont pour proverbe, \nque dans la <i>brume</i> tout le monde est matelot, parce \nque dans le tems d’un brouillard épais, où l’on ne \nvoit ni le soleil, ni les étoiles, chacun dit son sentiment \nsur la route, qui est fort sujette à erreur en pareil \ntems. (<i>Z</i>) \n \n</p>\n</div>",
     "title": "BRUME",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUME"
 }

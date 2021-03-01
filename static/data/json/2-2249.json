@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-415",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2254-0/",
+    "item_id": "2-2249",
     "next": "2-2250",
     "pages": "415",
     "prev": "2-2248",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREY, (<i>Géog.</i>) petite ville du pays de Liége, \ndans le comté de Looz. <i>Long. 23. 10. lat. 51. 6</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREY, (<i>Géog.</i>) petite ville du pays de Liége, \ndans le comté de Looz. <i>Long. 23. 10. lat. 51. 6</i>. \n \n</p>\n</div>",
     "title": "BREY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREY"
 }

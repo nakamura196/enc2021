@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-206",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-992-0/",
+    "item_id": "2-996",
     "next": "2-997",
     "pages": "206",
     "prev": "2-995",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERAMS, s. m. (<i>Comm.</i>) toile toute fil de coton,\nunie ou rayée, qui vient de Surate. La blanche porte\ndix-neuf aunes sur sept huitiemes de large : la rayée,\nqui est de couleur, a onze aunes <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>1</mn>\n<mn>2</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {1}{2}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/6365ab33810f89fb39ee1f30dae53207d88718c9\" style=\"vertical-align: -1.171ex; width:1.503ex; height:3.176ex;\"/></span> sur trois quarts.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERAMS, s. m. (<i>Comm.</i>) toile toute fil de coton,\nunie ou rayée, qui vient de Surate. La blanche porte\ndix-neuf aunes sur sept huitiemes de large : la rayée,\nqui est de couleur, a onze aunes <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>1</mn>\n<mn>2</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {1}{2}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/6365ab33810f89fb39ee1f30dae53207d88718c9\" style=\"vertical-align: -1.171ex; width:1.503ex; height:3.176ex;\"/></span> sur trois quarts.\n \n</p>\n</div>",
     "title": "BERAMS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERAMS"
 }

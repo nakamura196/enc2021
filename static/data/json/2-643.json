@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-141",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-640-0/",
+    "item_id": "2-643",
     "next": "2-644",
     "pages": "141",
     "prev": "2-642",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATHA, (<i>Géog. anc. &amp; mod.</i>) petite ville du\nroyaume d’Alger en Barbarie, dans la province de\nTelensin, sur la riviere de Mina. Quelques-uns la\nprennent pour l’ancienne Vaga ou Vago.\n</p><p>* <span class=\"sc\">Batha, Bath, Bachia</span>, (<i>Géog.</i>) ville de\nHongrie, capitale du comté du même nom, sur la\nrive occidentale du Danube, à cinq lieues du confluent \nde la Drave. <i>Long. 37. lat. 46. 40</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATHA, (<i>Géog. anc. &amp; mod.</i>) petite ville du\nroyaume d’Alger en Barbarie, dans la province de\nTelensin, sur la riviere de Mina. Quelques-uns la\nprennent pour l’ancienne Vaga ou Vago.\n</p><p>* <span class=\"sc\">Batha, Bath, Bachia</span>, (<i>Géog.</i>) ville de\nHongrie, capitale du comté du même nom, sur la\nrive occidentale du Danube, à cinq lieues du confluent \nde la Drave. <i>Long. 37. lat. 46. 40</i>.\n \n</p>\n</div>",
     "title": "BATHA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATHA"
 }

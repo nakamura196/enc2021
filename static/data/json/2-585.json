@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-121",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-582-0/",
+    "item_id": "2-585",
     "next": "2-586",
     "pages": "121",
     "prev": "2-584",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASSE-LISSE. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LISSE\" title=\"L’Encyclopédie/1re édition/LISSE\"><span class=\"sc\">Lisse</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASSE-LISSE. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LISSE\" title=\"L’Encyclopédie/1re édition/LISSE\"><span class=\"sc\">Lisse</span></a>.\n \n</p>\n</div>",
     "title": "BASSE-LISSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASSE-LISSE"
 }

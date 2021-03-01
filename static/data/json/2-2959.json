@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-538",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2960-0/",
+    "item_id": "2-2959",
     "next": "2-2960",
     "pages": "538",
     "prev": "2-2958",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALABRE, (<span class=\"sc\">la</span>) <i>Géog.</i> province d’Italie dans\nla partie méridionale du royaume de Naples, avec\ntitre de duché. On la divise en citérieure &amp; ultérieure.\n</p><p><span class=\"sc\">Calabre</span>, (<i>la mer de</i>) s’appelloit anciennement\n<i><span class=\"lang-la\" lang=\"la\">mare Ausonium</span></i>. C’est celle qui baigne les côtes de\nla Calabre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALABRE, (<span class=\"sc\">la</span>) <i>Géog.</i> province d’Italie dans\nla<span type=\"proposed\"> partie </span>méridionale du royaume de Naples, avec\ntitre de duché. On la divise en citérieure &amp; ultérieure.\n</p><p><span class=\"sc\">Calabre</span>, (<i>la mer de</i>) s’appelloit anciennement\n<i><span class=\"lang-la\" lang=\"la\">mare Ausonium</span></i>. C’est celle qui baigne les côtes de\nla Calabre.\n \n</p>\n</div>",
     "title": "CALABRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALABRE"
 }

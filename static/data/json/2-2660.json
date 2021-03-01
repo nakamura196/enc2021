@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-468",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2663-0/",
+    "item_id": "2-2660",
     "next": "2-2661",
     "pages": "468",
     "prev": "2-2659",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURTENBACH, (<i>Géog.</i>) petite ville d’Allemagne, \nen Souabe, sur la Mindel, entre Augsbourg\n&amp; Ulm.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURTENBACH, (<i>Géog.</i>) petite ville d’Allemagne, \nen Souabe, sur la Mindel, entre Augsbourg\n&amp; Ulm.\n \n</p>\n</div>",
     "title": "BURTENBACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURTENBACH"
 }

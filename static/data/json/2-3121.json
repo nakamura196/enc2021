@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-567",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3123-0/",
+    "item_id": "2-3121",
     "next": "2-3122",
     "pages": "567",
     "prev": "2-3120",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALW <i>ou</i> CALBA, (<i>Géog.</i>) ville &amp; comté d’Allemagne \nau duché de Wirtemberg, sur la riviere de\nNagold.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALW <i>ou</i> CALBA, (<i>Géog.</i>) ville &amp; comté d’Allemagne \nau duché de Wirtemberg, sur la riviere de\nNagold.\n \n</p>\n</div>",
     "title": "CALW ou CALBA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALW_ou_CALBA"
 }

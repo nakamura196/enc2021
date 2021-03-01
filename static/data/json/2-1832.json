@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-345",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1831-0/",
+    "item_id": "2-1832",
     "next": "2-1833",
     "pages": "345",
     "prev": "2-1831",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTHNIE, (<i>Géog.</i>) province considérable de\nSuede, sur le golfe du même nom, qui la divise en\norientale &amp; occidentale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTHNIE, (<i>Géog.</i>) province considérable de\nSuede, sur le golfe du même nom, qui la divise en\norientale &amp; occidentale.\n \n</p>\n</div>",
     "title": "BOTHNIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOTHNIE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-539",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2977-0/",
+    "item_id": "2-2976",
     "next": "2-2977",
     "pages": "539",
     "prev": "2-2975",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALAMBOURG, (<i>Comm.</i>) bois odoriférant\ndont la couleur tire sur le verd : il differe du calambouc \nqui vient de la Chine, &amp; qu’on substitue au bois\nd’aloès. On l’apporte des Indes en bûches. On l’employe \nen ouvrages de tabletterie, &amp; dans les bains\nde propreté.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALAMBOURG, (<i>Comm.</i>) bois odoriférant\ndont la couleur tire sur le verd : il differe du calambouc \nqui vient de la Chine, &amp; qu’on substitue au bois\nd’aloès. On l’apporte des Indes en bûches. On l’employe \nen ouvrages de tabletterie, &amp; dans les bains\nde propreté.\n \n</p>\n</div>",
     "title": "CALAMBOURG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALAMBOURG"
 }

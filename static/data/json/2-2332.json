@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2334-0/",
+    "item_id": "2-2332",
     "next": "2-2333",
     "pages": "424",
     "prev": "2-2331",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISIGHELLA, (<i>Géog.</i>) petite ville d’Italie dans\nla Romagne, dépendante des états de l’Eglise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISIGHELLA, (<i>Géog.</i>) petite ville d’Italie dans\nla Romagne, dépendante des états de l’Eglise.\n \n</p>\n</div>",
     "title": "BRISIGHELLA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISIGHELLA"
 }

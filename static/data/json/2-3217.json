@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-580",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3220-0/",
+    "item_id": "2-3217",
     "next": "2-3218",
     "pages": "580",
     "prev": "2-3216",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPIGNOLE, (<i>Géog.</i>) ville de France, dans\nla province de Bresse, sur la riviere de Dain.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPIGNOLE, (<i>Géog.</i>) ville de France, dans\nla province de Bresse, sur la riviere de Dain.\n \n</p>\n</div>",
     "title": "CAMPIGNOLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMPIGNOLE"
 }

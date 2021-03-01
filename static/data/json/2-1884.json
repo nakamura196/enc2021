@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-355",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1889-0/",
+    "item_id": "2-1884",
     "next": "2-1885",
     "pages": "355",
     "prev": "2-1883",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUFFE, s. f. (<i>en Anatomie.</i>) nom que donne du\nLaurens à la petite éminence formée par la rencontre\ndes deux levres.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUFFE, s. f. (<i>en Anatomie.</i>) nom que donne du\nLaurens à la petite éminence formée par la rencontre\ndes deux levres.\n \n</p>\n</div>",
     "title": "BOUFFE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUFFE"
 }

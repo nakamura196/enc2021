@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-637",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3476-0/",
+    "item_id": "2-3474",
     "next": "2-3475",
     "pages": "637",
     "prev": "2-3473",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRES, s. m. pl. (<i>Marine.</i>) c’est le nom qu’on\ndonne aux armateurs &amp; aux vaisseaux qui sont armés \nen guerre pour faire la course. (<i>Z</i>)\n</p><p><span class=\"sc\">Capres</span>, s. f. pl. baie du caprier. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRIER\" title=\"L’Encyclopédie/1re édition/CAPRIER\"><span class=\"sc\">Caprier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRES, s. m. pl. (<i>Marine.</i>) c’est le nom qu’on\ndonne aux armateurs &amp; aux vaisseaux qui sont armés \nen guerre pour faire la course. (<i>Z</i>)\n</p><p><span class=\"sc\">Capres</span>, s. f. pl. baie du caprier. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRIER\" title=\"L’Encyclopédie/1re édition/CAPRIER\"><span class=\"sc\">Caprier</span></a>.\n \n</p>\n</div>",
     "title": "CAPRES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRES"
 }

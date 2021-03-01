@@ -3,7 +3,8 @@
         "Jacques-François Blondel",
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-10",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-78-0/",
+    "item_id": "2-75",
     "next": "2-76",
     "pages": "10",
     "prev": "2-74",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACQUETER, verb. act. <i>en bâtiment</i>, c’est ôter\nl’eau d’une tranchée avec une pelle, ou une écope.\n(<i>P</i>)\n</p><p><span class=\"sc\">Bacqueter</span> <i>l’eau, en Jardinage</i>, c’est la répandre \navec une pelle de bois sur le gason d’un bassin,\npour arroser le dessus des glaises. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACQUETER, verb. act. <i>en bâtiment</i>, c’est ôter\nl’eau d’une tranchée avec une pelle, ou une écope.\n(<i>P</i>)\n</p><p><span class=\"sc\">Bacqueter</span> <i>l’eau, en Jardinage</i>, c’est la répandre \navec une pelle de bois sur le gason d’un bassin,\npour arroser le dessus des glaises. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BACQUETER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACQUETER"
 }

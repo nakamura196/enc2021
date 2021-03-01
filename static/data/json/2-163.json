@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-18",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-170-0/",
+    "item_id": "2-163",
     "next": "2-164",
     "pages": "18",
     "prev": "2-162",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Baillistre</span>, s. m. (<i>Jurisprudence</i>) vieux terme\nencore usité dans quelques coutumes, qui est synonyme \nà <i>tuteur</i> ou <i>gardien</i> ; &amp; est dirivé de <i>baillie</i>, qui\ndans les mêmes coûtumes signifie <i>tutelle</i> ou <i>garde. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAILLIE\" title=\"L’Encyclopédie/1re édition/BAILLIE\"><span class=\"sc\">Baillie</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Baillistre</span>, s. m. (<i>Jurisprudence</i>) vieux terme\nencore usité dans quelques coutumes, qui est synonyme \nà <i>tuteur</i> ou <i>gardien</i> ; &amp; est dirivé de <i>baillie</i>, qui\ndans les mêmes coûtumes signifie <i>tutelle</i> ou <i>garde. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAILLIE\" title=\"L’Encyclopédie/1re édition/BAILLIE\"><span class=\"sc\">Baillie</span></a>. \n \n</p>\n</div>",
     "title": "BAILLISTRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAILLISTRE"
 }

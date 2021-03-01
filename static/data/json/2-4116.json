@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4105-0/",
+    "item_id": "2-4116",
     "next": "2-4117",
     "pages": "794",
     "prev": "2-4115",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAYPUMO, (<i>Géog.</i>) riviere de l’Asie dans l’Inde, au-delà du Gange.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAYPUMO, (<i>Géog.</i>) riviere de l’Asie dans l’Inde, au-delà du Gange.\n \n</p>\n</div>",
     "title": "CAYPUMO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAYPUMO"
 }

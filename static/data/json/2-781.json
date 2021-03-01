@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-182",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-778-0/",
+    "item_id": "2-781",
     "next": "2-782",
     "pages": "182",
     "prev": "2-780",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEBRIACUM, (<i>Géog. anc. &amp; mod.</i>) ville voisine \nde Crémone, dont Plutarque a fait mention dans\nla vie d’Othon. Les uns prétendent que c’est nôtre\n<i>Bina</i>, d’autres veulent que ce soit <i>Canetto</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEBRIACUM, (<i>Géog. anc. &amp; mod.</i>) ville voisine \nde Crémone, dont <span type=\"auteur_p\">Plutarque</span> a fait mention dans\nla vie d’Othon. Les uns prétendent que c’est nôtre\n<i>Bina</i>, d’autres veulent que ce soit <i>Canetto</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEBRIACUM, (<i>Géog. anc. &amp; mod.</i>) ville voisine \nde Crémone, dont Plutarque a fait mention dans\nla vie d’Othon. Les uns prétendent que c’est nôtre\n<i>Bina</i>, d’autres veulent que ce soit <i>Canetto</i>.\n \n</p>\n</div>",
     "title": "BEBRIACUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEBRIACUM"
 }

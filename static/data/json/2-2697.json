@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-470",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2700-0/",
+    "item_id": "2-2697",
     "next": "2-2698",
     "pages": "470",
     "prev": "2-2696",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUVETTIER, s. m. c’est le nom de celui qui tient\nla buvette.\n</p><p><span class=\"sc\">Bûvettier</span>, s. m. (<i>Art méchan.</i>) celui chez qui\nl’on va boire. Les maîtres Vinaigriers-Moutardiers\nde Paris prennent la qualité de <i>bûvettiers</i>, parce qu’il\nleur est permis de donner à boire dans leurs boutiques,\nl’eau-de-vie qu’ils ont la permission de distiller.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VINAIGRIER\" title=\"L’Encyclopédie/1re édition/VINAIGRIER\"><span class=\"sc\">Vinaigrier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUVETTIER, s. m. c’est le nom de celui qui tient\nla buvette.\n</p><p><span class=\"sc\">Bûvettier</span>, s. m. (<i>Art méchan.</i>) celui chez qui\nl’on va boire. Les maîtres Vinaigriers-Moutardiers\nde Paris prennent la qualité de <i>bûvettiers</i>, parce qu’il\nleur est permis de donner à boire dans leurs boutiques,\nl’eau-de-vie qu’ils ont la permission de distiller.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VINAIGRIER\" title=\"L’Encyclopédie/1re édition/VINAIGRIER\"><span class=\"sc\">Vinaigrier</span></a>.\n \n</p>\n</div>",
     "title": "BUVETTIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUVETTIER"
 }

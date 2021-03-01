@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-68",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-371-0/",
+    "item_id": "2-363",
     "next": "2-364",
     "pages": "68",
     "prev": "2-362",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARATHRE, s. m. (<i>Hist. anc.</i>) gouffre, lieu très-profond \ndans l’Attique, où l’on avoit coûtume de précipiter \nles scélérats. Il étoit revêtu de pierre de taille, \nen forme de puits ; &amp; dans le mur de revêtissement, \non avoit scellé d’espace en espace, des crampons de \nfer crochus, dont quelques-uns avoient la pointe en\nhaut, &amp; d’autres de côté, pour accrocher &amp; déchirer \nles criminels dans leur chûte. Ce nom chez les Grecs \nest encore commun à toute sorte de gouffres, \nd’abîmes, &amp; de concavités de la terre. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARATHRE, s. m. (<i>Hist. anc.</i>) gouffre, lieu très-profond \ndans l’Attique, où l’on avoit coûtume de précipiter \nles scélérats. Il étoit revêtu de pierre de taille, \nen forme de puits ; &amp; dans le mur de revêtissement, \non avoit scellé d’espace en espace, des crampons de \nfer crochus, dont quelques-uns avoient la pointe en\nhaut, &amp; d’autres de côté, pour accrocher &amp; déchirer \nles criminels dans leur chûte. Ce nom chez les Grecs \nest encore commun à toute sorte de gouffres, \nd’abîmes, &amp; de concavités de la terre. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BARATHRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARATHRE"
 }

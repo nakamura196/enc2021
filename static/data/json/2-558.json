@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-118",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-569-0/",
+    "item_id": "2-558",
     "next": "2-559",
     "pages": "118",
     "prev": "2-557",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASIOGLOSE, adject. pris subst. <i>en Anatomie</i>, \nnom d’une paire de muscles de la langue ; ils viennent \nde la base de l’os hyoide &amp; de la partie voisine \nde la grande corne de ce même os, &amp; s’inserent aux \nparties latérales de la racine de la langue. (<i>L</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASIOGLOSE, adject. pris subst. <i>en Anatomie</i>, \nnom d’une paire de muscles de la langue ; ils viennent \nde la base de l’os hyoide &amp; de la<span type=\"proposed\"> partie </span>voisine \nde la grande corne de ce même os, &amp; s’inserent aux \nparties latérales de la racine de la langue. (<i>L</i>) \n \n</p>\n</div>",
     "title": "BASIOGLOSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASIOGLOSE"
 }

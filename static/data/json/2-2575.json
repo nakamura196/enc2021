@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-461",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2578-0/",
+    "item_id": "2-2575",
     "next": "2-2576",
     "pages": "461",
     "prev": "2-2574",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUISSURES, s. f. pl. <i>en terme de Doreur</i>, ce sont\ndes ordures que le feu a rassemblées sur une piece\nque l’on a fait cuire ; on les ôte avec la gratteboesse.\n<i>Voyez</i> <span class=\"sc\">Gratteboesser</span> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GRATTE-BOSSE\" title=\"L’Encyclopédie/1re édition/GRATTE-BOSSE\"><span class=\"sc\">Gratteboesse</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUISSURES, s. f. pl. <i>en terme de Doreur</i>, ce sont\ndes ordures que le feu a rassemblées sur une piece\nque l’on a fait cuire ; on les ôte avec la gratteboesse.\n<i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Gratteboesser</span> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GRATTE-BOSSE\" title=\"L’Encyclopédie/1re édition/GRATTE-BOSSE\"><span class=\"sc\">Gratteboesse</span></a>.\n \n</p>\n</div>",
     "title": "BUISSURES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUISSURES"
 }

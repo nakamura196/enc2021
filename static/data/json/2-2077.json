@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-393",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2081-0/",
+    "item_id": "2-2077",
     "next": "2-2078",
     "pages": "393",
     "prev": "2-2076",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAID-ALBAIN <i>ou</i> ALBANIE, province septentrionale \nde l’Ecosse, entre le Lochaber, le pays\nd’Athol &amp; d’Argile. La Tay y prend sa source.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAID-ALBAIN <i>ou</i> ALBANIE, province septentrionale \nde l’Ecosse, entre le Lochaber, le pays\nd’Athol &amp; d’Argile. La Tay y prend sa source.\n \n</p>\n</div>",
     "title": "BRAID-ALBAIN ou ALBANIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRAID-ALBAIN_ou_ALBANIE"
 }

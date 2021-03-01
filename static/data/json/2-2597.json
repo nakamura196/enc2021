@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-464",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2600-0/",
+    "item_id": "2-2597",
     "next": "2-2598",
     "pages": "464",
     "prev": "2-2596",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLOQUES, (<span class=\"sc\">les</span>) <i>ou</i> BULLOITES, <i>Géog.</i> \npeuples d’Asie, partie dans la Perse &amp; partie dans \nl’Indostan, qui est fort peu connu. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLOQUES, (<span class=\"sc\">les</span>) <i>ou</i> BULLOITES, <i>Géog.</i> \npeuples d’Asie,<span type=\"proposed\"> partie </span>dans la <span type=\"auteur_p\">Perse</span> &amp;<span type=\"proposed\"> partie </span>dans \nl’Indostan, qui est fort peu connu. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLOQUES, (<span class=\"sc\">les</span>) <i>ou</i> BULLOITES, <i>Géog.</i> \npeuples d’Asie,<span type=\"proposed\"> partie </span>dans la Perse &amp;<span type=\"proposed\"> partie </span>dans \nl’Indostan, qui est fort peu connu. \n \n</p>\n</div>",
     "title": "BULLOQUES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BULLOQUES"
 }

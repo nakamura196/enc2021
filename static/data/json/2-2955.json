@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-538",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2956-0/",
+    "item_id": "2-2955",
     "next": "2-2956",
     "pages": "538",
     "prev": "2-2954",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAKETA, (<i>Géog.</i>) grande riviere de l’Amérique \nméridionale, qui prend sa source dans la nouvelle \nGrenade.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAKETA, (<i>Géog.</i>) grande riviere de l’Amérique \nméridionale, qui prend sa source dans la nouvelle \nGrenade.\n \n</p>\n</div>",
     "title": "CAKETA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAKETA"
 }

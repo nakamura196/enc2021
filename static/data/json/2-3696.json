@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-690",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3699-0/",
+    "item_id": "2-3696",
     "next": "2-3697",
     "pages": "690",
     "prev": "2-3695",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARNEAU, s. m. (<i>Marine</i>) les matelots donnent\nce nom à l’angle de la voile latine, qui est vers la\nproue. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARNEAU, s. m. (<i>Marine</i>) les matelots donnent\nce nom à l’angle de la voile latine, qui est vers la\nproue. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "CARNEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARNEAU"
 }

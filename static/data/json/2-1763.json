@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-335",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1762-0/",
+    "item_id": "2-1763",
     "next": "2-1764",
     "pages": "335",
     "prev": "2-1762",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORETSCHO, (<i>Géog.</i>) ville forte, sur les limites\nde la Hongrie &amp; de la Transilvanie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORETSCHO, (<i>Géog.</i>) ville forte, sur les limites\nde la Hongrie &amp; de la Transilvanie.\n \n</p>\n</div>",
     "title": "BORETSCHO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORETSCHO"
 }

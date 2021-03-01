@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-892-0/",
+    "item_id": "2-896",
     "next": "2-897",
     "pages": "198",
     "prev": "2-895",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELLAGINES <i>ou</i> BILAGINES, sub. f. pl.\n(<i>Jurisprudence.</i>) c’est le recueil des loix municipales\ndes Goths, ainsi appellé par Diceneus des mots\nSaxons <i>by</i>, qui signifie habitation, bourg ou ville, &amp;\n<i>lagen</i>, loi.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELLAGINES <i>ou</i> BILAGINES, sub. f. pl.\n(<i>Jurisprudence.</i>) c’est le recueil des loix municipales\ndes Goths, ainsi appellé par Diceneus des mots\nSaxons <i>by</i>, qui signifie habitation, bourg ou ville, &amp;\n<i>lagen</i>, loi.\n \n</p>\n</div>",
     "title": "BELLAGINES ou BILAGINES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELLAGINES_ou_BILAGINES"
 }

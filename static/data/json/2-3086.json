@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-561",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3087-0/",
+    "item_id": "2-3086",
     "next": "2-3087",
     "pages": "561",
     "prev": "2-3085",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLYNTERIES, s. f. pl. (<i>Hist. anc.</i>) fêtes célébrées par les Athéniens, dont il ne nous est parvenu que le nom. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLYNTERIES, s. f. pl. (<i>Hist. anc.</i>) fêtes célébrées par les Athéniens, dont il ne nous est parvenu que le nom. \n</p>\n</div>",
     "title": "CALLYNTERIES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALLYNTERIES"
 }

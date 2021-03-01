@@ -3,7 +3,8 @@
         "Edme-François Mallet",
         "Denis Diderot"
     ],
-    "item_id": "2-97",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-528-0/",
+    "item_id": "2-517",
     "next": "2-518",
     "pages": "97",
     "prev": "2-516",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARUTH, (<i>Commerce.</i>) mesures des Indes qui \ncontient dix-sept gantans ; c’est-à-dire cinquante à \ncinquante-six livres de poivre poids de Paris. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GANTAN\" title=\"L’Encyclopédie/1re édition/GANTAN\"><span class=\"sc\">Gantan</span></a>. (<i>G</i>) \n</p><p>* BARUTH, (<i>Géog.</i>) ancienne ville de Turquie \ndans la Syrie, sur le bord de la mer. <i>Long. 52. 50.  lat. 33. 30</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARUTH, (<i>Commerce.</i>) mesures des Indes qui \ncontient dix-sept gantans ; c’est-à-dire cinquante à \ncinquante-six livres de poivre poids de Paris. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GANTAN\" title=\"L’Encyclopédie/1re édition/GANTAN\"><span class=\"sc\">Gantan</span></a>. (<i>G</i>) \n</p><p>* BARUTH, (<i>Géog.</i>) ancienne ville de Turquie \ndans la Syrie, sur le bord de la mer. <i>Long. 52. 50.  lat. 33. 30</i>. \n \n</p>\n</div>",
     "title": "BARUTH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARUTH"
 }

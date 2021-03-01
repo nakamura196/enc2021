@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-687",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3681-0/",
+    "item_id": "2-3678",
     "next": "2-3679",
     "pages": "687",
     "prev": "2-3677",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMAGNOLE, (<i>Géog.</i>) ville forte d’Italie,\ndans le Piémont près du Pô. <i>Long. 25. 20. lat. 44. 43</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMAGNOLE, (<i>Géog.</i>) ville forte d’Italie,\ndans le Piémont près du Pô. <i>Long. 25. 20. lat. 44. 43</i>.\n \n</p>\n</div>",
     "title": "CARMAGNOLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARMAGNOLE"
 }

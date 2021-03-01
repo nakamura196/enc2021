@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-214",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1105-0/",
+    "item_id": "2-1109",
     "next": "2-1110",
     "pages": "214",
     "prev": "2-1108",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESTIALITÉ, (<i>en Doit.</i>) est le crime d’un homme \nou d’une femme qui auroit un commerce charnel \navec une bête. Ce crime se punit par le feu : on brûle \nmême l’animal qui a été l’instrument du crime. (<i>H</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESTIALITÉ, (<i>en Doit.</i>) est le crime d’un homme \nou d’une femme qui auroit un commerce charnel \navec une bête. Ce crime se punit par le feu : on brûle \nmême l’animal qui a été l’instrument du crime. (<i>H</i>) \n \n</p>\n</div>",
     "title": "BESTIALITÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BESTIALIT%C3%89"
 }

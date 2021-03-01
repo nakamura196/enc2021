@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-502",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2805-0/",
+    "item_id": "2-2804",
     "next": "2-2805",
     "pages": "502",
     "prev": "2-2803",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CACAOTETL, (<i>Hist. nat.</i>) nom qu’on donne\ndans les Indes à une pierre que Borelli nomme en Latin \n<i><span class=\"lang-la\" lang=\"la\">lapis corvinus Indiæ</span> ;</i> on prétend que si on vient à\nfaire chauffer cette pierre dans le feu, elle fait un\nbruit très-considérable, &amp; semblable à un coup de\ntonnerre.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CACAOTETL, (<i>Hist. nat.</i>) nom qu’on donne\ndans les Indes à une pierre que <span type=\"auteur_p\">Borelli</span> nomme en Latin \n<i><span class=\"lang-la\" lang=\"la\">lapis corvinus Indiæ</span> ;</i> on prétend que si on vient à\nfaire chauffer cette pierre dans le feu, elle fait un\nbruit très-considérable, &amp; semblable à un coup de\ntonnerre.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CACAOTETL, (<i>Hist. nat.</i>) nom qu’on donne\ndans les Indes à une pierre que Borelli nomme en Latin \n<i><span class=\"lang-la\" lang=\"la\">lapis corvinus Indiæ</span> ;</i> on prétend que si on vient à\nfaire chauffer cette pierre dans le feu, elle fait un\nbruit très-considérable, &amp; semblable à un coup de\ntonnerre.\n \n</p>\n</div>",
     "title": "CACAOTETL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACAOTETL"
 }

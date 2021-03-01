@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-201",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-951-0/",
+    "item_id": "2-955",
     "next": "2-956",
     "pages": "201",
     "prev": "2-954",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDIMIR, (<i>Géographie</i>) fleuve de Perse, qui\ntombe dans le golfe de Bengale.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDIMIR, (<i>Géographie</i>) fleuve de <span type=\"auteur_p\">Perse</span>, qui\ntombe dans le golfe de Bengale.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDIMIR, (<i>Géographie</i>) fleuve de Perse, qui\ntombe dans le golfe de Bengale.\n \n</p>\n</div>",
     "title": "BENDIMIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENDIMIR"
 }

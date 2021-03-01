@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-531",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2915-0/",
+    "item_id": "2-2914",
     "next": "2-2915",
     "pages": "531",
     "prev": "2-2913",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHORS, (<i>Géog.</i>) ville de France, capitale du \nQuercy dans la Guienne sur la Lot. <i>Long. 19<sup style=\"font-size:70%\">d</sup>. 7′. </i>\n9″. lat. 44<sup style=\"font-size:70%\">d</sup>. 26′. 4″<i>. </i>\n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHORS, (<i>Géog.</i>) ville de France, capitale du \nQuercy dans la Guienne sur la Lot. <i>Long. 19<sup style=\"font-size:70%\">d</sup>. 7′. </i>\n9″. lat. 44<sup style=\"font-size:70%\">d</sup>. 26′. 4″<i>. </i>\n</p>\n</div>",
     "title": "CAHORS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAHORS"
 }

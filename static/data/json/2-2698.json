@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-470",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2701-0/",
+    "item_id": "2-2698",
     "next": "2-2699",
     "pages": "470",
     "prev": "2-2697",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUVEUR, (<i>en Anatomie.</i>) on donne ce nom à un\nmuscle droit de l’œil, autrement appellé <i>adducteur de </i>\n<i>l’œil. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OEIL\" title=\"L’Encyclopédie/1re édition/OEIL\"><span class=\"sc\">Œil</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DROIT\" title=\"L’Encyclopédie/1re édition/DROIT\"><span class=\"sc\">Droit</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUVEUR, (<i>en Anatomie.</i>) on donne ce nom à un\nmuscle droit de l’œil, autrement appellé <i>adducteur de </i>\n<i>l’œil. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OEIL\" title=\"L’Encyclopédie/1re édition/OEIL\"><span class=\"sc\">Œil</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DROIT\" title=\"L’Encyclopédie/1re édition/DROIT\"><span class=\"sc\">Droit</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "title": "BUVEUR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUVEUR"
 }

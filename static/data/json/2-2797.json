@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2798-0/",
+    "item_id": "2-2797",
     "next": "2-2798",
     "pages": "495",
     "prev": "2-2796",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABUL <i>ou</i> CABOUL, (<i>Géog.</i>) grande ville d’Asie \ndans les Indes, capitale du Cabulistan, avec deux \nbons châteaux. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABUL <i>ou</i> CABOUL, (<i>Géog.</i>) grande ville d’Asie \ndans les Indes, capitale du Cabulistan, avec deux \nbons châteaux. \n \n</p>\n</div>",
     "title": "CABUL ou CABOUL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABUL_ou_CABOUL"
 }

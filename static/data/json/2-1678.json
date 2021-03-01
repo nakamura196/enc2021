@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-321",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1677-0/",
+    "item_id": "2-1678",
     "next": "2-1679",
     "pages": "321",
     "prev": "2-1677",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONDORFF, (<i>Géog.</i>) bourg de la Souabe dans \nla forêt Noire. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONDORFF, (<i>Géog.</i>) bourg de la Souabe dans \nla forêt Noire. \n \n</p>\n</div>",
     "title": "BONDORFF",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONDORFF"
 }

@@ -3,7 +3,8 @@
         "Jacques-Nicolas Bellin",
         "Edme-François Mallet"
     ],
-    "item_id": "2-261",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1375-0/",
+    "item_id": "2-1378",
     "next": "2-1379",
     "pages": "261",
     "prev": "2-1377",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISE, s. f. (<i>Marine.</i>) vent de nord-est ; c’est un\nvent sec &amp; froid qui souffle dans l’hyver, entre l’est\n&amp; le septentrion. (<i>Z</i>)\n</p><p><span class=\"sc\">Bise</span>, <i>ou</i> <span class=\"sc\">Bize</span>, s. f. (<i>Commerce.</i>) est un poids qui\nsert dans le royaume de Pégu à peser les marchandises : \nil revient à deux livres cinq onces, poids de\nVenise, ou trois livres neuf onces du poids léger\nde la même ville. Chaque <i>bise</i> pese cent tecalis. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TECCALI\" title=\"L’Encyclopédie/1re édition/TECCALI\"><span class=\"sc\">Tecali</span></a>. Au-dessous de la <i>bise</i> le plus petit poids est\nl’aboccho, qui ne pese que douze tecalis &amp; demi ; l’agito \npese deux abocchi, &amp; deux agiti la demi-<i>bise</i>,\nc’est-à-dire cinquante tecalis. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISE, s. f. (<i>Marine.</i>) vent de nord-est ; c’est un\nvent sec &amp; froid qui souffle dans l’hyver, entre l’est\n&amp; le septentrion. (<i>Z</i>)\n</p><p><span class=\"sc\">Bise</span>, <i>ou</i> <span class=\"sc\">Bize</span>, s. f. (<i>Commerce.</i>) est un poids qui\nsert dans le royaume de Pégu à peser les marchandises : \nil revient à deux livres cinq onces, poids de\nVenise, ou trois livres neuf onces du poids léger\nde la même ville. Chaque <i>bise</i> pese cent tecalis. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TECCALI\" title=\"L’Encyclopédie/1re édition/TECCALI\"><span class=\"sc\">Tecali</span></a>. Au-dessous de la <i>bise</i> le plus petit poids est\nl’aboccho, qui ne pese que douze tecalis &amp; demi ; l’agito \npese deux abocchi, &amp; deux agiti la demi-<i>bise</i>,\nc’est-à-dire cinquante tecalis. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BISE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISE"
 }

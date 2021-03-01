@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-706",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3762-0/",
+    "item_id": "2-3759",
     "next": "2-3760",
     "pages": "706",
     "prev": "2-3758",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CARTAGER, v. neut. (<i>Agriculture &amp; Œconomie rustique.</i>) c’est donner à la vigne un quatrieme labour ; \nil ne faut pas l’épargner à celle où l’on aura\nmis du fumier depuis la derniere vendange, &amp; quand\nl’année aura été pluvieuse ; le fumier &amp; les pluies\nfréquentes produisant des herbes qui usent la terre,\n&amp; empêchent le raisin de profiter &amp; de mûrir. Les\nVignerons ne sont point obligés à cette façon, à\nmoins que ce ne soit une condition du marché. Au\nreste il vaut mieux la leur payer à part que de les y\nobliger. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIGNE\" title=\"L’Encyclopédie/1re édition/VIGNE\"><span class=\"sc\">Vigne</span></a>. Le mot <i>cartager</i> est principalement \nd’usage dans l’Orléanois.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CARTAGER, v. neut. (<i>Agriculture &amp; Œconomie rustique.</i>) c’est donner à la vigne un quatrieme labour ; \nil ne faut pas l’épargner à celle où l’on aura\nmis du fumier depuis la derniere vendange, &amp; quand\nl’année aura été pluvieuse ; le fumier &amp; les pluies\nfréquentes produisant des herbes qui usent la terre,\n&amp; empêchent le raisin de profiter &amp; de mûrir. Les\nVignerons ne sont point obligés à cette façon, à\nmoins que ce ne soit une condition du marché. Au\nreste il vaut mieux la leur payer à part que de les y\nobliger. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIGNE\" title=\"L’Encyclopédie/1re édition/VIGNE\"><span class=\"sc\">Vigne</span></a>. Le mot <i>cartager</i> est principalement \nd’usage dans l’Orléanois.\n \n</p>\n</div>",
     "title": "CARTAGER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARTAGER"
 }

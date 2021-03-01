@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-59",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-316-0/",
+    "item_id": "2-308",
     "next": "2-309",
     "pages": "59",
     "prev": "2-307",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANLIEUE, <i>terme de Jurispr.</i> est une lieue à\nl’entour de la ville, au-dedans de laquelle se peut\nfaire le ban, c’est-à-dire, les proclamations de la\nville, &amp; jusqu’où s’étend l’échevinage &amp; justice\nd’icelle. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANLIEUE, <i>terme de Jurispr.</i> est une lieue à\nl’entour de la ville, au-dedans de laquelle se peut\nfaire le ban, c’est-à-dire, les proclamations de la\nville, &amp; jusqu’où s’étend l’échevinage &amp; justice\nd’icelle. (<i>H</i>)\n \n</p>\n</div>",
     "title": "BANLIEUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANLIEUE"
 }

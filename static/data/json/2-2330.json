@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2332-0/",
+    "item_id": "2-2330",
     "next": "2-2331",
     "pages": "424",
     "prev": "2-2329",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>BRISEUS</i>, (<i>Myth.</i>) surnom de Bacchus, qui\nlui venoit ou de celui de <i>Brisis</i> sa nourrice, ou du\nmot <i>bris</i>, relatif à l’usage du miel &amp; du vin, dont\non lui attribuoit la premiere invention ; ou de <i>Brisa</i>,\npromontoire de l’île de Lesbos, où il avoit un temple.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>BRISEUS</i>, (<i>Myth.</i>) surnom de Bacchus, qui\nlui venoit ou de celui de <i>Brisis</i> sa nourrice, ou du\nmot <i>bris</i>, relatif à l’usage du miel &amp; du vin, dont\non lui attribuoit la premiere invention ; ou de <i>Brisa</i>,\npromontoire de l’île de Lesbos, où il avoit un temple.\n \n</p>\n</div>",
     "title": "BRISEUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISEUS"
 }

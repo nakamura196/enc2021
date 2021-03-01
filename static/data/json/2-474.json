@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-89",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-485-0/",
+    "item_id": "2-474",
     "next": "2-475",
     "pages": "89",
     "prev": "2-473",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAROSCOPE, s. m. (<i>Physiq.</i>) ce mot vient de\n<span class=\"lang-grc\" lang=\"grc\">βάρος</span>, <i><span class=\"lang-la\" lang=\"la\">onus</span></i>, poids, &amp; <span class=\"lang-grc\" lang=\"grc\">σκοπέω</span>, <i><span class=\"lang-la\" lang=\"la\">video</span></i>, je vois ; machine \ninventée pour faire connoître les changemens\ndu poids de l’atmosphere. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAROMETRE\" title=\"L’Encyclopédie/1re édition/BAROMETRE\"><span class=\"sc\">Barometre</span></a>.\n</p><p>Le <i>baroscope</i> ne fait qu’indiquer ou faire voir les\nchangemens du poids de l’atmosphere ; le barometre\nles mesure par des degrés ou divisions qui sont placés \nle long du tuyau ; ainsi ces degrés ou divisions\nfont toute la difference du barometre au <i>baroscope</i>.\nAu reste il n’y a plus aujourd’hui de <i>baroscope</i> qui ne\nsoit barometre, &amp; ces deux noms désignent absolument \nle même instrument. (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAROSCOPE, s. m. (<i>Physiq.</i>) ce mot vient de\n<span class=\"lang-grc\" lang=\"grc\">βάρος</span>, <i><span class=\"lang-la\" lang=\"la\">onus</span></i>, poids, &amp; <span class=\"lang-grc\" lang=\"grc\">σκοπέω</span>, <i><span class=\"lang-la\" lang=\"la\">video</span></i>, je vois ; machine \ninventée pour faire connoître les changemens\ndu poids de l’atmosphere. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAROMETRE\" title=\"L’Encyclopédie/1re édition/BAROMETRE\"><span class=\"sc\">Barometre</span></a>.\n</p><p>Le <i>baroscope</i> ne fait qu’indiquer ou faire voir les\nchangemens du poids de l’atmosphere ; le barometre\nles mesure par des degrés ou divisions qui sont placés \nle long du tuyau ; ainsi ces degrés ou divisions\nfont toute la difference du barometre au <i>baroscope</i>.\nAu reste il n’y a plus aujourd’hui de <i>baroscope</i> qui ne\nsoit barometre, &amp; ces deux noms désignent absolument \nle même instrument. (<i>O</i>)\n \n</p>\n</div>",
     "title": "BAROSCOPE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAROSCOPE"
 }

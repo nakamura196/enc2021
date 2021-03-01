@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-68",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-379-0/",
+    "item_id": "2-371",
     "next": "2-372",
     "pages": "68",
     "prev": "2-370",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBARA, (<i>Log.</i>) terme par lequel on désigne \nle premier mode d’argument de la premiere figure : \nun syllogisme en <i>barbara</i> a ses trois propositions universelles \naffirmatives. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SYLLOGISME\" title=\"L’Encyclopédie/1re édition/SYLLOGISME\"><span class=\"sc\">Syllogisme</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBARA, (<i>Log.</i>) terme par lequel on désigne \nle premier mode d’argument de la premiere figure : \nun syllogisme en <i>barbara</i> a ses trois propositions universelles \naffirmatives. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SYLLOGISME\" title=\"L’Encyclopédie/1re édition/SYLLOGISME\"><span class=\"sc\">Syllogisme</span></a>. \n \n</p>\n</div>",
     "title": "BARBARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBARA"
 }

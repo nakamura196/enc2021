@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-12",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-126-0/",
+    "item_id": "2-119",
     "next": "2-120",
     "pages": "12",
     "prev": "2-118",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNE, s. m. c’est ainsi qu’on nomme <i>dans quelques Verreries en bouteilles</i>, le poinçon dans lequel on passe au tamis la terre à pot au sortir du moulin, &amp; la terre grasse bien moulue &amp; bien épluchée, pour faire de l’une &amp; de l’autre la matiere des pots. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie</span></a>, <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POT\" title=\"L’Encyclopédie/1re édition/POT\"><span class=\"sc\">Pot</span></a>\n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNE, s. m. c’est ainsi qu’on nomme <i>dans quelques Verreries en bouteilles</i>, le poinçon dans lequel on passe au tamis la terre à pot au sortir du moulin, &amp; la terre grasse bien moulue &amp; bien épluchée, pour faire de l’une &amp; de l’autre la matiere des pots. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie</span></a>, <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POT\" title=\"L’Encyclopédie/1re édition/POT\"><span class=\"sc\">Pot</span></a>\n</p>\n</div>",
     "title": "BAGNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAGNE"
 }

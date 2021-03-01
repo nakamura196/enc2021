@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-387",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2031-0/",
+    "item_id": "2-2027",
     "next": "2-2028",
     "pages": "387",
     "prev": "2-2026",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUVEMENT, s. m. outil qui sert aux <i>Menuisiers</i>\npour faire les moulures sur leurs ouvrages : il ne differe \nde l’espece générale des bouvets, qu’en ce que\nson profil est une cimaise ; du reste la maniere de se\nservir de cet outil est la même. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUVET\" title=\"L’Encyclopédie/1re édition/BOUVET\"><span class=\"sc\">Bouvet</span></a>, <i>&amp;  la fig. 16. Pl. II. du Menuisier</i>, qui le représente.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUVEMENT, s. m. outil qui sert aux <i>Menuisiers</i>\npour faire les moulures sur leurs ouvrages : il ne differe \nde l’espece générale des bouvets, qu’en ce que\nson profil est une cimaise ; du reste la maniere de se\nservir de cet outil est la même. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUVET\" title=\"L’Encyclopédie/1re édition/BOUVET\"><span class=\"sc\">Bouvet</span></a>, <i>&amp;  la fig. 16. Pl. II. du Menuisier</i>, qui le représente.\n \n</p>\n</div>",
     "title": "BOUVEMENT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUVEMENT"
 }

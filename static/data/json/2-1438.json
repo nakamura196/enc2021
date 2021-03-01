@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-268",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1435-0/",
+    "item_id": "2-1438",
     "next": "2-1439",
     "pages": "268",
     "prev": "2-1437",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIZACENE (<span class=\"sc\">la</span>) <i>Géogr.</i> ancienne contrée de\nl’Afrique, bornée à l’orient par le fleuve Triton, a\nl’occident par la Numidie, au midi par la Libye intérieure ; \nc’est aujourd’hui une partie du royaume\nde Tunis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIZACENE (<span class=\"sc\">la</span>) <i>Géogr.</i> ancienne contrée de\nl’Afrique, bornée à l’orient par le fleuve Triton, a\nl’occident par la Numidie, au midi par la Libye intérieure ; \nc’est aujourd’hui une<span type=\"proposed\"> partie </span>du royaume\nde Tunis.\n \n</p>\n</div>",
     "title": "BIZACENE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIZACENE"
 }

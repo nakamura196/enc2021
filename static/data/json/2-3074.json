@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-561",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3075-0/",
+    "item_id": "2-3074",
     "next": "2-3075",
     "pages": "561",
     "prev": "2-3073",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALLAO, (<i>Géog.</i>) ville forte &amp; considérable de l’Amérique méridionale, au Pérou, à deux lieues de Lima, avec un bon port qui a été ruiné en 1746 par un tremblement de terre. <i>Long. 30. 1. lat. mérid. 12. 29. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TREMBLEMENS_de_Terre\" title=\"L’Encyclopédie/1re édition/TREMBLEMENS de Terre\"><span class=\"sc\">Tremblement de terre</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALLAO, (<i>Géog.</i>) ville forte &amp; considérable de l’Amérique méridionale, au Pérou, à deux lieues de Lima, avec un bon port qui a été ruiné en 1746 par un tremblement de terre. <i>Long. 30. 1. lat. mérid. 12. 29. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TREMBLEMENS_de_Terre\" title=\"L’Encyclopédie/1re édition/TREMBLEMENS de Terre\"><span class=\"sc\">Tremblement de terre</span></a>. \n \n</p>\n</div>",
     "title": "CALLAO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALLAO"
 }

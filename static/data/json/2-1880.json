@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-355",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1885-0/",
+    "item_id": "2-1880",
     "next": "2-1881",
     "pages": "355",
     "prev": "2-1879",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVENA, (<i>Géog.</i>) c’est le nom d’une des îles\nd’Hieres, dans la Méditerranée, près de la côte de\nProvence.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVENA, (<i>Géog.</i>) c’est le nom d’une des îles\nd’Hieres, dans la Méditerranée, près de la côte de\nProvence.\n \n</p>\n</div>",
     "title": "BOVENA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOVENA"
 }

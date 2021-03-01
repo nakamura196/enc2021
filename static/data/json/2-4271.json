@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-833",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4261-0/",
+    "item_id": "2-4271",
     "next": "2-4272",
     "pages": "833",
     "prev": "2-4270",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CERAUNIENS, (<span class=\"sc\">Monts.</span>) Les Grecs ont\ndonné ce nom à plusieurs chaînes de montagnes ; les\nunes étoient situées sur les confins de l’Epire, où la\nmer Ionienne commence à s’appeller <i>mer Adriatique ;</i>\nd’autres faisoient partie du Caucase : il y avoit aussi\ndes monts <i>Cerauniens</i> en Afrique. On pourroit même\ndire en général qu’on a donné ce nom à la plûpart\ndes montagnes que leur hauteur exposoit à la foudre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CERAUNIENS, (<span class=\"sc\">Monts.</span>) Les Grecs ont\ndonné ce nom à plusieurs chaînes de montagnes ; les\nunes étoient situées sur les confins de l’Epire, où la\nmer Ionienne commence à s’appeller <i>mer Adriatique ;</i>\nd’autres faisoient<span type=\"proposed\"> partie </span>du Caucase : il y avoit aussi\ndes monts <i>Cerauniens</i> en Afrique. On pourroit même\ndire en général qu’on a donné ce nom à la plûpart\ndes montagnes que leur hauteur exposoit à la foudre.\n \n</p>\n</div>",
     "title": "CERAUNIENS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERAUNIENS"
 }

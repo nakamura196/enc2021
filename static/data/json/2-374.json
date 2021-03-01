@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-69",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-382-0/",
+    "item_id": "2-374",
     "next": "2-375",
     "pages": "69",
     "prev": "2-373",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBARICAIRE, s. m. (<i>Peinture &amp; Tapisserie.</i>) \nLe <i>barbaricaire</i> est un peintre qui exécute des représentations \nd’hommes &amp; d’animaux en tapisserie ou \navec des soies de différentes couleurs. La tapisserie \nest un genre de peinture, &amp; l’on ne doit pas être surpris \nque je donne le nom de <i>peintre</i> à ces excellens \nartistes, qui font avec l’aiguille des tableaux aussi beaux que tous ceux que les peintres font avec le \npinceau. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LISSE\" title=\"L’Encyclopédie/1re édition/LISSE\"><span class=\"sc\">Lisse</span></a> <span class=\"sc\">haute</span> <i>&amp;</i> <span class=\"sc\">basse</span>\n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBARICAIRE, s. m. (<i>Peinture &amp; Tapisserie.</i>) \nLe <i>barbaricaire</i> est un peintre qui exécute des représentations \nd’hommes &amp; d’animaux en tapisserie ou \navec des soies de différentes couleurs. La tapisserie \nest un genre de peinture, &amp; l’on ne doit pas être surpris \nque je donne le nom de <i>peintre</i> à ces excellens \nartistes, qui font avec l’aiguille des tableaux aussi beaux que tous ceux que les peintres font avec le \npinceau. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LISSE\" title=\"L’Encyclopédie/1re édition/LISSE\"><span class=\"sc\">Lisse</span></a> <span class=\"sc\">haute</span> <i>&amp;</i> <span class=\"sc\">basse</span>\n</p>\n</div>",
     "title": "BARBARICAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBARICAIRE"
 }

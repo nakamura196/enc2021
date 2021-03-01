@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-469",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2676-0/",
+    "item_id": "2-2673",
     "next": "2-2674",
     "pages": "469",
     "prev": "2-2672",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUSSSIERE, (<i>la</i>) <i>Géog.</i> petite ville de France\nen Bourgogne, près d’Autun.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUSSSIERE, (<i>la</i>) <i>Géog.</i> petite ville de France\nen Bourgogne, près d’Autun.\n \n</p>\n</div>",
     "title": "BUSSSIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUSSSIERE"
 }

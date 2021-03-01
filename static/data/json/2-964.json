@@ -2,7 +2,8 @@
     "authors": [
         "Paul-Jacques Malouin"
     ],
-    "item_id": "2-203",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-960-0/",
+    "item_id": "2-964",
     "next": "2-965",
     "pages": "203",
     "prev": "2-963",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉNÉFICIER, v. neut. <i>en Chimie</i>, c’est exploiter\nles mines avec bénéfice, avec profit. (<i>M</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉNÉFICIER, v. neut. <i>en Chimie</i>, c’est exploiter\nles mines avec bénéfice, avec profit. (<i>M</i>)\n \n</p>\n</div>",
     "title": "BÉNÉFICIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/B%C3%89N%C3%89FICIER"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-868",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4340-0/",
+    "item_id": "2-4350",
     "next": "2-4351",
     "pages": "868",
     "prev": "2-4349",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CESSARES, (<i>Géog.</i>) peuple de l’Amérique méridionale,\ndans la terre Magellanique, à l’orient de\nla Cordillera de los Andes.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CESSARES, (<i>Géog.</i>) peuple de l’Amérique méridionale,\ndans la terre Magellanique, à l’orient de\nla Cordillera de los Andes.\n \n</p>\n</div>",
     "title": "CESSARES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CESSARES"
 }

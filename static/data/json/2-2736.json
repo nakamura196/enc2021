@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-486",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2736-0/",
+    "item_id": "2-2736",
     "next": "2-2737",
     "pages": "486",
     "prev": "2-2735",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABALISTE, <i>terme de Commerce usité à Toulouse </i>\n<i>&amp; dans tout le Languedoc</i>. C’est un marchand qui ne\nfait pas le commerce sous son nom, mais qui est intéressé \ndans le négoce d’un marchand en chef. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABALISTE, <i>terme de Commerce usité à Toulouse </i>\n<i>&amp; dans tout le Languedoc</i>. C’est un marchand qui ne\nfait pas le commerce sous son nom, mais qui est intéressé \ndans le négoce d’un marchand en chef. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CABALISTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABALISTE"
 }

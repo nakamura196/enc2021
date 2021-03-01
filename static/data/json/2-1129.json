@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-217",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1125-0/",
+    "item_id": "2-1129",
     "next": "2-1130",
     "pages": "217",
     "prev": "2-1128",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEVELAND, (<i>Géog.</i>) ile des Provinces-Unies\nen Zélande : l’Escaut la divise en deux parties, dont\nl’une s’appelle <i>Zuyd-Beveland</i>, &amp; l’autre <i>Noort-Beveland</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEVELAND, (<i>Géog.</i>) ile des Provinces-Unies\nen Zélande : l’Escaut la divise en deux parties, dont\nl’une s’appelle <i>Zuyd-Beveland</i>, &amp; l’autre <i>Noort-Beveland</i>.\n \n</p>\n</div>",
     "title": "BEVELAND",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEVELAND"
 }

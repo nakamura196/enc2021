@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-510",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2843-0/",
+    "item_id": "2-2842",
     "next": "2-2843",
     "pages": "510",
     "prev": "2-2841",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADARIEN, (<i>Hist. mod.</i>) nom d’une secte Mahométane. \nLes <i>Cadariens</i> sont une secte de Musulmans \nqui attribue les actions de l’homme à l’homme\nmême, &amp; non à un decret divin qui détermine sa\nvolonté.\n</p><p>L’auteur de cette secte fut Mabedben-Kaled-al-Gihoni, \nqui souffrit le martyre pour défendre sa\ncroyance : ce mot vient de l’Arabe <span class=\"lang-he\" lang=\"he\"><span class=\"coquille\" title=\"קרד\">קדר</span></span>, <i>kadara</i>,\npouvoir. <i>Ben-Aun</i> appelle les <i>Cadariens</i>, les <i>Mages</i> ou\nles <i>Manichéens du Musulmanisme</i> ; on les appelle autrement \n<i>Motazales</i>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADARIEN, (<i>Hist. mod.</i>) nom d’une secte Mahométane. \nLes <i>Cadariens</i> sont une secte de Musulmans \nqui attribue les actions de l’homme à l’homme\nmême, &amp; non à un decret divin qui détermine sa\nvolonté.\n</p><p>L’auteur de cette secte fut Mabedben-Kaled-al-Gihoni, \nqui souffrit le martyre pour défendre sa\ncroyance : ce mot vient de l’Arabe <span class=\"lang-he\" lang=\"he\"><span class=\"coquille\" title=\"קרד\">קדר</span></span>, <i>kadara</i>,\npouvoir. <i>Ben-Aun</i> appelle les <i>Cadariens</i>, les <i>Mages</i> ou\nles <i>Manichéens du Musulmanisme</i> ; on les appelle autrement \n<i>Motazales</i>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CADARIEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADARIEN"
 }

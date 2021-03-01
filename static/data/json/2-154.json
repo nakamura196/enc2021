@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-16",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-161-0/",
+    "item_id": "2-154",
     "next": "2-155",
     "pages": "16-17",
     "prev": "2-153",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAILLE-BOUTE, s. f. c’est <i>parmi les Marins</i> une\nmoitié de tonneau en forme de baquet. Les vaisseaux\nde guerre ont une <i>baille</i> amarrée à chaque hune,\npour y enfermer des grenades &amp; autres artifices que\nl’on couvre de peaux fraîches, s’il est possible, pour\nles garantir du feu. <span><span class=\"pagenum ws-pagenum\" id=\"17\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/21\"></span></span>\n</p><p>On met dans des <i>bailles</i> le breuvage que l’on distribue \ntous les jours aux gens de l’équipage. Il y a aussi\ndes <i>bailles</i> à tremper les écouvillons dont on se sert\npour rafraîchir le canon. Il y a des <i>bailles</i> pour mettre\ntremper le poisson &amp; la viande salée.\n</p><p>On se sert quelquefois des <i>bailles</i> pour puiser l’eau\nqui entre dans le rum ou fond de cale. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAILLE-BOUTE, s. f. c’est <i>parmi les Marins</i> une\nmoitié de tonneau en forme de baquet. Les vaisseaux\nde guerre ont une <i>baille</i> amarrée à chaque hune,\npour y enfermer des grenades &amp; autres artifices que\nl’on couvre de peaux fraîches, s’il est possible, pour\nles garantir du feu. <span><span class=\"pagenum ws-pagenum\" id=\"17\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/21\"></span></span>\n</p><p>On met dans des <i>bailles</i> le breuvage que l’on distribue \ntous les jours aux gens de l’équipage. Il y a aussi\ndes <i>bailles</i> à tremper les écouvillons dont on se sert\npour rafraîchir le canon. Il y a des <i>bailles</i> pour mettre\ntremper le poisson &amp; la viande salée.\n</p><p>On se sert quelquefois des <i>bailles</i> pour puiser l’eau\nqui entre dans le rum ou fond de cale. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BAILLE-BOUTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAILLE-BOUTE"
 }

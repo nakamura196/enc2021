@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-741",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3814-0/",
+    "item_id": "2-3811",
     "next": "2-3812",
     "pages": "741",
     "prev": "2-3810",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASER, v. n. <i>au Trictrac</i>, c’est accoupler deux\ndames, ou les placer sur la même fleche.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASER, v. n. <i>au Trictrac</i>, c’est accoupler deux\ndames, ou les placer sur la même fleche.\n \n</p>\n</div>",
     "title": "CASER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASER"
 }

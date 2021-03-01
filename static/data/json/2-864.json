@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-193",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-860-0/",
+    "item_id": "2-864",
     "next": "2-865",
     "pages": "193",
     "prev": "2-863",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELCASTRO, (<i>Géog. anc. &amp; mod.</i>) ville d’Italie, \nau royaume de Naples, dans la Calabre ultérieure, \nsur une montagne. <i>Long. 34. 45. lat. 39. 6</i>.\n</p><p>On la prend pour la <i>Chonia</i> des anciens : mais il y a \npeu d’apparence qu’elle ait été bâtie sur les ruines \nde la <i>Petilia</i>, dont il est parlé dans Strabon, Pline, \nPtolomée, &amp; Pomponius Méla. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELCASTRO, (<i>Géog. anc. &amp; mod.</i>) ville d’Italie, \nau royaume de Naples, dans la Calabre ultérieure, \nsur une montagne. <i>Long. 34. 45. lat. 39. 6</i>.\n</p><p>On la prend pour la <i>Chonia</i> des anciens : mais il y a \npeu d’apparence qu’elle ait été bâtie sur les ruines \nde la <i>Petilia</i>, dont il est parlé dans <span type=\"auteur_p\">Strabon</span>, <span type=\"auteur_p\">Pline</span>, \nPtolomée, &amp; Pomponius Méla. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELCASTRO, (<i>Géog. anc. &amp; mod.</i>) ville d’Italie, \nau royaume de Naples, dans la Calabre ultérieure, \nsur une montagne. <i>Long. 34. 45. lat. 39. 6</i>.\n</p><p>On la prend pour la <i>Chonia</i> des anciens : mais il y a \npeu d’apparence qu’elle ait été bâtie sur les ruines \nde la <i>Petilia</i>, dont il est parlé dans Strabon, Pline, \nPtolomée, &amp; Pomponius Méla. \n \n</p>\n</div>",
     "title": "BELCASTRO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELCASTRO"
 }

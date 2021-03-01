@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-208",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1024-0/",
+    "item_id": "2-1028",
     "next": "2-1029",
     "pages": "208",
     "prev": "2-1027",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGAS, (<i>Géog. anc. &amp; mod.</i>) ville de la Turquie \nEuropéenne, dans la Romanie, sur la riviere de\nLarisse. <i>Long. 45. lat. 41. 17</i>. anciennement <i>Arcadiopolis,  Pyrgus</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGAS, (<i>Géog. anc. &amp; mod.</i>) ville de la Turquie \nEuropéenne, dans la Romanie, sur la riviere de\nLarisse. <i>Long. 45. lat. 41. 17</i>. anciennement <i>Arcadiopolis,  Pyrgus</i>.\n \n</p>\n</div>",
     "title": "BERGAS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERGAS"
 }

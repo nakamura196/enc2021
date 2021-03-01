@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-418",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2272-0/",
+    "item_id": "2-2267",
     "next": "2-2268",
     "pages": "418",
     "prev": "2-2266",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDLINGTON, (<i>Géog.</i>) petite ville d’Angleterre, \ndans la province d’Yorck.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDLINGTON, (<i>Géog.</i>) petite ville d’Angleterre, \ndans la province d’Yorck.\n \n</p>\n</div>",
     "title": "BRIDLINGTON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIDLINGTON"
 }

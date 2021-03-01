@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-399",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2129-0/",
+    "item_id": "2-2125",
     "next": "2-2126",
     "pages": "399",
     "prev": "2-2124",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRASLAW, (<i>Géog.</i>) petite ville de sa Valachie,\nprès des frontieres de la Moldavie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRASLAW, (<i>Géog.</i>) petite ville de sa Valachie,\nprès des frontieres de la Moldavie.\n \n</p>\n</div>",
     "title": "BRASLAW",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRASLAW"
 }

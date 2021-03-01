@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-742",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3829-0/",
+    "item_id": "2-3826",
     "next": "2-3827",
     "pages": "742",
     "prev": "2-3825",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASPE, (<i>Géog.</i>) ville ou bourg d’Espagne au\nroyaume d’Arragon, au confluant de l’Ebre &amp; de la\nGuadeloupe.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASPE, (<i>Géog.</i>) ville ou bourg d’Espagne au\nroyaume d’Arragon, au confluant de l’Ebre &amp; de la\nGuadeloupe.\n \n</p>\n</div>",
     "title": "CASPE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASPE"
 }

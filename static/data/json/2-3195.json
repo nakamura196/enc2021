@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-573",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3197-0/",
+    "item_id": "2-3195",
     "next": "2-3196",
     "pages": "573",
     "prev": "2-3194",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CAMÆNA</i>, s. f. (<i>Myth.</i>) déesse des Romains\ndont il est fait mention dans S. Augustin : elle présidoit \naux chants.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CAMÆNA</i>, s. f. (<i>Myth.</i>) déesse des Romains\ndont il est fait mention dans S. Augustin : elle présidoit \naux chants.\n \n</p>\n</div>",
     "title": "CAMAENA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMAENA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-416",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2262-0/",
+    "item_id": "2-2257",
     "next": "2-2258",
     "pages": "416",
     "prev": "2-2256",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIATENTE, (<i>Géog.</i>) petite ville de France en\nLanguedoc, sur le Dadou, à quelques lieues d’Alby.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIATENTE, (<i>Géog.</i>) petite ville de France en\nLanguedoc, sur le Dadou, à quelques lieues d’Alby.\n \n</p>\n</div>",
     "title": "BRIATENTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIATENTE"
 }

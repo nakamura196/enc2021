@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-58",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-302-0/",
+    "item_id": "2-294",
     "next": "2-295",
     "pages": "58",
     "prev": "2-293",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANDELETTE, s. f. (<i>en Architecture.</i>) moulure\nplate qui a ordinairement autant de saillie que de\nhauteur, comme celle qui couronne l’architrave toscan \n&amp; dorique, &amp; qui se nomme <i>filet</i> ou <i>listeau</i>, selon \nla place qu’elle occupe dans les corniches ou autres \nmembres d’architecture. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANDELETTE, s. f. (<i>en Architecture.</i>) moulure\nplate qui a ordinairement autant de saillie que de\nhauteur, comme celle qui couronne l’architrave toscan \n&amp; dorique, &amp; qui se nomme <i>filet</i> ou <i>listeau</i>, selon \nla place qu’elle occupe dans les corniches ou autres \nmembres d’architecture. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BANDELETTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANDELETTE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-420",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2303-0/",
+    "item_id": "2-2298",
     "next": "2-2299",
     "pages": "420",
     "prev": "2-2297",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRILLE, (<i>la</i>) <i>Géog.</i> ville maritime de la province \nd’Hollande, dans l’île de Voorn. Elle est fortifiée,\n&amp; a un bon port près de l’embouchûre de la Meuse.\n<i>Lon. 21. 31. lat. 51. 53</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRILLE, (<i>la</i>) <i>Géog.</i> ville maritime de la province \nd’Hollande, dans l’île de Voorn. Elle est fortifiée,\n&amp; a un bon port près de l’embouchûre de la Meuse.\n<i>Lon. 21. 31. lat. 51. 53</i>.\n \n</p>\n</div>",
     "title": "BRILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRILLE"
 }

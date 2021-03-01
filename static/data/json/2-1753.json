@@ -2,7 +2,8 @@
     "authors": [
         "Paul Landois"
     ],
-    "item_id": "2-334",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1752-0/",
+    "item_id": "2-1753",
     "next": "2-1754",
     "pages": "334",
     "prev": "2-1752",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORDEMENT, s. m. <i>terme de Peinture en émail :</i> \npour employer les émaux clairs, on les broye seulement \navec de l’eau ; car ils ne peuvent pas souffrir \nl’huile comme les émaux épais ; on les couche à plat, \nbordés du métal sur lequel on les met. On fait quelquefois \ndes ouvrages qui sont tout en champ d’émail \n&amp; sans <i>bordement ;</i> ce qui est assez difficile, à cause \nque les émaux clairs en se parfondant, se mêlent ensemble, \n&amp; que les couleurs se confondent, principalement \nlorsque les pieces sont petites. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PARFONDRE\" title=\"L’Encyclopédie/1re édition/PARFONDRE\"><span class=\"sc\">Parfondre</span></a>. \n(<i>R</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORDEMENT, s. m. <i>terme de Peinture en émail :</i> \npour employer les émaux clairs, on les broye seulement \navec de l’eau ; car ils ne peuvent pas souffrir \nl’huile comme les émaux épais ; on les couche à plat, \nbordés du métal sur lequel on les met. On fait quelquefois \ndes ouvrages qui sont tout en champ d’émail \n&amp; sans <i>bordement ;</i> ce qui est assez difficile, à cause \nque les émaux clairs en se parfondant, se mêlent ensemble, \n&amp; que les couleurs se confondent, principalement \nlorsque les pieces sont petites. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PARFONDRE\" title=\"L’Encyclopédie/1re édition/PARFONDRE\"><span class=\"sc\">Parfondre</span></a>. \n(<i>R</i>) \n \n</p>\n</div>",
     "title": "BORDEMENT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORDEMENT"
 }

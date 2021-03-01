@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-257",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1311-0/",
+    "item_id": "2-1314",
     "next": "2-1315",
     "pages": "257",
     "prev": "2-1313",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIMINI, (<i>Géogr.</i>) une des îles Lucayes, dans\nl’Amérique septentrionale, au midi de l’île de Bahama. \n<i>Latit. 25. longit. 298</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIMINI, (<i>Géogr.</i>) une des îles Lucayes, dans\nl’Amérique septentrionale, au midi de l’île de Bahama. \n<i>Latit. 25. longit. 298</i>.\n \n</p>\n</div>",
     "title": "BIMINI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIMINI"
 }

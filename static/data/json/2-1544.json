@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-290",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1542-0/",
+    "item_id": "2-1544",
     "next": "2-1545",
     "pages": "290",
     "prev": "2-1543",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOBINIERE, s. f. partie supérieure du moulin\nou roüet à filer l’or, ainsi appellée de sa fonction.\n<i>Voyez</i> <span class=\"sc\">Fileur-d’or</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOBINIERE, s. f.<span type=\"proposed\"> partie </span>supérieure du moulin\nou roüet à filer l’or, ainsi appellée de sa fonction.\n<i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Fileur-d’or</span>.\n \n</p>\n</div>",
     "title": "BOBINIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOBINIERE"
 }

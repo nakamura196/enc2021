@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-470",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2695-0/",
+    "item_id": "2-2692",
     "next": "2-2693",
     "pages": "470",
     "prev": "2-2691",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTTONS-BAY <i>ou la</i> BAYE <span class=\"sc\">de</span> BUTTON,\n(<i>Géog.</i>) golfe de l’Amérique septentrionale, dans les\nterres Arctiques ; c’est la partie occidentale de la baie\nde Hudson.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTTONS-BAY <i>ou la</i> BAYE <span class=\"sc\">de</span> BUTTON,\n(<i>Géog.</i>) golfe de l’Amérique septentrionale, dans les\nterres Arctiques ; c’est la<span type=\"proposed\"> partie </span>occidentale de la baie\nde Hudson.\n \n</p>\n</div>",
     "title": "BUTTONS-BAY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUTTONS-BAY"
 }

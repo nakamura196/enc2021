@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-556",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3051-0/",
+    "item_id": "2-3050",
     "next": "2-3051",
     "pages": "556",
     "prev": "2-3049",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALGINU, (<i>Géog.</i>) ville d’Afrique, dans l’Abyssinie, dans une contrée deserte.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALGINU, (<i>Géog.</i>) ville d’Afrique, dans l’Abyssinie, dans une contrée deserte.\n \n</p>\n</div>",
     "title": "CALGINU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALGINU"
 }

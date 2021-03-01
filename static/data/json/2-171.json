@@ -3,7 +3,8 @@
         "Antoine Joseph Dezallier d’Argenville",
         "Denis Diderot"
     ],
-    "item_id": "2-22",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-178-0/",
+    "item_id": "2-171",
     "next": "2-172",
     "pages": "22",
     "prev": "2-170",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAJOYERS <i>ou</i> JOUILLIERES, s. f. pl. (<i>Hydraul.</i>)\nsont les aîles de maçonnerie qui revêtissent l’espace\nou la chambre d’une écluse fermée aux deux bouts\npar des portes ou des vannes que l’on leve à l’aide\nde cables qui filent sur un treuil, que plusieurs hommes \nmaneuvrent.\n</p><p>On pratique le long des <i>bajoyers</i>, des contreforts,\ndes enclaves pour loger les portes quand on les ouvre,\n&amp; des pertuis pour communiquer l’eau d’une\nécluse des deux côtés, sans être obligé d’ouvrir ses\nportes. (<i>K</i>)\n</p><p>* On donne aussi, sur les rivieres, le nom de <i>bajoyers</i> aux bords d’une riviere, près les culées d’un\npont.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAJOYERS <i>ou</i> JOUILLIERES, s. f. pl. (<i>Hydraul.</i>)\nsont les aîles de maçonnerie qui revêtissent l’espace\nou la chambre d’une écluse fermée aux deux bouts\npar des portes ou des vannes que l’on leve à l’aide\nde cables qui filent sur un treuil, que plusieurs hommes \nmaneuvrent.\n</p><p>On pratique le long des <i>bajoyers</i>, des contreforts,\ndes enclaves pour loger les portes quand on les ouvre,\n&amp; des pertuis pour communiquer l’eau d’une\nécluse des deux côtés, sans être obligé d’ouvrir ses\nportes. (<i>K</i>)\n</p><p>* On donne aussi, sur les rivieres, le nom de <i>bajoyers</i> aux bords d’une riviere, près les culées d’un\npont.\n \n</p>\n</div>",
     "title": "BAJOYERS ou JOUILLIERES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAJOYERS_ou_JOUILLIERES"
 }

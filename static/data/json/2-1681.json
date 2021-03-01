@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-321",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1680-0/",
+    "item_id": "2-1681",
     "next": "2-1682",
     "pages": "321",
     "prev": "2-1680",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONELLES, (<i>Géog.</i>) petite ville de l’île de France \nà neuf lieues de Paris. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONELLES, (<i>Géog.</i>) petite ville de l’île de France \nà neuf lieues de Paris. \n \n</p>\n</div>",
     "title": "BONELLES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONELLES"
 }

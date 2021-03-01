@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-474",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2721-1/",
+    "item_id": "2-2721",
     "next": "2-2722",
     "pages": "474",
     "prev": "2-2720",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"sc\">Caa-ataya</span>, (<i>Hist. nat. bot.</i>) plante du Bresil \ndont la racine est petite, blanche, quarrée, de la \nhauteur d’un pié, d’un verd pâle, foible, genouillée, \npartie droite, partie rampante, &amp; prenant racine où \nses nœuds touchent la terre. Elle a à chaque nœud \ndeux petites feuilles opposées, semblables à celles de \nla véronique mâle pour la position &amp; pour la figure, \nd’un verd pâle, &amp; dentelée par les bords. A chaque \npaire de feuilles est une petite fleur blanche en casque, \nà laquelle succede une gousse semblable au \ngrain d’avoine. Cette gousse s’ouvre &amp; répand une \npetite semence ronde, d’un jaune foncé, &amp; plus menue \nque celle du pavot. La plante n’a point d’odeur ; \nelle est un peu amere au goût. Broyée &amp; bouillie \ndans l’eau, on en tire par décoction un purgatif violent \npar haut &amp; par bas. On la pourroit rapporter au \ngenre de l’eufraise. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"sc\">Caa-ataya</span>, (<i>Hist. nat. bot.</i>) plante du Bresil \ndont la racine est petite, blanche, quarrée, de la \nhauteur d’un pié, d’un verd pâle, foible, genouillée, \npartie droite,<span type=\"proposed\"> partie </span>rampante, &amp; prenant racine où \nses nœuds touchent la terre. Elle a à chaque nœud \ndeux petites feuilles opposées, semblables à celles de \nla véronique mâle pour la position &amp; pour la figure, \nd’un verd pâle, &amp; dentelée par les bords. A chaque \npaire de feuilles est une petite fleur blanche en casque, \nà laquelle succede une gousse semblable au \ngrain d’avoine. Cette gousse s’ouvre &amp; répand une \npetite semence ronde, d’un jaune foncé, &amp; plus menue \nque celle du pavot. La plante n’a point d’odeur ; \nelle est un peu amere au goût. Broyée &amp; bouillie \ndans l’eau, on en tire par décoction un purgatif violent \npar haut &amp; par bas. On la pourroit rapporter au \ngenre de l’eufraise. \n \n</p>\n</div>",
     "title": "CAA-ATAYA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAA-ATAYA"
 }

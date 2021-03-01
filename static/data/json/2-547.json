@@ -2,14 +2,15 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-117",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-558-0/",
+    "item_id": "2-547",
     "next": "2-548",
     "pages": "117",
     "prev": "2-546",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASILICON, (<i>Pharmacie.</i>) nom que les Apothicaires \ndonnent à un onguent suppuratif. Voici comment \nil se prépare. Prenez résine de pin, poix navale,\ncire jaune, de chaque une demi-livre ; huile\nd’olive, une livre &amp; demie : faites les fondre au bain-marie ; \npassez ensuite le tout. Cet onguent est nommé \naussi <i>tetrapharmacon :</i> c’est un des meilleurs suppuratifs \nque nous possédions. Lemery ajoûte à cette\nformule la térébenthine de Venise.\n</p><p><i>Basilicon</i> veut dire <i>royal</i>, à cause des grandes vertus \nde cet onguent. (<i>N</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASILICON, (<i>Pharmacie.</i>) nom que les Apothicaires \ndonnent à un onguent suppuratif. Voici comment \nil se prépare. Prenez résine de pin, poix navale,\ncire jaune, de chaque une demi-livre ; huile\nd’olive, une<span type=\"proposed\"> livre </span>&amp; demie : faites les fondre au bain-marie ; \npassez ensuite le tout. Cet onguent est nommé \naussi <i>tetrapharmacon :</i> c’est un des meilleurs suppuratifs \nque nous possédions. <span type=\"auteur_p\">Lemery</span> ajoûte à cette\nformule la térébenthine de Venise.\n</p><p><i>Basilicon</i> veut dire <i>royal</i>, à cause des grandes vertus \nde cet onguent. (<i>N</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASILICON, (<i>Pharmacie.</i>) nom que les Apothicaires \ndonnent à un onguent suppuratif. Voici comment \nil se prépare. Prenez résine de pin, poix navale,\ncire jaune, de chaque une demi-livre ; huile\nd’olive, une<span type=\"proposed\"> livre </span>&amp; demie : faites les fondre au bain-marie ; \npassez ensuite le tout. Cet onguent est nommé \naussi <i>tetrapharmacon :</i> c’est un des meilleurs suppuratifs \nque nous possédions. Lemery ajoûte à cette\nformule la térébenthine de Venise.\n</p><p><i>Basilicon</i> veut dire <i>royal</i>, à cause des grandes vertus \nde cet onguent. (<i>N</i>)\n \n</p>\n</div>",
     "title": "BASILICON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASILICON"
 }

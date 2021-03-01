@@ -2,14 +2,15 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-509",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2830-0/",
+    "item_id": "2-2829",
     "next": "2-2830",
     "pages": "509",
     "prev": "2-2828",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHUNDE, sub. m. (<i>Pharmacie.</i>) remede fort\nvanté dans la Chine &amp; dans l’Inde, décrit dans <i>Zacutus </i>\n<i>Lusitanus</i>, dont cet auteur fait un si grand éloge, \nqu’il lui attribue les avantages de prolonger la\nvie &amp; d’éloigner la mort ; enfin c’est selon lui un remede \nvraiment royal.\n</p><p>Ce remede est un opiat composé de médicamens\naromatiques, de pierres prétieuses, &amp; d’autres choses \nfort couteuses. <i>Zacutus Lusitan. de Medic. princip. </i>\n<i>lib. I. obs. 37</i>. (<i>N</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHUNDE, sub. m. (<i>Pharmacie.</i>) remede fort\nvanté dans la Chine &amp; dans l’Inde, décrit dans <i>Zacutus </i>\n<i>Lusitanus</i>, dont cet auteur fait un si grand éloge, \nqu’il lui attribue les avantages de prolonger la\nvie &amp; d’éloigner la mort ; enfin c’est selon lui un remede \nvraiment royal.\n</p><p>Ce remede est un opiat composé de médicamens\naromatiques, de pierres prétieuses, &amp; d’autres choses \nfort couteuses. <i>Zacutus Lusitan. de Medic. princip. </i>\n<i><span type=\"proposed\">lib. </span>I. <span type=\"proposed\">obs.</span> 37</i>. (<i>N</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHUNDE, sub. m. (<i>Pharmacie.</i>) remede fort\nvanté dans la Chine &amp; dans l’Inde, décrit dans <i>Zacutus </i>\n<i>Lusitanus</i>, dont cet auteur fait un si grand éloge, \nqu’il lui attribue les avantages de prolonger la\nvie &amp; d’éloigner la mort ; enfin c’est selon lui un remede \nvraiment royal.\n</p><p>Ce remede est un opiat composé de médicamens\naromatiques, de pierres prétieuses, &amp; d’autres choses \nfort couteuses. <i>Zacutus Lusitan. de Medic. princip. </i>\n<i><span type=\"proposed\">lib. </span>I. obs. 37</i>. (<i>N</i>)\n \n</p>\n</div>",
     "title": "CACHUNDE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHUNDE"
 }

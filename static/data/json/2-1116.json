@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-216",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1112-0/",
+    "item_id": "2-1116",
     "next": "2-1117",
     "pages": "216",
     "prev": "2-1115",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BETELFAGUI <i>ou</i> BETHELSAKI, (<i>Géog.</i>)\nville d’Asie dans l’Arabie heureuse, environ à dix\nlieues de la mer Rouge. <i>Long. 65. lat. 15. 40</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BETELFAGUI <i>ou</i> BETHELSAKI, (<i>Géog.</i>)\nville d’Asie dans l’Arabie heureuse, environ à dix\nlieues de la mer Rouge. <i>Long. 65. lat. 15. 40</i>.\n \n</p>\n</div>",
     "title": "BETELFAGUI ou BETHELSAKI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BETELFAGUI_ou_BETHELSAKI"
 }

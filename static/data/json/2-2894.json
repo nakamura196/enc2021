@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-529",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2895-0/",
+    "item_id": "2-2894",
     "next": "2-2895",
     "pages": "529",
     "prev": "2-2893",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAFFIS, s. m. (<i>Commerce.</i>) mesure de continence\ndont on se sert pour les grains à Alicante. Le <i>caffis</i>\nrevient à une charge &amp; demie de Marseille, &amp; contient \nsix quillots de Constantinople, c’est-à-dire quatre \ncents cinquante livres poids de Marseille ; ce qui\nrevient à trois cents soixante-quatre livres poids de\nmarc. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAFFIS, s. m. (<i>Commerce.</i>) mesure de continence\ndont on se sert pour les grains à Alicante. Le <i>caffis</i>\nrevient à une charge &amp; demie de Marseille, &amp; contient \nsix quillots de Constantinople, c’est-à-dire quatre \ncents cinquante livres poids de Marseille ; ce qui\nrevient à trois cents soixante-quatre livres poids de\nmarc. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CAFFIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAFFIS"
 }

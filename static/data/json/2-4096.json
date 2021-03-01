@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4085-0/",
+    "item_id": "2-4096",
     "next": "2-4097",
     "pages": "794",
     "prev": "2-4095",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>COUWO <i>ou</i> COUWA, (<i>Géog.</i>) riviere de l’Amérique.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>COUWO <i>ou</i> COUWA, (<i>Géog.</i>) riviere de l’Amérique.\n \n</p>\n</div>",
     "title": "COUWO ou COUWA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COUWO_ou_COUWA"
 }

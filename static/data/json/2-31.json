@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-33-0/",
+    "item_id": "2-31",
     "next": "2-32",
     "pages": "4",
     "prev": "2-30",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BABILLER, v. n. se dit <i>en Vénerie</i> d’un limier qui\ndonne de la voix : <i>ce limier babille trop, il faut lui ôter le babil</i>, ou <i>le rendre secret</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BABILLER, v. n. se dit <i>en Vénerie</i> d’un limier qui\ndonne de la voix : <i>ce limier babille trop, il faut lui ôter le babil</i>, ou <i>le rendre secret</i>.\n \n</p>\n</div>",
     "title": "BABILLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BABILLER"
 }

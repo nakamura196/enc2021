@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-211",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1062-0/",
+    "item_id": "2-1066",
     "next": "2-1067",
     "pages": "211",
     "prev": "2-1065",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERNAW, (<i>Géog.</i>) petite ville d’Allemagne,\ndans l’électorat de Brandebourg, à deux lieues de Berlin. \nIl y en a encore deux autres de même nom, l’une\ndans l’évêché de Ratisbonne ; &amp; l’autre dans le haut\nPalatinat.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERNAW, (<i>Géog.</i>) petite ville d’Allemagne,\ndans l’électorat de Brandebourg, à deux lieues de Berlin. \nIl y en a encore deux autres de même nom, l’une\ndans l’évêché de Ratisbonne ; &amp; l’autre dans le haut\nPalatinat.\n \n</p>\n</div>",
     "title": "BERNAW",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERNAW"
 }

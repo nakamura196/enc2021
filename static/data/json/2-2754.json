@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2754-0/",
+    "item_id": "2-2754",
     "next": "2-2755",
     "pages": "487",
     "prev": "2-2753",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABES <i>ou</i> GABES, (<i>Géog.</i>) ville d’Afrique au\nroyaume de Tunis, assez près du golfe du même nom.\n<i>Long. 28. 30. lat. 33. 40</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABES <i>ou</i> GABES, (<i>Géog.</i>) ville d’Afrique au\nroyaume de Tunis, assez près du golfe du même nom.\n<i>Long. 28. 30. lat. 33. 40</i>.\n \n</p>\n</div>",
     "title": "CABES ou GABES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABES_ou_GABES"
 }

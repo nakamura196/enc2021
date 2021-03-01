@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-808",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4184-0/",
+    "item_id": "2-4194",
     "next": "2-4195",
     "pages": "808",
     "prev": "2-4193",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELORICO <i>ou</i> SELERICO, (<i>Géog.</i>) petite ville \ndu royaume de Portugal, dans la province de\nBeira, sur le Mondego.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELORICO <i>ou</i> SELERICO, (<i>Géog.</i>) petite ville \ndu royaume de Portugal, dans la province de\nBeira, sur le Mondego.\n \n</p>\n</div>",
     "title": "CELORICO ou SELERICO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CELORICO_ou_SELERICO"
 }

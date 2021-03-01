@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-569",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3159-0/",
+    "item_id": "2-3157",
     "next": "2-3158",
     "pages": "569",
     "prev": "2-3156",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRER, v. act. il est synonyme à <i>courber :</i> la\ndifférence qu’il peut y avoir entre l’un &amp; l’autre,\nc’est que <i>cambrer</i> ne se dit que d’une courbure peu\nconsidérable ; au lieu que <i>courber</i> se dit de toute inflexion \ncurviligne, grande ou petite.\n</p><p><span class=\"sc\">Cambrer</span> <i>un livre, en terme de Relieur</i>, c’est le\nprendre à moitié avec les deux mains, &amp; courber\nun peu les pointes des cartons en-dedans pour lui donner \nune meilleure forme. <i>Cambrer</i> est la derniere façon \nqu’on donne à un livre relié.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRER, v. act. il est synonyme à <i>courber :</i> la\ndifférence qu’il peut y avoir entre l’un &amp; l’autre,\nc’est que <i>cambrer</i> ne se dit que d’une courbure peu\nconsidérable ; au lieu que <i>courber</i> se dit de toute inflexion \ncurviligne, grande ou petite.\n</p><p><span class=\"sc\">Cambrer</span> <i>un livre, en terme de Relieur</i>, c’est le\nprendre à moitié avec les deux mains, &amp; courber\nun peu les pointes des cartons en-dedans pour lui donner \nune meilleure forme. <i>Cambrer</i> est la derniere façon \nqu’on donne à un<span type=\"proposed\"> livre </span>relié.\n \n</p>\n</div>",
     "title": "CAMBRER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMBRER"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-450",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2458-0/",
+    "item_id": "2-2455",
     "next": "2-2456",
     "pages": "450",
     "prev": "2-2454",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUMAL, adj. se dit quelquefois de ce qui a rapport \nà l’hyver : ce mot est plus usité en Latin qu’en \nFrançois. Ainsi on dit <i><span class=\"lang-la\" lang=\"la\">solstitium brumale</span></i> pour <i>le solstice </i>\n<i>d’hyver</i>. (<i>O</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUMAL, adj. se dit quelquefois de ce qui a rapport \nà l’hyver : ce mot est plus usité en Latin qu’en \nFrançois. Ainsi on dit <i><span class=\"lang-la\" lang=\"la\">solstitium brumale</span></i> pour <i>le solstice </i>\n<i>d’hyver</i>. (<i>O</i>) \n \n</p>\n</div>",
     "title": "BRUMAL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUMAL"
 }

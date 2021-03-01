@@ -2,14 +2,15 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-329",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1711-0/",
+    "item_id": "2-1712",
     "next": "2-1713",
     "pages": "329",
     "prev": "2-1711",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONS-HOMMES, s. m. (<i>Hist. ecclés.</i>) religieux\nétablis l’an 1259 en Angleterre par le prince Edmond ;\nils professoient la regle de S. Augustin, &amp; portoient\nun habit bleu. Sponde croit qu’ils suivoient l’institut\ndu bienheureux Jean le Bon qui vivoit en ce siecle.\nOn donna en France ce nom aux Minimes, à cause du\nnom de <i>bon-homme</i> que Louis XI. avoit coûtume de\ndonner à S. François de Paule leur fondateur. Les Albigeois \naffectoient aussi de prendre ce même nom de\n<i>bons-hommes</i>. Polydore Virgile, <i>Hist. Angl. liv. XVI.</i>\nSponde, <i>A. C. 1259. n. 9. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MINIMES\" title=\"L’Encyclopédie/1re édition/MINIMES\"><span class=\"sc\">Minimes</span></a>. (<i>G</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONS-HOMMES, s. m. (<i>Hist. ecclés.</i>) religieux\nétablis l’an 1259 en Angleterre par le prince Edmond ;\nils professoient la regle de <span type=\"auteur_p\">S. Augustin</span>, &amp; portoient\nun habit bleu. <span type=\"auteur_p\">Sponde</span> croit qu’ils suivoient l’institut\ndu bienheureux Jean le Bon qui vivoit en ce siecle.\nOn donna en France ce nom aux Minimes, à cause du\nnom de <i>bon-homme</i> que Louis XI. avoit coûtume de\ndonner à S. François de Paule leur fondateur. Les Albigeois \naffectoient aussi de prendre ce même nom de\n<i>bons-hommes</i>. Polydore <span type=\"auteur_p\">Virgile</span>, <i>Hist. Angl.<span type=\"proposed\"> liv. </span>XVI.</i>\n<span type=\"auteur_p\">Sponde</span>, <i>A. C. 1259. n. 9. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MINIMES\" title=\"L’Encyclopédie/1re édition/MINIMES\"><span class=\"sc\">Minimes</span></a>. (<i>G</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONS-HOMMES, s. m. (<i>Hist. ecclés.</i>) religieux\nétablis l’an 1259 en Angleterre par le prince Edmond ;\nils professoient la regle de S. Augustin, &amp; portoient\nun habit bleu. Sponde croit qu’ils suivoient l’institut\ndu bienheureux Jean le Bon qui vivoit en ce siecle.\nOn donna en France ce nom aux Minimes, à cause du\nnom de <i>bon-homme</i> que Louis XI. avoit coûtume de\ndonner à S. François de Paule leur fondateur. Les Albigeois \naffectoient aussi de prendre ce même nom de\n<i>bons-hommes</i>. Polydore Virgile, <i>Hist. Angl.<span type=\"proposed\"> liv. </span>XVI.</i>\nSponde, <i>A. C. 1259. n. 9. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MINIMES\" title=\"L’Encyclopédie/1re édition/MINIMES\"><span class=\"sc\">Minimes</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BONS-HOMMES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONS-HOMMES"
 }

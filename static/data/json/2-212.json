@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-32",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-219-0/",
+    "item_id": "2-212",
     "next": "2-213",
     "pages": "32",
     "prev": "2-211",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALARUC, (<span class=\"sc\">Eaux de</span>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/EAU\" title=\"L’Encyclopédie/1re édition/EAU\"><span class=\"sc\">Eau</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALARUC, (<span class=\"sc\">Eaux de</span>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/EAU\" title=\"L’Encyclopédie/1re édition/EAU\"><span class=\"sc\">Eau</span></a>. \n \n</p>\n</div>",
     "title": "BALARUC",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALARUC"
 }

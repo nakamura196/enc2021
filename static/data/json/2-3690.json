@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-689",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3693-0/",
+    "item_id": "2-3690",
     "next": "2-3691",
     "pages": "689",
     "prev": "2-3689",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMONS <i>ou</i> CORMONS, (<i>Géog.</i>) petite ville \nd’Italie, dans le Frioul, près de la riviere d’Indri.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMONS <i>ou</i> CORMONS, (<i>Géog.</i>) petite ville \nd’Italie, dans le Frioul, près de la riviere d’Indri.\n \n</p>\n</div>",
     "title": "CARMONS ou CORMONS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARMONS_ou_CORMONS"
 }

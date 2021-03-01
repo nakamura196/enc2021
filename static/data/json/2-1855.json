@@ -3,7 +3,8 @@
         "Jacques-Nicolas Bellin",
         "Edme-François Mallet"
     ],
-    "item_id": "2-348",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1860-0/",
+    "item_id": "2-1855",
     "next": "2-1856",
     "pages": "348",
     "prev": "2-1854",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUCAUT, s. m. (<i>Marine.</i>) on donne quelquefois \nce nom à certaines embouchures de rivieres,\nsoit à la mer ou dans des lacs. Ce nom est en usage à\nla côte de Maroc &amp; de Biscaye. (<i>Z</i>)\n</p><p><span class=\"sc\">Boucaut</span>, s. m. (<i>Commerce.</i>) moyen tonneau\nou vaisseau de bois qui sert à renfermer diverses sortes \nde marchandises, particulierement du girofle, de\nla muscade, de la morue, <i>&amp;c.</i>\n</p><p>On se sert aussi de <i>boucauts</i> pour le vin, &amp; autres\nliqueurs.\n</p><p>Quelquefois le <i>boucaut</i> se prend pour la chose qui\ny est contenue : ainsi l’on dit un <i>boucaut</i> de girofle,\nun <i>boucaut</i> de vin, <i>&amp;c.</i> (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUCAUT, s. m. (<i>Marine.</i>) on donne quelquefois \nce nom à certaines embouchures de rivieres,\nsoit à la mer ou dans des lacs. Ce nom est en usage à\nla côte de Maroc &amp; de Biscaye. (<i>Z</i>)\n</p><p><span class=\"sc\">Boucaut</span>, s. m. (<i>Commerce.</i>) moyen tonneau\nou vaisseau de bois qui sert à renfermer diverses sortes \nde marchandises, particulierement du girofle, de\nla muscade, de la morue, <i>&amp;c.</i>\n</p><p>On se sert aussi de <i>boucauts</i> pour le vin, &amp; autres\nliqueurs.\n</p><p>Quelquefois le <i>boucaut</i> se prend pour la chose qui\ny est contenue : ainsi l’on dit un <i>boucaut</i> de girofle,\nun <i>boucaut</i> de vin, <i>&amp;c.</i> (<i>G</i>)\n \n</p>\n</div>",
     "title": "BOUCAUT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUCAUT"
 }

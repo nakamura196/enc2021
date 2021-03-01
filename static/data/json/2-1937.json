@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-366",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1944-0/",
+    "item_id": "2-1937",
     "next": "2-1938",
     "pages": "366",
     "prev": "2-1936",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURBILLON, s. m. (<i>Chirurgie &amp; Maréchallerie.</i>)\nc’est le pus qui sort d’une plaie, d’une apostême,\nd’un javart, quand il est mûr &amp; épaissi : une plaie se\nguérit bientôt après que le <i>bourbillon</i> en est sorti. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURBILLON, s. m. (<i>Chirurgie &amp; Maréchallerie.</i>)\nc’est le pus qui sort d’une plaie, d’une apostême,\nd’un javart, quand il est mûr &amp; épaissi : une plaie se\nguérit bientôt après que le <i>bourbillon</i> en est sorti. \n</p>\n</div>",
     "title": "BOURBILLON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURBILLON"
 }

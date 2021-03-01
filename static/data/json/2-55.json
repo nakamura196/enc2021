@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-6",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-57-0/",
+    "item_id": "2-55",
     "next": "2-56",
     "pages": "6",
     "prev": "2-54",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACCHIONITES, s. m. pl. (<i>Hist. anc.</i>) c’étoient,\nà ce qu’on dit, des philosophes qui avoient\nun mépris si universel pour les choses de ce bas monde,\nqu’ils ne se reservoient qu’un vaisseau pour boire ;\nencore ajoûte-t-on qu’un d’entre eux ayant apperçu\ndans les champs un berger qui puisoit dans un ruisseau \nde l’eau avec le creux de sa main, il jetta loin\nde lui sa tasse, comme un meuble incommode &amp; superflu.\nC’est ce qu’on raconte aussi de Diogene. S’il\ny a jamais eu des hommes aussi desintéressés, il faut\navoüer que leur métaphysique &amp; leur morale mériteroient \nbien d’être un peu plus connues. Après avoir\nbanni d’entre eux les distinctions funestes du <i>tien</i> &amp;\ndu <i>mien</i>, il leur restoit peu de chose à faire pour n’avoir \nplus aucun sujet de querelles, &amp; se rendre aussi\nheureux qu’il est permis à l’homme de l’être.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACCHIONITES, s. m. pl. (<i>Hist. anc.</i>) c’étoient,\nà ce qu’on dit, des philosophes qui avoient\nun mépris si universel pour les choses de ce bas monde,\nqu’ils ne se reservoient qu’un vaisseau pour boire ;\nencore ajoûte-t-on qu’un d’entre eux ayant apperçu\ndans les champs un berger qui puisoit dans un ruisseau \nde l’eau avec le creux de sa main, il jetta loin\nde lui sa tasse, comme un meuble incommode &amp; superflu.\nC’est ce qu’on raconte aussi de Diogene. S’il\ny a jamais eu des hommes aussi desintéressés, il faut\navoüer que leur <span type=\"proposed\">métaphysique</span> &amp; leur morale mériteroient \nbien d’être un peu plus connues. Après avoir\nbanni d’entre eux les distinctions funestes du <i>tien</i> &amp;\ndu <i>mien</i>, il leur restoit peu de chose à faire pour n’avoir \nplus aucun sujet de querelles, &amp; se rendre aussi\nheureux qu’il est permis à l’homme de l’être.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACCHIONITES, s. m. pl. (<i>Hist. anc.</i>) c’étoient,\nà ce qu’on dit, des philosophes qui avoient\nun mépris si universel pour les choses de ce bas monde,\nqu’ils ne se reservoient qu’un vaisseau pour boire ;\nencore ajoûte-t-on qu’un d’entre eux ayant apperçu\ndans les champs un berger qui puisoit dans un ruisseau \nde l’eau avec le creux de sa main, il jetta loin\nde lui sa tasse, comme un meuble incommode &amp; superflu.\nC’est ce qu’on raconte aussi de Diogene. S’il\ny a jamais eu des hommes aussi desintéressés, il faut\navoüer que leur métaphysique &amp; leur morale mériteroient \nbien d’être un peu plus connues. Après avoir\nbanni d’entre eux les distinctions funestes du <i>tien</i> &amp;\ndu <i>mien</i>, il leur restoit peu de chose à faire pour n’avoir \nplus aucun sujet de querelles, &amp; se rendre aussi\nheureux qu’il est permis à l’homme de l’être.\n \n</p>\n</div>",
     "title": "BACCHIONITES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACCHIONITES"
 }

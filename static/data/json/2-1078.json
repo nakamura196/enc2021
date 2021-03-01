@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1074-0/",
+    "item_id": "2-1078",
     "next": "2-1079",
     "pages": "212",
     "prev": "2-1077",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERRI, (<i>Géog.</i>) province de France, avec titre\nde duché, bornée au septentrion par l’Orléanois, le\nBlaisois &amp; le Gatinois, à l’orient par le Nivernois &amp;\nle Bourbonnois, au midi par le Bourbonnois &amp; la\nMarche, &amp; à l’occident par la Touraine &amp; le Poitou. \nElle se divise en haut &amp; bas Berri. Bourges en\nest la capitale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERRI, (<i>Géog.</i>) province de France, avec titre\nde duché, bornée au septentrion par l’Orléanois, le\nBlaisois &amp; le Gatinois, à l’orient par le Nivernois &amp;\nle Bourbonnois, au midi par le Bourbonnois &amp; la\nMarche, &amp; à l’occident par la Touraine &amp; le Poitou. \nElle se divise en haut &amp; bas Berri. Bourges en\nest la capitale.\n \n</p>\n</div>",
     "title": "BERRI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERRI"
 }

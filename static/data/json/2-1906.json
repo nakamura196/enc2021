@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-358",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1912-0/",
+    "item_id": "2-1906",
     "next": "2-1907",
     "pages": "358",
     "prev": "2-1905",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUIS, s. m. <i>terme de Chapelier ;</i> ce terme se dit des\nvieux chapeaux. Leur donner le <i>bouis</i>, c’est les nettoyer \n&amp; les lustrer. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/REBOUISAGE_et_REBOUISER\" title=\"L’Encyclopédie/1re édition/REBOUISAGE et REBOUISER\"><span class=\"sc\">Rebouisage</span></a>.\n</p><p><span class=\"sc\">Bouis</span>, <i>en terme de Vergettier &amp; de Cordonnier ;</i> ce\nsont des morceaux de ce bois très-unis que préparent \nles Vergettiers, &amp; dont les Cordonniers se servent \npour lustrer leurs passe-talons &amp; le bord des semelles \nde souliers. <i>Voyez l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDONNIER\" title=\"L’Encyclopédie/1re édition/CORDONNIER\"><span class=\"sc\">Cordonnier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUIS, s. m. <i>terme de Chapelier ;</i> ce terme se dit des\nvieux chapeaux. Leur donner le <i>bouis</i>, c’est les nettoyer \n&amp; les lustrer. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/REBOUISAGE_et_REBOUISER\" title=\"L’Encyclopédie/1re édition/REBOUISAGE et REBOUISER\"><span class=\"sc\">Rebouisage</span></a>.\n</p><p><span class=\"sc\">Bouis</span>, <i>en terme de Vergettier &amp; de Cordonnier ;</i> ce\nsont des morceaux de ce bois très-unis que préparent \nles Vergettiers, &amp; dont les Cordonniers se servent \npour lustrer leurs passe-talons &amp; le bord des semelles \nde souliers. <i><span type=\"bold\">Voyez</span> l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDONNIER\" title=\"L’Encyclopédie/1re édition/CORDONNIER\"><span class=\"sc\">Cordonnier</span></a>.\n \n</p>\n</div>",
     "title": "BOUIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUIS"
 }

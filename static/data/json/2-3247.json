@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-587",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3250-0/",
+    "item_id": "2-3247",
     "next": "2-3248",
     "pages": "587",
     "prev": "2-3246",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CANATHOS, (<i>Myth.</i>) fontaine de Nauplia, où\nJunon alloit, dit-on, se baigner une fois tous les ans,\npour recouvrer sa divinité ; fable fondée sur quelque\nparticularité des mysteres secrets qu’on y célebroit\nen l’honneur de la déesse.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CANATHOS, (<i>Myth.</i>) fontaine de Nauplia, où\nJunon alloit, dit-on, se baigner une fois tous les ans,\npour recouvrer sa divinité ; fable fondée sur quelque\nparticularité des mysteres secrets qu’on y célebroit\nen l’honneur de la déesse.\n \n</p>\n</div>",
     "title": "CANATHOS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANATHOS"
 }

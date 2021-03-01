@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-685",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3647-0/",
+    "item_id": "2-3644",
     "next": "2-3645",
     "pages": "685",
     "prev": "2-3643",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARIFE, (<i>Géog.</i>) petite ville d’Italie au royaume de Naples, dans la principauté ultérieure. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARIFE, (<i>Géog.</i>) petite ville d’Italie au royaume de Naples, dans la principauté ultérieure. \n \n</p>\n</div>",
     "title": "CARIFE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARIFE"
 }

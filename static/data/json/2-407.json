@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-74",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-416-0/",
+    "item_id": "2-407",
     "next": "2-408",
     "pages": "74",
     "prev": "2-406",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBUE, s. f. <i><span class=\"lang-la\" lang=\"la\">rhombus lævis</span></i>, (<i>Hist. nat. Zoolog.</i>) poisson de mer très-ressemblant au turbot, tant à l’intérieur qu’à l’extérieur, à l’exception des aiguillons. La <i>barbue</i> n’en a aucun ni en-dessus, ni en-dessous : elle est plus large &amp; plus mince que le turbot. Rondelet la nomme <i>turbot</i> sans piquans. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TURBOT\" title=\"L’Encyclopédie/1re édition/TURBOT\"><span class=\"sc\">Turbot</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>) \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBUE, s. f. <i><span class=\"lang-la\" lang=\"la\">rhombus lævis</span></i>, (<i>Hist. nat. Zoolog.</i>) poisson de mer très-ressemblant au turbot, tant à l’intérieur qu’à l’extérieur, à l’exception des aiguillons. La <i>barbue</i> n’en a aucun ni en-dessus, ni en-dessous : elle est plus large &amp; plus mince que le turbot. <span type=\"auteur_p\">Rondelet</span> la nomme <i>turbot</i> sans piquans. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TURBOT\" title=\"L’Encyclopédie/1re édition/TURBOT\"><span class=\"sc\">Turbot</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>) \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBUE, s. f. <i><span class=\"lang-la\" lang=\"la\">rhombus lævis</span></i>, (<i>Hist. nat. Zoolog.</i>) poisson de mer très-ressemblant au turbot, tant à l’intérieur qu’à l’extérieur, à l’exception des aiguillons. La <i>barbue</i> n’en a aucun ni en-dessus, ni en-dessous : elle est plus large &amp; plus mince que le turbot. Rondelet la nomme <i>turbot</i> sans piquans. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TURBOT\" title=\"L’Encyclopédie/1re édition/TURBOT\"><span class=\"sc\">Turbot</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>) \n \n</p>\n</div>",
     "title": "BARBUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBUE"
 }

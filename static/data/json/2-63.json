@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-8",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-65-0/",
+    "item_id": "2-63",
     "next": "2-64",
     "pages": "8",
     "prev": "2-62",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACHOT, sub. m. <i>sur les rivieres</i>, c’est un petit\nbateau qui prend, en payant, les passans au bord\nd’une riviere &amp; les met à l’autre bord ; il y en a sur\nla Seine en plusieurs endroits. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTEURS\" title=\"L’Encyclopédie/1re édition/BACHOTEURS\"><span class=\"sc\">Bachoteurs</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTAGE\" title=\"L’Encyclopédie/1re édition/BACHOTAGE\"><span class=\"sc\">Bachotage</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACHOT, sub. m. <i>sur les rivieres</i>, c’est un petit\nbateau qui prend, en payant, les passans au bord\nd’une riviere &amp; les met à l’autre bord ; il y en a sur\nla Seine en plusieurs endroits. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTEURS\" title=\"L’Encyclopédie/1re édition/BACHOTEURS\"><span class=\"sc\">Bachoteurs</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTAGE\" title=\"L’Encyclopédie/1re édition/BACHOTAGE\"><span class=\"sc\">Bachotage</span></a>.\n \n</p>\n</div>",
     "title": "BACHOT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOT"
 }

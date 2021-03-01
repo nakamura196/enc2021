@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3882-4/",
+    "item_id": "2-3884",
     "next": "2-3885",
     "pages": "749",
     "prev": "2-3883",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-de-Vide</span>, place forte de Portugal, dans\nl’Alentéjo. <i>Long. 11. 10. lat. 39. 25</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-de-Vide</span>, place forte de Portugal, dans\nl’Alentéjo. <i>Long. 11. 10. lat. 39. 25</i>.\n \n</p>\n</div>",
     "title": "CASTEL-DE-VIDE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTEL-DE-VIDE"
 }

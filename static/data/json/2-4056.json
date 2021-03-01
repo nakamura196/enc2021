@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-783",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4045-0/",
+    "item_id": "2-4056",
     "next": "2-4057",
     "pages": "783",
     "prev": "2-4055",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUDETE, (<i>Géog.</i>) petite riviere d’Espagne,\ndans la nouvelle Castille, qui se jette dans le Xucar.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUDETE, (<i>Géog.</i>) petite riviere d’Espagne,\ndans la nouvelle Castille, qui se jette dans le Xucar.\n \n</p>\n</div>",
     "title": "CAUDETE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUDETE"
 }

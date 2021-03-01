@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-568",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3154-0/",
+    "item_id": "2-3152",
     "next": "2-3153",
     "pages": "568",
     "prev": "2-3151",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBORI, (<i>Géog.</i>) ville d’Asie au royaume de\nSiam, sur les frontieres de Pégu.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBORI, (<i>Géog.</i>) ville d’Asie au royaume de\nSiam, sur les frontieres de Pégu.\n \n</p>\n</div>",
     "title": "CAMBORI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMBORI"
 }

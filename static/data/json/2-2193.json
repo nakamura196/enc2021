@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2198-0/",
+    "item_id": "2-2193",
     "next": "2-2194",
     "pages": "412",
     "prev": "2-2192",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMGARTEN, (<i>Géog.</i>) petite ville de la Suisse,\nà trois lieues de Zurich, sur la riviere de Russ ; elle\nappartient en partie au canton de Berne, &amp; en partie \nà celui de Zurich. <i>Long. 25. 55. lat. 47. 20</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMGARTEN, (<i>Géog.</i>) petite ville de la Suisse,\nà trois lieues de Zurich, sur la riviere de Russ ; elle\nappartient en<span type=\"proposed\"> partie </span>au canton de Berne, &amp; en<span type=\"proposed\"> partie </span>\nà celui de Zurich. <i>Long. 25. 55. lat. 47. 20</i>.\n \n</p>\n</div>",
     "title": "BREMGARTEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREMGARTEN"
 }

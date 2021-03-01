@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-410",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2183-0/",
+    "item_id": "2-2178",
     "next": "2-2179",
     "pages": "410",
     "prev": "2-2177",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BREHIS, s. m. (<i>Hist. nat.</i>) animal de l’île de Madagascar, \nde la grandeur de la chevre, qui n’a qu’une\ncorne sur le front, &amp; qui est fort sauvage.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BREHIS, s. m. (<i>Hist. nat.</i>) animal de l’île de Madagascar, \nde la grandeur de la chevre, qui n’a qu’une\ncorne sur le front, &amp; qui est fort sauvage.\n \n</p>\n</div>",
     "title": "BREHIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREHIS"
 }

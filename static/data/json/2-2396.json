@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-443",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2399-0/",
+    "item_id": "2-2396",
     "next": "2-2397",
     "pages": "443",
     "prev": "2-2395",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROQUETTE, s. f. (<i>Cloutier</i>.) c’est la plus petite sorte de clous ; il y en a depuis quatre onces jusqu’à \ndeux livres le millier : on donne le nom de <i>broquette </i>\n<i>emboutie</i> ou <i>estampée</i> à ces dernieres. Il y a une \ngrosse <i>broquette</i> de trois livres au millier qui se vend \nau cent. Les <i>broquettes</i> au-dessous de celle-ci se vendent \nà la somme, qui est de douze milliers. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CLOU\" title=\"L’Encyclopédie/1re édition/CLOU\"><span class=\"sc\">Clou</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROQUETTE, s. f. (<i>Cloutier</i>.) c’est la plus petite sorte de clous ; il y en a depuis quatre onces jusqu’à \ndeux livres le millier : on donne le nom de <i>broquette </i>\n<i>emboutie</i> ou <i>estampée</i> à ces dernieres. Il y a une \ngrosse <i>broquette</i> de trois livres au millier qui se vend \nau cent. Les <i>broquettes</i> au-dessous de celle-ci se vendent \nà la somme, qui est de douze milliers. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CLOU\" title=\"L’Encyclopédie/1re édition/CLOU\"><span class=\"sc\">Clou</span></a>.\n \n</p>\n</div>",
     "title": "BROQUETTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROQUETTE"
 }

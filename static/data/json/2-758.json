@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-181",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-755-0/",
+    "item_id": "2-758",
     "next": "2-759",
     "pages": "181",
     "prev": "2-757",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEAU-FRERE <i>ou</i> BELLE-SOEUR, autre nom\nd’affinité, dont on se sert pour exprimer l’alliance de\nl’un des conjoints avec le frere ou la sœur de l’autre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEAU-FRERE <i>ou</i> BELLE-SOEUR, autre nom\nd’affinité, dont on se sert pour exprimer l’alliance de\nl’un des conjoints avec le frere ou la sœur de l’autre.\n \n</p>\n</div>",
     "title": "BEAU-FRERE ou BELLE-SOEUR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEAU-FRERE_ou_BELLE-SOEUR"
 }

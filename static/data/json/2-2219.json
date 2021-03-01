@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2224-0/",
+    "item_id": "2-2219",
     "next": "2-2220",
     "pages": "412-413",
     "prev": "2-2218",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESNITZ, (<i>Géog.</i>) ville du royaume de Bohème, \ndans le territoire de Prague, où il y a des mines <span><span class=\"pagenum ws-pagenum\" id=\"413\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/417\"></span></span>de fer : il y a encore une autre ville de ce nom en\nBohème, dans le cercle de Satz, sur la riviere d’Egery.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESNITZ, (<i>Géog.</i>) ville du royaume de Bohème, \ndans le territoire de Prague, où il y a des mines <span><span class=\"pagenum ws-pagenum\" id=\"413\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/417\"></span></span>de fer : il y a encore une autre ville de ce nom en\nBohème, dans le cercle de Satz, sur la riviere d’Egery.\n \n</p>\n</div>",
     "title": "BRESNITZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESNITZ"
 }

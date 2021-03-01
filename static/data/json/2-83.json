@@ -2,7 +2,8 @@
     "authors": [
         "Jean-Baptiste de La Chapelle"
     ],
-    "item_id": "2-10",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-86-0/",
+    "item_id": "2-83",
     "next": "2-84",
     "pages": "10",
     "prev": "2-82",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACULOMETRIE, s. f. c’est l’art de mesurer\navec des bâtons, ou des verges, les lignes tant accessibles \nqu’inaccessibles. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ACCESSIBLE\" title=\"L’Encyclopédie/1re édition/ACCESSIBLE\"><span class=\"sc\">Accessible</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARPENTAGE\" title=\"L’Encyclopédie/1re édition/ARPENTAGE\"><span class=\"sc\">Arpentage</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MESURE\" title=\"L’Encyclopédie/1re édition/MESURE\"><span class=\"sc\">Mesure</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LEVER\" title=\"L’Encyclopédie/1re édition/LEVER\"><span class=\"sc\">Lever</span></a> <span class=\"sc\">un plan</span>, \n, <i>&amp;c.</i> (<i>E</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACULOMETRIE, s. f. c’est l’art de mesurer\navec des bâtons, ou des verges, les lignes tant accessibles \nqu’inaccessibles. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ACCESSIBLE\" title=\"L’Encyclopédie/1re édition/ACCESSIBLE\"><span class=\"sc\">Accessible</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARPENTAGE\" title=\"L’Encyclopédie/1re édition/ARPENTAGE\"><span class=\"sc\">Arpentage</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MESURE\" title=\"L’Encyclopédie/1re édition/MESURE\"><span class=\"sc\">Mesure</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LEVER\" title=\"L’Encyclopédie/1re édition/LEVER\"><span class=\"sc\">Lever</span></a> <span class=\"sc\">un plan</span>, \n, <i>&amp;c.</i> (<i>E</i>)\n \n</p>\n</div>",
     "title": "BACULOMETRIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACULOMETRIE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-746",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3845-0/",
+    "item_id": "2-3842",
     "next": "2-3843",
     "pages": "746",
     "prev": "2-3841",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CASSE-MOTTE, s. f. (<i>Agricult.</i>) instrument\ndont le nom indique assez l’usage ; c’est une massue\nde bois dur qu’on employe dans les terres fortes :\nelle est grosse comme la cuisse. On la cercle de fer,\n&amp; l’on y ajuste un manche d’environ quatre piés de\nlong. <i>Voyez cet instrument, Pl. d’Agriculture</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CASSE-MOTTE, s. f. (<i>Agricult.</i>) instrument\ndont le nom indique assez l’usage ; c’est une massue\nde bois dur qu’on employe dans les terres fortes :\nelle est grosse comme la cuisse. On la cercle de fer,\n&amp; l’on y ajuste un manche d’environ quatre piés de\nlong. <i><span type=\"bold\">Voyez</span> cet instrument, Pl. d’Agriculture</i>.\n \n</p>\n</div>",
     "title": "CASSE-MOTTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASSE-MOTTE"
 }

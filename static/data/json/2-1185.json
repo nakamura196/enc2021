@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-241",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1181-0/",
+    "item_id": "2-1185",
     "next": "2-1186",
     "pages": "241",
     "prev": "2-1184",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIBRA <i>ou</i> BEBRA, (<i>Géog.</i>) petite ville de Thuringe, \nà deux lieues de Naumbourg. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIBRA <i>ou</i> BEBRA, (<i>Géog.</i>) petite ville de Thuringe, \nà deux lieues de Naumbourg. \n \n</p>\n</div>",
     "title": "BIBRA ou BEBRA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIBRA_ou_BEBRA"
 }

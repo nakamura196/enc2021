@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-15",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-146-0/",
+    "item_id": "2-139",
     "next": "2-140",
     "pages": "15",
     "prev": "2-138",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAHUS, (<i>Géog.</i>) ville de Suede, capitale du\ngouvernement de même nom, sur un rocher dans\nune île formée par la Gothelbe. <i>Long. 29. 20. lat. 57. 52</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAHUS, (<i>Géog.</i>) ville de Suede, capitale du\ngouvernement de même nom, sur un rocher dans\nune île formée par la Gothelbe. <i>Long. 29. 20. lat. 57. 52</i>.\n \n</p>\n</div>",
     "title": "BAHUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAHUS"
 }

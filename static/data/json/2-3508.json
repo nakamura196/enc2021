@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-642",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3509-0/",
+    "item_id": "2-3508",
     "next": "2-3509",
     "pages": "642",
     "prev": "2-3507",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAQUE, s. f. (<i>Commerce.</i>) que nous appellons communément <i>baril ;</i> c’est un petit tonneau dans lequel on encaque les harengs, c’est-à-dire, où on les enferme après qu’ils ont été apprêtes &amp; salés.\n</p><p><i>Caque</i> se dit aussi des petits barils dans lesquels on renferme la poudre à canon.\n</p><p><i>Caque</i> est encore le nom qu’on donne en Champagne à ce qu’on nomme plus communément un <i>quarteau. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/QUARTAUT\" title=\"L’Encyclopédie/1re édition/QUARTAUT\"><span class=\"sc\">Quarteau</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAQUE, s. f. (<i>Commerce.</i>) que nous appellons communément <i>baril ;</i> c’est un petit tonneau dans lequel on encaque les harengs, c’est-à-dire, où on les enferme après qu’ils ont été apprêtes &amp; salés.\n</p><p><i>Caque</i> se dit aussi des petits barils dans lesquels on renferme la poudre à canon.\n</p><p><i>Caque</i> est encore le nom qu’on donne en Champagne à ce qu’on nomme plus communément un <i>quarteau. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/QUARTAUT\" title=\"L’Encyclopédie/1re édition/QUARTAUT\"><span class=\"sc\">Quarteau</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "title": "CAQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAQUE"
 }

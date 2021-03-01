@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-163",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-702-0/",
+    "item_id": "2-705",
     "next": "2-706",
     "pages": "163",
     "prev": "2-704",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAVER, v. neut. (<i>Jardinage.</i>) se dit d’une eau\nqui vient en décharge, ou d’un jet qui ne s’éleve pas\nhaut. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAVER, v. neut. (<i>Jardinage.</i>) se dit d’une eau\nqui vient en décharge, ou d’un jet qui ne s’éleve pas\nhaut. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BAVER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAVER"
 }

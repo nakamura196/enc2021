@@ -2,14 +2,15 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-286",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1513-0/",
+    "item_id": "2-1515",
     "next": "2-1516",
     "pages": "286",
     "prev": "2-1514",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLOCAGES, s. m. pl. <i>en Architecture</i>, ce sont de\nmenues pierres ou petits cailloux &amp; moellons qu’on\njette à bain de mortier pour garnir le dedans des\nmurs, ou fonder dans l’eau à pierres perdues : c’est\nce que Vitruve appelle <i><span class=\"lang-la\" lang=\"la\">cœmenta</span></i>, ainsi que toute\npierre qu’on employe sans être équarrie. (<i>P</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLOCAGES, s. m. pl. <i>en Architecture</i>, ce sont de\nmenues pierres ou petits cailloux &amp; moellons qu’on\njette à bain de mortier pour garnir le dedans des\nmurs, ou fonder dans l’eau à pierres perdues : c’est\nce que <span type=\"auteur_p\">Vitruve</span> appelle <i><span class=\"lang-la\" lang=\"la\">cœmenta</span></i>, ainsi que toute\npierre qu’on employe sans être équarrie. (<i>P</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLOCAGES, s. m. pl. <i>en Architecture</i>, ce sont de\nmenues pierres ou petits cailloux &amp; moellons qu’on\njette à bain de mortier pour garnir le dedans des\nmurs, ou fonder dans l’eau à pierres perdues : c’est\nce que Vitruve appelle <i><span class=\"lang-la\" lang=\"la\">cœmenta</span></i>, ainsi que toute\npierre qu’on employe sans être équarrie. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BLOCAGES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLOCAGES"
 }

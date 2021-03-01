@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-571",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3171-0/",
+    "item_id": "2-3169",
     "next": "2-3170",
     "pages": "571",
     "prev": "2-3168",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMELOTTE, s. f. <i>reliûre à la camelotte ;</i> ces reliûres \nsont d’usage pour les livres d’un très-modique\nprix, comme les livres des plus basses classes, ou de\nprieres, à très-bon marché. La <i>camelotte</i> consiste à\ncoudre un livre à deux nerfs seulement : après qu’on\na marqué les endroits de la couture avec la greque,\non les passe en carton grossier, mais mince, on les\nendosse sans mettre des ais entre les volumes, &amp; on\nne met que du papier sur le dos, &amp; le reste se finit\ngrossierement.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMELOTTE, s. f. <i>reliûre à la camelotte ;</i> ces reliûres \nsont d’usage pour les livres d’un très-modique\nprix, comme les livres des plus basses classes, ou de\nprieres, à très-bon marché. La <i>camelotte</i> consiste à\ncoudre un<span type=\"proposed\"> livre </span>à deux nerfs seulement : après qu’on\na marqué les endroits de la couture avec la greque,\non les passe en carton grossier, mais mince, on les\nendosse sans mettre des ais entre les volumes, &amp; on\nne met que du papier sur le dos, &amp; le reste se finit\ngrossierement.\n \n</p>\n</div>",
     "title": "CAMELOTTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMELOTTE"
 }

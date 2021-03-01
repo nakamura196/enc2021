@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-12",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-130-0/",
+    "item_id": "2-123",
     "next": "2-124",
     "pages": "12",
     "prev": "2-122",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNOLS, (<i>Géog.</i>) petite ville de France dans le bas Languedoc, proche de la Cese. <i>Longit. 22. 13. lat. 44. 10</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNOLS, (<i>Géog.</i>) petite ville de France dans le bas Languedoc, proche de la Cese. <i>Longit. 22. 13. lat. 44. 10</i>. \n \n</p>\n</div>",
     "title": "BAGNOLS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAGNOLS"
 }

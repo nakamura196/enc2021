@@ -3,7 +3,8 @@
         "Guillaume Le Blond",
         "Denis Diderot"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2339-0/",
+    "item_id": "2-2337",
     "next": "2-2338",
     "pages": "424",
     "prev": "2-2336",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISURE DE LA COURTINE, c’est dans la\n<i>Fortification</i>, le prolongement de la ligne de défense\nqui sert à former le flanc couvert. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FLANC\" title=\"L’Encyclopédie/1re édition/FLANC\"><span class=\"sc\">Flanc \nconcave</span></a>. (<i>Q</i>)\n</p><p><span class=\"sc\">Brisure</span>, s. f. <i>terme de Blason</i>, piece ou figure\nqu’on ajoûte aux armoiries, pour distinguer les cadets \n&amp; les bâtards d’avec les aînés &amp; les fils légitimes.\nTelles sont le lambel, la cottice, le bâton,\n<i>&amp;c. Voyez ces mots à leur lettre</i>.\n</p><p>* <span class=\"sc\">Brisure</span>, se dit, <i>dans plusieurs Arts méchaniq</i>.\nd’une forme donnée à une ou plusieurs parties d’un\ntout, en conséquence de laquelle on peut les séparer,\nles réunir, les fixer dans une direction rectiligne,\nles disposer en angle, en plier les parties les unes sur\nles autres, les racourcir, les étendre, <i>&amp;c.</i> C’est dans\nl’un de ces sens qu’on dit, <i>un compas brisé, un fusil  brisé, une regle brisée</i>, &amp;c.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISURE DE LA COURTINE, c’est dans la\n<i>Fortification</i>, le prolongement de la ligne de défense\nqui sert à former le flanc couvert. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FLANC\" title=\"L’Encyclopédie/1re édition/FLANC\"><span class=\"sc\">Flanc \nconcave</span></a>. (<i>Q</i>)\n</p><p><span class=\"sc\">Brisure</span>, s. f. <i>terme de Blason</i>, piece ou figure\nqu’on ajoûte aux armoiries, pour distinguer les cadets \n&amp; les bâtards d’avec les aînés &amp; les fils légitimes.\nTelles sont le lambel, la cottice, le bâton,\n<i>&amp;c. <span type=\"bold\">Voyez</span> ces mots à leur lettre</i>.\n</p><p>* <span class=\"sc\">Brisure</span>, se dit, <i>dans plusieurs Arts méchaniq</i>.\nd’une forme donnée à une ou plusieurs parties d’un\ntout, en conséquence de laquelle on peut les séparer,\nles réunir, les fixer dans une direction rectiligne,\nles disposer en angle, en plier les parties les unes sur\nles autres, les racourcir, les étendre, <i>&amp;c.</i> C’est dans\nl’un de ces sens qu’on dit, <i>un compas brisé, un fusil  brisé, une regle brisée</i>, &amp;c.\n \n</p>\n</div>",
     "title": "BRISURE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISURE"
 }

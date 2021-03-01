@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2220-0/",
+    "item_id": "2-2215",
     "next": "2-2216",
     "pages": "412",
     "prev": "2-2214",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESINI, (<i>Géog.</i>) petite ville de la grande Pologne, \ndans le Palatinat de Lenczicz.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESINI, (<i>Géog.</i>) petite ville de la grande Pologne, \ndans le Palatinat de Lenczicz.\n \n</p>\n</div>",
     "title": "BRESINI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESINI"
 }

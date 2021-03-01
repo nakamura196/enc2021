@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-3",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-7-0/",
+    "item_id": "2-5",
     "next": "2-6",
     "pages": "3",
     "prev": "2-4",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* B, <i>en Ecriture ;</i> cette lettre considérée dans sa\nforme italienne, est composée de deux <i>i</i> l’un sur l’autre,\n&amp; conjoints avec l’<i>o :</i> dans sa forme coulée, c’est\nla tête de la seconde partie de l’<i>x</i>, l’<i>i</i> &amp; l’<i>o :</i> dans la\nronde, c’est la quatrieme &amp; huitieme partie de l’<i>o</i>,\nl’<i>i</i>, &amp; le second demi-cercle de l’<i>o</i>.\n</p><p>La premiere partie des deux premiers <i>b</i>, se forme\npar le mouvement simple des doigts, du plié &amp; de\nl’allongé : la seconde partie du même <i>b</i>, &amp; le dernier\n<i>b</i> en entier, se forment par un mouvement mixte des\ndoigts &amp; du poignet.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* B, <i>en Ecriture ;</i> cette lettre considérée dans sa\nforme italienne, est composée de deux <i>i</i> l’un sur l’autre,\n&amp; conjoints avec l’<i>o :</i> dans sa forme coulée, c’est\nla tête de la seconde<span type=\"proposed\"> partie </span>de l’<i>x</i>, l’<i>i</i> &amp; l’<i>o :</i> dans la\nronde, c’est la quatrieme &amp; huitieme<span type=\"proposed\"> partie </span>de l’<i>o</i>,\nl’<i>i</i>, &amp; le second demi-cercle de l’<i>o</i>.\n</p><p>La premiere<span type=\"proposed\"> partie </span>des deux premiers <i>b</i>, se forme\npar le mouvement simple des doigts, du plié &amp; de\nl’allongé : la seconde<span type=\"proposed\"> partie </span>du même <i>b</i>, &amp; le dernier\n<i>b</i> en entier, se forment par un mouvement mixte des\ndoigts &amp; du poignet.\n \n</p>\n</div>",
     "title": "B (écriture)",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/B_(%C3%A9criture)"
 }

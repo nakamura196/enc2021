@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-67",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-364-0/",
+    "item_id": "2-356",
     "next": "2-357",
     "pages": "67",
     "prev": "2-355",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARANGUELIS, (<span class=\"sc\">le</span>) <i>Géog. anc. &amp; mod.</i> grand\nétang d’Egypte, que les Latins nomment <span class=\"lang-la\" lang=\"la\"><i>stagnum  magnum, Tenesæ sinus, Sorbonis Palus</i></span>, sur les frontieres \nde la Terre-sainte, vers la côte de la Méditerranée ; \non l’appelle <i>le golfe de Tenese, le Grand-étang</i>,\nou <i>Stagnone</i>. Il avoit autrefois cent vingt mille pas ;\nil est aujourd’hui beaucoup moindre, &amp; l’on conjecture \nqu’il se remplira.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARANGUELIS, (<span class=\"sc\">le</span>) <i>Géog. anc. &amp; mod.</i> grand\nétang d’Egypte, que les Latins nomment <span class=\"lang-la\" lang=\"la\"><i>stagnum  magnum, Tenesæ sinus, Sorbonis Palus</i></span>, sur les frontieres \nde la Terre-sainte, vers la côte de la Méditerranée ; \non l’appelle <i>le golfe de Tenese, le Grand-étang</i>,\nou <i>Stagnone</i>. Il avoit autrefois cent vingt mille pas ;\nil est aujourd’hui beaucoup moindre, &amp; l’on conjecture \nqu’il se remplira.\n \n</p>\n</div>",
     "title": "BARANGUELIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARANGUELIS"
 }

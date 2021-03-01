@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-845",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4310-0/",
+    "item_id": "2-4320",
     "next": "2-4321",
     "pages": "845",
     "prev": "2-4319",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERS, (<i>Géog.</i>) petite île de l’Océan, sur les côtes de France, à l’orient de celles de Grenezey. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERS, (<i>Géog.</i>) petite île de l’Océan, sur les côtes de France, à l’orient de celles de Grenezey. \n \n</p>\n</div>",
     "title": "CERS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERS"
 }

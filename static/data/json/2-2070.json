@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-392",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2074-0/",
+    "item_id": "2-2070",
     "next": "2-2071",
     "pages": "392",
     "prev": "2-2069",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRADUPEPSIE, s. f. <i>ou</i> COCTION LENTE, \n(<i>Medecine.</i>) maladie de l’estomac, dans laquelle les \nalimens ne sont digérés qu’avec peine &amp; lenteur. La \ndigestion passe pour lente, quand au lieu de s’exécuter \ndans l’espace de vingt-quatre heures, elle ne se \nfait que dans l’espace de plusieurs jours. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ESTOMAC\" title=\"L’Encyclopédie/1re édition/ESTOMAC\"><span class=\"sc\">Estomac</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIGESTION\" title=\"L’Encyclopédie/1re édition/DIGESTION\"><span class=\"sc\">Digestion</span></a>. <i>Bradupepsie</i> est composée de \n<span class=\"lang-grc\" lang=\"grc\">βραδύς</span>, <i>lent, tardif</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">πέπτω</span>, <i>cuire, digérer</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRADUPEPSIE, s. f. <i>ou</i> COCTION LENTE, \n(<i>Medecine.</i>) maladie de l’estomac, dans laquelle les \nalimens ne sont digérés qu’avec peine &amp; lenteur. La \ndigestion passe pour lente, quand au lieu de s’exécuter \ndans l’espace de vingt-quatre heures, elle ne se \nfait que dans l’espace de plusieurs jours. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ESTOMAC\" title=\"L’Encyclopédie/1re édition/ESTOMAC\"><span class=\"sc\">Estomac</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIGESTION\" title=\"L’Encyclopédie/1re édition/DIGESTION\"><span class=\"sc\">Digestion</span></a>. <i>Bradupepsie</i> est composée de \n<span class=\"lang-grc\" lang=\"grc\">βραδύς</span>, <i>lent, tardif</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">πέπτω</span>, <i>cuire, digérer</i>. \n \n</p>\n</div>",
     "title": "BRADUPEPSIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRADUPEPSIE"
 }

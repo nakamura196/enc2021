@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-129",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-597-0/",
+    "item_id": "2-600",
     "next": "2-601",
     "pages": "129",
     "prev": "2-599",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASTABLES (<span class=\"sc\">Terres.</span>) adj. pl. (<i>Hist. mod.</i>) terres \ncontestées entre l’Angleterre &amp; l’Ecosse : il étoit \nautrefois incertain auquel de ces royaumes elles appartenoient \navant qu’ils fussent unis. Ce mot a toute \nl’énergie de <i>litigieux</i>, &amp; vient de <i>battre</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASTABLES (<span class=\"sc\">Terres.</span>) adj. pl. (<i>Hist. mod.</i>) terres \ncontestées entre l’Angleterre &amp; l’Ecosse : il étoit \nautrefois incertain auquel de ces royaumes elles appartenoient \navant qu’ils fussent unis. Ce mot a toute \nl’énergie de <i>litigieux</i>, &amp; vient de <i>battre</i>. \n \n</p>\n</div>",
     "title": "BASTABLES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASTABLES"
 }

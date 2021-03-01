@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2201-0/",
+    "item_id": "2-2196",
     "next": "2-2197",
     "pages": "412",
     "prev": "2-2195",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENDOLO, (<i>Géog.</i>) petite ville avec un port,\nsur une petite île des lagunes de Venise, entre la ville\nde Venise &amp; l’embouchure du Pô.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENDOLO, (<i>Géog.</i>) petite ville avec un port,\nsur une petite île des lagunes de Venise, entre la ville\nde Venise &amp; l’embouchure du Pô.\n \n</p>\n</div>",
     "title": "BRENDOLO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRENDOLO"
 }

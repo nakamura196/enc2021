@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-621",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3356-0/",
+    "item_id": "2-3353",
     "next": "2-3354",
     "pages": "621",
     "prev": "2-3352",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTALABRE, s. m. (<i>Architect.</i>) ce mot n’est\nusité que parmi les ouvriers, &amp; signifie le <i>bandeau</i>\nou la <i>bordure</i> d’une porte ou d’une croisée. Il peut\navoir été fait du Grec <span class=\"lang-grc\" lang=\"grc\">κατὰ</span>, <i>autour</i>, &amp; du Latin <i><span class=\"lang-la\" lang=\"la\">labrum</span></i>, levre ou bord. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTALABRE, s. m. (<i>Architect.</i>) ce mot n’est\nusité que parmi les ouvriers, &amp; signifie le <i>bandeau</i>\nou la <i>bordure</i> d’une porte ou d’une croisée. Il peut\navoir été fait du Grec <span class=\"lang-grc\" lang=\"grc\">κατὰ</span>, <i>autour</i>, &amp; du Latin <i><span class=\"lang-la\" lang=\"la\">labrum</span></i>, levre ou bord. (<i>P</i>)\n \n</p>\n</div>",
     "title": "CANTALABRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTALABRE"
 }

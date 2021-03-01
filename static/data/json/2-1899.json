@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-357",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1904-0/",
+    "item_id": "2-1899",
     "next": "2-1900",
     "pages": "357",
     "prev": "2-1898",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLOIRE, s. f. (<i>à la Monnoie</i>) vaisseau de\ncuivre, en forme de poelle plate à main, dans lequel\nil y a de l’eau bouillante avec du sel commun, &amp; du\ntartre de Montpellier gravelé, où l’on jette les flancs\nqu’on a laissé refroidir dans un crible de cuivre rouge,\naprès qu’ils ont été assez recuits. On les fait bouillir \ndans ce vaisseau pour les décrasser, ensuite on les\njette dans une autre <i>bouilloire</i>, remplie de même que\nla premiere, où on les fait bouillir une seconde fois,\npour achever de les nettoyer.\n</p><p>Ce vaisseau est commun à tous les ouvriers en or,\nen argent, &amp; même en cuivre. <i>Voyez Pl. prem.</i> d’<i>Orfévrerie.  Voyez aussi la Pl. du Boutonnier en cuivre</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLOIRE, s. f. (<i>à la Monnoie</i>) vaisseau de\ncuivre, en forme de poelle plate à main, dans lequel\nil y a de l’eau bouillante avec du sel commun, &amp; du\ntartre de Montpellier gravelé, où l’on jette les flancs\nqu’on a laissé refroidir dans un crible de cuivre rouge,\naprès qu’ils ont été assez recuits. On les fait bouillir \ndans ce vaisseau pour les décrasser, ensuite on les\njette dans une autre <i>bouilloire</i>, remplie de même que\nla premiere, où on les fait bouillir une seconde fois,\npour achever de les nettoyer.\n</p><p>Ce vaisseau est commun à tous les ouvriers en or,\nen argent, &amp; même en cuivre. <i><span type=\"bold\">Voyez</span> Pl. prem.</i> d’<i>Orfévrerie.  <span type=\"bold\">Voyez</span> aussi la Pl. du Boutonnier en cuivre</i>.\n \n</p>\n</div>",
     "title": "BOUILLOIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLOIRE"
 }

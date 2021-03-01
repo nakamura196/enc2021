@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-374",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1990-0/",
+    "item_id": "2-1983",
     "next": "2-1984",
     "pages": "374",
     "prev": "2-1982",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUSONVILLE, (<i>Géog.</i>) petite ville avec une\nabbaye considérable sur la Nied, à huit lieues de\nMetz.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUSONVILLE, (<i>Géog.</i>) petite ville avec une\nabbaye considérable sur la Nied, à huit lieues de\nMetz.\n \n</p>\n</div>",
     "title": "BOUSONVILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUSONVILLE"
 }

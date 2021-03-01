@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-338",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1809-0/",
+    "item_id": "2-1810",
     "next": "2-1811",
     "pages": "338",
     "prev": "2-1809",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSRA, nommée <i>Busseret</i> dans les historiens François \ndes Croisades. <i>Bosra</i> dans l’antiquité, ancienne\nmétropole d’une province particuliere d’Arabie, au\nlevant de la Palestine.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSRA, nommée <i>Busseret</i> dans les historiens François \ndes Croisades. <i>Bosra</i> dans l’antiquité, ancienne\nmétropole d’une province particuliere d’Arabie, au\nlevant de la Palestine.\n \n</p>\n</div>",
     "title": "BOSRA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSRA"
 }

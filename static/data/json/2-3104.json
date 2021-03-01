@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-565",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3105-0/",
+    "item_id": "2-3104",
     "next": "2-3105",
     "pages": "565",
     "prev": "2-3103",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALPÉ, (<i>Géog.</i>) haute montagne d’Espagne, au \nroyaume d’Andalousie, au détroit de Gibraltar, qui \nfait l’une des colonnes d’Hercule. La montagne d’Abyla \nqui est en Afrique, vis-à-vis de celle-ci, fait \nl’autre. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALPÉ, (<i>Géog.</i>) haute montagne d’Espagne, au \nroyaume d’Andalousie, au détroit de Gibraltar, qui \nfait l’une des colonnes d’Hercule. La montagne d’Abyla \nqui est en Afrique, vis-à-vis de celle-ci, fait \nl’autre. \n \n</p>\n</div>",
     "title": "CALPÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALP%C3%89"
 }

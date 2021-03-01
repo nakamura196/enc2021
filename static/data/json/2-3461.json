@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-637",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3463-0/",
+    "item_id": "2-3461",
     "next": "2-3462",
     "pages": "637",
     "prev": "2-3460",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPORNACK, (<i>Géog.</i>) ville &amp; château d’Hongrie, dans l’Esclavonie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPORNACK, (<i>Géog.</i>) ville &amp; château d’Hongrie, dans l’Esclavonie.\n \n</p>\n</div>",
     "title": "CAPORNACK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPORNACK"
 }

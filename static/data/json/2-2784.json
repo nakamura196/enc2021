@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2784-0/",
+    "item_id": "2-2784",
     "next": "2-2785",
     "pages": "495",
     "prev": "2-2783",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOTTIERE, s. f. (<i>Commerce.</i>) barque plate, \nlongue &amp; étroite, d’environ trois piés de profondeur, \navec un gouvernail très-long, fait en forme de rame. \nCette espece de bateau n’est utile qu’au commerce \nqui se fait par la riviere d’Evre. Cette riviere prend \nsa source du côté de Chartres, passe à Dreux, &amp; se \njette dans la Seine à un quart de lieue au-dessus du \nPont-de-l’Arche. (<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOTTIERE, s. f. (<i>Commerce.</i>) barque plate, \nlongue &amp; étroite, d’environ trois piés de profondeur, \navec un gouvernail très-long, fait en forme de rame. \nCette espece de bateau n’est utile qu’au commerce \nqui se fait par la riviere d’Evre. Cette riviere prend \nsa source du côté de Chartres, passe à Dreux, &amp; se \njette dans la Seine à un quart de lieue au-dessus du \nPont-de-l’Arche. (<i>Z</i>) \n \n</p>\n</div>",
     "title": "CABOTTIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABOTTIERE"
 }

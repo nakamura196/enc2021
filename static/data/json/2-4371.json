@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-871",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4361-0/",
+    "item_id": "2-4371",
     "next": "2-4372",
     "pages": "871",
     "prev": "2-4370",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEUTA, (<i>Géog</i>) ville forte d’Afrique, sur la côte\nde Barbarie, au royaume de Fez, dans la province\nde Hasbate, appartenante aux Espagnols ; elle a soûtenu \nun siége de plus de cinquante ans contre les Maures. <i>Long. 17. 10. lat. 33. 36</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEUTA, (<i>Géog</i>) ville forte d’Afrique, sur la côte\nde Barbarie, au royaume de Fez, dans la province\nde Hasbate, appartenante aux Espagnols ; elle a soûtenu \nun siége de plus de cinquante ans contre les Maures. <i>Long. 17. 10. lat. 33. 36</i>.\n \n</p>\n</div>",
     "title": "CEUTA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEUTA"
 }

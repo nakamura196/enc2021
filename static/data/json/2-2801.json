@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2802-0/",
+    "item_id": "2-2801",
     "next": "2-2802",
     "pages": "495",
     "prev": "2-2800",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAÇAÇA, (<i>Géog.</i>) ville d’Afrique au royaume \nde Fez, proche Melille. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAÇAÇA, (<i>Géog.</i>) ville d’Afrique au royaume \nde Fez, proche Melille. \n \n</p>\n</div>",
     "title": "CAÇAÇA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CA%C3%87A%C3%87A"
 }

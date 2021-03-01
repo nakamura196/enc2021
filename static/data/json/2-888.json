@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-197",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-884-0/",
+    "item_id": "2-888",
     "next": "2-889",
     "pages": "197-198",
     "prev": "2-887",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELILLA, (<i>Hist. nat. bot.</i>) arbrisseau Indien qui <span><span class=\"pagenum ws-pagenum\" id=\"198\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/202\"></span></span>porte des baies, &amp; sur le compte duquel on ne tarit\npoint : on lui attribue une foule de propriétés médicinales \nqu’on peut voir dans le dictionnaire de Médecine ; \nnous ne les rapporterons point ici, parce que\nnous n’ajoûtons pas beaucoup de foi aux propriétés\ndes choses qui nous paroissent aussi peu connues que\nle <i>belilla</i>, dont on n’a qu’une phrase botanique.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELILLA, (<i>Hist. nat. bot.</i>) arbrisseau Indien qui <span><span class=\"pagenum ws-pagenum\" id=\"198\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/202\"></span></span>porte des baies, &amp; sur le compte duquel on ne tarit\npoint : on lui attribue une foule de propriétés médicinales \nqu’on peut voir dans le dictionnaire de Médecine ; \nnous ne les rapporterons point ici, parce que\nnous n’ajoûtons pas beaucoup de foi aux propriétés\ndes choses qui nous paroissent aussi peu connues que\nle <i>belilla</i>, dont on n’a qu’une phrase botanique.\n \n</p>\n</div>",
     "title": "BELILLA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELILLA"
 }

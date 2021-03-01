@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-357",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1903-0/",
+    "item_id": "2-1898",
     "next": "2-1899",
     "pages": "357",
     "prev": "2-1897",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLITOIRE, s. f. (<i>à la Monnoie</i>) donner la\n<i>bouillitoire</i>, c’est jetter les flancs à la <i>bouilloire</i>, les y\nnettoyer &amp; faire bouillir dans un liquide préparé,\njusqu’à ce qu’ils soient devenus blancs. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLANCHIMENT\" title=\"L’Encyclopédie/1re édition/BLANCHIMENT\"><span class=\"sc\">Blanchiment</span></a>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLOIRE\" title=\"L’Encyclopédie/1re édition/BOUILLOIRE\"><span class=\"sc\">Bouilloire</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLITOIRE, s. f. (<i>à la Monnoie</i>) donner la\n<i>bouillitoire</i>, c’est jetter les flancs à la <i>bouilloire</i>, les y\nnettoyer &amp; faire bouillir dans un liquide préparé,\njusqu’à ce qu’ils soient devenus blancs. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLANCHIMENT\" title=\"L’Encyclopédie/1re édition/BLANCHIMENT\"><span class=\"sc\">Blanchiment</span></a>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLOIRE\" title=\"L’Encyclopédie/1re édition/BOUILLOIRE\"><span class=\"sc\">Bouilloire</span></a>.\n \n</p>\n</div>",
     "title": "BOUILLITOIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLITOIRE"
 }

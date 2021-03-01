@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-419",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2286-0/",
+    "item_id": "2-2281",
     "next": "2-2282",
     "pages": "419",
     "prev": "2-2280",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIFIER, (<i>terme de Plombier</i>) c’est une bande de\nplomb, qui fait partie des enfaitemens des bâtimens\ncouverts d’ardoise. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ENFAITEMENT\" title=\"L’Encyclopédie/1re édition/ENFAITEMENT\"><span class=\"sc\">Enfaîtement</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIFIER, (<i>terme de Plombier</i>) c’est une bande de\nplomb, qui fait<span type=\"proposed\"> partie </span>des enfaitemens des bâtimens\ncouverts d’ardoise. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ENFAITEMENT\" title=\"L’Encyclopédie/1re édition/ENFAITEMENT\"><span class=\"sc\">Enfaîtement</span></a>.\n \n</p>\n</div>",
     "title": "BRIFIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIFIER"
 }

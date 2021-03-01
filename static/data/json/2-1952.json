@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-369",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1959-0/",
+    "item_id": "2-1952",
     "next": "2-1953",
     "pages": "369",
     "prev": "2-1951",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDONNÉ, (<i>en termes de Blason</i>) se dit d’une \ncroix dont les branches sont tournées &amp; arrondies \nen <i>bourdons</i> de pélerins.\n</p><p>Rochas en Provence, d’or à la croix <i>bourdonnée</i>\nou pommelée de gueules, au chef d’asur, chargé\nd’une étoile d’or. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDONNÉ, (<i>en termes de Blason</i>) se dit d’une \ncroix dont les branches sont tournées &amp; arrondies \nen <i>bourdons</i> de pélerins.\n</p><p>Rochas en Provence, d’or à la croix <i>bourdonnée</i>\nou pommelée de gueules, au chef d’asur, chargé\nd’une étoile d’or. (<i>V</i>)\n \n</p>\n</div>",
     "title": "BOURDONNÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURDONN%C3%89"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-832",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4242-0/",
+    "item_id": "2-4252",
     "next": "2-4253",
     "pages": "832",
     "prev": "2-4251",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CÉPHALOPHARINGIEN, <i>terme d’Anatomie</i>, est\nle nom de deux muscles de l’orifice de l’œsophage,\nqu’on appelle <i>pharynx. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MUSCLE\" title=\"L’Encyclopédie/1re édition/MUSCLE\"><span class=\"sc\">Muscle</span></a>.\n</p><p>Ils viennent de la face inférieure de l’apophyse basilaire \nde l’occipital vers sa partie moyenne, &amp; s’épanoüissent \nsur la partie supérieure &amp; postérieure du\npharynx, qu’ils tirent en-haut &amp; en arriere. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PHARINX\" title=\"L’Encyclopédie/1re édition/PHARINX\"><span class=\"sc\">Pharynx</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CÉPHALOPHARINGIEN, <i>terme d’Anatomie</i>, est\nle nom de deux muscles de l’orifice de l’œsophage,\nqu’on appelle <i>pharynx. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MUSCLE\" title=\"L’Encyclopédie/1re édition/MUSCLE\"><span class=\"sc\">Muscle</span></a>.\n</p><p>Ils viennent de la face inférieure de l’apophyse basilaire \nde l’occipital vers sa<span type=\"proposed\"> partie </span>moyenne, &amp; s’épanoüissent \nsur la<span type=\"proposed\"> partie </span>supérieure &amp; postérieure du\npharynx, qu’ils tirent en-haut &amp; en arriere. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PHARINX\" title=\"L’Encyclopédie/1re édition/PHARINX\"><span class=\"sc\">Pharynx</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "title": "CÉPHALOPHARINGIEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/C%C3%89PHALOPHARINGIEN"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-268",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1445-0/",
+    "item_id": "2-1448",
     "next": "2-1449",
     "pages": "268",
     "prev": "2-1447",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAFFERT <i>ou</i> PLAPPERT, (<i>Commerce.</i>) petite \nmonnoie usitée en Allemagne dans l’électorat\nde Cologne. Le <i>blassert</i> vaut 4 albus, &amp; 45 albus\nfont un écu d’Empire ou ryxdaller : nous évaluons\nle <i>blaffert</i> à trois sols <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {12}{13}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>12</mn>\n<mn>13</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {12}{13}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {12}{13}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/36d0f83bc73755102368fddd1c5709a1acbba6fa\" style=\"vertical-align: -1.171ex; width:2.171ex; height:3.176ex;\"/></span> de deniers de notre argent.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAFFERT <i>ou</i> PLAPPERT, (<i>Commerce.</i>) petite \nmonnoie usitée en Allemagne dans l’électorat\nde Cologne. Le <i>blassert</i> vaut 4 albus, &amp; 45 albus\nfont un écu d’Empire ou ryxdaller : nous évaluons\nle <i>blaffert</i> à trois sols <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {12}{13}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>12</mn>\n<mn>13</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {12}{13}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {12}{13}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/36d0f83bc73755102368fddd1c5709a1acbba6fa\" style=\"vertical-align: -1.171ex; width:2.171ex; height:3.176ex;\"/></span> de deniers de notre argent.\n \n</p>\n</div>",
     "title": "BLAFFERT ou PLAPPERT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLAFFERT_ou_PLAPPERT"
 }

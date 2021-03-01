@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3882-0/",
+    "item_id": "2-3880",
     "next": "2-3881",
     "pages": "749",
     "prev": "2-3879",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Baldo</span>, (<i>Géog.</i>) petite place d’Italie\ndans le Veronese, sur l’Adige. <i>Long. 29. lat. 45. 7</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Baldo</span>, (<i>Géog.</i>) petite place d’Italie\ndans le Veronese, sur l’Adige. <i>Long. 29. lat. 45. 7</i>.\n \n</p>\n</div>",
     "title": "CASTEL-BALDO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTEL-BALDO"
 }

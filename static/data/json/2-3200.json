@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-576",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3202-0/",
+    "item_id": "2-3200",
     "next": "2-3201",
     "pages": "576",
     "prev": "2-3199",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPAGNA, (<i>Géog.</i>) ville d’Italie au royaume\nde Naples, dans la principauté ultérieure. <i>Lon. 32. </i>\n<i>47. lat. 41. 42</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPAGNA, (<i>Géog.</i>) ville d’Italie au royaume\nde Naples, dans la principauté ultérieure. <i>Lon. 32. </i>\n<i>47. lat. 41. 42</i>.\n \n</p>\n</div>",
     "title": "CAMPAGNA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMPAGNA"
 }

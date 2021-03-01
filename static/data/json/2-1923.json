@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-365",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1930-0/",
+    "item_id": "2-1923",
     "next": "2-1924",
     "pages": "365",
     "prev": "2-1922",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULOGNE <i>en Picardie, voyez</i> ci-dessus <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLOGNE\" title=\"L’Encyclopédie/1re édition/BOLOGNE\"><span class=\"sc\">Bologne</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULOGNE <i>en Picardie, voyez</i> ci-dessus <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLOGNE\" title=\"L’Encyclopédie/1re édition/BOLOGNE\"><span class=\"sc\">Bologne</span></a>. \n \n</p>\n</div>",
     "title": "BOULOGNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOULOGNE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-163",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-710-0/",
+    "item_id": "2-713",
     "next": "2-714",
     "pages": "163",
     "prev": "2-712",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAVIERE, (<i>Géog.</i>) état considérable d’Allemagne, \navec titre de duché, borné au septentrion\npar la Boheme &amp; le haut Palatinat ; à l’orient par\nl’Autriche, l’archevêché de Saltzbourg, &amp; l’évêché\nde Passau ; au midi par l’évêché de Brixen &amp; le Tirol ; \nà l’occident par le Lech. Il a environ 50 lieues\nd’occident en orient, &amp; 35 du midi au septentrion :\nses principales rivieres sont le Danube, l’Inn, l’Iser,\n&amp; le Lech. La Baviere se divise en haute, où est la\nrégence de Munich, capitale de Baviere ; &amp; en\nbasse, où sont les trois régences de Burckhausen,\nLandshut, &amp; Straubingen.\n</p><p><span class=\"sc\">Baviere</span>, (<i>Cercle de</i>) partie de l’Allemagne\nbeaucoup plus étendue que la Baviere ; comprenant\noutre la Baviere, le haut Palatinat, l’archevêché de\nSaltzbourg, les évêchés de Frizingue, de Passaw, &amp;\nde Ratisbonne, avec le duché de Neubourg. Elle est\nbornée à l’orient &amp; au midi par le cercle d’Autriche, \n&amp; à l’occident &amp; au septentrion par les cercles\nde Franconie &amp; de Suabe, &amp; par la Bohème.\n</p><p><span class=\"sc\">Baviere</span>, (<i>Palatinat de</i>) partie du Nortgaw, dont\nla capitale est Amberg.\n</p><p>Il ne faut pas confondre, comme on voit, la <i>Baviere</i>,\nsoit avec le cercle, soit avec le Palatinat de même\nnom.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAVIERE, (<i>Géog.</i>) état considérable d’Allemagne, \navec titre de duché, borné au septentrion\npar la Boheme &amp; le haut Palatinat ; à l’orient par\nl’Autriche, l’archevêché de Saltzbourg, &amp; l’évêché\nde Passau ; au midi par l’évêché de Brixen &amp; le Tirol ; \nà l’occident par le Lech. Il a environ 50 lieues\nd’occident en orient, &amp; 35 du midi au septentrion :\nses principales rivieres sont le Danube, l’Inn, l’Iser,\n&amp; le Lech. La Baviere se divise en haute, où est la\nrégence de Munich, capitale de Baviere ; &amp; en\nbasse, où sont les trois régences de Burckhausen,\nLandshut, &amp; Straubingen.\n</p><p><span class=\"sc\">Baviere</span>, (<i>Cercle de</i>)<span type=\"proposed\"> partie </span>de l’Allemagne\nbeaucoup plus étendue que la Baviere ; comprenant\noutre la Baviere, le haut Palatinat, l’archevêché de\nSaltzbourg, les évêchés de Frizingue, de Passaw, &amp;\nde Ratisbonne, avec le duché de Neubourg. Elle est\nbornée à l’orient &amp; au midi par le cercle d’Autriche, \n&amp; à l’occident &amp; au septentrion par les cercles\nde Franconie &amp; de Suabe, &amp; par la Bohème.\n</p><p><span class=\"sc\">Baviere</span>, (<i>Palatinat de</i>)<span type=\"proposed\"> partie </span>du Nortgaw, dont\nla capitale est Amberg.\n</p><p>Il ne faut pas confondre, comme on voit, la <i>Baviere</i>,\nsoit avec le cercle, soit avec le Palatinat de même\nnom.\n \n</p>\n</div>",
     "title": "BAVIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAVIERE"
 }

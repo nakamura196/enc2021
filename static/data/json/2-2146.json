@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-406",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2150-0/",
+    "item_id": "2-2146",
     "next": "2-2147",
     "pages": "406",
     "prev": "2-2145",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAUNFELS, (<i>Géog.</i>) petite ville avec un château \nfort dans le comté de Solms, dans le cercle du\nhaut Rhin, à une lieue de Wetzlar.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAUNFELS, (<i>Géog.</i>) petite ville avec un château \nfort dans le comté de Solms, dans le cercle du\nhaut Rhin, à une lieue de Wetzlar.\n \n</p>\n</div>",
     "title": "BRAUNFELS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRAUNFELS"
 }

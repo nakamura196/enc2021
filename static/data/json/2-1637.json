@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-315",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1636-0/",
+    "item_id": "2-1637",
     "next": "2-1638",
     "pages": "315",
     "prev": "2-1636",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOLONOIS, (<i>Géog.</i>) province d’Italie, dans\nl’état de l’Eglise, bornée au septentrion par le Ferrarois ; \nà l’orient, par le même &amp; par la Romagne ; au\nmidi, par le Florentin ; &amp; à l’occident, par l’état de\nModene.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOLONOIS, (<i>Géog.</i>) province d’Italie, dans\nl’état de l’Eglise, bornée au septentrion par le Ferrarois ; \nà l’orient, par le même &amp; par la Romagne ; au\nmidi, par le Florentin ; &amp; à l’occident, par l’état de\nModene.\n \n</p>\n</div>",
     "title": "BOLONOIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLONOIS"
 }

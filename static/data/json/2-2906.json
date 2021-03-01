@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-530",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2907-0/",
+    "item_id": "2-2906",
     "next": "2-2907",
     "pages": "530",
     "prev": "2-2905",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGLIARI, (<i>Géog.</i>) ville capitale du royaume\nde Sardaigne, dans la partie méridionale de l’île sur\nla mer Méditerranée. <i>Long. 27. 7. lat. 39. 20</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGLIARI, (<i>Géog.</i>) ville capitale du royaume\nde Sardaigne, dans la<span type=\"proposed\"> partie </span>méridionale de l’île sur\nla mer Méditerranée. <i>Long. 27. 7. lat. 39. 20</i>.\n \n</p>\n</div>",
     "title": "CAGLIARI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAGLIARI"
 }

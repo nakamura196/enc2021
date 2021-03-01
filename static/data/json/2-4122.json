@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4111-0/",
+    "item_id": "2-4122",
     "next": "2-4123",
     "pages": "794",
     "prev": "2-4121",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZELLES, s. f. (<i>Fileur d’or.</i>) sont des especes de\nbobines sur lesquelles l’ouvrage se dévide après avoir\nété filé. Elles ont des crans à un bout qui vont toûjours \nen diminuant comme ceux de la fusée, pour\naugmenter le mouvement quand les <i>cazelles</i> sont vuides,\n&amp; pour le diminuer quand elles sont presque\npleines. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FILER#Fileur_d’or\" title=\"L’Encyclopédie/1re édition/FILER\"><span class=\"sc\">Fileur d’or</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZELLES, s. f. (<i>Fileur d’or.</i>) sont des especes de\nbobines sur lesquelles l’ouvrage se dévide après avoir\nété filé. Elles ont des crans à un bout qui vont toûjours \nen diminuant comme ceux de la fusée, pour\naugmenter le mouvement quand les <i>cazelles</i> sont vuides,\n&amp; pour le diminuer quand elles sont presque\npleines. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FILER#Fileur_d’or\" title=\"L’Encyclopédie/1re édition/FILER\"><span class=\"sc\">Fileur d’or</span></a>.\n \n</p>\n</div>",
     "title": "CAZELLES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAZELLES"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-757",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3927-0/",
+    "item_id": "2-3939",
     "next": "2-3940",
     "pages": "757",
     "prev": "2-3938",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATACAUSTIQUE, s. f. (<i>Géom.</i>) est la caustique \nformée par des rayons réfléchis. On la nomme\nainsi pour la distinguer de la <i>diacaustique. V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUSTIQUE\" title=\"L’Encyclopédie/1re édition/CAUSTIQUE\"><span class=\"sc\">Caustique</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIACAUSTIQUE\" title=\"L’Encyclopédie/1re édition/DIACAUSTIQUE\"><span class=\"sc\">Diacaustique</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/R%C3%89FLEXION\" title=\"L’Encyclopédie/1re édition/RÉFLEXION\"><span class=\"sc\">Réflexion</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATOPTRIQUE\" title=\"L’Encyclopédie/1re édition/CATOPTRIQUE\"><span class=\"sc\">Catoptrique</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATACAUSTIQUE, s. f. (<i>Géom.</i>) est la caustique \nformée par des rayons réfléchis. On la nomme\nainsi pour la distinguer de la <i>diacaustique. V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUSTIQUE\" title=\"L’Encyclopédie/1re édition/CAUSTIQUE\"><span class=\"sc\">Caustique</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIACAUSTIQUE\" title=\"L’Encyclopédie/1re édition/DIACAUSTIQUE\"><span class=\"sc\">Diacaustique</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/R%C3%89FLEXION\" title=\"L’Encyclopédie/1re édition/RÉFLEXION\"><span class=\"sc\">Réflexion</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATOPTRIQUE\" title=\"L’Encyclopédie/1re édition/CATOPTRIQUE\"><span class=\"sc\">Catoptrique</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "title": "CATACAUSTIQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATACAUSTIQUE"
 }

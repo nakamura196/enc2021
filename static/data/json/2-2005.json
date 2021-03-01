@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2009-0/",
+    "item_id": "2-2005",
     "next": "2-2006",
     "pages": "380",
     "prev": "2-2004",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTEILLAGE, s. m. (<i>Hist. mod.</i>) c’est le droit\nsur la vente des vins étrangers, que le bouteiller du\nroi d’Angleterre prend, en vertu de sa charge, sur\nchaque vaisseau : ce droit est de deux chelins par\ntonneau.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTEILLAGE, s. m. (<i>Hist. mod.</i>) c’est le droit\nsur la vente des vins étrangers, que le bouteiller du\nroi d’Angleterre prend, en vertu de sa charge, sur\nchaque vaisseau : ce droit est de deux chelins par\ntonneau.\n \n</p>\n</div>",
     "title": "BOUTEILLAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTEILLAGE"
 }

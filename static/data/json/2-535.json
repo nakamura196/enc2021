@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-114",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-545-0/",
+    "item_id": "2-535",
     "next": "2-536",
     "pages": "114",
     "prev": "2-534",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASCARA, (<i>Géog.</i>) ville de la partie de l’Afrique, \nque les Arabes appellent <i>Ausath</i> ou <i>moyenne</i>,\nou le <i>Biledulgerid</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASCARA, (<i>Géog.</i>) ville de la<span type=\"proposed\"> partie </span>de l’Afrique, \nque les Arabes appellent <i>Ausath</i> ou <i>moyenne</i>,\nou le <i>Biledulgerid</i>.\n \n</p>\n</div>",
     "title": "BASCARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASCARA"
 }

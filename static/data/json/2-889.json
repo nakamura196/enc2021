@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-885-0/",
+    "item_id": "2-889",
     "next": "2-890",
     "pages": "198",
     "prev": "2-888",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELIN, (<i>Marine</i>) <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLIN,_BELIN\" title=\"L’Encyclopédie/1re édition/BLIN, BELIN\"><span class=\"sc\">Blin</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELIN, (<i>Marine</i>) <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLIN,_BELIN\" title=\"L’Encyclopédie/1re édition/BLIN, BELIN\"><span class=\"sc\">Blin</span></a>.\n \n</p>\n</div>",
     "title": "BELIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELIN"
 }

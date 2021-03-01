@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3877-0/",
+    "item_id": "2-3875",
     "next": "2-3876",
     "pages": "749",
     "prev": "2-3874",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTANOWITZ, (<i>Géog.</i>) ville fortifiée de\nHongrie en Croatie, dans une île formée par la riviere \nd’Unna.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTANOWITZ, (<i>Géog.</i>) ville fortifiée de\nHongrie en Croatie, dans une île formée par la riviere \nd’Unna.\n \n</p>\n</div>",
     "title": "CASTANOWITZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTANOWITZ"
 }

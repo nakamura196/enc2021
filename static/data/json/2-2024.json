@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-387",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2028-0/",
+    "item_id": "2-2024",
     "next": "2-2025",
     "pages": "387",
     "prev": "2-2023",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTRIOT, est parmi les <i>Cloutiers d’épingles</i> une\nespece de burin dont ils se servent pour faire la petite \ncavité du poinçon. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POIN%C3%87ON\" title=\"L’Encyclopédie/1re édition/POINÇON\"><span class=\"sc\">Poinçon</span></a>, <i>&amp; Pl. du  Cloutier d’épingle, fig. 17. &amp; 18</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTRIOT, est parmi les <i>Cloutiers d’épingles</i> une\nespece de burin dont ils se servent pour faire la petite \ncavité du poinçon. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POIN%C3%87ON\" title=\"L’Encyclopédie/1re édition/POINÇON\"><span class=\"sc\">Poinçon</span></a>, <i>&amp; Pl. du  Cloutier d’épingle, fig. 17. &amp; 18</i>.\n \n</p>\n</div>",
     "title": "BOUTRIOT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTRIOT"
 }

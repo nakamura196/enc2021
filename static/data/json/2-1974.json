@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-372",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1981-0/",
+    "item_id": "2-1974",
     "next": "2-1975",
     "pages": "372",
     "prev": "2-1973",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURRELIER, s. m. ouvriers qui font les harnois \nde chevaux de carrosse, de charrette ; ils sont\nde la communauté des Selliers. Ils ont été nommés\n<i>bourreliers</i>, du collier des chevaux, qu’on appelloit\nautrefois <i>bourrelet. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SELLIER\" title=\"L’Encyclopédie/1re édition/SELLIER\"><span class=\"sc\">Sellier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURRELIER, s. m. ouvriers qui font les harnois \nde chevaux de carrosse, de charrette ; ils sont\nde la communauté des Selliers. Ils ont été nommés\n<i>bourreliers</i>, du collier des chevaux, qu’on appelloit\nautrefois <i>bourrelet. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SELLIER\" title=\"L’Encyclopédie/1re édition/SELLIER\"><span class=\"sc\">Sellier</span></a>.\n \n</p>\n</div>",
     "title": "BOURRELIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURRELIER"
 }

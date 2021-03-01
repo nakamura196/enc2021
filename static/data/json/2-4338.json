@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-866",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4328-0/",
+    "item_id": "2-4338",
     "next": "2-4339",
     "pages": "866",
     "prev": "2-4337",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERUMEN, <i>en Anatomie ; voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CIRE_DES_OREILLES\" title=\"L’Encyclopédie/1re édition/CIRE DES OREILLES\"><span class=\"sc\">Cire des oreilles</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERUMEN, <i>en Anatomie ; voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CIRE_DES_OREILLES\" title=\"L’Encyclopédie/1re édition/CIRE DES OREILLES\"><span class=\"sc\">Cire des oreilles</span></a>.\n \n</p>\n</div>",
     "title": "CERUMEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERUMEN"
 }

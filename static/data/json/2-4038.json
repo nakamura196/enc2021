@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-781",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4027-0/",
+    "item_id": "2-4038",
     "next": "2-4039",
     "pages": "781",
     "prev": "2-4037",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVALERISSE, s. f. (<i>Manege.</i>) ce mot est dérivé de l’Italien : il fut employé en François pour signifier une personne savante dans l’art de dresser &amp; de gouverner les chevaux ; il fut d’autant plus expressif, que le mot <i>écuyer</i> a une signification toute différente en France : mais il n’est plus d’usage. (<i>V</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVALERISSE, s. f. (<i>Manege.</i>) ce mot est dérivé de l’Italien : il fut employé en François pour signifier une personne savante dans l’art de dresser &amp; de gouverner les chevaux ; il fut d’autant plus expressif, que le mot <i>écuyer</i> a une signification toute différente en France : mais il n’est plus d’usage. (<i>V</i>) \n \n</p>\n</div>",
     "title": "CAVALERISSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVALERISSE"
 }

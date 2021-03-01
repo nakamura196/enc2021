@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-55",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-297-0/",
+    "item_id": "2-289",
     "next": "2-290",
     "pages": "55",
     "prev": "2-288",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BANDA (<i>Géog.</i>), sept iles d’Asie, vers le <i>quatrieme  degré de latitude méridionale</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BANDA (<i>Géog.</i>), sept iles d’Asie, vers le <i>quatrieme  degré de latitude méridionale</i>.\n \n</p>\n</div>",
     "title": "BANDA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANDA"
 }

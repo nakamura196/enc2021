@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-597",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3306-0/",
+    "item_id": "2-3303",
     "next": "2-3304",
     "pages": "597",
     "prev": "2-3302",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANICLU, (<i>Géog.</i>) province d’Asie, dans la\ngrande Tartarie, à l’ouest du Tibeth ; les habitans\nsont idolatres.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANICLU, (<i>Géog.</i>) province d’Asie, dans la\ngrande Tartarie, à l’ouest du Tibeth ; les habitans\nsont idolatres.\n \n</p>\n</div>",
     "title": "CANICLU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANICLU"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-560",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3065-0/",
+    "item_id": "2-3064",
     "next": "2-3065",
     "pages": "560",
     "prev": "2-3063",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALINGUE, CARLINGUE, CONTREQUILLE. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARLINGUE,_CALINGUE,_ESCARLINGUE\" title=\"L’Encyclopédie/1re édition/CARLINGUE, CALINGUE, ESCARLINGUE\"><span class=\"sc\">Carlingue</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALINGUE, CARLINGUE, CONTREQUILLE. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARLINGUE,_CALINGUE,_ESCARLINGUE\" title=\"L’Encyclopédie/1re édition/CARLINGUE, CALINGUE, ESCARLINGUE\"><span class=\"sc\">Carlingue</span></a>. \n \n</p>\n</div>",
     "title": "CALINGUE, CARLINGUE, CONTREQUILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALINGUE,_CARLINGUE,_CONTREQUILLE"
 }

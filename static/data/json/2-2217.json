@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2222-0/",
+    "item_id": "2-2217",
     "next": "2-2218",
     "pages": "412",
     "prev": "2-2216",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESLE, (<span class=\"sc\">la</span>) <i>Géog.</i>) petite ville de France,\ndans le Lyonnois, sur la Tardine.\n</p><p><span class=\"sc\">Bresle</span>, (<span class=\"sc\">la</span>) <i>Géog.</i>) riviere de France, qui\nprend sa source en Normandie, dans le pays de\nCaux, &amp; se jette dans la mer au-dessous d’Eu.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESLE, (<span class=\"sc\">la</span>) <i>Géog.</i>) petite ville de France,\ndans le Lyonnois, sur la Tardine.\n</p><p><span class=\"sc\">Bresle</span>, (<span class=\"sc\">la</span>) <i>Géog.</i>) riviere de France, qui\nprend sa source en Normandie, dans le pays de\nCaux, &amp; se jette dans la mer au-dessous d’Eu.\n \n</p>\n</div>",
     "title": "BRESLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESLE"
 }

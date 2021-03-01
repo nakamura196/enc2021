@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-114",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-537-0/",
+    "item_id": "2-527",
     "next": "2-528",
     "pages": "114",
     "prev": "2-526",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAS-OFFICIERS, s. m. pl. (<i>Art milit.</i>) ce sont\ndans les compagnies de cavalerie &amp; de dragons, les\nmaréchaux des logis, &amp; dans l’infanterie, les sergens.\nIls n’ont point de lettres du roi pour avoir leur\nemploi, qu’ils ne tiennent que de l’autorité du colonel \n&amp; de leur capitaine. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAS-OFFICIERS, s. m. pl. (<i>Art milit.</i>) ce sont\ndans les compagnies de cavalerie &amp; de dragons, les\nmaréchaux des logis, &amp; dans l’infanterie, les sergens.\nIls n’ont point de lettres du roi pour avoir leur\nemploi, qu’ils ne tiennent que de l’autorité du colonel \n&amp; de leur capitaine. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "BAS-OFFICIERS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAS-OFFICIERS"
 }

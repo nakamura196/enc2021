@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-580",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3218-0/",
+    "item_id": "2-3215",
     "next": "2-3216",
     "pages": "580",
     "prev": "2-3214",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPIANO, (<i>Géog.</i>) petite ville forte de Sicile,\ndans le val di Taro, sur la riviere de Taro.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPIANO, (<i>Géog.</i>) petite ville forte de Sicile,\ndans le val di Taro, sur la riviere de Taro.\n \n</p>\n</div>",
     "title": "CAMPIANO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMPIANO"
 }

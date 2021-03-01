@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-626",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3414-0/",
+    "item_id": "2-3411",
     "next": "2-3412",
     "pages": "626",
     "prev": "2-3410",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPESTAN, (<i>Géog.</i>) petite ville de France,\ndans le Languedoc, près de la riviere d’Aude &amp; du\ncanal royal. <i>Long. 20. 40. lat. 43. 25</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPESTAN, (<i>Géog.</i>) petite ville de France,\ndans le Languedoc, près de la riviere d’Aude &amp; du\ncanal royal. <i>Long. 20. 40. lat. 43. 25</i>.\n \n</p>\n</div>",
     "title": "CAPESTAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPESTAN"
 }

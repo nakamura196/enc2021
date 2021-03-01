@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-639",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3486-0/",
+    "item_id": "2-3484",
     "next": "2-3485",
     "pages": "639",
     "prev": "2-3483",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRONS, (<i>Jardinage.</i>) ce sont de grosses fraises\nplus belles que bonnes, dont on fait peu de cas, &amp;\nqui mûrissent en même tems que les autres. Leurs\nfeuilles sont plus larges &amp; en plus grand nombre.\n(<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRONS, (<i>Jardinage.</i>) ce sont de grosses fraises\nplus belles que bonnes, dont on fait peu de cas, &amp;\nqui mûrissent en même tems que les autres. Leurs\nfeuilles sont plus larges &amp; en plus grand nombre.\n(<i>K</i>)\n \n</p>\n</div>",
     "title": "CAPRONS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRONS"
 }

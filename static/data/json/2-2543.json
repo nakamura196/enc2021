@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-459",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2546-0/",
+    "item_id": "2-2543",
     "next": "2-2544",
     "pages": "459",
     "prev": "2-2542",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUDINGEN, (<i>Géog.</i>) ville d’Allemagne, avec \nun château, au comté d’Isenbourg, dans la Weteravie, \nsur la riviere de Nidder. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUDINGEN, (<i>Géog.</i>) ville d’Allemagne, avec \nun château, au comté d’Isenbourg, dans la Weteravie, \nsur la riviere de Nidder. \n \n</p>\n</div>",
     "title": "BUDINGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUDINGEN"
 }

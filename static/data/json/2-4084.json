@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-787",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4073-0/",
+    "item_id": "2-4084",
     "next": "2-4085",
     "pages": "787",
     "prev": "2-4083",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAURZIM, (<i>Géog.</i>) ville de Bohème, dans le\ncercle de même nom, entre Prague &amp; Czaslaw.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAURZIM, (<i>Géog.</i>) ville de Bohème, dans le\ncercle de même nom, entre Prague &amp; Czaslaw.\n \n</p>\n</div>",
     "title": "CAURZIM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAURZIM"
 }

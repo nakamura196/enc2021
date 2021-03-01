@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-580",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3221-0/",
+    "item_id": "2-3218",
     "next": "2-3219",
     "pages": "580",
     "prev": "2-3217",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPION, (<i>Géog.</i>) ville d’Asie dans la Tartarie, \ncapitale du royaume de Tangut. <i>Lon. 122. 30. </i>\n<i>lat. 40. 25</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPION, (<i>Géog.</i>) ville d’Asie dans la Tartarie, \ncapitale du royaume de Tangut. <i>Lon. 122. 30. </i>\n<i>lat. 40. 25</i>.\n \n</p>\n</div>",
     "title": "CAMPION",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMPION"
 }

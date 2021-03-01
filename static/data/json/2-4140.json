@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-796",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4130-0/",
+    "item_id": "2-4140",
     "next": "2-4141",
     "pages": "796",
     "prev": "2-4139",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CECRYPHALE, s. f. (<i>Hist. anc.</i>) sorte de vêtement \nà l’usage des femmes Greques, dont nous n’avons \naucune connoissance.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CECRYPHALE, s. f. (<i>Hist. anc.</i>) sorte de vêtement \nà l’usage des femmes Greques, dont nous n’avons \naucune connoissance.\n \n</p>\n</div>",
     "title": "CECRYPHALE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CECRYPHALE"
 }

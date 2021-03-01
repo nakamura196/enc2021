@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-210",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1052-0/",
+    "item_id": "2-1056",
     "next": "2-1057",
     "pages": "210",
     "prev": "2-1055",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERMIERS <i>&amp;</i> BERMIERES ; c’est ainsi qu’on appelle \ndans les salines, des ouvriers &amp; des ouvrieres\noccupés à tirer &amp; à porter la muire au tripot. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TRIPOT\" title=\"L’Encyclopédie/1re édition/TRIPOT\"><span class=\"sc\">Tripot</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MUIRE_ou_MURE\" title=\"L’Encyclopédie/1re édition/MUIRE ou MURE\"><span class=\"sc\">Muire</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALINES\" title=\"L’Encyclopédie/1re édition/SALINES\"><span class=\"sc\">Saline</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERMIERS <i>&amp;</i> BERMIERES ; c’est ainsi qu’on appelle \ndans les salines, des ouvriers &amp; des ouvrieres\noccupés à tirer &amp; à porter la muire au tripot. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TRIPOT\" title=\"L’Encyclopédie/1re édition/TRIPOT\"><span class=\"sc\">Tripot</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MUIRE_ou_MURE\" title=\"L’Encyclopédie/1re édition/MUIRE ou MURE\"><span class=\"sc\">Muire</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALINES\" title=\"L’Encyclopédie/1re édition/SALINES\"><span class=\"sc\">Saline</span></a>.\n \n</p>\n</div>",
     "title": "BERMIERS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERMIERS"
 }

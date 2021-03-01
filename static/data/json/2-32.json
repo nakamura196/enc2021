@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-34-0/",
+    "item_id": "2-32",
     "next": "2-33",
     "pages": "4",
     "prev": "2-31",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABOLZA, (<i>Géog. anc. &amp; mod.</i>) ville de la\nbasse Hongrie dans l’Eselavonie, entre Passega &amp; Zigeth, vers la Drave. Baudrand croit que c’a été l’ancien \n<i>Mansuetinium</i>, ou <i>pons Mansuetinus</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABOLZA, (<i>Géog. anc. &amp; mod.</i>) ville de la\nbasse Hongrie dans l’Eselavonie, entre Passega &amp; Zigeth, vers la Drave. <span type=\"auteur_p\">Baudrand</span> croit que c’a été l’ancien \n<i>Mansuetinium</i>, ou <i>pons Mansuetinus</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABOLZA, (<i>Géog. anc. &amp; mod.</i>) ville de la\nbasse Hongrie dans l’Eselavonie, entre Passega &amp; Zigeth, vers la Drave. Baudrand croit que c’a été l’ancien \n<i>Mansuetinium</i>, ou <i>pons Mansuetinus</i>.\n \n</p>\n</div>",
     "title": "BABOLZA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BABOLZA"
 }

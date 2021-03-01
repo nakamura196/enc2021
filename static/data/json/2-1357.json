@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1354-0/",
+    "item_id": "2-1357",
     "next": "2-1358",
     "pages": "260",
     "prev": "2-1356",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISACCIA, (<i>Géog.</i>) petite ville d’Italie dans le\nroyaume de Naples. <i>Long. 33. 5. lat. 41. 3</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISACCIA, (<i>Géog.</i>) petite ville d’Italie dans le\nroyaume de Naples. <i>Long. 33. 5. lat. 41. 3</i>.\n \n</p>\n</div>",
     "title": "BISACCIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISACCIA"
 }

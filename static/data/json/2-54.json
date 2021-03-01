@@ -2,14 +2,15 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-6",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-56-0/",
+    "item_id": "2-54",
     "next": "2-55",
     "pages": "6",
     "prev": "2-53",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACCHE, s. m. <i>dans la Poësie Greque &amp; Latine</i>,\nespece de pié composé de trois syllabes ; la premiere\nbreve, &amp; les deux autres longues, comme dans ces\nmots, <i><span class=\"lang-la\" lang=\"la\">ĕgēstās, ăvārī</span></i>.\n</p><p>Le <i>bacche</i> a pris son nom de ce qu’il entroit souvent dans les hymnes composées à l’honneur de Bacchus. Les Romains le nommoient encore <i><span class=\"lang-la\" lang=\"la\">œnotrius, tripodius, saltans</span></i>, &amp; les Grecs <span class=\"lang-grc\" lang=\"grc\">παρίαμϐος</span>. Diom. <i>III. pag. 475</i>. Le <i>bacche</i> peut terminer un vers hexametre. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PI%C3%89_ou_PIED\" title=\"L’Encyclopédie/1re édition/PIÉ ou PIED\"><span class=\"sc\">Pié</span></a>, <i>&amp;c.</i> (<i>G</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACCHE, s. m. <i>dans la Poësie Greque &amp; Latine</i>,\nespece de pié composé de trois syllabes ; la premiere\nbreve, &amp; les deux autres longues, comme dans ces\nmots, <i><span class=\"lang-la\" lang=\"la\">ĕgēstās, ăvārī</span></i>.\n</p><p>Le <i>bacche</i> a pris son nom de ce qu’il entroit souvent dans les hymnes composées à l’honneur de Bacchus. Les Romains le nommoient encore <i><span class=\"lang-la\" lang=\"la\">œnotrius, tripodius, saltans</span></i>, &amp; les Grecs <span class=\"lang-grc\" lang=\"grc\">παρίαμϐος</span>. <span type=\"auteur_p\">Diom.</span> <i>III.<span type=\"proposed\"> pag. </span>475</i>. Le <i>bacche</i> peut terminer un vers hexametre. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PI%C3%89_ou_PIED\" title=\"L’Encyclopédie/1re édition/PIÉ ou PIED\"><span class=\"sc\">Pié</span></a>, <i>&amp;c.</i> (<i>G</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACCHE, s. m. <i>dans la Poësie Greque &amp; Latine</i>,\nespece de pié composé de trois syllabes ; la premiere\nbreve, &amp; les deux autres longues, comme dans ces\nmots, <i><span class=\"lang-la\" lang=\"la\">ĕgēstās, ăvārī</span></i>.\n</p><p>Le <i>bacche</i> a pris son nom de ce qu’il entroit souvent dans les hymnes composées à l’honneur de Bacchus. Les Romains le nommoient encore <i><span class=\"lang-la\" lang=\"la\">œnotrius, tripodius, saltans</span></i>, &amp; les Grecs <span class=\"lang-grc\" lang=\"grc\">παρίαμϐος</span>. Diom. <i>III.<span type=\"proposed\"> pag. </span>475</i>. Le <i>bacche</i> peut terminer un vers hexametre. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PI%C3%89_ou_PIED\" title=\"L’Encyclopédie/1re édition/PIÉ ou PIED\"><span class=\"sc\">Pié</span></a>, <i>&amp;c.</i> (<i>G</i>)\n \n</p>\n</div>",
     "title": "BACCHE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACCHE"
 }

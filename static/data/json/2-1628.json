@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-314",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1627-0/",
+    "item_id": "2-1628",
     "next": "2-1629",
     "pages": "314",
     "prev": "2-1627",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLCANE, (<i>Géog.</i>) l’une des îles des Larrons\nen Asie ; il y a un volcan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLCANE, (<i>Géog.</i>) l’une des îles des Larrons\nen Asie ; il y a un volcan.\n \n</p>\n</div>",
     "title": "BOLCANE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLCANE"
 }

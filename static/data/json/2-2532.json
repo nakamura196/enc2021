@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-458",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2535-0/",
+    "item_id": "2-2532",
     "next": "2-2533",
     "pages": "458",
     "prev": "2-2531",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCKOR, ville d’Asie, dans l’Indostan, capitale \nde la province du même nom, dans une île que forme \nl’Inde. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCKOR, ville d’Asie, dans l’Indostan, capitale \nde la province du même nom, dans une île que forme \nl’Inde. \n \n</p>\n</div>",
     "title": "BUCKOR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCKOR"
 }

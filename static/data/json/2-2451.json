@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-448",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2454-0/",
+    "item_id": "2-2451",
     "next": "2-2452",
     "pages": "448",
     "prev": "2-2450",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULINGEN, (<i>Géog.</i>) petite ville d’Allemagne,\ndans la forêt Noire, appartenante à la maison d’Autriche.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULINGEN, (<i>Géog.</i>) petite ville d’Allemagne,\ndans la forêt Noire, appartenante à la maison d’Autriche.\n \n</p>\n</div>",
     "title": "BRULINGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRULINGEN"
 }

@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-242",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1198-0/",
+    "item_id": "2-1201",
     "next": "2-1202",
     "pages": "242",
     "prev": "2-1200",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIDASSOA (<i>Géog.</i>) riviere d’Espagne sur les\nfrontieres de France, qui prend sa source dans les\nPyrénées, &amp; se jette dans la mer entre Andaye &amp;\nFontarabie. Cette riviere est commune à la France\n&amp; à l’Espagne, depuis la convention de Louis XII.\n&amp; Ferdinand le catholique ; c’est elle qui forme l’île\ndes Faisans, appellée <i>ile de la Conférence</i>, depuis celle\nque Louis XIV. &amp; Philippe IV. y eurent ensemble.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIDASSOA (<i>Géog.</i>) riviere d’Espagne sur les\nfrontieres de France, qui prend sa source dans les\nPyrénées, &amp; se jette dans la mer entre Andaye &amp;\nFontarabie. Cette riviere est commune à la France\n&amp; à l’Espagne, depuis la convention de Louis XII.\n&amp; Ferdinand le catholique ; c’est elle qui forme l’île\ndes Faisans, appellée <i>ile de la Conférence</i>, depuis celle\nque Louis XIV. &amp; <span type=\"auteur_p\">Philippe</span> IV. y eurent ensemble.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIDASSOA (<i>Géog.</i>) riviere d’Espagne sur les\nfrontieres de France, qui prend sa source dans les\nPyrénées, &amp; se jette dans la mer entre Andaye &amp;\nFontarabie. Cette riviere est commune à la France\n&amp; à l’Espagne, depuis la convention de Louis XII.\n&amp; Ferdinand le catholique ; c’est elle qui forme l’île\ndes Faisans, appellée <i>ile de la Conférence</i>, depuis celle\nque Louis XIV. &amp; Philippe IV. y eurent ensemble.\n \n</p>\n</div>",
     "title": "BIDASSOA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIDASSOA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-278",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1467-0/",
+    "item_id": "2-1469",
     "next": "2-1470",
     "pages": "278",
     "prev": "2-1468",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANCKENHEIM, (<i>Géograph.</i>) petite ville &amp;\ncomté d’Allemagne, sur la riviere d’Ahr.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANCKENHEIM, (<i>Géograph.</i>) petite ville &amp;\ncomté d’Allemagne, sur la riviere d’Ahr.\n \n</p>\n</div>",
     "title": "BLANCKENHEIM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLANCKENHEIM"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-390",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2060-0/",
+    "item_id": "2-2056",
     "next": "2-2057",
     "pages": "390",
     "prev": "2-2055",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRACHBANT, (<i>Géog.</i>) on nomme ainsi un petit \ndistrict du Hainaut, où se trouvent les villes de\nCondé &amp; de Leuse.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRACHBANT, (<i>Géog.</i>) on nomme ainsi un petit \ndistrict du Hainaut, où se trouvent les villes de\nCondé &amp; de Leuse.\n \n</p>\n</div>",
     "title": "BRACHBANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRACHBANT"
 }

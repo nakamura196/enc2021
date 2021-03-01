@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-568",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3137-0/",
+    "item_id": "2-3135",
     "next": "2-3136",
     "pages": "568",
     "prev": "2-3134",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMARASSE, (<i>Géog.</i>) ville d’Espagne en Catalogne, \ndans le territoire de Lérida.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMARASSE, (<i>Géog.</i>) ville d’Espagne en Catalogne, \ndans le territoire de Lérida.\n \n</p>\n</div>",
     "title": "CAMARASSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMARASSE"
 }

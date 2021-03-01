@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-475",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2726-0/",
+    "item_id": "2-2726",
     "next": "2-2727",
     "pages": "475",
     "prev": "2-2725",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAAGUA-CUBA, (<i>Hist. nat. bot.</i>) petit arbre\ndroit peu vigoureux, non branchu, couvert au sommet \nd’un grand nombre de feuilles larges d’un pié &amp;\ndavantage, longues d’un pié &amp; demi, divisées par\ndes nervures douces au toucher, velues, &amp; plus vertes \nen-dessus qu’en-dessous. Il porte de petites fleurs\ndisposées en ombelle, semblables à celles du tilleul,\nblanches, à cinq pétales, avec un ovaire jaune au\nmilieu : elles ont aussi l’odeur des fleurs du tilleul.\nL’écorce de l’arbre est cendrée, &amp; le bois en est cassant.\nSon fruit est noir quand il est mûr, &amp; les oiseaux\ns’en nourrissent. Ray ne dit rien de ses vertus médicinales.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAAGUA-CUBA, (<i>Hist. nat. bot.</i>) petit arbre\ndroit peu vigoureux, non branchu, couvert au sommet \nd’un grand nombre de feuilles larges d’un pié &amp;\ndavantage, longues d’un pié &amp; demi, divisées par\ndes nervures douces au toucher, velues, &amp; plus vertes \nen-dessus qu’en-dessous. Il porte de petites fleurs\ndisposées en ombelle, semblables à celles du tilleul,\nblanches, à cinq pétales, avec un ovaire jaune au\nmilieu : elles ont aussi l’odeur des fleurs du tilleul.\nL’écorce de l’arbre est cendrée, &amp; le bois en est cassant.\nSon fruit est noir quand il est mûr, &amp; les oiseaux\ns’en nourrissent. <span type=\"auteur_p\">Ray</span> ne dit rien de ses vertus médicinales.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAAGUA-CUBA, (<i>Hist. nat. bot.</i>) petit arbre\ndroit peu vigoureux, non branchu, couvert au sommet \nd’un grand nombre de feuilles larges d’un pié &amp;\ndavantage, longues d’un pié &amp; demi, divisées par\ndes nervures douces au toucher, velues, &amp; plus vertes \nen-dessus qu’en-dessous. Il porte de petites fleurs\ndisposées en ombelle, semblables à celles du tilleul,\nblanches, à cinq pétales, avec un ovaire jaune au\nmilieu : elles ont aussi l’odeur des fleurs du tilleul.\nL’écorce de l’arbre est cendrée, &amp; le bois en est cassant.\nSon fruit est noir quand il est mûr, &amp; les oiseaux\ns’en nourrissent. Ray ne dit rien de ses vertus médicinales.\n \n</p>\n</div>",
     "title": "CAAGUA-CUBA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAAGUA-CUBA"
 }

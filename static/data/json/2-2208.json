@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2213-0/",
+    "item_id": "2-2208",
     "next": "2-2209",
     "pages": "412",
     "prev": "2-2207",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESCIA, (<i>Géog.</i>) capitale du Brescian, sous la\ndomination de Venise, sur la riviere de Garza ; elle\nest fortifiée &amp; défendue par une citadelle : on y fabrique \ntoutes sortes d’armes. <i>Long. 27. 40. lat. 45.  31</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESCIA, (<i>Géog.</i>) capitale du Brescian, sous la\ndomination de Venise, sur la riviere de Garza ; elle\nest fortifiée &amp; défendue par une citadelle : on y fabrique \ntoutes sortes d’armes. <i>Long. 27. 40. lat. 45.  31</i>.\n \n</p>\n</div>",
     "title": "BRESCIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESCIA"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-201",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-952-0/",
+    "item_id": "2-956",
     "next": "2-957",
     "pages": "201",
     "prev": "2-955",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDIS, (<i>Mythol.</i>) nom que les peuples de\nThrace donnoient à Diane. Les uns prétendent qu’ils\nentendoient par ce mot <i>la terre ;</i> d’autres <i>la lune</i>. Les\nfêtes qu’on célébroit en son honneur différoient peu\ndes bacchanales ; elles précédoient de quelques jours\nles panathénées, &amp; elles se faisoient dans le Pyrée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDIS, (<i>Mythol.</i>) nom que les peuples de\nThrace donnoient à Diane. Les uns prétendent qu’ils\nentendoient par ce mot <i>la terre ;</i> d’autres <i>la lune</i>. Les\nfêtes qu’on célébroit en son honneur différoient peu\ndes bacchanales ; elles précédoient de quelques jours\nles panathénées, &amp; elles se faisoient dans le Pyrée.\n \n</p>\n</div>",
     "title": "BENDIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENDIS"
 }

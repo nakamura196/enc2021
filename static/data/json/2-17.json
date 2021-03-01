@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-3",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-19-0/",
+    "item_id": "2-17",
     "next": "2-18",
     "pages": "3",
     "prev": "2-16",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAAL-THAMAR, (<i>Géog. sainte.</i>) plaine dans la\ntribu de Benjamin, où toutes les tribus s’assemblerent \npour venger l’outrage fait à la femme d’un Lévite de la tribu d’Ephraïm. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAAL-THAMAR, (<i>Géog. sainte.</i>) plaine dans la\ntribu de Benjamin, où toutes les tribus s’assemblerent \npour venger l’outrage fait à la femme d’un Lévite de la tribu d’Ephraïm. \n</p>\n</div>",
     "title": "BAAL-THAMAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAAL-THAMAR"
 }

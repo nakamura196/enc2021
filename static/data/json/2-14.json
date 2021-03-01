@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-3",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-16-0/",
+    "item_id": "2-14",
     "next": "2-15",
     "pages": "3",
     "prev": "2-13",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAALITES, s. m. pl. (<i>Hist. anc.</i>) secte d’impies,\nparmi le peuple d’Israel. Ils adoroient Baal, ou l’idole \nde Bel. Nous lisons dans le troisieme livre des\nRois, qu’Achab &amp; Jesabel sacrifioient tous les jours\nà cette idole ; &amp; qu’Elie ayant convaincu de superstition \nles prêtres de ce faux dieu par un miracle qu’il\nfit à la vûe d’Achab &amp; du peuple, ces sacrificateurs\nau nombre de quatre cens cinquante furent tous mis\nà mort. <i>Ancien Testament, III. liv. des Rois, ch. xviij. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAAL_ou_BEL\" title=\"L’Encyclopédie/1re édition/BAAL ou BEL\"><span class=\"sc\">Baal</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAALITES, s. m. pl. (<i>Hist. anc.</i>) secte d’impies,\nparmi le peuple d’Israel. Ils adoroient Baal, ou l’idole \nde Bel. Nous lisons dans le troisieme<span type=\"proposed\"> livre </span>des\nRois, qu’Achab &amp; Jesabel sacrifioient tous les jours\nà cette idole ; &amp; qu’Elie ayant convaincu de superstition \nles prêtres de ce faux dieu par un miracle qu’il\nfit à la vûe d’Achab &amp; du peuple, ces sacrificateurs\nau nombre de quatre cens cinquante furent tous mis\nà mort. <i>Ancien Testament, III.<span type=\"proposed\"> liv. </span>des Rois,<span type=\"proposed\"> ch. </span>xviij. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAAL_ou_BEL\" title=\"L’Encyclopédie/1re édition/BAAL ou BEL\"><span class=\"sc\">Baal</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BAALITES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAALITES"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-259",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1338-0/",
+    "item_id": "2-1341",
     "next": "2-1342",
     "pages": "259",
     "prev": "2-1340",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIORKO, (<i>Géog.</i>) île dans le golfe de Finlande, \nvis-à-vis de l’embouchure de la Niera. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIORKO, (<i>Géog.</i>) île dans le golfe de Finlande, \nvis-à-vis de l’embouchure de la Niera. \n \n</p>\n</div>",
     "title": "BIORKO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIORKO"
 }

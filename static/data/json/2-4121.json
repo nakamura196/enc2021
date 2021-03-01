@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4110-0/",
+    "item_id": "2-4121",
     "next": "2-4122",
     "pages": "794",
     "prev": "2-4120",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZBAT, (<i>Géog.</i>) ville ancienne d’Afrique au\nroyaume de Tunis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZBAT, (<i>Géog.</i>) ville ancienne d’Afrique au\nroyaume de Tunis.\n \n</p>\n</div>",
     "title": "CAZBAT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAZBAT"
 }

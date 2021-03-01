@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-241",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1184-0/",
+    "item_id": "2-1188",
     "next": "2-1189",
     "pages": "241",
     "prev": "2-1187",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BICARS, s. m. pl. (<i>Hist. mod.</i>) pénitens Indiens \nqui passoient toute leur vie nuds, laissoient \ncroître scrupuleusement leurs cheveux &amp; leurs ongles, \n&amp; portoient partout une écuelle de terre pendue \nà leur cou : lorsqu’ils étoient pressés de la faim \nils s’arrêtoient aux portes, &amp; on remplissoit leur \nécuelle de riz cuit. Ces especes de gueux étoient très-communs \ndans l’Inde pendant le <span class=\"sc\">ix</span><sup style=\"font-size:70%\">e</sup> siecle. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BICARS, s. m. pl. (<i>Hist. mod.</i>) pénitens Indiens \nqui passoient toute leur vie nuds, laissoient \ncroître scrupuleusement leurs cheveux &amp; leurs ongles, \n&amp; portoient partout une écuelle de terre pendue \nà leur cou : lorsqu’ils étoient pressés de la faim \nils s’arrêtoient aux portes, &amp; on remplissoit leur \nécuelle de riz cuit. Ces especes de gueux étoient très-communs \ndans l’Inde pendant le <span class=\"sc\">ix</span><sup style=\"font-size:70%\">e</sup> siecle. \n \n</p>\n</div>",
     "title": "BICARS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BICARS"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2003-0/",
+    "item_id": "2-1995",
     "next": "2-1996",
     "pages": "380",
     "prev": "2-1994",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOUTARGUE <i>ou</i> POUTARGUE, (<i>Commerce</i>) \nmets fort en usage en Italie &amp; en Provence ; ce\nsont les œufs du mulet préparés de la maniere suivante : \non prend tous les œufs de ce poisson, on les\nmet dans un plat &amp; on les saupoudre de sel : on les\ncouvre pendant quatre ou cinq heures afin que le sel\ny pénetre, après quoi on les met en presse entre\ndeux planches. On les lave &amp; on les fait sécher au\nsoleil pendant quinze jours, ou on les fume. On mange \nla <i>boutargue</i> avec de l’huile &amp; du citron. Il s’en\nfait beaucoup à Tunis, en Barbarie, &amp; à Martegue\nen Provence.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOUTARGUE <i>ou</i> POUTARGUE, (<i>Commerce</i>) \nmets fort en usage en Italie &amp; en Provence ; ce\nsont les œufs du mulet préparés de la maniere suivante : \non prend tous les œufs de ce poisson, on les\nmet dans un plat &amp; on les saupoudre de sel : on les\ncouvre pendant quatre ou cinq heures afin que le sel\ny pénetre, après quoi on les met en presse entre\ndeux planches. On les lave &amp; on les fait sécher au\nsoleil pendant quinze jours, ou on les fume. On mange \nla <i>boutargue</i> avec de l’huile &amp; du citron. Il s’en\nfait beaucoup à Tunis, en Barbarie, &amp; à Martegue\nen Provence.\n \n</p>\n</div>",
     "title": "BOUTARGUE ou POUTARGUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTARGUE_ou_POUTARGUE"
 }

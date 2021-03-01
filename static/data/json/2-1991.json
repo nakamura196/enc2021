@@ -2,7 +2,8 @@
     "authors": [
         "Louis de Cahusac"
     ],
-    "item_id": "2-379",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1999-0/",
+    "item_id": "2-1991",
     "next": "2-1992",
     "pages": "379",
     "prev": "2-1990",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTADE, s. f. on donnoit ce nom autrefois à\ndes petits ballets, qu’on exécutoit, ou qu’on paroissoit \nexécuter impromptu. Ils étoient composés pour\nl’ordinaire de quatre entrées, d’un récit, &amp; d’une entrée \ngénérale ; c’étoit le grand ballet en raccourci :\n<i>Idée des spectacles anciens &amp; nouveaux de l’abbé de Pure,  imprimé à Paris en 1667. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALLET\" title=\"L’Encyclopédie/1re édition/BALLET\"><span class=\"sc\">Ballet</span></a>. (<i>B</i>) \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTADE, s. f. on donnoit ce nom autrefois à\ndes petits ballets, qu’on exécutoit, ou qu’on paroissoit \nexécuter impromptu. Ils étoient composés pour\nl’ordinaire de quatre entrées, d’un récit, &amp; d’une entrée \ngénérale ; c’étoit le grand ballet en raccourci :\n<i>Idée des spectacles anciens &amp; nouveaux de l’abbé de Pure,  imprimé à Paris en 1667. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALLET\" title=\"L’Encyclopédie/1re édition/BALLET\"><span class=\"sc\">Ballet</span></a>. (<i>B</i>) \n</p>\n</div>",
     "title": "BOUTADE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTADE"
 }

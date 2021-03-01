@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-636",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3452-0/",
+    "item_id": "2-3450",
     "next": "2-3451",
     "pages": "636",
     "prev": "2-3449",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPO-BLANCO, (<i>Géog.</i>) cap de l’Amérique,\ndans la mer du Sud, à la partie occidentale de l’isthme \nde Panama.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPO-BLANCO, (<i>Géog.</i>) cap de l’Amérique,\ndans la mer du Sud, à la<span type=\"proposed\"> partie </span>occidentale de l’isthme \nde Panama.\n \n</p>\n</div>",
     "title": "CAPO-BLANCO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPO-BLANCO"
 }

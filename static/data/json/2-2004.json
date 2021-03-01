@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2008-4/",
+    "item_id": "2-2004",
     "next": "2-2005",
     "pages": "380",
     "prev": "2-2003",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boute-en-train</span>, <i>en terme de haras</i>, est un cheval \nentier dont on se sert pour mettre les jumens en\nchaleur, ou pour découvrir si elles sont en état de se\nlaisser saillir. Il faut qu’un <i>boute-en-train</i> hennisse souvent.\n(<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boute-en-train</span>, <i>en terme de haras</i>, est un cheval \nentier dont on se sert pour mettre les jumens en\nchaleur, ou pour découvrir si elles sont en état de se\nlaisser saillir. Il faut qu’un <i>boute-en-train</i> hennisse souvent.\n(<i>V</i>)\n \n</p>\n</div>",
     "title": "BOUTE-EN-TRAIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTE-EN-TRAIN"
 }

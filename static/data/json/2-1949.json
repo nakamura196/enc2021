@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-367",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1956-0/",
+    "item_id": "2-1949",
     "next": "2-1950",
     "pages": "367",
     "prev": "2-1948",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDILLON, s. m. (<i>Tonnelier.</i>) bois de chêne\ndébité, refendu, &amp; propre à faire des douves de tonneau.\n<i>Voyez</i> <span class=\"sc\">Mairin</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDILLON, s. m. (<i>Tonnelier.</i>) bois de chêne\ndébité, refendu, &amp; propre à faire des douves de tonneau.\n<i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Mairin</span>.\n \n</p>\n</div>",
     "title": "BOURDILLON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURDILLON"
 }

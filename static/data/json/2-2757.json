@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-488",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2757-0/",
+    "item_id": "2-2757",
     "next": "2-2758",
     "pages": "488",
     "prev": "2-2756",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABIDOS <i>ou</i> CAVIDOS, s. m. (<i>Commerce.</i>) sorte\nde mesure de longueur, dont on se sert en Portugal\npour mesurer les étoffes, les toiles, <i>&amp;c.</i>\n</p><p>Le <i>cabidos</i>, ainsi que l’aune de Hollande ou de Nuremberg, \ncontient 2 piés 11 lignes, qui font quatre\nseptiemes d’aune de Paris. L’aune de Paris fait un <i>cabidos</i> \n&amp; trois quarts de <i>cabidos ;</i> de sorte que sept <i>cabidos</i> \nsont quatre aunes de Paris. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AUNE\" title=\"L’Encyclopédie/1re édition/AUNE\"><span class=\"sc\">Aune</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABIDOS <i>ou</i> CAVIDOS, s. m. (<i>Commerce.</i>) sorte\nde mesure de longueur, dont on se sert en Portugal\npour mesurer les étoffes, les toiles, <i>&amp;c.</i>\n</p><p>Le <i>cabidos</i>, ainsi que l’aune de Hollande ou de Nuremberg, \ncontient 2 piés 11 lignes, qui font quatre\nseptiemes d’aune de Paris. L’aune de Paris fait un <i>cabidos</i> \n&amp; trois quarts de <i>cabidos ;</i> de sorte que sept <i>cabidos</i> \nsont quatre aunes de Paris. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AUNE\" title=\"L’Encyclopédie/1re édition/AUNE\"><span class=\"sc\">Aune</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CABIDOS ou CAVIDOS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABIDOS_ou_CAVIDOS"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-644",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3520-0/",
+    "item_id": "2-3519",
     "next": "2-3520",
     "pages": "644",
     "prev": "2-3518",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACATAY, (<i>Géog.</i>) grand pays au septentrion \nde l’Asie, habité par plusieurs nations différentes : on l’appelle aussi <i>Khita</i>. Il ne faut point le confondre \navec le Catay, qui n’est autre chose que la\nChine. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHINE\" title=\"L’Encyclopédie/1re édition/CHINE\"><span class=\"sc\">Chine</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHINOIS\" title=\"L’Encyclopédie/1re édition/CHINOIS\"><span class=\"sc\">Chinois</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACATAY, (<i>Géog.</i>) grand pays au septentrion \nde l’Asie, habité par plusieurs nations différentes : on l’appelle aussi <i>Khita</i>. Il ne faut point le confondre \navec le Catay, qui n’est autre chose que la\nChine. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHINE\" title=\"L’Encyclopédie/1re édition/CHINE\"><span class=\"sc\">Chine</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHINOIS\" title=\"L’Encyclopédie/1re édition/CHINOIS\"><span class=\"sc\">Chinois</span></a>.\n \n</p>\n</div>",
     "title": "CARACATAY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARACATAY"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-205",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-976-0/",
+    "item_id": "2-980",
     "next": "2-981",
     "pages": "205",
     "prev": "2-979",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BENITIER, s. m. <i>en Architecture</i>, est un vase de\nmarbre de figure ronde ou ovale, &amp; isolé, porté sur\nune espece de balustre ; ou une coquille sur quelque\nconsole, &amp; attachée à un pilier à l’entrée d’une église.\n(<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BENITIER, s. m. <i>en Architecture</i>, est un vase de\nmarbre de figure ronde ou ovale, &amp; isolé, porté sur\nune espece de balustre ; ou une coquille sur quelque\nconsole, &amp; attachée à un pilier à l’entrée d’une église.\n(<i>P</i>)\n \n</p>\n</div>",
     "title": "BENITIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENITIER"
 }

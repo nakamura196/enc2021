@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-511",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2847-0/",
+    "item_id": "2-2846",
     "next": "2-2847",
     "pages": "511",
     "prev": "2-2845",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CADEAU, s. m. (<i>Art d’écrire.</i>) grand trait de\nplume, dont les maîtres d’Ecriture embellissent les\nmarges, &amp; le haut &amp; le bas des pages, &amp; qu’ils font\nexécuter à leurs éleves pour leur donner de la fermeté \n&amp; de la hardiesse dans la main.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CADEAU, s. m. (<i>Art d’écrire.</i>) grand trait de\nplume, dont les maîtres d’Ecriture embellissent les\nmarges, &amp; le haut &amp; le bas des pages, &amp; qu’ils font\nexécuter à leurs éleves pour leur donner de la fermeté \n&amp; de la hardiesse dans la main.\n \n</p>\n</div>",
     "title": "CADEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADEAU"
 }

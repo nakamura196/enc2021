@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-67",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-362-0/",
+    "item_id": "2-354",
     "next": "2-355",
     "pages": "67",
     "prev": "2-353",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARANGE, s. f. c’est ainsi qu’on appelle dans\nles <i>Salines</i>, un mur d’environ trois piés de hauteur,\nplacé en dedans du fourneau, entre les murs sur lesquels \nla poelle est posée : il sert à la séparation des bois\n&amp; des braises.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARANGE, s. f. c’est ainsi qu’on appelle dans\nles <i>Salines</i>, un mur d’environ trois piés de hauteur,\nplacé en dedans du fourneau, entre les murs sur lesquels \nla poelle est posée : il sert à la séparation des bois\n&amp; des braises.\n \n</p>\n</div>",
     "title": "BARANGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARANGE"
 }

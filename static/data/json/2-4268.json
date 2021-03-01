@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-833",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4258-0/",
+    "item_id": "2-4268",
     "next": "2-4269",
     "pages": "833",
     "prev": "2-4267",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERATOGLOSSE, adj. m. pris subst. (<i>en Anatomie.</i>) nom d’une paire de muscles de la langue, qui\nviennent de la partie supérieure de la grande corne\nde l’os hyoide, &amp; se terminent à la partie postérieure\n&amp; latérale de la langue. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERATOGLOSSE, adj. m. pris subst. (<i>en Anatomie.</i>) nom d’une paire de muscles de la langue, qui\nviennent de la<span type=\"proposed\"> partie </span>supérieure de la grande corne\nde l’os hyoide, &amp; se terminent à la<span type=\"proposed\"> partie </span>postérieure\n&amp; latérale de la langue. (<i>L</i>)\n \n</p>\n</div>",
     "title": "CERATOGLOSSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERATOGLOSSE"
 }

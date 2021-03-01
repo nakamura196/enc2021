@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-536",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2943-0/",
+    "item_id": "2-2942",
     "next": "2-2943",
     "pages": "536",
     "prev": "2-2941",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAINITO, s. m. (<i>Hist. nat. bot.</i>) genre de plante\nà fleur monopétale, en cloche ouverte &amp; découpée :\nil s’éleve du calice un pistil qui devient dans la suite\nun fruit mou, charnu, rond, ou de la forme d’une\nolive, contenant un ou plusieurs noyaux qui renferment \nchacun une amande. Plumier, <i>Nova plantar. </i>\n<i>Amer. genera. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAINITO, s. m. (<i>Hist. nat. bot.</i>) genre de plante\nà fleur monopétale, en cloche ouverte &amp; découpée :\nil s’éleve du calice un pistil qui devient dans la suite\nun fruit mou, charnu, rond, ou de la forme d’une\nolive, contenant un ou plusieurs noyaux qui renferment \nchacun une amande. <span type=\"auteur_p\">Plumier</span>, <i>Nova plantar. </i>\n<i>Amer. genera. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAINITO, s. m. (<i>Hist. nat. bot.</i>) genre de plante\nà fleur monopétale, en cloche ouverte &amp; découpée :\nil s’éleve du calice un pistil qui devient dans la suite\nun fruit mou, charnu, rond, ou de la forme d’une\nolive, contenant un ou plusieurs noyaux qui renferment \nchacun une amande. Plumier, <i>Nova plantar. </i>\n<i>Amer. genera. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "CAINITO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAINITO"
 }

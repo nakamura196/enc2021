@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-315",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1640-0/",
+    "item_id": "2-1641",
     "next": "2-1642",
     "pages": "315",
     "prev": "2-1640",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLZANO <i>ou</i> BOZZEN, (<i>Géog.</i>) ville d’Allemagne \nau comté de Tirol, sur la riviere d’Eisach,\nproche l’Adige. <i>Long. 28. 46. lat. 46. 42</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLZANO <i>ou</i> BOZZEN, (<i>Géog.</i>) ville d’Allemagne \nau comté de Tirol, sur la riviere d’Eisach,\nproche l’Adige. <i>Long. 28. 46. lat. 46. 42</i>.\n \n</p>\n</div>",
     "title": "BOLZANO ou BOZZEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLZANO_ou_BOZZEN"
 }

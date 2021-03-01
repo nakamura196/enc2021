@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2205-0/",
+    "item_id": "2-2200",
     "next": "2-2201",
     "pages": "412",
     "prev": "2-2199",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENTA, (<i>Géog.</i>) riviere qui prend sa source\ndans l’évêché de Trente, &amp; qui se jette dans le golfe\nde Venise, au-dessous de Padoue.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENTA, (<i>Géog.</i>) riviere qui prend sa source\ndans l’évêché de Trente, &amp; qui se jette dans le golfe\nde Venise, au-dessous de Padoue.\n \n</p>\n</div>",
     "title": "BRENTA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRENTA"
 }

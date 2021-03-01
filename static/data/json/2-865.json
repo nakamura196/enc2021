@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-193",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-861-0/",
+    "item_id": "2-865",
     "next": "2-866",
     "pages": "193",
     "prev": "2-864",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELCHITE, (<i>Géog.</i>) petite ville d’Espagne, au \nroyaume d’Arragon, sur la riviere d’Almonazir. <i>Long.  17. lat. 41. 19</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELCHITE, (<i>Géog.</i>) petite ville d’Espagne, au \nroyaume d’Arragon, sur la riviere d’Almonazir. <i>Long.  17. lat. 41. 19</i>. \n \n</p>\n</div>",
     "title": "BELCHITE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELCHITE"
 }

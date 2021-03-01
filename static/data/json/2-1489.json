@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-280",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1487-0/",
+    "item_id": "2-1489",
     "next": "2-1490",
     "pages": "280",
     "prev": "2-1488",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLAYER, s. m. (<i>terme de Coûtumes.</i>) est un seigneur \nhaut-justicier qui a droit de blairie. (<i>H</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLAYER, s. m. (<i>terme de Coûtumes.</i>) est un seigneur \nhaut-justicier qui a droit de blairie. (<i>H</i>) \n \n</p>\n</div>",
     "title": "BLAYER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLAYER"
 }

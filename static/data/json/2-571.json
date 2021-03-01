@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-120",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-580-4/",
+    "item_id": "2-571",
     "next": "2-572",
     "pages": "120",
     "prev": "2-570",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basse de Viole</span>, instrument de Musique. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLE\" title=\"L’Encyclopédie/1re édition/VIOLE\"><span class=\"sc\">Viole</span></a>, &amp; la table du rapport &amp; de l’étendue des\ninstrumens de Musique. Cet instrument a sept cordes,\ndont la plus grosse à vuide est à l’unisson du <i>la</i> du ravalement \ndes clavecins, ou du <i>la</i> du 16 pié. La plus\npetite ou la chanterelle, est à l’unisson du <i>ré</i> qui suit\nimmédiatement la clef de <i>c sol ut</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basse de Viole</span>, instrument de Musique. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLE\" title=\"L’Encyclopédie/1re édition/VIOLE\"><span class=\"sc\">Viole</span></a>, &amp; la table du rapport &amp; de l’étendue des\ninstrumens de Musique. Cet instrument a sept cordes,\ndont la plus grosse à vuide est à l’unisson du <i>la</i> du ravalement \ndes clavecins, ou du <i>la</i> du 16 pié. La plus\npetite ou la chanterelle, est à l’unisson du <i>ré</i> qui suit\nimmédiatement la clef de <i>c sol ut</i>.\n \n</p>\n</div>",
     "title": "BASSE DE VIOLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASSE_DE_VIOLE"
 }

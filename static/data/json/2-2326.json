@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2328-3/",
+    "item_id": "2-2326",
     "next": "2-2327",
     "pages": "424",
     "prev": "2-2325",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Brise-vents</span>, s. m. (<i>Jard.</i>) est une clôture faite\navec des paillassons ou des pieux mis le long d’une\ncouche garnie de paille longue bien liée avec de l’osier,\npour garantir des vents froids les plantes qu’on\ny a semées. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Brise-vents</span>, s. m. (<i>Jard.</i>) est une clôture faite\navec des paillassons ou des pieux mis le long d’une\ncouche garnie de paille longue bien liée avec de l’osier,\npour garantir des vents froids les plantes qu’on\ny a semées. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BRISE-VENTS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISE-VENTS"
 }

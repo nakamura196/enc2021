@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-671",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3541-0/",
+    "item_id": "2-3540",
     "next": "2-3541",
     "pages": "671",
     "prev": "2-3539",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARA-KALPACKS, (<i>Géog.</i>) peuple qui habite\nen Asie, dans le Turquestan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARA-KALPACKS, (<i>Géog.</i>) peuple qui habite\nen Asie, dans le Turquestan.\n \n</p>\n</div>",
     "title": "CARA-KALPACKS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARA-KALPACKS"
 }

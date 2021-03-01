@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-581",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3226-0/",
+    "item_id": "2-3223",
     "next": "2-3224",
     "pages": "581",
     "prev": "2-3222",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPREDON, (<i>Géog.</i>) ville d’Espagne, dans la\nCatalogne, au pié des Pyrénées.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMPREDON, (<i>Géog.</i>) ville d’Espagne, dans la\nCatalogne, au pié des Pyrénées.\n \n</p>\n</div>",
     "title": "CAMPREDON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMPREDON"
 }

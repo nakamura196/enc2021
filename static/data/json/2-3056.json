@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-559",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3057-0/",
+    "item_id": "2-3056",
     "next": "2-3057",
     "pages": "559",
     "prev": "2-3055",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CALIENDRUM</i>, (<i>Hist. anc.</i>) tour de cheveux\nque les femmes Romaines ajoûtoient à leur chevelure \nnaturelle, afin de donner plus de longueur à leurs\ntresses.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CALIENDRUM</i>, (<i>Hist. anc.</i>) tour de cheveux\nque les femmes Romaines ajoûtoient à leur chevelure \nnaturelle, afin de donner plus de longueur à leurs\ntresses.\n \n</p>\n</div>",
     "title": "CALIENDRUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALIENDRUM"
 }

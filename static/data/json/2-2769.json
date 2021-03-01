@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-494",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2769-0/",
+    "item_id": "2-2769",
     "next": "2-2770",
     "pages": "494",
     "prev": "2-2768",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABLER, <i>terme de Boutonnier ;</i> c’est assembler\nplusieurs fils ou cordons au moyen d’un instrument\nnommé <i>sabot</i>, &amp; les tordre avec un roüet pour en\nformer un cordon plus gros. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SABOT\" title=\"L’Encyclopédie/1re édition/SABOT\"><span class=\"sc\">Sabot</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABLER, <i>terme de Boutonnier ;</i> c’est assembler\nplusieurs fils ou cordons au moyen d’un instrument\nnommé <i>sabot</i>, &amp; les tordre avec un roüet pour en\nformer un cordon plus gros. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SABOT\" title=\"L’Encyclopédie/1re édition/SABOT\"><span class=\"sc\">Sabot</span></a>.\n \n</p>\n</div>",
     "title": "CABLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABLER"
 }

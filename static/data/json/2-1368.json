@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1365-0/",
+    "item_id": "2-1368",
     "next": "2-1369",
     "pages": "260",
     "prev": "2-1367",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHMARCK, (<i>Géog.</i>) petite ville de la Poméranie, \nprès de Stargard.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHMARCK, (<i>Géog.</i>) petite ville de la Poméranie, \nprès de Stargard.\n \n</p>\n</div>",
     "title": "BISCHMARCK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISCHMARCK"
 }

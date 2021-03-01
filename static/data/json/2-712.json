@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-163",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-709-0/",
+    "item_id": "2-712",
     "next": "2-713",
     "pages": "163",
     "prev": "2-711",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAUHINE, <i>bauhinia</i>, genre de plante dont le nom\na été dérivé de celui de Jean &amp; Gaspar Bauhin ; la\nfleur des plantes de ce genre est polypétale irréguliere,\ncomposée pour l’ordinaire de cinq pétales tous\nrangés du même côté ; il s’éleve du fond du calice un\npistil recourbé &amp; entouré d’étamines aussi recourbées ; \nil devient dans la suite une silique remplie de\nsemences qui ont la forme d’un rein. Plumier, <i>nova  plant. Americ. gen. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAUHINE, <i>bauhinia</i>, genre de plante dont le nom\na été dérivé de celui de Jean &amp; Gaspar Bauhin ; la\nfleur des plantes de ce genre est polypétale irréguliere,\ncomposée pour l’ordinaire de cinq pétales tous\nrangés du même côté ; il s’éleve du fond du calice un\npistil recourbé &amp; entouré d’étamines aussi recourbées ; \nil devient dans la suite une silique remplie de\nsemences qui ont la forme d’un rein. <span type=\"auteur_p\">Plumier</span>, <i>nova  plant. Americ. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAUHINE, <i>bauhinia</i>, genre de plante dont le nom\na été dérivé de celui de Jean &amp; Gaspar Bauhin ; la\nfleur des plantes de ce genre est polypétale irréguliere,\ncomposée pour l’ordinaire de cinq pétales tous\nrangés du même côté ; il s’éleve du fond du calice un\npistil recourbé &amp; entouré d’étamines aussi recourbées ; \nil devient dans la suite une silique remplie de\nsemences qui ont la forme d’un rein. Plumier, <i>nova  plant. Americ. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BAUHINE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAUHINE"
 }

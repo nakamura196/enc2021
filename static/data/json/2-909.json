@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-905-0/",
+    "item_id": "2-909",
     "next": "2-910",
     "pages": "198",
     "prev": "2-908",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELLIGAMME, (<i>Géog.</i>) contrée du royaume\nde Jafnapatman, dans l’île de Ceylan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELLIGAMME, (<i>Géog.</i>) contrée du royaume\nde Jafnapatman, dans l’île de Ceylan.\n \n</p>\n</div>",
     "title": "BELLIGAMME",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELLIGAMME"
 }

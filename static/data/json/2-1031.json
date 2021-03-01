@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-208",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1027-0/",
+    "item_id": "2-1031",
     "next": "2-1032",
     "pages": "208",
     "prev": "2-1030",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGEN, (<i>Géog.</i>) capitale de la Norwege,\ndans la province de Bergenhus, avec château, &amp; un\nport très-profond. <i>Long. 23. 15. lat. 60. 11</i>.\n</p><p><span class=\"sc\">Bergen</span>, (<i>Géog.</i>) petite ville d’Allemagne, en\nPoméranie, vis-à-vis de Stralsund, capitale de l’île\nde Rugen. <i>Long. 31. 30. lat. 54. 30</i>.\n</p><p>Il y a encore une ville de ce nom dans la basse-Saxe, \nà trois lieues de Daneberg ; une autre au\nduché de Juliers, entre Juliers &amp; Cologne, &amp; une\ntroisieme près de Francfort sur le Mein.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGEN, (<i>Géog.</i>) capitale de la Norwege,\ndans la province de Bergenhus, avec château, &amp; un\nport très-profond. <i>Long. 23. 15. lat. 60. 11</i>.\n</p><p><span class=\"sc\">Bergen</span>, (<i>Géog.</i>) petite ville d’Allemagne, en\nPoméranie, vis-à-vis de Stralsund, capitale de l’île\nde Rugen. <i>Long. 31. 30. lat. 54. 30</i>.\n</p><p>Il y a encore une ville de ce nom dans la basse-Saxe, \nà trois lieues de Daneberg ; une autre au\nduché de Juliers, entre Juliers &amp; Cologne, &amp; une\ntroisieme près de Francfort sur le Mein.\n \n</p>\n</div>",
     "title": "BERGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERGEN"
 }

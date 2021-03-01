@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-596",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3292-0/",
+    "item_id": "2-3289",
     "next": "2-3290",
     "pages": "596",
     "prev": "2-3288",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANET, (<i>Géog.</i>) petite ville de France dans le\nComté de Roussillon.\n</p><p><span class=\"sc\">Canet</span>, (<i>Géog.</i>) petite ville d’Espagne, dans la\nCatalogne, au territoire de Girone.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANET, (<i>Géog.</i>) petite ville de France dans le\nComté de Roussillon.\n</p><p><span class=\"sc\">Canet</span>, (<i>Géog.</i>) petite ville d’Espagne, dans la\nCatalogne, au territoire de Girone.\n \n</p>\n</div>",
     "title": "CANET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANET"
 }

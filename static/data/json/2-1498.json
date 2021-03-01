@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-281",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1496-0/",
+    "item_id": "2-1498",
     "next": "2-1499",
     "pages": "281",
     "prev": "2-1497",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEY-STADT, (<i>Géog.</i>) petite ville du royaume \nde Bcheme. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEY-STADT, (<i>Géog.</i>) petite ville du royaume \nde Bcheme. \n \n</p>\n</div>",
     "title": "BLEY-STADT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLEY-STADT"
 }

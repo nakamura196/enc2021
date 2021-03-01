@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-446",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2423-0/",
+    "item_id": "2-2420",
     "next": "2-2421",
     "pages": "446",
     "prev": "2-2419",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROUWERSHAVEN, (<i>Géog.</i>) petite ville des\nProvinces-Unies dans l’île de Schouwen en Zélande.\nIl y a un port.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROUWERSHAVEN, (<i>Géog.</i>) petite ville des\nProvinces-Unies dans l’île de Schouwen en Zélande.\nIl y a un port.\n \n</p>\n</div>",
     "title": "BROUWERSHAVEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROUWERSHAVEN"
 }

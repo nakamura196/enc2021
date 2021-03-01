@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-783",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4047-0/",
+    "item_id": "2-4058",
     "next": "2-4059",
     "pages": "783",
     "prev": "2-4057",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUDIEZ, (<i>Géog.</i>) petite ville de France, en\nLanguedoc, au pié des Pyrenées, sur les frontieres\ndu Roussillon.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUDIEZ, (<i>Géog.</i>) petite ville de France, en\nLanguedoc, au pié des Pyrenées, sur les frontieres\ndu Roussillon.\n \n</p>\n</div>",
     "title": "CAUDIEZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUDIEZ"
 }

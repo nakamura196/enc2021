@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-796",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4132-0/",
+    "item_id": "2-4142",
     "next": "2-4143",
     "pages": "796",
     "prev": "2-4141",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEDATAIRE, s. f. <i>terme de Droit</i> synonyme à <i>cédant. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEDANT\" title=\"L’Encyclopédie/1re édition/CEDANT\"><span class=\"sc\">Cédant</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEDATAIRE, s. f. <i>terme de Droit</i> synonyme à <i>cédant. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEDANT\" title=\"L’Encyclopédie/1re édition/CEDANT\"><span class=\"sc\">Cédant</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "CEDATAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEDATAIRE"
 }

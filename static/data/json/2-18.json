@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-20-0/",
+    "item_id": "2-18",
     "next": "2-19",
     "pages": "4",
     "prev": "2-17",
     "publish_year": "1751",
-    "texthtml": "BAAL-TSEPHON. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEELZEPHON,_ou_BAAL-TSEPHON\" title=\"L’Encyclopédie/1re édition/BEELZEPHON, ou BAAL-TSEPHON\"><span class=\"sc\">Beelzephon</span></a>",
-    "texthtml_re": "BAAL-TSEPHON. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEELZEPHON,_ou_BAAL-TSEPHON\" title=\"L’Encyclopédie/1re édition/BEELZEPHON, ou BAAL-TSEPHON\"><span class=\"sc\">Beelzephon</span></a>",
+    "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n\n</div>",
     "title": "BAAL-TSEPHON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAAL-TSEPHON"
 }

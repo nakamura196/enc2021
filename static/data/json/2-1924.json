@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-365",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1931-0/",
+    "item_id": "2-1924",
     "next": "2-1925",
     "pages": "365",
     "prev": "2-1923",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULOIR, instrument de <i>Mégissier</i>, c’est un long \nbâton emmanché dans une espece de masse de bois \ndont ces ouvriers se servent pour délayer la chaux \nqu’ils mettent dans les pelins. <i>Voyez la fig. 4. Pl. du  Mégissier</i>.\n</p><p><span class=\"sc\">Bouloir</span>, <i>en terme d’Orfevre en grosserie</i>, c’est un \nvase de cuivre rouge oblong avec une queue, dans \nlequel on déroche les pieces. <i>Voyez Pl. II. fig. 3</i>. Le \nmême vaisseau est à l’usage des Monnoyeurs. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULOIR, instrument de <i>Mégissier</i>, c’est un long \nbâton emmanché dans une espece de masse de bois \ndont ces ouvriers se servent pour délayer la chaux \nqu’ils mettent dans les pelins. <i><span type=\"bold\">Voyez</span> la fig. 4. Pl. du  Mégissier</i>.\n</p><p><span class=\"sc\">Bouloir</span>, <i>en terme d’Orfevre en grosserie</i>, c’est un \nvase de cuivre rouge oblong avec une queue, dans \nlequel on déroche les pieces. <i><span type=\"bold\">Voyez</span> Pl. II. fig. 3</i>. Le \nmême vaisseau est à l’usage des Monnoyeurs. \n \n</p>\n</div>",
     "title": "BOULOIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOULOIR"
 }

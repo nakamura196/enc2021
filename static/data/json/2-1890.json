@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-356",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1895-0/",
+    "item_id": "2-1890",
     "next": "2-1891",
     "pages": "356",
     "prev": "2-1889",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUGIER <i>une étoffe</i>, terme de <i>Tailleur</i>, qui signifie,\npasser legerement une <i>bougie</i> allumée sur la\ncoupe d’une étoffe qui s’éfile facilement, afin d’en\narrêter les fils.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUGIER <i>une étoffe</i>, terme de <i>Tailleur</i>, qui signifie,\npasser legerement une <i>bougie</i> allumée sur la\ncoupe d’une étoffe qui s’éfile facilement, afin d’en\narrêter les fils.\n \n</p>\n</div>",
     "title": "BOUGIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUGIER"
 }

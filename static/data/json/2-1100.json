@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-213",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1096-0/",
+    "item_id": "2-1100",
     "next": "2-1101",
     "pages": "213",
     "prev": "2-1099",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESORCH, s. m. (<i>Commerce.</i>) monnoie d’étain \nalliagée qui a cours à Ormus ; elle vaut trois deniers \nargent de France.\n</p><p>Le <i>besorch</i> est la dixieme partie d’un Pays. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PAYS\" title=\"L’Encyclopédie/1re édition/PAYS\"><span class=\"sc\">Pays</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESORCH, s. m. (<i>Commerce.</i>) monnoie d’étain \nalliagée qui a cours à Ormus ; elle vaut trois deniers \nargent de France.\n</p><p>Le <i>besorch</i> est la dixieme<span type=\"proposed\"> partie </span>d’un Pays. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PAYS\" title=\"L’Encyclopédie/1re édition/PAYS\"><span class=\"sc\">Pays</span></a>. \n \n</p>\n</div>",
     "title": "BESORCH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BESORCH"
 }

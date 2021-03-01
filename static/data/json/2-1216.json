@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-242",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1213-0/",
+    "item_id": "2-1216",
     "next": "2-1217",
     "pages": "242",
     "prev": "2-1215",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIELA-OZERO, (<i>Géog.</i>) c’est un duché de la\nMoscovie, entre ceux de Novogrod-Weliki &amp; de\nWologda, avec la capitale de même nom, près d’un\nlac qui a 22 lieues de long &amp; 12 de large. <i>Long. 56.  40. lat. 58. 55</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIELA-OZERO, (<i>Géog.</i>) c’est un duché de la\nMoscovie, entre ceux de Novogrod-Weliki &amp; de\nWologda, avec la capitale de même nom, près d’un\nlac qui a 22 lieues de long &amp; 12 de large. <i>Long. 56.  40. lat. 58. 55</i>.\n \n</p>\n</div>",
     "title": "BIELA-OZERO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIELA-OZERO"
 }

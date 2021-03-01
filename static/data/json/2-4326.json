@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-862",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4316-0/",
+    "item_id": "2-4326",
     "next": "2-4327",
     "pages": "862",
     "prev": "2-4325",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERVAISON, sub. f. (<i>Venerie.</i>) on appelle de ce\nnom le tems où le cerf est en embonpoint.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERVAISON, sub. f. (<i>Venerie.</i>) on appelle de ce\nnom le tems où le cerf est en embonpoint.\n \n</p>\n</div>",
     "title": "CERVAISON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERVAISON"
 }

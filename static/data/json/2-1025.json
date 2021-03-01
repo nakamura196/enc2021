@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-207",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1021-0/",
+    "item_id": "2-1025",
     "next": "2-1026",
     "pages": "207-208",
     "prev": "2-1024",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGAMASC, (<i>Géog.</i>) province d’Italie, dans <span><span class=\"pagenum ws-pagenum\" id=\"208\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/212\"></span></span>l’état de Venise, borné par le Bressan, la Valteline,\n&amp; le Milanez. Bergame en est la capitale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERGAMASC, (<i>Géog.</i>) province d’Italie, dans <span><span class=\"pagenum ws-pagenum\" id=\"208\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/212\"></span></span>l’état de Venise, borné par le Bressan, la Valteline,\n&amp; le Milanez. Bergame en est la capitale.\n \n</p>\n</div>",
     "title": "BERGAMASC",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERGAMASC"
 }

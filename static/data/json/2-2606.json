@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-464",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2609-0/",
+    "item_id": "2-2606",
     "next": "2-2607",
     "pages": "464",
     "prev": "2-2605",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUPHONIES, (<i>Myth.</i>) fêtes que l’on célébroit \nà Athenes en l’honneur de Jupiter Polien. On lui immoloit \nun bœuf ; &amp; c’est de là que les fêtes ont pris \nle nom de <i>Buphonies</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUPHONIES, (<i>Myth.</i>) fêtes que l’on célébroit \nà Athenes en l’honneur de Jupiter Polien. On lui immoloit \nun bœuf ; &amp; c’est de là que les fêtes ont pris \nle nom de <i>Buphonies</i>. \n \n</p>\n</div>",
     "title": "BUPHONIES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUPHONIES"
 }

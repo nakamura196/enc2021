@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-455",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2508-0/",
+    "item_id": "2-2505",
     "next": "2-2506",
     "pages": "455",
     "prev": "2-2504",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCCARIE <i>ou</i> BOUCHARIE, (<i>Géog.</i>) grand\npays d’Asie en Tartarie ; on la divise en <i>grande</i> &amp;\n<i>petite</i>. La grande comprend la Sogdiane &amp; la Bactriane \ndes anciens ; elle est bornée au Nord par le pays\ndes Calmoucks, par la petite <i>buccarie</i> à l’Est, &amp; par\nles états de la Perse &amp; du Mogol au Sud ; c’est la partie \nla plus peuplée &amp; la mieux cultivée de la Tartarie ; \naussi est-elle très-fertile &amp; très-abondante ; les\nhabitans sont nommés ordinairement <i>Tartares Usbecks</i>\npar les Persans &amp; les Mogols. La petite <i>Buccarie</i> est\nà l’orient des montagnes du royaume de Cachemir.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCCARIE <i>ou</i> BOUCHARIE, (<i>Géog.</i>) grand\npays d’Asie en Tartarie ; on la divise en <i>grande</i> &amp;\n<i>petite</i>. La grande comprend la Sogdiane &amp; la Bactriane \ndes anciens ; elle est bornée au Nord par le pays\ndes Calmoucks, par la petite <i>buccarie</i> à l’Est, &amp; par\nles états de la <span type=\"auteur_p\">Perse</span> &amp; du Mogol au Sud ; c’est la<span type=\"proposed\"> partie </span>\nla plus peuplée &amp; la mieux cultivée de la Tartarie ; \naussi est-elle très-fertile &amp; très-abondante ; les\nhabitans sont nommés ordinairement <i>Tartares Usbecks</i>\npar les Persans &amp; les Mogols. La petite <i>Buccarie</i> est\nà l’orient des montagnes du royaume de Cachemir.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCCARIE <i>ou</i> BOUCHARIE, (<i>Géog.</i>) grand\npays d’Asie en Tartarie ; on la divise en <i>grande</i> &amp;\n<i>petite</i>. La grande comprend la Sogdiane &amp; la Bactriane \ndes anciens ; elle est bornée au Nord par le pays\ndes Calmoucks, par la petite <i>buccarie</i> à l’Est, &amp; par\nles états de la Perse &amp; du Mogol au Sud ; c’est la<span type=\"proposed\"> partie </span>\nla plus peuplée &amp; la mieux cultivée de la Tartarie ; \naussi est-elle très-fertile &amp; très-abondante ; les\nhabitans sont nommés ordinairement <i>Tartares Usbecks</i>\npar les Persans &amp; les Mogols. La petite <i>Buccarie</i> est\nà l’orient des montagnes du royaume de Cachemir.\n \n</p>\n</div>",
     "title": "BUCCARIE ou BOUCHARIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCCARIE_ou_BOUCHARIE"
 }

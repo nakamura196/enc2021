@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-538",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2951-0/",
+    "item_id": "2-2950",
     "next": "2-2951",
     "pages": "538",
     "prev": "2-2949",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAITHNESS, (<i>Géog.</i>) province au nord de l’Ecosse.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAITHNESS, (<i>Géog.</i>) province au nord de l’Ecosse.\n \n</p>\n</div>",
     "title": "CAITHNESS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAITHNESS"
 }

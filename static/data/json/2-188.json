@@ -2,7 +2,8 @@
     "authors": [
         "Louis de Cahusac"
     ],
-    "item_id": "2-23",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-195-0/",
+    "item_id": "2-188",
     "next": "2-189",
     "pages": "23-24",
     "prev": "2-187",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALADIN, s. m. <i>danseur farceur, bouffon</i>, qui en\ndansant, en parlant ou en agissant, fait des postures\nde bas comique. Le bon goût sembloit avoir banni des\nspectacles de France ces sortes de caracteres, qui y\nétoient autrefois en usage, L’opera comique les y <span><span class=\"pagenum ws-pagenum\" id=\"24\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/28\"></span></span>avoit fait revivre. La sagesse du gouvernement en\nabolissant ce spectacle, aussi dangereux pour les\nmœurs que préjudiciable au progrès &amp; à la perfection \ndu goût, les a sans doute bannis pour jamais.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OPERA\" title=\"L’Encyclopédie/1re édition/OPERA\"><span class=\"sc\">Opera comique</span></a>. (<i>B</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALADIN, s. m. <i>danseur farceur, bouffon</i>, qui en\ndansant, en parlant ou en agissant, fait des postures\nde bas comique. Le bon goût sembloit avoir banni des\nspectacles de France ces sortes de caracteres, qui y\nétoient autrefois en usage, L’opera comique les y <span><span class=\"pagenum ws-pagenum\" id=\"24\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/28\"></span></span>avoit fait revivre. La sagesse du gouvernement en\nabolissant ce spectacle, aussi dangereux pour les\nmœurs que préjudiciable au progrès &amp; à la perfection \ndu goût, les a sans doute bannis pour jamais.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OPERA\" title=\"L’Encyclopédie/1re édition/OPERA\"><span class=\"sc\">Opera comique</span></a>. (<i>B</i>)\n \n</p>\n</div>",
     "title": "BALADIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALADIN"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-207",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1009-0/",
+    "item_id": "2-1013",
     "next": "2-1014",
     "pages": "207",
     "prev": "2-1012",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERDIN <i>ou</i> BERLIN, coquillage. <i>Voyez</i> <span class=\"coquille\" title=\"Palette\"><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PATELLE\" title=\"L’Encyclopédie/1re édition/PATELLE\"><span class=\"sc\">Patelle</span></a></span>. (<i>I</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERDIN <i>ou</i> BERLIN, coquillage. <i><span type=\"bold\">Voyez</span></i> <span class=\"coquille\" title=\"Palette\"><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PATELLE\" title=\"L’Encyclopédie/1re édition/PATELLE\"><span class=\"sc\">Patelle</span></a></span>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BERDIN ou BERLIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERDIN_ou_BERLIN"
 }

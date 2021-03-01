@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-339",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1815-0/",
+    "item_id": "2-1816",
     "next": "2-1817",
     "pages": "339",
     "prev": "2-1815",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOSSIER, s. m. c’est <i>dans les Verreries</i>, le nom\nd’un gentilhomme occupé à former la bosse. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSE\" title=\"L’Encyclopédie/1re édition/BOSSE\"><span class=\"sc\">Bosse</span></a> ; <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie en plate</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOSSIER, s. m. c’est <i>dans les Verreries</i>, le nom\nd’un gentilhomme occupé à former la bosse. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSE\" title=\"L’Encyclopédie/1re édition/BOSSE\"><span class=\"sc\">Bosse</span></a> ; <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie en plate</span></a>.\n \n</p>\n</div>",
     "title": "BOSSIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSIER"
 }

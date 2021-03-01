@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-683",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3629-0/",
+    "item_id": "2-3626",
     "next": "2-3627",
     "pages": "683",
     "prev": "2-3625",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARENTAN, (<i>Géog.</i>) petite ville de France en\nbasse Normandie, dans le Cotentin.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARENTAN, (<i>Géog.</i>) petite ville de France en\nbasse Normandie, dans le Cotentin.\n \n</p>\n</div>",
     "title": "CARENTAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARENTAN"
 }

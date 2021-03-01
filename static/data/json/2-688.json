@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-161",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-685-0/",
+    "item_id": "2-688",
     "next": "2-689",
     "pages": "161",
     "prev": "2-687",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATURIN, (<i>Géog.</i>) ville de l’Ukraine, sur la\nDesne, autrefois résidence du général des Cosaques.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATURIN, (<i>Géog.</i>) ville de l’Ukraine, sur la\nDesne, autrefois résidence du général des Cosaques.\n \n</p>\n</div>",
     "title": "BATURIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATURIN"
 }

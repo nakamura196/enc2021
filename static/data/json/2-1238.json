@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-246",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1235-0/",
+    "item_id": "2-1238",
     "next": "2-1239",
     "pages": "246",
     "prev": "2-1237",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIETALA, (<i>Géog.</i>) ville &amp; forteresse de la grande \nTartarie, sur les frontieres du royaume de Barantola ; \nc’est le lieu de la résidence du grand lama ou \npontife des Tartares. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIETALA, (<i>Géog.</i>) ville &amp; forteresse de la grande \nTartarie, sur les frontieres du royaume de Barantola ; \nc’est le lieu de la résidence du grand lama ou \npontife des Tartares. \n \n</p>\n</div>",
     "title": "BIETALA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIETALA"
 }

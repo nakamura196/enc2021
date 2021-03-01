@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-22",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-177-0/",
+    "item_id": "2-170",
     "next": "2-171",
     "pages": "22",
     "prev": "2-169",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAIONE. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAYONNE\" title=\"L’Encyclopédie/1re édition/BAYONNE\"><span class=\"sc\">Bayone</span></a>.\n</p><p><span class=\"sc\">Baione</span>, dite <i><span class=\"lang-es\" lang=\"es\">Baïona de Galizia</span></i> (<i>Géog. anc. &amp; mod.</i>)\nville maritime d’Espagne, dans la Galice, à l’embouchure \ndu Minho. Quelques Géographes la prennent \npour les <i><span class=\"lang-la\" lang=\"la\">Aquæ Celinæ</span></i> de Ptolomée ; d’autres\nveulent que ce soit Orense, sur la même riviere que\n<i>Baïone</i> : sa <i>long</i>. est <i>9</i>. &amp; sa <i>lat. 41. 54</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAIONE. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAYONNE\" title=\"L’Encyclopédie/1re édition/BAYONNE\"><span class=\"sc\">Bayone</span></a>.\n</p><p><span class=\"sc\">Baione</span>, dite <i><span class=\"lang-es\" lang=\"es\">Baïona de Galizia</span></i> (<i>Géog. anc. &amp; mod.</i>)\nville maritime d’Espagne, dans la Galice, à l’embouchure \ndu Minho. Quelques Géographes la prennent \npour les <i><span class=\"lang-la\" lang=\"la\">Aquæ Celinæ</span></i> de Ptolomée ; d’autres\nveulent que ce soit Orense, sur la même riviere que\n<i>Baïone</i> : sa <i>long</i>. est <i>9</i>. &amp; sa <i>lat. 41. 54</i>.\n \n</p>\n</div>",
     "title": "BAIONE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAIONE"
 }

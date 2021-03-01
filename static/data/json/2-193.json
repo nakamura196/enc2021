@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-24",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-200-0/",
+    "item_id": "2-193",
     "next": "2-194",
     "pages": "24",
     "prev": "2-192",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALAGUER, (<i>Géog.</i>) ville d’Espagne dans la\nCatalogne sur la Segre. <i>Long. 18. 28. lat. 41. 38</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALAGUER, (<i>Géog.</i>) ville d’Espagne dans la\nCatalogne sur la Segre. <i>Long. 18. 28. lat. 41. 38</i>.\n \n</p>\n</div>",
     "title": "BALAGUER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALAGUER"
 }

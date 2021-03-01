@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-192",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-840-0/",
+    "item_id": "2-844",
     "next": "2-845",
     "pages": "192",
     "prev": "2-843",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEICHLINGEN, (<i>Géog.</i>) ville d’Allemagne, au\ncomté de même nom, dans le cercle de haute Saxe.\n<i>Long. 29. 20. lat. 51. 20</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEICHLINGEN, (<i>Géog.</i>) ville d’Allemagne, au\ncomté de même nom, dans le cercle de haute Saxe.\n<i>Long. 29. 20. lat. 51. 20</i>.\n \n</p>\n</div>",
     "title": "BEICHLINGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEICHLINGEN"
 }

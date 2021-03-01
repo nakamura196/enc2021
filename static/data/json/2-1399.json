@@ -2,7 +2,8 @@
     "authors": [
         "Jean-Baptiste de La Chapelle"
     ],
-    "item_id": "2-264",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1396-0/",
+    "item_id": "2-1399",
     "next": "2-1400",
     "pages": "264",
     "prev": "2-1398",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISSECTION, s. f. <i>en Géometrie</i>, est la division\nd’une étendue quelconque, comme un angle, une ligne,\n<i>&amp;c.</i> en deux parties égales ; c’est ce qu’on nomme \nautrement <i>bipartition. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIVISION\" title=\"L’Encyclopédie/1re édition/DIVISION\"><span class=\"sc\">Division</span></a>, <i>&amp;c.</i> (<i>E</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISSECTION, s. f. <i>en Géometrie</i>, est la division\nd’une étendue quelconque, comme un angle, une ligne,\n<i>&amp;c.</i> en deux parties égales ; c’est ce qu’on nomme \nautrement <i>bipartition. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DIVISION\" title=\"L’Encyclopédie/1re édition/DIVISION\"><span class=\"sc\">Division</span></a>, <i>&amp;c.</i> (<i>E</i>)\n \n</p>\n</div>",
     "title": "BISSECTION",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISSECTION"
 }

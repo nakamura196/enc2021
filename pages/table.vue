@@ -96,8 +96,8 @@ export default {
     getVolAndPage() {
       const source = this.source
       return this.lang === 'ja'
-        ? source.tome + '巻, p.' + source.pages
-        : 'Vol.' + source.tome + ', p.' + source.pages
+        ? source.tome_r + '巻, p.' + source.pages
+        : 'Vol.' + source.tome_r + ', p.' + source.pages
     },
     breadcrumbs() {
       const source = this.source

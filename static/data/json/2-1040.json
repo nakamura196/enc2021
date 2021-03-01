@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-209",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1036-0/",
+    "item_id": "2-1040",
     "next": "2-1041",
     "pages": "209",
     "prev": "2-1039",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERGREICHENSTEIN (<i>Géog.</i>) ville de Bohème, \ndans le territoire de Prague.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERGREICHENSTEIN (<i>Géog.</i>) ville de Bohème, \ndans le territoire de Prague.\n \n</p>\n</div>",
     "title": "BERGREICHENSTEIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERGREICHENSTEIN"
 }

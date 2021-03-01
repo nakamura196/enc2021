@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-641",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3505-0/",
+    "item_id": "2-3503",
     "next": "2-3504",
     "pages": "641",
     "prev": "2-3502",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPULO <i>ou</i> CAPOUL, (<i>Géog.</i>) île d’Asie, l’une des Philippines, appartenante aux Espagnols. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPULO <i>ou</i> CAPOUL, (<i>Géog.</i>) île d’Asie, l’une des Philippines, appartenante aux Espagnols. \n \n</p>\n</div>",
     "title": "CAPULO ou CAPOUL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPULO_ou_CAPOUL"
 }

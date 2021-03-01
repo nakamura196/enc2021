@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-203",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-958-0/",
+    "item_id": "2-962",
     "next": "2-963",
     "pages": "203",
     "prev": "2-961",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉNÉFICIAL, qui concerne les bénéfices. Cet\nadjectif ne se trouve employé qu’au féminin, ainsi\nl’on dit <i>des causes, des matieres bénéficiales :</i> mais on\nne diroit pas <i>des codes bénéficiaux</i>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉNÉFICIAL, qui concerne les bénéfices. Cet\nadjectif ne se trouve employé qu’au féminin, ainsi\nl’on dit <i>des causes, des matieres bénéficiales :</i> mais on\nne diroit pas <i>des codes bénéficiaux</i>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "BÉNÉFICIAL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/B%C3%89N%C3%89FICIAL"
 }

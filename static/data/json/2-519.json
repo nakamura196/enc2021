@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-97",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-531-0/",
+    "item_id": "2-519",
     "next": "2-520",
     "pages": "97",
     "prev": "2-518",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARZOD, (<i>Géog.</i>) petite ville de la haute \nHongrie, dans le comté de même nom, sur la riviere \nde Hernath. Le comté de <i>Barzod</i> est borné au \nseptentrion par ceux de Sembin &amp; de Torna ; à l’occident \npar ceux de Gomor &amp; de Sag ; au midi par celui \nde Herwecz ; &amp; à l’orient par celui de Chege. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARZOD, (<i>Géog.</i>) petite ville de la haute \nHongrie, dans le comté de même nom, sur la riviere \nde Hernath. Le comté de <i>Barzod</i> est borné au \nseptentrion par ceux de Sembin &amp; de Torna ; à l’occident \npar ceux de Gomor &amp; de Sag ; au midi par celui \nde Herwecz ; &amp; à l’orient par celui de Chege. \n \n</p>\n</div>",
     "title": "BARZOD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARZOD"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-783",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4035-0/",
+    "item_id": "2-4046",
     "next": "2-4047",
     "pages": "783",
     "prev": "2-4045",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUB, (<i>Géog.</i>) petite ville d’Allemagne, sur le\nRhin, vis-à-vis de Bacharach, dans le duché de Simmern.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUB, (<i>Géog.</i>) petite ville d’Allemagne, sur le\nRhin, vis-à-vis de Bacharach, dans le duché de Simmern.\n \n</p>\n</div>",
     "title": "CAUB",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUB"
 }

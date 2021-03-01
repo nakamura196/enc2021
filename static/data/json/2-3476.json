@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-637",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3478-0/",
+    "item_id": "2-3476",
     "next": "2-3477",
     "pages": "637",
     "prev": "2-3475",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRIANA, (<i>Géog.</i>) petite ville forte d’Italie,\ndans le Mantouan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRIANA, (<i>Géog.</i>) petite ville forte d’Italie,\ndans le Mantouan.\n \n</p>\n</div>",
     "title": "CAPRIANA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRIANA"
 }

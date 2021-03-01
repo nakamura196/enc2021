@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1087-0/",
+    "item_id": "2-1091",
     "next": "2-1092",
     "pages": "212",
     "prev": "2-1090",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESAIGUE, s. f. est un outil dont se servent les\n<i>Charpentiers</i> pour dresser &amp; réparer leurs bois lorsqu’ils \nles ont refaits à la coignée, &amp; à faire les tenons,\nles mortoises, <i>&amp;c.</i> Elle est faite par un bout\ncomme un ciseau à un tranchant, &amp; par l’autre\ncomme un bec-d’âne ; dans le milieu est une douille\nqui sert à l’ouvrier pour la tenir ; sa longueur est\nenviron de trois piés &amp; demi. <i>Voyez la figure 6.  Planche des outils du Charpentier</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESAIGUE, s. f. est un outil dont se servent les\n<i>Charpentiers</i> pour dresser &amp; réparer leurs bois lorsqu’ils \nles ont refaits à la coignée, &amp; à faire les tenons,\nles mortoises, <i>&amp;c.</i> Elle est faite par un bout\ncomme un ciseau à un tranchant, &amp; par l’autre\ncomme un bec-d’âne ; dans le milieu est une douille\nqui sert à l’ouvrier pour la tenir ; sa longueur est\nenviron de trois piés &amp; demi. <i><span type=\"bold\">Voyez</span> la figure 6.  Planche des outils du Charpentier</i>.\n \n</p>\n</div>",
     "title": "BESAIGUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BESAIGUE"
 }

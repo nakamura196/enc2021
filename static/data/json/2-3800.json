@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-739",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3803-0/",
+    "item_id": "2-3800",
     "next": "2-3801",
     "pages": "739",
     "prev": "2-3799",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASAUBON, (<i>Géog.</i>) petite ville de France dans\nla province d’Armagnac, sur la riviere de Douze.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASAUBON, (<i>Géog.</i>) petite ville de France dans\nla province d’Armagnac, sur la riviere de Douze.\n \n</p>\n</div>",
     "title": "CASAUBON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASAUBON"
 }

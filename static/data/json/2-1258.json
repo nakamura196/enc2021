@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-247",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1255-0/",
+    "item_id": "2-1258",
     "next": "2-1259",
     "pages": "247",
     "prev": "2-1257",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIGONZO (<i>Hist. mod. Commerce</i>) on nomme ainsi à Venise une mesure de vin qui y est en usage ; le <i>bigonzo</i> contient 4 <i>quarti</i> ou 16 <i>secchi</i>, ou environ 63 livres de liquide : mais lorsqu’il s’agit d’eau-de-vie, un <i>bigonze</i> ne vaut que 14 secchi ou 56 livres. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIGONZO (<i>Hist. mod. Commerce</i>) on nomme ainsi à Venise une mesure de vin qui y est en usage ; le <i>bigonzo</i> contient 4 <i>quarti</i> ou 16 <i>secchi</i>, ou environ 63 livres de liquide : mais lorsqu’il s’agit d’eau-de-vie, un <i>bigonze</i> ne vaut que 14 secchi ou 56 livres. \n \n</p>\n</div>",
     "title": "BIGONZO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIGONZO"
 }

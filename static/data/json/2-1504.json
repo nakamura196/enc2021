@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-284",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1502-0/",
+    "item_id": "2-1504",
     "next": "2-1505",
     "pages": "284",
     "prev": "2-1503",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEUIR <i>un métal</i>, c’est l’échauffer jusqu’à ce qu’il\nprenne une couleur bleue ; ce qui est pratiqué par\nles Doreurs, qui <i>bleuissent</i> leurs ouvrages d’acier\navant que d’y appliquer les feuilles d’or ou d’argent.\n<i>Voyez</i> <span class=\"sc\">Doreur</span>, &amp; la <i>fig. 9. Pl. du Doreur. Vignette</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEUIR <i>un métal</i>, c’est l’échauffer jusqu’à ce qu’il\nprenne une couleur bleue ; ce qui est pratiqué par\nles Doreurs, qui <i>bleuissent</i> leurs ouvrages d’acier\navant que d’y appliquer les feuilles d’or ou d’argent.\n<i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Doreur</span>, &amp; la <i>fig. 9. Pl. du Doreur. Vignette</i>.\n \n</p>\n</div>",
     "title": "BLEUIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLEUIR"
 }

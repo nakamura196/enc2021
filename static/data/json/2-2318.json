@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-423",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2323-0/",
+    "item_id": "2-2318",
     "next": "2-2319",
     "pages": "423",
     "prev": "2-2317",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIQUETERIE, s. f. (<i>en Architecture</i>,) <i>voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TUILERIE\" title=\"L’Encyclopédie/1re édition/TUILERIE\"><span class=\"sc\">Tuilerie</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIQUETERIE, s. f. (<i>en Architecture</i>,) <i>voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TUILERIE\" title=\"L’Encyclopédie/1re édition/TUILERIE\"><span class=\"sc\">Tuilerie</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BRIQUETERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIQUETERIE"
 }

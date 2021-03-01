@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-323",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1685-0/",
+    "item_id": "2-1686",
     "next": "2-1687",
     "pages": "323",
     "prev": "2-1685",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONJEAU, s. m. (<i>Œcon. rust.</i>) c’est un assemblage \nde deux bottes de lin liées l’une contre l’autre\nde la tête au pié, afin d’occuper moins de place dans\nl’eau, où on doit mettre le lin roüir. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIN\" title=\"L’Encyclopédie/1re édition/LIN\"><span class=\"sc\">Lin</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONJEAU, s. m. (<i>Œcon. rust.</i>) c’est un assemblage \nde deux bottes de lin liées l’une contre l’autre\nde la tête au pié, afin d’occuper moins de place dans\nl’eau, où on doit mettre le lin roüir. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIN\" title=\"L’Encyclopédie/1re édition/LIN\"><span class=\"sc\">Lin</span></a>.\n \n</p>\n</div>",
     "title": "BONJEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONJEAU"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-781",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4024-0/",
+    "item_id": "2-4035",
     "next": "2-4036",
     "pages": "781",
     "prev": "2-4034",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CA-VA-LA-HAUT, (<i>Chasse.</i>) maniere de parler aux chiens quand ils chassent. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CA-VA-LA-HAUT, (<i>Chasse.</i>) maniere de parler aux chiens quand ils chassent. \n \n</p>\n</div>",
     "title": "CA-VA-LA-HAUT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CA-VA-LA-HAUT"
 }

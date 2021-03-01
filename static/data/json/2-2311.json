@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-421",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2316-0/",
+    "item_id": "2-2311",
     "next": "2-2312",
     "pages": "421",
     "prev": "2-2310",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIONI, (<i>Géog.</i>) c’est le nom de trois îles de la \nmer Adriatique, qui appartiennent aux Vénitiens, \nsur la côte orientale de l’Istrie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIONI, (<i>Géog.</i>) c’est le nom de trois îles de la \nmer Adriatique, qui appartiennent aux Vénitiens, \nsur la côte orientale de l’Istrie. \n \n</p>\n</div>",
     "title": "BRIONI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIONI"
 }

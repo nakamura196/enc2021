@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-278",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1471-0/",
+    "item_id": "2-1473",
     "next": "2-1474",
     "pages": "278",
     "prev": "2-1472",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANOS, (<i>Géog.</i>) petite ville maritime d’Espagne, \nen Catalogne, près de la riviere de Tordera,\nau nord de son embouchure.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANOS, (<i>Géog.</i>) petite ville maritime d’Espagne, \nen Catalogne, près de la riviere de Tordera,\nau nord de son embouchure.\n \n</p>\n</div>",
     "title": "BLANOS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLANOS"
 }

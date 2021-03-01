@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-642",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3514-0/",
+    "item_id": "2-3513",
     "next": "2-3514",
     "pages": "642",
     "prev": "2-3512",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARABI, (<i>Géog.</i>) petite riviere de Sicile dans la vallée de Mazara, qui se jette dans la mer d’Afrique. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARABI, (<i>Géog.</i>) petite riviere de Sicile dans la vallée de Mazara, qui se jette dans la mer d’Afrique. \n \n</p>\n</div>",
     "title": "CARABI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARABI"
 }

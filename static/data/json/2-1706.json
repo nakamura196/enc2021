@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-328",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1705-0/",
+    "item_id": "2-1706",
     "next": "2-1707",
     "pages": "328",
     "prev": "2-1705",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONNEVILLE, (<i>Géog.</i>) petite ville de Suisse\ndans le canton de Bâle, sur un lac.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONNEVILLE, (<i>Géog.</i>) petite ville de Suisse\ndans le canton de Bâle, sur un lac.\n \n</p>\n</div>",
     "title": "BONNEVILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONNEVILLE"
 }

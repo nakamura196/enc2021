@@ -3,7 +3,8 @@
         "Jacques-François Blondel",
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-361",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1916-0/",
+    "item_id": "2-1909",
     "next": "2-1910",
     "pages": "361",
     "prev": "2-1908",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULANGERIE, s. f. (<i>en Architecture.</i>) est un bâtiment \ndans un palais, maison de campagne, ou dans\nune communauté, destiné à faire le pain, &amp; composé\nde plusieurs pieces, comme fournil, lieu où sont les\nfours, panneterie, pétrin, farinier &amp; autres. (<i>P</i>)\n</p><p><span class=\"sc\">Boulangerie</span>, (<i>en Marine.</i>) ce terme se dit dans\nun arsenal de marine, du lieu où l’on fait le biscuit.\n<i>Voyez</i> dans la <i>Planche VII.</i> seconde partie de l’arsenal,\nl’emplacement &amp; la distribution des bâtimens\npour la <i>Boulangerie</i>. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULANGERIE, s. f. (<i>en Architecture.</i>) est un bâtiment \ndans un palais, maison de campagne, ou dans\nune communauté, destiné à faire le pain, &amp; composé\nde plusieurs pieces, comme fournil, lieu où sont les\nfours, panneterie, pétrin, farinier &amp; autres. (<i>P</i>)\n</p><p><span class=\"sc\">Boulangerie</span>, (<i>en Marine.</i>) ce terme se dit dans\nun arsenal de marine, du lieu où l’on fait le biscuit.\n<i><span type=\"bold\">Voyez</span></i> dans la <i>Planche VII.</i> seconde<span type=\"proposed\"> partie </span>de l’arsenal,\nl’emplacement &amp; la distribution des bâtimens\npour la <i>Boulangerie</i>. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BOULANGERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOULANGERIE"
 }

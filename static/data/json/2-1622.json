@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-314",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1621-0/",
+    "item_id": "2-1622",
     "next": "2-1623",
     "pages": "314",
     "prev": "2-1621",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOITTE, s. f. (<i>en terme de Péche</i>) c’est ainsi\nque les Pêcheurs de morue nomment l’appas qu’ils\nmettent à leurs hameçons. Les François du cap Breton \nse servent du hareng &amp; du maquereau, dont la\nmorue est friande, &amp; qui est commun sur ces côtes.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOITTE, s. f. (<i>en terme de Péche</i>) c’est ainsi\nque les Pêcheurs de morue nomment l’appas qu’ils\nmettent à leurs hameçons. Les François du cap Breton \nse servent du hareng &amp; du maquereau, dont la\nmorue est friande, &amp; qui est commun sur ces côtes.\n \n</p>\n</div>",
     "title": "BOITTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOITTE"
 }

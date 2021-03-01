@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-540",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2992-0/",
+    "item_id": "2-2992",
     "next": "2-2993",
     "pages": "540",
     "prev": "2-2991",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALASINI, s. f. (<i>Hist. anc.</i>) tunique de lin,\nfrangée par le bas, que les Egyptiens portoient sous\nun habit de laine blanche. Quand ils entroient dans\nles temples, ils quittoient l’habit de laine, &amp; ne conservoient \nque celui de lin. La <i>calasini</i> paroît leur avoir\nservi d’habit &amp; de chemise. Elle a été aussi en usage\nchez les Grecs : il en est parlé dans les nuées d’Aristophane, \n&amp; Hesychius l’appelle <i>la tunique au clou large. </i>\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CLOU\" title=\"L’Encyclopédie/1re édition/CLOU\"><span class=\"sc\">Clou large</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALASINI, s. f. (<i>Hist. anc.</i>) tunique de lin,\nfrangée par le bas, que les Egyptiens portoient sous\nun habit de laine blanche. Quand ils entroient dans\nles temples, ils quittoient l’habit de laine, &amp; ne conservoient \nque celui de lin. La <i>calasini</i> paroît leur avoir\nservi d’habit &amp; de chemise. Elle a été aussi en usage\nchez les Grecs : il en est parlé dans les nuées d’Aristophane, \n&amp; Hesychius l’appelle <i>la tunique au clou large. </i>\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CLOU\" title=\"L’Encyclopédie/1re édition/CLOU\"><span class=\"sc\">Clou large</span></a>.\n \n</p>\n</div>",
     "title": "CALASINI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALASINI"
 }

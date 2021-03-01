@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2637-0/",
+    "item_id": "2-2634",
     "next": "2-2635",
     "pages": "466",
     "prev": "2-2633",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGEL, (<i>Géog.</i>) petite ville d’Allemagne, \ndans la Misnie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGEL, (<i>Géog.</i>) petite ville d’Allemagne, \ndans la Misnie. \n \n</p>\n</div>",
     "title": "BURGEL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURGEL"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-598",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3318-0/",
+    "item_id": "2-3315",
     "next": "2-3316",
     "pages": "598",
     "prev": "2-3314",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANIVEAUX, s. m. <i>en Architecture</i>, c’est ainsi\nqu’on appelle les plus gros pavés, qui étant assis alternativement \n&amp; un peu inclinés, traversent le milieu \nd’un ruisseau d’une cour ou d’une rue.\n</p><p>Une pierre taillée en <i>caniveau</i>, est celle qui est creusée \ndans le milieu en maniere de ruisseau pour faire\nécouler l’eau : on s’en sert pour paver une cuisine,\nun lavoir, une laiterie, un privé, ou lieu commun,\n<i>&amp;c.</i> (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANIVEAUX, s. m. <i>en Architecture</i>, c’est ainsi\nqu’on appelle les plus gros pavés, qui étant assis alternativement \n&amp; un peu inclinés, traversent le milieu \nd’un ruisseau d’une cour ou d’une rue.\n</p><p>Une pierre taillée en <i>caniveau</i>, est celle qui est creusée \ndans le milieu en maniere de ruisseau pour faire\nécouler l’eau : on s’en sert pour paver une cuisine,\nun lavoir, une laiterie, un privé, ou lieu commun,\n<i>&amp;c.</i> (<i>P</i>)\n \n</p>\n</div>",
     "title": "CANIVEAUX",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANIVEAUX"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-367",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1951-0/",
+    "item_id": "2-1944",
     "next": "2-1945",
     "pages": "367",
     "prev": "2-1943",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDE, s. f. (<i>Marine.</i>) c’est une voile dont\non se sert sur les galeres, &amp; que l’on ne met que\nquand le tems est tempéré. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDE, s. f. (<i>Marine.</i>) c’est une voile dont\non se sert sur les galeres, &amp; que l’on ne met que\nquand le tems est tempéré. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BOURDE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURDE"
 }

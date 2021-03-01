@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-295",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1596-0/",
+    "item_id": "2-1598",
     "next": "2-1599",
     "pages": "295",
     "prev": "2-1597",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOHOL, (<i>Géog.</i>) une des îles Philippines, dans\nl’Océan oriental en Asie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOHOL, (<i>Géog.</i>) une des îles Philippines, dans\nl’Océan oriental en Asie.\n \n</p>\n</div>",
     "title": "BOHOL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOHOL"
 }

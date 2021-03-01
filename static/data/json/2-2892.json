@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-529",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2893-0/",
+    "item_id": "2-2892",
     "next": "2-2893",
     "pages": "529",
     "prev": "2-2891",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAFFETIER, s. m. (<i>Commerce.</i>) celui qui a le\ndroit de vendre au public du caffé, du thé, du chocolat,\n&amp; toutes sortes de liqueurs froides &amp; chaudes.\nLes <i>Caffetiers</i> sont de la communauté des Limonadiers. \n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIMONADIER\" title=\"L’Encyclopédie/1re édition/LIMONADIER\"><span class=\"sc\">Limonadier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAFFETIER, s. m. (<i>Commerce.</i>) celui qui a le\ndroit de vendre au public du caffé, du thé, du chocolat,\n&amp; toutes sortes de liqueurs froides &amp; chaudes.\nLes <i>Caffetiers</i> sont de la communauté des Limonadiers. \n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIMONADIER\" title=\"L’Encyclopédie/1re édition/LIMONADIER\"><span class=\"sc\">Limonadier</span></a>.\n \n</p>\n</div>",
     "title": "CAFFETIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAFFETIER"
 }

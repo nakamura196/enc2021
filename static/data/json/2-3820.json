@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-741",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3823-0/",
+    "item_id": "2-3820",
     "next": "2-3821",
     "pages": "741",
     "prev": "2-3819",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASIMAMBOUS, (<i>Géog.</i>) peuple ou tribu d’Afrique dans l’île de Madagascar, dans la province de\nMatatane.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASIMAMBOUS, (<i>Géog.</i>) peuple ou tribu d’Afrique dans l’île de Madagascar, dans la province de\nMatatane.\n \n</p>\n</div>",
     "title": "CASIMAMBOUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASIMAMBOUS"
 }

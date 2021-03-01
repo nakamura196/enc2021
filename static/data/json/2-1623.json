@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-314",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1622-0/",
+    "item_id": "2-1623",
     "next": "2-1624",
     "pages": "314",
     "prev": "2-1622",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOITZENBURG, (<i>Géog.</i>) il y a deux villes de\nce nom en Allemagne : l’une sur l’Elbe, dans le comté\nde Schwerin, à quelques lieues de Hambourg ; l’autre,\ndans l’électorat de Brandebourg.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOITZENBURG, (<i>Géog.</i>) il y a deux villes de\nce nom en Allemagne : l’une sur l’Elbe, dans le comté\nde Schwerin, à quelques lieues de Hambourg ; l’autre,\ndans l’électorat de Brandebourg.\n \n</p>\n</div>",
     "title": "BOITZENBURG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOITZENBURG"
 }

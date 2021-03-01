@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3883-0/",
+    "item_id": "2-3896",
     "next": "2-3897",
     "pages": "749",
     "prev": "2-3895",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELHOLM, (<i>Géog.</i>) forteresse de Suede\ndans l’île d’Aland, vis-à-vis de Stockholm.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELHOLM, (<i>Géog.</i>) forteresse de Suede\ndans l’île d’Aland, vis-à-vis de Stockholm.\n \n</p>\n</div>",
     "title": "CASTELHOLM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTELHOLM"
 }

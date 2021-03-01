@@ -48,6 +48,19 @@
             </v-list-item-content>
           </v-list-item>
 
+          <v-list-item
+            link
+            target="_blank"
+            href="https://drive.google.com/file/d/1jk3gz_uyZ_XJTWx6Ns5T3CeDeravTZI4/view?usp=sharing"
+          >
+            <v-list-item-action>
+              <v-icon>mdi-book</v-icon>
+            </v-list-item-action>
+            <v-list-item-content>
+              <v-list-item-title>!Test! {{ $t('manual') }}</v-list-item-title>
+            </v-list-item-content>
+          </v-list-item>
+
           <v-list-item v-if="false" link :to="localePath({ name: 'edit' })">
             <v-list-item-action>
               <v-icon>mdi-square-edit-outline</v-icon>

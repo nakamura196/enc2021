@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-5",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-53-0/",
+    "item_id": "2-51",
     "next": "2-52",
     "pages": "5",
     "prev": "2-50",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACH, (<i>Géog.</i>) ville de la basse Hongrie, au\ncomté de Toln, sur le Danube.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACH, (<i>Géog.</i>) ville de la basse Hongrie, au\ncomté de Toln, sur le Danube.\n \n</p>\n</div>",
     "title": "BACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACH"
 }

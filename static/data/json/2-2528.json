@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-458",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2531-0/",
+    "item_id": "2-2528",
     "next": "2-2529",
     "pages": "458",
     "prev": "2-2527",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCKAW, (<i>Géog.</i>) ville d’Allemagne, dans la \nmarche de Brandebourg. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCKAW, (<i>Géog.</i>) ville d’Allemagne, dans la \nmarche de Brandebourg. \n \n</p>\n</div>",
     "title": "BUCKAW",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCKAW"
 }

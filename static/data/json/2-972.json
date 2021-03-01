@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-204",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-968-0/",
+    "item_id": "2-972",
     "next": "2-973",
     "pages": "204",
     "prev": "2-971",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENGI-EIRI, (<i>Hist. nat. bot.</i>) espece de ricin\nIndien, toûjours verd, &amp; qui croît dans le Malabar.\nC’est encore une de ces plantes auxquelles on attribue\nd’autant plus de propriétés, qu’on les connoit moins ;\n&amp; l’on a raison, car il est difficile d’être démenti.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENGI-EIRI, (<i>Hist. nat. bot.</i>) espece de ricin\nIndien, toûjours verd, &amp; qui croît dans le Malabar.\nC’est encore une de ces plantes auxquelles on attribue\nd’autant plus de propriétés, qu’on les connoit moins ;\n&amp; l’on a raison, car il est difficile d’être démenti.\n \n</p>\n</div>",
     "title": "BENGI-EIRI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENGI-EIRI"
 }

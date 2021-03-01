@@ -2,14 +2,15 @@
     "authors": [
         "Paul Henri Thiry d’Holbach"
     ],
-    "item_id": "2-285",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1506-0/",
+    "item_id": "2-1508",
     "next": "2-1509",
     "pages": "285",
     "prev": "2-1507",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEY-SACK, (<i>Métallurgie &amp; Minéralogie</i>) on appelle \nainsi en Allemand une partie de plomb, qui n’a\npas été séparée de l’argent à la coupelle ; parce que\nle régule est venu à se durcir trop tôt : ce défaut vient\nde ce que le feu n’a pas été assez fort pour réduire\ntout le plomb en litharge. M. Cramer observe <i>dans  sa Docimasie</i>, que lorsqu’on purifie l’argent à la coupelle,\nle plomb agit comme dissolvant sur ce métal ;\nc’est pourquoi il est nécessaire d’augmenter le feu à\nmesure que le plomb se détruit &amp; se réduit en litharge. \n(—)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEY-SACK, (<i>Métallurgie &amp; Minéralogie</i>) on appelle \nainsi en Allemand une<span type=\"proposed\"> partie </span>de plomb, qui n’a\npas été séparée de l’argent à la coupelle ; parce que\nle régule est venu à se durcir trop tôt : ce défaut vient\nde ce que le feu n’a pas été assez fort pour réduire\ntout le plomb en litharge. M. <span type=\"auteur_p\">Cramer</span> observe <i>dans  sa Docimasie</i>, que lorsqu’on purifie l’argent à la coupelle,\nle plomb agit comme dissolvant sur ce métal ;\nc’est pourquoi il est nécessaire d’augmenter le feu à\nmesure que le plomb se détruit &amp; se réduit en litharge. \n(—)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLEY-SACK, (<i>Métallurgie &amp; Minéralogie</i>) on appelle \nainsi en Allemand une<span type=\"proposed\"> partie </span>de plomb, qui n’a\npas été séparée de l’argent à la coupelle ; parce que\nle régule est venu à se durcir trop tôt : ce défaut vient\nde ce que le feu n’a pas été assez fort pour réduire\ntout le plomb en litharge. M. Cramer observe <i>dans  sa Docimasie</i>, que lorsqu’on purifie l’argent à la coupelle,\nle plomb agit comme dissolvant sur ce métal ;\nc’est pourquoi il est nécessaire d’augmenter le feu à\nmesure que le plomb se détruit &amp; se réduit en litharge. \n(—)\n \n</p>\n</div>",
     "title": "BLEY-SACK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLEY-SACK"
 }

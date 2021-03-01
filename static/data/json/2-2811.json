@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-503",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2812-0/",
+    "item_id": "2-2811",
     "next": "2-2812",
     "pages": "503",
     "prev": "2-2810",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CACHE-ENTRÉE, s. m. c’est ainsi que les <i>Serruriers</i> \nappellent une petite piece de fer qui dérobe \nl’entrée d’une serrure. Il y a des <i>cache-entrées</i> faits \navec beaucoup d’art. <i>Voyez l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SERRURE\" title=\"L’Encyclopédie/1re édition/SERRURE\"><span class=\"sc\">Serrure</span></a>, <i>&amp; </i>\n<i> l’explication des planches de Serrurerie</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CACHE-ENTRÉE, s. m. c’est ainsi que les <i>Serruriers</i> \nappellent une petite piece de fer qui dérobe \nl’entrée d’une serrure. Il y a des <i>cache-entrées</i> faits \navec beaucoup d’art. <i><span type=\"bold\">Voyez</span> l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SERRURE\" title=\"L’Encyclopédie/1re édition/SERRURE\"><span class=\"sc\">Serrure</span></a>, <i>&amp; </i>\n<i> l’explication des planches de Serrurerie</i>. \n \n</p>\n</div>",
     "title": "CACHE-ENTRÉE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHE-ENTR%C3%89E"
 }

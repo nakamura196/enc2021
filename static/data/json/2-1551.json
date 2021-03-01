@@ -2,7 +2,8 @@
     "authors": [
         "Louis de Cahusac"
     ],
-    "item_id": "2-290",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1549-0/",
+    "item_id": "2-1551",
     "next": "2-1552",
     "pages": "290",
     "prev": "2-1550",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOCANE, s. f. danse grave, ainsi nommée de\nBocan, maître à danser de la reine Anne d’Autriche,\nqui en fut l’inventeur. On commença à la danser en\n1645 : elle n’est plus d’usage. (<i>B</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOCANE, s. f. danse grave, ainsi nommée de\nBocan, maître à danser de la reine Anne d’Autriche,\nqui en fut l’inventeur. On commença à la danser en\n1645 : elle n’est plus d’usage. (<i>B</i>)\n \n</p>\n</div>",
     "title": "BOCANE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCANE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-549",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3023-0/",
+    "item_id": "2-3022",
     "next": "2-3023",
     "pages": "549",
     "prev": "2-3021",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALEÇONNIER, s. m. Les maîtres <i>Peaussiers-Teinturiers </i>\n<i>en cuir</i> prennent la qualité de <i>Caleçonniers</i>, \nparce que leurs statuts leur donnent pouvoir de passer \nles cuirs propres à faire des caleçons, qu’ils peuvent \naussi fabriquer &amp; vendre dans leurs boutiques. \n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PEAUSSIER\" title=\"L’Encyclopédie/1re édition/PEAUSSIER\"><span class=\"sc\">Peaussier</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALEÇONNIER, s. m. Les maîtres <i>Peaussiers-Teinturiers </i>\n<i>en cuir</i> prennent la qualité de <i>Caleçonniers</i>, \nparce que leurs statuts leur donnent pouvoir de passer \nles cuirs propres à faire des caleçons, qu’ils peuvent \naussi fabriquer &amp; vendre dans leurs boutiques. \n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PEAUSSIER\" title=\"L’Encyclopédie/1re édition/PEAUSSIER\"><span class=\"sc\">Peaussier</span></a>. \n \n</p>\n</div>",
     "title": "CALEÇONNIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALE%C3%87ONNIER"
 }

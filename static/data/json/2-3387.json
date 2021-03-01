@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-624",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3390-0/",
+    "item_id": "2-3387",
     "next": "2-3388",
     "pages": "624",
     "prev": "2-3386",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAOUP, arbre qui croît dans l’île de Maragnan dans l’Amérique ; sa feuille ressemble à celle du pommier : mais elle est plus large ; il a la fleur rouge ou jaune, &amp; le fruit comme l’orange pour la figure &amp; le goût : il est plein d’amandes. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAOUP, arbre qui croît dans l’île de Maragnan dans l’Amérique ; sa feuille ressemble à celle du pommier : mais elle est plus large ; il a la fleur rouge ou jaune, &amp; le fruit comme l’orange pour la figure &amp; le goût : il est plein d’amandes. \n \n</p>\n</div>",
     "title": "CAOUP",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAOUP"
 }

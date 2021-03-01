@@ -3,14 +3,15 @@
         "Jacques-Nicolas Bellin",
         "Denis Diderot"
     ],
-    "item_id": "2-8",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-73-0/",
+    "item_id": "2-71",
     "next": "2-72",
     "pages": "8",
     "prev": "2-70",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACLER <i>les ports</i>, (<i>Marine.</i>) c’est les fermer avec\ndes chaînes &amp; des barrieres. (<i>Z</i>)\n</p><p>* BACLER <i>un bateau</i> (<i>term. de Comm. &amp; de Riv.</i>)\nc’est placer dans le port un bateau commodément &amp;\nsûrement pour la charge &amp; la décharge de ses marchandises ; \nce qui s’exécute en l’attachant avec des\ncables &amp; cordages à des anneaux fixés aux ponts &amp;\nsur le rivage pour cet effet.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACLER <i>les ports</i>, (<i>Marine.</i>) c’est les fermer avec\ndes chaînes &amp; des barrieres. (<i>Z</i>)\n</p><p>* BACLER <i>un bateau</i> (<i>term. de <span type=\"proposed\">Comm.</span> &amp; de Riv.</i>)\nc’est placer dans le port un bateau commodément &amp;\nsûrement pour la charge &amp; la décharge de ses marchandises ; \nce qui s’exécute en l’attachant avec des\ncables &amp; cordages à des anneaux fixés aux ponts &amp;\nsur le rivage pour cet effet.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACLER <i>les ports</i>, (<i>Marine.</i>) c’est les fermer avec\ndes chaînes &amp; des barrieres. (<i>Z</i>)\n</p><p>* BACLER <i>un bateau</i> (<i>term. de Comm. &amp; de Riv.</i>)\nc’est placer dans le port un bateau commodément &amp;\nsûrement pour la charge &amp; la décharge de ses marchandises ; \nce qui s’exécute en l’attachant avec des\ncables &amp; cordages à des anneaux fixés aux ponts &amp;\nsur le rivage pour cet effet.\n \n</p>\n</div>",
     "title": "BACLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACLER"
 }

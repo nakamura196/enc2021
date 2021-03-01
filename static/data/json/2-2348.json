@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-425",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2350-0/",
+    "item_id": "2-2348",
     "next": "2-2349",
     "pages": "425",
     "prev": "2-2347",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROC, s. m. (<i>Commerce.</i>) mesure des liquides \nqui contient environ deux pintes de Paris. On l’appelle \nen quelques endroits une <i>quarte</i>, en d’autres un \n<i>pot. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/QUARTE\" title=\"L’Encyclopédie/1re édition/QUARTE\"><span class=\"sc\">Quarte</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POT\" title=\"L’Encyclopédie/1re édition/POT\"><span class=\"sc\">Pot</span></a>. (<i>G</i>) \n</p><p>BROC, (<i>Géog.</i>) ville du royaume de Pologne, \ndans le palatinat de <span class=\"coquille\" title=\"Mazoire\">Mazovie</span>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROC, s. m. (<i>Commerce.</i>) mesure des liquides \nqui contient environ deux pintes de Paris. On l’appelle \nen quelques endroits une <i>quarte</i>, en d’autres un \n<i>pot. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/QUARTE\" title=\"L’Encyclopédie/1re édition/QUARTE\"><span class=\"sc\">Quarte</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POT\" title=\"L’Encyclopédie/1re édition/POT\"><span class=\"sc\">Pot</span></a>. (<i>G</i>) \n</p><p>BROC, (<i>Géog.</i>) ville du royaume de Pologne, \ndans le palatinat de <span class=\"coquille\" title=\"Mazoire\">Mazovie</span>. \n \n</p>\n</div>",
     "title": "BROC",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROC"
 }

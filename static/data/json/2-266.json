@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-50",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-274-0/",
+    "item_id": "2-266",
     "next": "2-267",
     "pages": "50",
     "prev": "2-265",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBA, (<i>Géog.</i>) province d’Afrique au royaume \nde Congo.\n</p><p><span class=\"sc\">Bamba</span>, (<i>Géog. anc. &amp; mod.</i>) village de la vieille\nCastille, jadis <i>Gueritum</i>, ville de l’Espagne Tarraconoise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBA, (<i>Géog.</i>) province d’Afrique au royaume \nde Congo.\n</p><p><span class=\"sc\">Bamba</span>, (<i>Géog. anc. &amp; mod.</i>) village de la vieille\nCastille, jadis <i>Gueritum</i>, ville de l’Espagne Tarraconoise.\n \n</p>\n</div>",
     "title": "BAMBA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAMBA"
 }

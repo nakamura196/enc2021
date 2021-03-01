@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-348",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1857-0/",
+    "item_id": "2-1852",
     "next": "2-1853",
     "pages": "348",
     "prev": "2-1851",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUCAN, s. m. les marchands de bois nomment\nainsi une buche rompue par vétusté. Ce mot a encore\nun autre sens. <i>Voyez l’art. suivant</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUCAN, s. m. les marchands de bois nomment\nainsi une buche rompue par vétusté. Ce mot a encore\nun autre sens. <i><span type=\"bold\">Voyez</span> l’art. suivant</i>.\n \n</p>\n</div>",
     "title": "BOUCAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUCAN"
 }

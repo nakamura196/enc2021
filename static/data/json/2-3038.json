@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-555",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3039-0/",
+    "item_id": "2-3038",
     "next": "2-3039",
     "pages": "555",
     "prev": "2-3037",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALENGER, verbe formé de <i>calenge</i>, a les mêmes \nsignifications : en Normandie où il est encore\nen usage, il signifie <i>barguigner</i>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALENGER, verbe formé de <i>calenge</i>, a les mêmes \nsignifications : en Normandie où il est encore\nen usage, il signifie <i>barguigner</i>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "CALENGER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALENGER"
 }

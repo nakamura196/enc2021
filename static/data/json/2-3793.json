@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-739",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3796-0/",
+    "item_id": "2-3793",
     "next": "2-3794",
     "pages": "739",
     "prev": "2-3792",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASAIMACH, (<i>Géog.</i>) grande riviere d’Asie\ndans la Natolie, qui se jette dans la mere Noire.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASAIMACH, (<i>Géog.</i>) grande riviere d’Asie\ndans la Natolie, qui se jette dans la mere Noire.\n \n</p>\n</div>",
     "title": "CASAIMACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASAIMACH"
 }

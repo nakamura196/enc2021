@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-59",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-317-0/",
+    "item_id": "2-309",
     "next": "2-310",
     "pages": "59",
     "prev": "2-308",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BANNASSES, s. f. pl. c’est ainsi qu’on appelle\n<i>dans les Salines</i>, des civieres dont se servent les\nsocqueurs pour porter les cendres du fourneau\nau cendrier. <i>Voyez Planche IV. fig. 28.</i> une <i>bannasse</i>.\nCette machine n’a pas besoin de description.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BANNASSES, s. f. pl. c’est ainsi qu’on appelle\n<i>dans les Salines</i>, des civieres dont se servent les\nsocqueurs pour porter les cendres du fourneau\nau cendrier. <i><span type=\"bold\">Voyez</span> Planche IV. fig. 28.</i> une <i>bannasse</i>.\nCette machine n’a pas besoin de description.\n \n</p>\n</div>",
     "title": "BANNASSES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANNASSES"
 }

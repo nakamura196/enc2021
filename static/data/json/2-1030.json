@@ -3,7 +3,8 @@
         "Jacques-François Blondel",
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-208",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1026-0/",
+    "item_id": "2-1030",
     "next": "2-1031",
     "pages": "208",
     "prev": "2-1029",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERGE, s. m. (<i>Architect.</i>) c’est ainsi qu’on appelle \nles bords ou levées des rivieres &amp; grands chemins,\nqui étant taillées dans quelques côtes, sont escarpées \nen contre-haut, ou dressées en contre-bas\navec talud, pour empêcher l’éboulement des terres,\n&amp; retenir les chaussées faites de terres rapportées. (<i>P</i>)\n</p><p><span class=\"sc\">Berge</span>, (<i>Marine.</i>) les Marins se servent aussi\nquelquefois du terme de <i>berges</i>, pour désigner les rochers \nélevés à pic sur l’eau. Il y a sur la côte de Poitou des rochers que l’on appelle les <i>berges</i> d’Olonne.\n(<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERGE, s. m. (<i>Architect.</i>) c’est ainsi qu’on appelle \nles bords ou levées des rivieres &amp; grands chemins,\nqui étant taillées dans quelques côtes, sont escarpées \nen contre-haut, ou dressées en contre-bas\navec talud, pour empêcher l’éboulement des terres,\n&amp; retenir les chaussées faites de terres rapportées. (<i>P</i>)\n</p><p><span class=\"sc\">Berge</span>, (<i>Marine.</i>) les Marins se servent aussi\nquelquefois du terme de <i>berges</i>, pour désigner les rochers \nélevés à pic sur l’eau. Il y a sur la côte de Poitou des rochers que l’on appelle les <i>berges</i> d’Olonne.\n(<i>Z</i>)\n \n</p>\n</div>",
     "title": "BERGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERGE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-418",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2275-0/",
+    "item_id": "2-2270",
     "next": "2-2271",
     "pages": "418",
     "prev": "2-2269",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDURE, s. m. (<i>terme de Riviere &amp; de Train</i>)\nperche qui tient avec une longue roüette. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TRAIN\" title=\"L’Encyclopédie/1re édition/TRAIN\"><span class=\"sc\">Train</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ROUETTE\" title=\"L’Encyclopédie/1re édition/ROUETTE\"><span class=\"sc\">Rouette</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIDURE, s. m. (<i>terme de Riviere &amp; de Train</i>)\nperche qui tient avec une longue roüette. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TRAIN\" title=\"L’Encyclopédie/1re édition/TRAIN\"><span class=\"sc\">Train</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ROUETTE\" title=\"L’Encyclopédie/1re édition/ROUETTE\"><span class=\"sc\">Rouette</span></a>.\n \n</p>\n</div>",
     "title": "BRIDURE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIDURE"
 }

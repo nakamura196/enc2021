@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-60",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-321-0/",
+    "item_id": "2-313",
     "next": "2-314",
     "pages": "60",
     "prev": "2-312",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANNETON, s. m. <i>chez les Boulangers</i>, est une \nespece de panier d’osier sans ances, rond, &amp; revêtu\nen-dedans d’une toile. On y met lever le pain rond. \n<i>Voyez Planche du Boulanger, fig. 3</i>.\n</p><p><span class=\"sc\">Banneton</span>, est une espece de cofre fermant à \nclé, que les pêcheurs construisent sur les rivieres \npour y pouvoir garder leur poisson. Il est percé dans \nl’eau &amp; sert de réservoir. On dit aussi <i>bascule</i> ou <i>boutique</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANNETON, s. m. <i>chez les Boulangers</i>, est une \nespece de panier d’osier sans ances, rond, &amp; revêtu\nen-dedans d’une toile. On y met lever le pain rond. \n<i><span type=\"bold\">Voyez</span> Planche du Boulanger, fig. 3</i>.\n</p><p><span class=\"sc\">Banneton</span>, est une espece de cofre fermant à \nclé, que les pêcheurs construisent sur les rivieres \npour y pouvoir garder leur poisson. Il est percé dans \nl’eau &amp; sert de réservoir. On dit aussi <i>bascule</i> ou <i>boutique</i>.\n \n</p>\n</div>",
     "title": "BANNETON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANNETON"
 }

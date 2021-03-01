@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-192",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-838-0/",
+    "item_id": "2-842",
     "next": "2-843",
     "pages": "192",
     "prev": "2-841",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEJA <i>ou</i> BEJER, (<i>Géog.</i>) contrée de Barbarie,\ndans le royaume de Tunis.\n</p><p>* <span class=\"sc\">Beja</span>, (<i>Géog.</i>) ville de Portugal, dans l’Alentejo,\nprès du lac de même nom ; <i>long. 10. 10. lat. 37. 58</i>.\nOn dit qu’il y a dans ce lac une espece de poisson bon\nà manger, qui présage la pluie &amp; la tempête, &amp; l’annonce \npar des mugissemens semblables à ceux du taureau ; \nd’autres attribuent ces mugissemens &amp; le bruit,\nprécurseurs des mauvais tems, à l’agitation des eaux\ndu lac.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEJA <i>ou</i> BEJER, (<i>Géog.</i>) contrée de Barbarie,\ndans le royaume de Tunis.\n</p><p>* <span class=\"sc\">Beja</span>, (<i>Géog.</i>) ville de Portugal, dans l’Alentejo,\nprès du lac de même nom ; <i>long. 10. 10. lat. 37. 58</i>.\nOn dit qu’il y a dans ce lac une espece de poisson bon\nà manger, qui présage la pluie &amp; la tempête, &amp; l’annonce \npar des mugissemens semblables à ceux du taureau ; \nd’autres attribuent ces mugissemens &amp; le bruit,\nprécurseurs des mauvais tems, à l’agitation des eaux\ndu lac.\n \n</p>\n</div>",
     "title": "BEJA ou BEJER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEJA_ou_BEJER"
 }

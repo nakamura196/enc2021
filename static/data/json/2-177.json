@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-23",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-184-0/",
+    "item_id": "2-177",
     "next": "2-178",
     "pages": "23",
     "prev": "2-176",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAISER, <i>terme de Géométrie</i>. On dit que deux courbes,\nou deux branches de courbes se baisent, lorsqu’elles \nse touchent en tournant leurs concavités vers\nle même côté ; c’est-à-dire, de maniere que la concavité \nde l’une regarde la convexité de l’autre : mais\nsi l’une tourne sa concavité d’un côté, &amp; l’autre d’un\nautre côté, ou ce qui revient au même. si les deux\nconvexités se regardent, alors on dit simplement\nqu’elles se touchent. Ainsi le point <i>baisant</i> &amp; le point\n<i>touchant</i> sont différens.\n</p><p>On employe plus particulierement le terme de\n<i>baiser</i>, pour exprimer le contact de deux courbes qui\nont la même courbure au point de contact, c’est-à-dire, \nle même rayon de développée. Le <i>baisement</i>\ns’appelle encore alors <i>osculation. V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OSCULATION\" title=\"L’Encyclopédie/1re édition/OSCULATION\"><span class=\"sc\">Osculation</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/D%C3%89VELOPP%C3%89ES\" title=\"L’Encyclopédie/1re édition/DÉVELOPPÉES\"><span class=\"sc\">Développée</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COURBURE\" title=\"L’Encyclopédie/1re édition/COURBURE\"><span class=\"sc\">Courbure</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAISER, <i>terme de Géométrie</i>. On dit que deux courbes,\nou deux branches de courbes se baisent, lorsqu’elles \nse touchent en tournant leurs concavités vers\nle même côté ; c’est-à-dire, de maniere que la concavité \nde l’une regarde la convexité de l’autre : mais\nsi l’une tourne sa concavité d’un côté, &amp; l’autre d’un\nautre côté, ou ce qui revient au même. si les deux\nconvexités se regardent, alors on dit simplement\nqu’elles se touchent. Ainsi le point <i>baisant</i> &amp; le point\n<i>touchant</i> sont différens.\n</p><p>On employe plus particulierement le terme de\n<i>baiser</i>, pour exprimer le contact de deux courbes qui\nont la même courbure au point de contact, c’est-à-dire, \nle même rayon de développée. Le <i>baisement</i>\ns’appelle encore alors <i>osculation. V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/OSCULATION\" title=\"L’Encyclopédie/1re édition/OSCULATION\"><span class=\"sc\">Osculation</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/D%C3%89VELOPP%C3%89ES\" title=\"L’Encyclopédie/1re édition/DÉVELOPPÉES\"><span class=\"sc\">Développée</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COURBURE\" title=\"L’Encyclopédie/1re édition/COURBURE\"><span class=\"sc\">Courbure</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "title": "BAISER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAISER"
 }

@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-470",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2694-0/",
+    "item_id": "2-2691",
     "next": "2-2692",
     "pages": "470",
     "prev": "2-2690",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTTIMAN, (<i>Commerce.</i>) c’est un poids d’usage\nen Perse, qui revient aux environs de 25 livres.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTTIMAN, (<i>Commerce.</i>) c’est un poids d’usage\nen <span type=\"auteur_p\">Perse</span>, qui revient aux environs de 25 livres.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTTIMAN, (<i>Commerce.</i>) c’est un poids d’usage\nen Perse, qui revient aux environs de 25 livres.\n \n</p>\n</div>",
     "title": "BUTTIMAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUTTIMAN"
 }

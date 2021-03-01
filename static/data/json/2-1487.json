@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-280",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1485-0/",
+    "item_id": "2-1487",
     "next": "2-1488",
     "pages": "280",
     "prev": "2-1486",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLAUBEUREN, (<i>Géog.</i>) petite ville d’Allemagne \ndans le duché de Wirtemberg, sur la riviere \nd’Ach. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLAUBEUREN, (<i>Géog.</i>) petite ville d’Allemagne \ndans le duché de Wirtemberg, sur la riviere \nd’Ach. \n \n</p>\n</div>",
     "title": "BLAUBEUREN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLAUBEUREN"
 }

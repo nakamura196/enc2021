@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-371",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1972-0/",
+    "item_id": "2-1965",
     "next": "2-1966",
     "pages": "371",
     "prev": "2-1964",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOURIQUET, s. m. (<i>Minéral.</i>) espece d’escabelle \ndont on se sert dans les fonderies en cuivre,\npour contenir les branches de la tenaille, lorsqu’on\nemploye ce dernier instrument à tenir le creuset dans\nson aplomb tandis qu’on le charge.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOURIQUET, s. m. (<i>Minéral.</i>) espece d’escabelle \ndont on se sert dans les fonderies en cuivre,\npour contenir les branches de la tenaille, lorsqu’on\nemploye ce dernier instrument à tenir le creuset dans\nson aplomb tandis qu’on le charge.\n \n</p>\n</div>",
     "title": "BOURIQUET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURIQUET"
 }

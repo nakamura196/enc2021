@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3882-1/",
+    "item_id": "2-3881",
     "next": "2-3882",
     "pages": "749",
     "prev": "2-3880",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Bolognese</span>, petite ville d’Italie, dans\nl’état ecclésiastique, au Bolognese.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Bolognese</span>, petite ville d’Italie, dans\nl’état ecclésiastique, au Bolognese.\n \n</p>\n</div>",
     "title": "CASTEL-BOLOGNESE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTEL-BOLOGNESE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-241",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1183-0/",
+    "item_id": "2-1187",
     "next": "2-1188",
     "pages": "241",
     "prev": "2-1186",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BICANER, (<i>Géog.</i>) ville d’Asie dans les états \ndu Mogol, sur le Gange ; c’est la capitale de la province \nde Bacar. <i>Lon. 100. 20. lat. 28. 40</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BICANER, (<i>Géog.</i>) ville d’Asie dans les états \ndu Mogol, sur le Gange ; c’est la capitale de la province \nde Bacar. <i>Lon. 100. 20. lat. 28. 40</i>. \n \n</p>\n</div>",
     "title": "BICANER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BICANER"
 }

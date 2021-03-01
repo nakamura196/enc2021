@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2335-0/",
+    "item_id": "2-2333",
     "next": "2-2334",
     "pages": "424",
     "prev": "2-2332",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISIS, s. m. se dit, <i>en Architecture</i>, de l’angle\nque forme un comble brisé, c’est-à-dire la partie où\nse vient joindre le faux-comble avec le vrai, comme \nsont ceux à la mansarde : aussi ce nom n’est-il\nusité que dans cette sorte de couverture. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISIS, s. m. se dit, <i>en Architecture</i>, de l’angle\nque forme un comble brisé, c’est-à-dire la<span type=\"proposed\"> partie </span>où\nse vient joindre le faux-comble avec le vrai, comme \nsont ceux à la mansarde : aussi ce nom n’est-il\nusité que dans cette sorte de couverture. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BRISIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISIS"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-690",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3698-0/",
+    "item_id": "2-3695",
     "next": "2-3696",
     "pages": "690",
     "prev": "2-3694",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARNÉ, adj. (<i>Jardinage</i>) se dit d’un œillet dont\nle blanc tire sur la couleur de chair ; ce qui est regardé \ncomme un défaut dans un œillet. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARNÉ, adj. (<i>Jardinage</i>) se dit d’un œillet dont\nle blanc tire sur la couleur de chair ; ce qui est regardé \ncomme un défaut dans un œillet. (<i>K</i>)\n \n</p>\n</div>",
     "title": "CARNÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARN%C3%89"
 }

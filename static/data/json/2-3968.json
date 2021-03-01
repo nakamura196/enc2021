@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-766",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3956-0/",
+    "item_id": "2-3968",
     "next": "2-3969",
     "pages": "766",
     "prev": "2-3967",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATAPUCE, s. f. (<i>Hist. nat.</i>) plante medicinale, qu’on appelle communément <i>petite tithymale</i>. Elle purge par haut &amp; par bas avec tant de violence, qu’il y a peu de Medecins qui osent hasarder de l’ordonner, <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TITIMALE_ou_TITHYMALE\" title=\"L’Encyclopédie/1re édition/TITIMALE ou TITHYMALE\"><span class=\"sc\">Tithymale</span></a>. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATAPUCE, s. f. (<i>Hist. nat.</i>) plante medicinale, qu’on appelle communément <i>petite tithymale</i>. Elle purge par haut &amp; par bas avec tant de violence, qu’il y a peu de Medecins qui osent hasarder de l’ordonner, <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TITIMALE_ou_TITHYMALE\" title=\"L’Encyclopédie/1re édition/TITIMALE ou TITHYMALE\"><span class=\"sc\">Tithymale</span></a>. \n</p>\n</div>",
     "title": "CATAPUCE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATAPUCE"
 }

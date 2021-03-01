@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-242",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1207-0/",
+    "item_id": "2-1210",
     "next": "2-1211",
     "pages": "242",
     "prev": "2-1209",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIDON, s. m. (<i>Commerce</i>) mesure des liquides\nqui tient environ cinq pintes de Paris ; ce terme n’est\nguere d’usage que parmi les équipages de marine,\noù ce vase sert à mettre le vin qu’on donne à chaque \nplat de matelots. C’est une espece de broc de\nbois relié de cercles de fer. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROC\" title=\"L’Encyclopédie/1re édition/BROC\"><span class=\"sc\">Broc</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIDON, s. m. (<i>Commerce</i>) mesure des liquides\nqui tient environ cinq pintes de Paris ; ce terme n’est\nguere d’usage que parmi les équipages de marine,\noù ce vase sert à mettre le vin qu’on donne à chaque \nplat de matelots. C’est une espece de broc de\nbois relié de cercles de fer. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROC\" title=\"L’Encyclopédie/1re édition/BROC\"><span class=\"sc\">Broc</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BIDON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIDON"
 }

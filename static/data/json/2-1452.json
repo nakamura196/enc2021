@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-269",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1449-0/",
+    "item_id": "2-1452",
     "next": "2-1453",
     "pages": "269",
     "prev": "2-1451",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAISOIS, (<span class=\"sc\">le</span>) <i>Géog.</i> province de France,\nbornée au nord par la Beauce, à l’orient par l’Orléanois, \nau midi par le Berry, à l’occident par la\nTouraine : Blois en est la capitale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BLAISOIS, (<span class=\"sc\">le</span>) <i>Géog.</i> province de France,\nbornée au nord par la Beauce, à l’orient par l’Orléanois, \nau midi par le Berry, à l’occident par la\nTouraine : Blois en est la capitale.\n \n</p>\n</div>",
     "title": "BLAISOIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLAISOIS"
 }

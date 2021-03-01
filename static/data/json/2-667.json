@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-146",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-664-0/",
+    "item_id": "2-667",
     "next": "2-668",
     "pages": "146",
     "prev": "2-666",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATRACHITE, s. f. (<i>Hist. nat.</i>) pierre qui se\ntrouve, dit-on, dans la grenouille. On lui attribue de\ngrandes vertus contre les venins : mais l’existence\nde la pierre n’est pas encore constatée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATRACHITE, s. f. (<i>Hist. nat.</i>) pierre qui se\ntrouve, dit-on, dans la grenouille. On lui attribue de\ngrandes vertus contre les venins : mais l’existence\nde la pierre n’est pas encore constatée.\n \n</p>\n</div>",
     "title": "BATRACHITE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATRACHITE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4090-0/",
+    "item_id": "2-4101",
     "next": "2-4102",
     "pages": "794",
     "prev": "2-4100",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAXEM <i>ou</i> CAYEM, (<i>Géog.</i>) ville d’Asie dans\nl’Arabie heureuse, avec un bon port.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAXEM <i>ou</i> CAYEM, (<i>Géog.</i>) ville d’Asie dans\nl’Arabie heureuse, avec un bon port.\n \n</p>\n</div>",
     "title": "CAXEM ou CAYEM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAXEM_ou_CAYEM"
 }

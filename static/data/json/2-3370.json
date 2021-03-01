@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-623",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3373-0/",
+    "item_id": "2-3370",
     "next": "2-3371",
     "pages": "623-624",
     "prev": "2-3369",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTONNER <span class=\"sc\">des troupes</span>, (<i>Art milit.</i>) c’est <span><span class=\"pagenum ws-pagenum\" id=\"624\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/628\"></span></span>les disperser en différens corps qu’on place dans un pays, pour leur donner plus de facilité pour les subsistances. (<i>Q</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTONNER <span class=\"sc\">des troupes</span>, (<i>Art milit.</i>) c’est <span><span class=\"pagenum ws-pagenum\" id=\"624\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/628\"></span></span>les disperser en différens corps qu’on place dans un pays, pour leur donner plus de facilité pour les subsistances. (<i>Q</i>) \n \n</p>\n</div>",
     "title": "CANTONNER des troupes",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTONNER_des_troupes"
 }

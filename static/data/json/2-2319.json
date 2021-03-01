@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-423",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2324-0/",
+    "item_id": "2-2319",
     "next": "2-2320",
     "pages": "423",
     "prev": "2-2318",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIQUETIER, s. m. ouvrier manufacturier de\nbriques. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIQUE\" title=\"L’Encyclopédie/1re édition/BRIQUE\"><span class=\"sc\">Brique</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TUILE\" title=\"L’Encyclopédie/1re édition/TUILE\"><span class=\"sc\">Tuile</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIQUETIER, s. m. ouvrier manufacturier de\nbriques. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIQUE\" title=\"L’Encyclopédie/1re édition/BRIQUE\"><span class=\"sc\">Brique</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TUILE\" title=\"L’Encyclopédie/1re édition/TUILE\"><span class=\"sc\">Tuile</span></a>.\n \n</p>\n</div>",
     "title": "BRIQUETIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIQUETIER"
 }

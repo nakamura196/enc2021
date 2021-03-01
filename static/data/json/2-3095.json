@@ -2,7 +2,8 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-563",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3096-0/",
+    "item_id": "2-3095",
     "next": "2-3096",
     "pages": "563",
     "prev": "2-3094",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALOMEL, s. m. <i>terme de Pharmacie</i>, nom qu’on\ndonne au mercure doux, sublimé jusqu’à quatre fois\nou même davantage. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MERCURE\" title=\"L’Encyclopédie/1re édition/MERCURE\"><span class=\"sc\">Mercure</span></a>.\n</p><p>Il paroît que cette dénomination a été d’abord donnée \nà l’éthiops minéral, &amp; est composée des deux\nmots Grecs <span class=\"lang-grc\" lang=\"grc\">ϰαλὸς</span>, <i>beau</i>, &amp; <span class=\"lang-grc\" lang=\"grc\">μέλας</span>, <i>noir</i>, parce que\nles corps pâles ou blancs qu’on en frotte, deviennent \nnoirs. <i>Voyez</i> <span class=\"sc\">Ethiops</span>.\n</p><p>D’autres veulent qu’elle ait été donnée dès le commencement \nau mercure doux, par la fantaisie d’un\ncertain Chimiste qui se faisoit servir dans ses opérations \npar un noir, &amp; que cette dénomination fait allusion \ntout-à-la-fois à la couleur de l’aide qui étoit\nnoir, &amp; à la beauté du médicament qui étoit d’une\nfort belle apparence. (<i>N</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALOMEL, s. m. <i>terme de Pharmacie</i>, nom qu’on\ndonne au mercure doux, sublimé jusqu’à quatre fois\nou même davantage. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MERCURE\" title=\"L’Encyclopédie/1re édition/MERCURE\"><span class=\"sc\">Mercure</span></a>.\n</p><p>Il paroît que cette dénomination a été d’abord donnée \nà l’éthiops minéral, &amp; est composée des deux\nmots Grecs <span class=\"lang-grc\" lang=\"grc\">ϰαλὸς</span>, <i>beau</i>, &amp; <span class=\"lang-grc\" lang=\"grc\">μέλας</span>, <i>noir</i>, parce que\nles corps pâles ou blancs qu’on en frotte, deviennent \nnoirs. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Ethiops</span>.\n</p><p>D’autres veulent qu’elle ait été donnée dès le commencement \nau mercure doux, par la fantaisie d’un\ncertain Chimiste qui se faisoit servir dans ses opérations \npar un noir, &amp; que cette dénomination fait allusion \ntout-à-la-fois à la couleur de l’aide qui étoit\nnoir, &amp; à la beauté du médicament qui étoit d’une\nfort belle apparence. (<i>N</i>)\n \n</p>\n</div>",
     "title": "CALOMEL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALOMEL"
 }

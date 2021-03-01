@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1083-0/",
+    "item_id": "2-1087",
     "next": "2-1088",
     "pages": "212",
     "prev": "2-1086",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERTONNEAU, <i>poisson. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TURBOT\" title=\"L’Encyclopédie/1re édition/TURBOT\"><span class=\"sc\">Turbot</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERTONNEAU, <i>poisson. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TURBOT\" title=\"L’Encyclopédie/1re édition/TURBOT\"><span class=\"sc\">Turbot</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BERTONNEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERTONNEAU"
 }

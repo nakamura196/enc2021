@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-66",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-345-0/",
+    "item_id": "2-337",
     "next": "2-338",
     "pages": "66",
     "prev": "2-336",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAPTISTE, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ANABAPTISTES\" title=\"L’Encyclopédie/1re édition/ANABAPTISTES\"><span class=\"sc\">Anabaptistes</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATABAPTISTE\" title=\"L’Encyclopédie/1re édition/CATABAPTISTE\"><span class=\"sc\">Catabaptistes</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HEMEROBAPTISTES\" title=\"L’Encyclopédie/1re édition/HEMEROBAPTISTES\"><span class=\"sc\">Hemero-Baptistes</span></a>.\n</p><p><i>Hermites de S. Jean-Baptiste, voy.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HERMITE\" title=\"L’Encyclopédie/1re édition/HERMITE\"><span class=\"sc\">Hermites</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAPTISTE, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ANABAPTISTES\" title=\"L’Encyclopédie/1re édition/ANABAPTISTES\"><span class=\"sc\">Anabaptistes</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATABAPTISTE\" title=\"L’Encyclopédie/1re édition/CATABAPTISTE\"><span class=\"sc\">Catabaptistes</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HEMEROBAPTISTES\" title=\"L’Encyclopédie/1re édition/HEMEROBAPTISTES\"><span class=\"sc\">Hemero-Baptistes</span></a>.\n</p><p><i>Hermites de S. Jean-Baptiste, voy.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HERMITE\" title=\"L’Encyclopédie/1re édition/HERMITE\"><span class=\"sc\">Hermites</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BAPTISTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAPTISTE"
 }

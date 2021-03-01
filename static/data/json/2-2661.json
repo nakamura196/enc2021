@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-468",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2664-0/",
+    "item_id": "2-2661",
     "next": "2-2662",
     "pages": "468",
     "prev": "2-2660",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURY, (<i>S. Edmunds</i>) <i>Géog.</i> petite ville d’Angleterre, \ndans la province de Lancastre, sur la riviere \nd’Itwell. Il y a encore une autre ville de ce\nnom en Angleterre, dans la province de Suffolk, à\n7 ou 8 milles de Newmarcket.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURY, (<i>S. Edmunds</i>) <i>Géog.</i> petite ville d’Angleterre, \ndans la province de Lancastre, sur la riviere \nd’Itwell. Il y a encore une autre ville de ce\nnom en Angleterre, dans la province de Suffolk, à\n7 ou 8 milles de Newmarcket.\n \n</p>\n</div>",
     "title": "BURY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURY"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-32",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-211-0/",
+    "item_id": "2-204",
     "next": "2-205",
     "pages": "32",
     "prev": "2-203",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALANÇONS, s. m. pl. (<i>Œconom. rust.</i>) c’est ainsi qu’on appelle en Languedoc de petites pieces de bois de sapin débitées : on les y estime à trois livres la douzaine. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALANÇONS, s. m. pl. (<i>Œconom. rust.</i>) c’est ainsi qu’on appelle en Languedoc de petites pieces de bois de sapin débitées : on les y estime à trois livres la douzaine. \n \n</p>\n</div>",
     "title": "BALANÇONS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALAN%C3%87ONS"
 }

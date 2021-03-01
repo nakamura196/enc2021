@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-787",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4066-0/",
+    "item_id": "2-4077",
     "next": "2-4078",
     "pages": "787",
     "prev": "2-4076",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVIN, s. m. (<i>Fortification</i>) est un lieu creux propre \nà couvrir un corps de troupes, &amp; à favoriser les\napproches d’une place.\n</p><p>Les <i>cavins</i> qui se trouvent auprès d’une place assiégée \nsont d’un grand avantage aux assiégeans ; puisque \npar leur moyen ils peuvent ouvrir la tranchée,\nconstruire des places d’armes, mettre à couvert la\ncavalerie, sans être exposés au feu des assiégés. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVIN, s. m. (<i>Fortification</i>) est un lieu creux propre \nà couvrir un corps de troupes, &amp; à favoriser les\napproches d’une place.\n</p><p>Les <i>cavins</i> qui se trouvent auprès d’une place assiégée \nsont d’un grand avantage aux assiégeans ; puisque \npar leur moyen ils peuvent ouvrir la tranchée,\nconstruire des places d’armes, mettre à couvert la\ncavalerie, sans être exposés au feu des assiégés. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "CAVIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVIN"
 }

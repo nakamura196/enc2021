@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-90",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-491-0/",
+    "item_id": "2-480",
     "next": "2-481",
     "pages": "90",
     "prev": "2-479",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRACAN, s. m. (<i>Commerce.</i>) étoffe forte,\ndont la chaîne est de laine d’estame retorse, la trame \nà l’ordinaire, &amp; qui se fabrique comme le drap ;\nle nombre des fils est plus considérable, proportion\ngardée, que dans les autres étoffes, parce que celle-ci \nne va point au foulon : il faut par la même raison \nqu’elle soit frappée extraordinairement fort. <i>Voyez  la manufacture de drap à l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DRAPERIE\" title=\"L’Encyclopédie/1re édition/DRAPERIE\"><span class=\"sc\">Draperie</span></a>. Elle est\nau sortir du métier telle qu’elle sera employée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRACAN, s. m. (<i>Commerce.</i>) étoffe forte,\ndont la chaîne est de laine d’estame retorse, la trame \nà l’ordinaire, &amp; qui se fabrique comme le drap ;\nle nombre des fils est plus considérable, proportion\ngardée, que dans les autres étoffes, parce que celle-ci \nne va point au foulon : il faut par la même raison \nqu’elle soit frappée extraordinairement fort. <i><span type=\"bold\">Voyez</span>  la manufacture de drap à l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DRAPERIE\" title=\"L’Encyclopédie/1re édition/DRAPERIE\"><span class=\"sc\">Draperie</span></a>. Elle est\nau sortir du métier telle qu’elle sera employée.\n \n</p>\n</div>",
     "title": "BARRACAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRACAN"
 }

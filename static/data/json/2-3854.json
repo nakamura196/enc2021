@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-747",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3856-0/",
+    "item_id": "2-3854",
     "next": "2-3855",
     "pages": "747",
     "prev": "2-3853",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSIMERA, (<i>Géog.</i>) pays d’Asie dans les états\ndu grand-mogol, aux frontieres de la grande Tartarie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSIMERA, (<i>Géog.</i>) pays d’Asie dans les états\ndu grand-mogol, aux frontieres de la grande Tartarie.\n \n</p>\n</div>",
     "title": "CASSIMERA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASSIMERA"
 }

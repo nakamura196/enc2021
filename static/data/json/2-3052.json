@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-556",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3053-0/",
+    "item_id": "2-3052",
     "next": "2-3053",
     "pages": "556",
     "prev": "2-3051",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALIACA, (<i>Géog.</i>) ville &amp; port d’Europe, dans\nla Bulgarie, sur la mer noire, appartenante aux\nTurcs.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALIACA, (<i>Géog.</i>) ville &amp; port d’Europe, dans\nla Bulgarie, sur la mer noire, appartenante aux\nTurcs.\n \n</p>\n</div>",
     "title": "CALIACA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALIACA"
 }

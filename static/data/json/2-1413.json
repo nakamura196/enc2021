@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-267",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1410-0/",
+    "item_id": "2-1413",
     "next": "2-1414",
     "pages": "267",
     "prev": "2-1412",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BITCHU <i>ou</i> BITCOU, (<i>Géog.</i>) ville de l’île\nde Niphon au Japon, &amp; capitale d’un petit royaume \nde même nom, situé sur le golphe de Méaco.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BITCHU <i>ou</i> BITCOU, (<i>Géog.</i>) ville de l’île\nde Niphon au Japon, &amp; capitale d’un petit royaume \nde même nom, situé sur le golphe de Méaco.\n \n</p>\n</div>",
     "title": "BITCHU ou BITCOU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BITCHU_ou_BITCOU"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-538",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2949-0/",
+    "item_id": "2-2948",
     "next": "2-2949",
     "pages": "538",
     "prev": "2-2947",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAISSIER, s. m. (<i>Commerce &amp; Finance.</i>) est celui\nqui tient un état des revenus &amp; des deniers d’une\ncompagnie, &amp; en rend compte. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RECEVEUR\" title=\"L’Encyclopédie/1re édition/RECEVEUR\"><span class=\"sc\">Receveur</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TR%C3%89SORIER\" title=\"L’Encyclopédie/1re édition/TRÉSORIER\"><span class=\"sc\">Thrésorier</span></a>.\n</p><p>Savary le définit celui qui garde l’argent d’une\ncompagnie ou d’un banquier, négociant, <i>&amp;c.</i> &amp; qui\nest chargé de recevoir &amp; de payer. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAISSIER, s. m. (<i>Commerce &amp; Finance.</i>) est celui\nqui tient un état des revenus &amp; des deniers d’une\ncompagnie, &amp; en rend compte. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RECEVEUR\" title=\"L’Encyclopédie/1re édition/RECEVEUR\"><span class=\"sc\">Receveur</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TR%C3%89SORIER\" title=\"L’Encyclopédie/1re édition/TRÉSORIER\"><span class=\"sc\">Thrésorier</span></a>.\n</p><p>Savary le définit celui qui garde l’argent d’une\ncompagnie ou d’un banquier, négociant, <i>&amp;c.</i> &amp; qui\nest chargé de recevoir &amp; de payer. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CAISSIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAISSIER"
 }

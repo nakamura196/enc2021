@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-464",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2615-0/",
+    "item_id": "2-2612",
     "next": "2-2613",
     "pages": "464",
     "prev": "2-2611",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURAMOS (<span class=\"sc\">les</span>) <i>ou les</i> PAPAIS, <i>Géog.</i> peuple \nd’Afrique dans la Nigritie : ils demeurent autour de \nla riviere de Saint-Domingo. Leur pays s’étend jusqu’à \nl’embouchure du Riogrande. Cette nation est \nidolatre. On dit que dans ce pays les femmes, pour \ns’empêcher de parler, prennent dans leur bouche \nune gorgée d’eau qu’elles gardent la moitié d’une \njournée, sans que cela les empêche de travailler. \n<i>Voyez Dict. de la</i> Martiniere. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURAMOS (<span class=\"sc\">les</span>) <i>ou les</i> PAPAIS, <i>Géog.</i> peuple \nd’Afrique dans la Nigritie : ils demeurent autour de \nla riviere de Saint-Domingo. Leur pays s’étend jusqu’à \nl’embouchure du Riogrande. Cette nation est \nidolatre. On dit que dans ce pays les femmes, pour \ns’empêcher de parler, prennent dans leur bouche \nune gorgée d’eau qu’elles gardent la moitié d’une \njournée, sans que cela les empêche de travailler. \n<i><span type=\"bold\">Voyez</span> <span type=\"proposed\">Dict.</span> de la</i> Martiniere. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURAMOS (<span class=\"sc\">les</span>) <i>ou les</i> PAPAIS, <i>Géog.</i> peuple \nd’Afrique dans la Nigritie : ils demeurent autour de \nla riviere de Saint-Domingo. Leur pays s’étend jusqu’à \nl’embouchure du Riogrande. Cette nation est \nidolatre. On dit que dans ce pays les femmes, pour \ns’empêcher de parler, prennent dans leur bouche \nune gorgée d’eau qu’elles gardent la moitié d’une \njournée, sans que cela les empêche de travailler. \n<i><span type=\"bold\">Voyez</span> Dict. de la</i> Martiniere. \n \n</p>\n</div>",
     "title": "BURAMOS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURAMOS"
 }

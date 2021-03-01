@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-324",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1696-0/",
+    "item_id": "2-1697",
     "next": "2-1698",
     "pages": "324",
     "prev": "2-1696",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONNEAU, s. m. GAVITEAU, (<i>Marine</i>) c’est\nun morceau de bois ou de liége, &amp; quelquefois un\nbarril relié de fer, qui flottant sur l’eau, marque l’endroit \noù les ancres sont mouillées dans les ports ou\nrades. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOU%C3%89E\" title=\"L’Encyclopédie/1re édition/BOUÉE\"><span class=\"sc\">Bouée</span></a>. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONNEAU, s. m. GAVITEAU, (<i>Marine</i>) c’est\nun morceau de bois ou de liége, &amp; quelquefois un\nbarril relié de fer, qui flottant sur l’eau, marque l’endroit \noù les ancres sont mouillées dans les ports ou\nrades. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOU%C3%89E\" title=\"L’Encyclopédie/1re édition/BOUÉE\"><span class=\"sc\">Bouée</span></a>. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BONNEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONNEAU"
 }

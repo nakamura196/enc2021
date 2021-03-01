@@ -2,7 +2,8 @@
     "authors": [
         "Paul Henri Thiry d’Holbach"
     ],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2645-0/",
+    "item_id": "2-2642",
     "next": "2-2643",
     "pages": "466-467",
     "prev": "2-2641",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGMANN, (<i>Hist. mod.</i>) c’est le nom qu’on <span><span class=\"pagenum ws-pagenum\" id=\"467\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/471\"></span></span>donne en Allemagne dans les deux villes de Fridberg \n&amp; de Gelnhausen, aux conseillers de ville : pour être \nadmis parmi eux, il faut faire preuve de noblesse ; \nles princes &amp; les comtes en sont néanmoins exclus ; \nce sont ces conseillers qui élisent le burggrave, qui \nreleve immédiatement de l’empereur. (—) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGMANN, (<i>Hist. mod.</i>) c’est le nom qu’on <span><span class=\"pagenum ws-pagenum\" id=\"467\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/471\"></span></span>donne en Allemagne dans les deux villes de Fridberg \n&amp; de Gelnhausen, aux conseillers de ville : pour être \nadmis parmi eux, il faut faire preuve de noblesse ; \nles princes &amp; les comtes en sont néanmoins exclus ; \nce sont ces conseillers qui élisent le burggrave, qui \nreleve immédiatement de l’empereur. (—) \n \n</p>\n</div>",
     "title": "BURGMANN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURGMANN"
 }

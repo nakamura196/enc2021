@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-505",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2827-0/",
+    "item_id": "2-2826",
     "next": "2-2827",
     "pages": "505",
     "prev": "2-2825",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHOT, s. m. (<i>Architect.</i>) c’est dans les prisons \nun lieu soûterrain, voûté, sans aucun jour, où \nl’on enferme les malfaiteurs. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHOT, s. m. (<i>Architect.</i>) c’est dans les prisons \nun lieu soûterrain, voûté, sans aucun jour, où \nl’on enferme les malfaiteurs. \n \n</p>\n</div>",
     "title": "CACHOT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHOT"
 }

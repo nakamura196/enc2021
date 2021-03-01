@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-766",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3955-0/",
+    "item_id": "2-3967",
     "next": "2-3968",
     "pages": "766",
     "prev": "2-3966",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATAPHORE, s. f. <span class=\"lang-grc\" lang=\"grc\">καταφορὰ</span>, <i>terme de Medecine</i>, sorte de léthargie ou assoupissement : c’est la même chose que le <i>coma. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COMA\" title=\"L’Encyclopédie/1re édition/COMA\"><span class=\"sc\">Coma</span></a>.\n</p><p>Ce mot est composé de la préposition <span class=\"lang-grc\" lang=\"grc\">κατὰ</span>, ou <span class=\"lang-grc\" lang=\"grc\">κάτω</span>, <i>en-bas</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">φέρω</span>, <i>je porte</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATAPHORE, s. f. <span class=\"lang-grc\" lang=\"grc\">καταφορὰ</span>, <i>terme de Medecine</i>, sorte de léthargie ou assoupissement : c’est la même chose que le <i>coma. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COMA\" title=\"L’Encyclopédie/1re édition/COMA\"><span class=\"sc\">Coma</span></a>.\n</p><p>Ce mot est composé de la préposition <span class=\"lang-grc\" lang=\"grc\">κατὰ</span>, ou <span class=\"lang-grc\" lang=\"grc\">κάτω</span>, <i>en-bas</i>, &amp; de <span class=\"lang-grc\" lang=\"grc\">φέρω</span>, <i>je porte</i>. \n \n</p>\n</div>",
     "title": "CATAPHORE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATAPHORE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-540",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2993-0/",
+    "item_id": "2-2993",
     "next": "2-2994",
     "pages": "540",
     "prev": "2-2992",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAT, (<i>Géog.</i>) ville d’Asie dans le royaume\nde Cotan, près de Candahar.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAT, (<i>Géog.</i>) ville d’Asie dans le royaume\nde Cotan, près de Candahar.\n \n</p>\n</div>",
     "title": "CALAT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALAT"
 }

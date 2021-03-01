@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-12",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-122-0/",
+    "item_id": "2-115",
     "next": "2-116",
     "pages": "12",
     "prev": "2-114",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNA-BEBUSSO, <i>ou</i> BILIBUSSA, (<i>Géog. anc. &amp; mod.</i>) ville de la Turquie en Europe, sur la Stromona, dans la Macédoine, aux confins de la Romanie &amp; de la Bulgarie : c’étoit autrefois <i>Heraclea Sintica</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGNA-BEBUSSO, <i>ou</i> BILIBUSSA, (<i>Géog. anc. &amp; mod.</i>) ville de la Turquie en Europe, sur la Stromona, dans la Macédoine, aux confins de la Romanie &amp; de la Bulgarie : c’étoit autrefois <i>Heraclea Sintica</i>. \n \n</p>\n</div>",
     "title": "BAGNA-BEBUSSO, ou BILIBUSSA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAGNA-BEBUSSO,_ou_BILIBUSSA"
 }

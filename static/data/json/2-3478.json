@@ -3,7 +3,8 @@
         "Jacques-François Blondel",
         "Jean-Jacques Rousseau"
     ],
-    "item_id": "2-637",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3480-0/",
+    "item_id": "2-3478",
     "next": "2-3479",
     "pages": "637-638",
     "prev": "2-3477",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRICE, s. f. (<i>en Architecture.</i>) on se sert de ce\nnom par métaphore, pour exprimer une  <span><span class=\"pagenum ws-pagenum\" id=\"638\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/642\"></span></span>composition bisarre, quoiqu’ingénieuse, mais qui est éloignée des préceptes de l’Art, tels que sont les ouvrages \ndu Boromini, Architecte d’Italie, de Berin, &amp; de\nla Joue, Peintres &amp; Dessinateurs François, &amp; de plusieurs \nautres de nos jours ; par une imagination\naussi fertile que déréglée, ils mettent en usage des licences \nqui autorisent la plûpart des jeunes Architectes sans expérience &amp; sans regle à les imiter, &amp; par\nlà à rendre l’Architecture susceptible de variations,\ncomme les habits, les modes, <i>&amp;c.</i> (<i>P</i>)\n</p><p><span class=\"sc\">Caprice</span>, <i>ou</i> <span class=\"sc\">Fantaisie</span>, sorte de piece de Musique libre, dans laquelle l’auteur sans s’assujettir à\nrien, donne carriere à son génie, &amp; se livre à tout\nle feu de la composition : le <i>caprice</i> de Rebel étoit\nestimé dans son tems ; aujourd’hui les <i>caprices</i> de Locatelli donnent de l’exercice à nos violons. (<i>S</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRICE, s. f. (<i>en Architecture.</i>) on se sert de ce\nnom par métaphore, pour exprimer une  <span><span class=\"pagenum ws-pagenum\" id=\"638\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/642\"></span></span>composition bisarre, quoiqu’ingénieuse, mais qui est éloignée des préceptes de l’Art, tels que sont les ouvrages \ndu Boromini, Architecte d’Italie, de Berin, &amp; de\nla Joue, Peintres &amp; Dessinateurs François, &amp; de plusieurs \nautres de nos jours ; par une imagination\naussi fertile que déréglée, ils mettent en usage des licences \nqui autorisent la plûpart des jeunes Architectes sans expérience &amp; sans regle à les imiter, &amp; par\nlà à rendre l’Architecture susceptible de variations,\ncomme les habits, les modes, <i>&amp;c.</i> (<i>P</i>)\n</p><p><span class=\"sc\">Caprice</span>, <i>ou</i> <span class=\"sc\">Fantaisie</span>, sorte de piece de Musique libre, dans laquelle l’auteur sans s’assujettir à\nrien, donne carriere à son génie, &amp; se<span type=\"proposed\"> livre </span>à tout\nle feu de la composition : le <i>caprice</i> de Rebel étoit\nestimé dans son tems ; aujourd’hui les <i>caprices</i> de Locatelli donnent de l’exercice à nos violons. (<i>S</i>)\n \n</p>\n</div>",
     "title": "CAPRICE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRICE"
 }

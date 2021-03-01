@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-281",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1500-0/",
+    "item_id": "2-1502",
     "next": "2-1503",
     "pages": "281",
     "prev": "2-1501",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLESNEAU, (<i>Géog.</i>) petite ville de France, \ndans le gouvernement d’Orléanois, dans la Puisaye, \nsur le Loin. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLESNEAU, (<i>Géog.</i>) petite ville de France, \ndans le gouvernement d’Orléanois, dans la Puisaye, \nsur le Loin. \n \n</p>\n</div>",
     "title": "BLESNEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLESNEAU"
 }

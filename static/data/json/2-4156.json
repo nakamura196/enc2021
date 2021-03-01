@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-797",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4146-0/",
+    "item_id": "2-4156",
     "next": "2-4157",
     "pages": "797",
     "prev": "2-4155",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEGA, (<i>Géog.</i>) petite riviere d’Espagne, au\nroyaume de Léon, qui se jette dans le Duéro.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEGA, (<i>Géog.</i>) petite riviere d’Espagne, au\nroyaume de Léon, qui se jette dans le Duéro.\n \n</p>\n</div>",
     "title": "CEGA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEGA"
 }

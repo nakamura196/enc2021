@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-781",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4016-0/",
+    "item_id": "2-4027",
     "next": "2-4028",
     "pages": "781",
     "prev": "2-4026",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATURI, CATHURI, (<i>Marine.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ALMADIE\" title=\"L’Encyclopédie/1re édition/ALMADIE\"><span class=\"sc\">Almadie</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATURI, CATHURI, (<i>Marine.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ALMADIE\" title=\"L’Encyclopédie/1re édition/ALMADIE\"><span class=\"sc\">Almadie</span></a>. \n \n</p>\n</div>",
     "title": "CATURI, CATHURI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATURI,_CATHURI"
 }

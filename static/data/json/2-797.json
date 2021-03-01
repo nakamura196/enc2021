@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-188",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-793-0/",
+    "item_id": "2-797",
     "next": "2-798",
     "pages": "188",
     "prev": "2-796",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BECKENRIEDT, (<i>Géog.</i>) ville de Suisse dans\nle canton d’Underwaldt.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BECKENRIEDT, (<i>Géog.</i>) ville de Suisse dans\nle canton d’Underwaldt.\n \n</p>\n</div>",
     "title": "BECKENRIEDT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BECKENRIEDT"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-392",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2075-0/",
+    "item_id": "2-2071",
     "next": "2-2072",
     "pages": "392",
     "prev": "2-2070",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRADIE, <i>Géog.</i>) ville de Moldavie située sur la \nriviere de Pruth. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRADIE, <i>Géog.</i>) ville de Moldavie située sur la \nriviere de Pruth. \n \n</p>\n</div>",
     "title": "BRADIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRADIE"
 }

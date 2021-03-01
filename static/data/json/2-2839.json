@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-510",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2840-0/",
+    "item_id": "2-2839",
     "next": "2-2840",
     "pages": "510",
     "prev": "2-2838",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADAHALSO, (<i>Géog.</i>) petite ville d’Espagne,\ndans la nouvelle Castille.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADAHALSO, (<i>Géog.</i>) petite ville d’Espagne,\ndans la nouvelle Castille.\n \n</p>\n</div>",
     "title": "CADAHALSO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADAHALSO"
 }

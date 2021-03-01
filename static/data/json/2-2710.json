@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-471",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2713-0/",
+    "item_id": "2-2710",
     "next": "2-2711",
     "pages": "471",
     "prev": "2-2709",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYSDAIL, (<i>Géog.</i>) ville &amp; port d’Écosse, dans \nl’île d’Ulst. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYSDAIL, (<i>Géog.</i>) ville &amp; port d’Écosse, dans \nl’île d’Ulst. \n \n</p>\n</div>",
     "title": "BYSDAIL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BYSDAIL"
 }

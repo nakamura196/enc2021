@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-451",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2472-0/",
+    "item_id": "2-2469",
     "next": "2-2470",
     "pages": "451",
     "prev": "2-2468",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUNNER (<span class=\"sc\">Glandes de</span>), <i>Anatom</i>. elles sont\nsituées à l’entrée du <i>duodenum ;</i> elles portent le nom\ndu medecin <i>Brunner</i>, qui les découvrit &amp; les décrivit\ndans une observation communiquée à la Société des\ncurieux de la nature. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUNNER (<span class=\"sc\">Glandes de</span>), <i>Anatom</i>. elles sont\nsituées à l’entrée du <i>duodenum ;</i> elles portent le nom\ndu medecin <i>Brunner</i>, qui les découvrit &amp; les décrivit\ndans une observation communiquée à la Société des\ncurieux de la nature. (<i>L</i>)\n \n</p>\n</div>",
     "title": "BRUNNER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUNNER"
 }

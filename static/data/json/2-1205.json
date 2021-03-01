@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-242",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1202-0/",
+    "item_id": "2-1205",
     "next": "2-1206",
     "pages": "242",
     "prev": "2-1204",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIDENS <i>ou</i> TESTE CORNUE (<i>Hist. nat. Bot.</i>)\ngenre de plante dont la fleur est ordinairement composée \nde fleurons, c’est-à-dire de plusieurs pétales\nposés sur des embryons &amp; soûtenus par le calice ;\nil y a quelquefois des demi-fleurons à la circonférence.\nLes embryons deviennent dans la suite des semences \nqui sont terminées par deux pointes. <i>Tournefort  Inst. rei herb. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIDENS <i>ou</i> TESTE CORNUE (<i>Hist. nat. Bot.</i>)\ngenre de plante dont la fleur est ordinairement composée \nde fleurons, c’est-à-dire de plusieurs pétales\nposés sur des embryons &amp; soûtenus par le calice ;\nil y a quelquefois des demi-fleurons à la circonférence.\nLes embryons deviennent dans la suite des semences \nqui sont terminées par deux pointes. <i>Tournefort  <span type=\"proposed\">Inst. rei herb.</span> <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIDENS <i>ou</i> TESTE CORNUE (<i>Hist. nat. Bot.</i>)\ngenre de plante dont la fleur est ordinairement composée \nde fleurons, c’est-à-dire de plusieurs pétales\nposés sur des embryons &amp; soûtenus par le calice ;\nil y a quelquefois des demi-fleurons à la circonférence.\nLes embryons deviennent dans la suite des semences \nqui sont terminées par deux pointes. <i>Tournefort  Inst. rei herb. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BIDENS ou TESTE CORNUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIDENS_ou_TESTE_CORNUE"
 }

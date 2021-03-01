@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-458",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2537-0/",
+    "item_id": "2-2534",
     "next": "2-2535",
     "pages": "458",
     "prev": "2-2533",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCOLIASME, sub. m. (<i>Belles-lettres.</i>) chanson \nen usage parmi les bergers ou pasteurs de l’ancienne \nGrece. Ils la chantoient en conduisant le bétail aux \npâturages. Selon Athenée, <i>liv. XIV</i>. Diomus, berger \nde Sicile, en fut le premier auteur ; &amp; Epicharme \nen faisoit mention dans l’Alcyon &amp; dans l’Ulysse \nfaisant naufrage. On appelloit encore <i>bucoliasme</i> un \nair à danser qu’on joüoit sur la flute, &amp; qu’Athenée \nlui-même distingue de la chanson dont nous venons \nde parler. <i>Mém. de l’Acad. tom. IX</i>. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCOLIASME, sub. m. (<i>Belles-lettres.</i>) chanson \nen usage parmi les bergers ou pasteurs de l’ancienne \nGrece. Ils la chantoient en conduisant le bétail aux \npâturages. Selon Athenée, <i><span type=\"proposed\">liv.</span> XIV</i>. Diomus, berger \nde Sicile, en fut le premier auteur ; &amp; Epicharme \nen faisoit mention dans l’Alcyon &amp; dans l’Ulysse \nfaisant naufrage. On appelloit encore <i>bucoliasme</i> un \nair à danser qu’on joüoit sur la flute, &amp; qu’Athenée \nlui-même distingue de la chanson dont nous venons \nde parler. <i>Mém. de l’Acad.<span type=\"proposed\"> tom. </span>IX</i>. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BUCOLIASME",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCOLIASME"
 }

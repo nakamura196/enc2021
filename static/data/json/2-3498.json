@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-640",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3500-0/",
+    "item_id": "2-3498",
     "next": "2-3499",
     "pages": "640",
     "prev": "2-3497",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CAPUCIATI ou</i> ENCAPUCHONNÉS, certains\nhérétiques qui s’éleverent en Angleterre en 1387, &amp;\nqui furent ainsi nommés ; parce qu’ils ne se découvroient \npoint devant le S. Sacrement. Ils suivoient\nles erreurs de Wiclef, &amp; soûtenoient l’apostasie de\nPierre Pareshul, moine Augustin, lequel ayant quitté\nle froc, accusa son ordre de plusieurs crimes. Sponde,\n<i>A. C. 1377</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CAPUCIATI ou</i> ENCAPUCHONNÉS, certains\nhérétiques qui s’éleverent en Angleterre en 1387, &amp;\nqui furent ainsi nommés ; parce qu’ils ne se découvroient \npoint devant le S. Sacrement. Ils suivoient\nles erreurs de Wiclef, &amp; soûtenoient l’apostasie de\nPierre Pareshul, moine <span type=\"auteur_p\">Augustin</span>, lequel ayant quitté\nle froc, accusa son ordre de plusieurs crimes. <span type=\"auteur_p\">Sponde</span>,\n<i>A. C. 1377</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CAPUCIATI ou</i> ENCAPUCHONNÉS, certains\nhérétiques qui s’éleverent en Angleterre en 1387, &amp;\nqui furent ainsi nommés ; parce qu’ils ne se découvroient \npoint devant le S. Sacrement. Ils suivoient\nles erreurs de Wiclef, &amp; soûtenoient l’apostasie de\nPierre Pareshul, moine Augustin, lequel ayant quitté\nle froc, accusa son ordre de plusieurs crimes. Sponde,\n<i>A. C. 1377</i>.\n \n</p>\n</div>",
     "title": "CAPUCIATI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPUCIATI"
 }

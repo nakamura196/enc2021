@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-686",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3662-0/",
+    "item_id": "2-3659",
     "next": "2-3660",
     "pages": "686",
     "prev": "2-3658",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARLAT, (<i>Géog.</i>) petite ville de France dans\nla province d’Auvergne au Carladez.\n</p><p><span class=\"sc\">Carlat</span>, (<i>Géog.</i>) petite ville de France dans le\nhaut Languedoc, sur la riviere de Bezegue. Il y a\nencore une ville de ce nom en France au comté de\nFoix : c’est la patrie de Bayle.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARLAT, (<i>Géog.</i>) petite ville de France dans\nla province d’Auvergne au Carladez.\n</p><p><span class=\"sc\">Carlat</span>, (<i>Géog.</i>) petite ville de France dans le\nhaut Languedoc, sur la riviere de Bezegue. Il y a\nencore une ville de ce nom en France au comté de\nFoix : c’est la patrie de Bayle.\n \n</p>\n</div>",
     "title": "CARLAT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARLAT"
 }

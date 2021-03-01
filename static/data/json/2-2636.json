@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2639-0/",
+    "item_id": "2-2636",
     "next": "2-2637",
     "pages": "466",
     "prev": "2-2635",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGGRAVIAT, (<i>Hist. mod.</i>) on donne ce nom \nà l’étendue de la jurisdiction d’un <i>burggrave. V. ce mot</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGGRAVIAT, (<i>Hist. mod.</i>) on donne ce nom \nà l’étendue de la jurisdiction d’un <i>burggrave.<span type=\"bold\"> V. </span>ce mot</i>. \n \n</p>\n</div>",
     "title": "BURGGRAVIAT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURGGRAVIAT"
 }

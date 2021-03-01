@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-453",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2488-0/",
+    "item_id": "2-2485",
     "next": "2-2486",
     "pages": "453",
     "prev": "2-2484",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUYUIERE, (<i>la</i>) <i>Géog.</i> petite ville de France\ndans le Languedoc, au diocese de Lavaur.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUYUIERE, (<i>la</i>) <i>Géog.</i> petite ville de France\ndans le Languedoc, au diocese de Lavaur.\n \n</p>\n</div>",
     "title": "BRUYUIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUYUIERE"
 }

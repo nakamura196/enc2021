@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-460",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2573-0/",
+    "item_id": "2-2570",
     "next": "2-2571",
     "pages": "460",
     "prev": "2-2569",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUHOT, s. m. se dit dans les <i>manufactures d’Amiens</i>, \nde ce qu’on entend plus communément par\nle mot <i>espoulin</i> ou <i><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ESPOLIN_ou_ESPOULIN\" title=\"L’Encyclopédie/1re édition/ESPOLIN ou ESPOULIN\">espolin</a>. Voyez ce mot</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUHOT, s. m. se dit dans les <i>manufactures d’Amiens</i>, \nde ce qu’on entend plus communément par\nle mot <i>espoulin</i> ou <i><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ESPOLIN_ou_ESPOULIN\" title=\"L’Encyclopédie/1re édition/ESPOLIN ou ESPOULIN\">espolin</a>. <span type=\"bold\">Voyez</span> ce mot</i>.\n \n</p>\n</div>",
     "title": "BUHOT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUHOT"
 }

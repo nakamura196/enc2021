@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-672",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3559-0/",
+    "item_id": "2-3557",
     "next": "2-3558",
     "pages": "672",
     "prev": "2-3556",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CARA-SCHULLI, (<i>Hist. nat. bot.</i>) arbrisseau des Indes, assez semblable au caprier. <i>Voyez</i> dans <i>l’Histoire des plantes de</i> Ray, la liste des propriétés merveilleuses qu’on lui attribue. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CARA-SCHULLI, (<i>Hist. nat. bot.</i>) arbrisseau des Indes, assez semblable au caprier. <i><span type=\"bold\">Voyez</span></i> dans <i>l’Histoire des plantes de</i> <span type=\"auteur_p\">Ray</span>, la liste des propriétés merveilleuses qu’on lui attribue. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CARA-SCHULLI, (<i>Hist. nat. bot.</i>) arbrisseau des Indes, assez semblable au caprier. <i><span type=\"bold\">Voyez</span></i> dans <i>l’Histoire des plantes de</i> Ray, la liste des propriétés merveilleuses qu’on lui attribue. \n \n</p>\n</div>",
     "title": "CARA-SCHULLI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARA-SCHULLI"
 }

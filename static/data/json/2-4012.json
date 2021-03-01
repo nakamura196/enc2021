@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-778",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4000-0/",
+    "item_id": "2-4012",
     "next": "2-4013",
     "pages": "778",
     "prev": "2-4011",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATIMARON, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTIMARONS,_ou_CATIMARONS\" title=\"L’Encyclopédie/1re édition/CANTIMARONS, ou CATIMARONS\"><span class=\"sc\">Cantimaron</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATIMARON, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTIMARONS,_ou_CATIMARONS\" title=\"L’Encyclopédie/1re édition/CANTIMARONS, ou CATIMARONS\"><span class=\"sc\">Cantimaron</span></a>.\n \n</p>\n</div>",
     "title": "CATIMARON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATIMARON"
 }

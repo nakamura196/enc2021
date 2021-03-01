@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-339",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1813-0/",
+    "item_id": "2-1814",
     "next": "2-1815",
     "pages": "339",
     "prev": "2-1813",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSSER <i>&amp;</i> DEBOSSER <i>un cable ;</i> c’est, <i>en Mar.</i>\namarrer &amp; démarrer la bosse qui saisit le cable, lorsque \nl’ancre est à la mer.\n</p><p><i>Bosser l’ancre</i>, c’est aussi tirer l’ancre pour la mettre \nsur les bossoirs. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSSER <i>&amp;</i> DEBOSSER <i>un cable ;</i> c’est, <i>en Mar.</i>\namarrer &amp; démarrer la bosse qui saisit le cable, lorsque \nl’ancre est à la mer.\n</p><p><i>Bosser l’ancre</i>, c’est aussi tirer l’ancre pour la mettre \nsur les bossoirs. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BOSSER et DEBOSSER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSER_et_DEBOSSER"
 }

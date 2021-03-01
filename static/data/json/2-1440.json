@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-268",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1437-0/",
+    "item_id": "2-1440",
     "next": "2-1441",
     "pages": "268",
     "prev": "2-1439",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIZE, <i>sarda</i> s. f. (<i>Hist. nat. Ichthyologie.</i>)\npoisson de mer ressemblant à la <i>pélamyde :</i> il est lissé\n&amp; sans écailles, à l’exception des endroits qui sont\nsous les nageoires placées auprès des oüies : c’est-là \nseulement qu’il a des écailles qui font distinguer\nla <i>bise</i> de la <i>pélamyde</i>, qui n’en a nulle part. Au reste\nces deux poissons sont si semblables, que l’on prendroit \naisément l’un pour l’autre. Cependant la chair\nde la <i>bize</i> n’est pas si tendre que celle de la <i>pélamyde</i>, \n&amp; ses dents sont plus grandes &amp; plus courbées \nau dedans de la bouche. <i>Rondelet. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PELAMYDE_ou_THON_D%E2%80%99ARISTOTE\" title=\"L’Encyclopédie/1re édition/PELAMYDE ou THON D’ARISTOTE\"><span class=\"sc\">Pélamyde</span></a>. \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>)\n</p><p><span class=\"sc\">Bizé</span> <i>à deux têtes</i>, (<i>outil de Cordonnier.</i>) il est\nde buis &amp; sert à régler la trépointe du derriere du\nsoulier. <i>Voyez la fig. 4, Pl. du Cordonnier-Bottier</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIZE, <i>sarda</i> s. f. (<i>Hist. nat. Ichthyologie.</i>)\npoisson de mer ressemblant à la <i>pélamyde :</i> il est lissé\n&amp; sans écailles, à l’exception des endroits qui sont\nsous les nageoires placées auprès des oüies : c’est-là \nseulement qu’il a des écailles qui font distinguer\nla <i>bise</i> de la <i>pélamyde</i>, qui n’en a nulle<span type=\"proposed\"> part. </span>Au reste\nces deux poissons sont si semblables, que l’on prendroit \naisément l’un pour l’autre. Cependant la chair\nde la <i>bize</i> n’est pas si tendre que celle de la <i>pélamyde</i>, \n&amp; ses dents sont plus grandes &amp; plus courbées \nau dedans de la bouche. <i>Rondelet. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PELAMYDE_ou_THON_D%E2%80%99ARISTOTE\" title=\"L’Encyclopédie/1re édition/PELAMYDE ou THON D’ARISTOTE\"><span class=\"sc\">Pélamyde</span></a>. \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>)\n</p><p><span class=\"sc\">Bizé</span> <i>à deux têtes</i>, (<i>outil de Cordonnier.</i>) il est\nde buis &amp; sert à régler la trépointe du derriere du\nsoulier. <i><span type=\"bold\">Voyez</span> la fig. 4, Pl. du Cordonnier-Bottier</i>.\n \n</p>\n</div>",
     "title": "BIZE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIZE"
 }

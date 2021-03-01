@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-51",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-282-0/",
+    "item_id": "2-274",
     "next": "2-275",
     "pages": "51",
     "prev": "2-273",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMFE, (<i>Géog.</i>) petite ville de l’Ecosse septentrionale \ndans la province de même nom, à l’embouchure \nde la Doverne. <i>Long. 15. 25. lat. 57. 48</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMFE, (<i>Géog.</i>) petite ville de l’Ecosse septentrionale \ndans la province de même nom, à l’embouchure \nde la Doverne. <i>Long. 15. 25. lat. 57. 48</i>.\n \n</p>\n</div>",
     "title": "BAMFE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAMFE"
 }

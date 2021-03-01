@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-278",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1473-0/",
+    "item_id": "2-1475",
     "next": "2-1476",
     "pages": "278",
     "prev": "2-1474",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLARE, s. f. (<i>Commerce.</i>) petite monnoie de\ncuivre, avec mêlange d’un peu d’argent : elle se fabrique \nà Berne en Suisse, au même titre que les ratzes\nde Souleurre &amp; de Fribourg, &amp; elle a à peu près la\nmême valeur. <i>Voyez</i> <span class=\"sc\">Ratze</span>. Le <i>blare</i> est évalué en\nFrance à deux sous un denier.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLARE, s. f. (<i>Commerce.</i>) petite monnoie de\ncuivre, avec mêlange d’un peu d’argent : elle se fabrique \nà Berne en Suisse, au même titre que les ratzes\nde Souleurre &amp; de Fribourg, &amp; elle a à peu près la\nmême valeur. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Ratze</span>. Le <i>blare</i> est évalué en\nFrance à deux sous un denier.\n \n</p>\n</div>",
     "title": "BLARE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLARE"
 }

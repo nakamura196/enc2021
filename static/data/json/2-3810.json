@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-741",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3813-0/",
+    "item_id": "2-3810",
     "next": "2-3811",
     "pages": "741",
     "prev": "2-3809",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASENTINO, (<i>Géog.</i>) petit pays d’Italie, au\ngrand duché de Toscane dans le Florentin, près de\nla source de l’Arne.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASENTINO, (<i>Géog.</i>) petit pays d’Italie, au\ngrand duché de Toscane dans le Florentin, près de\nla source de l’Arne.\n \n</p>\n</div>",
     "title": "CASENTINO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASENTINO"
 }

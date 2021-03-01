@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2008-0/",
+    "item_id": "2-2000",
     "next": "2-2001",
     "pages": "380",
     "prev": "2-1999",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTE-FEU, (<span class=\"sc\">le</span>) <i>Artillerie</i>) est un bâton ou\nhampe de bois, garni d’un serpentin de fer par en\nhaut, dans lequel se passe la meche, qui sert à mettre \nle feu aux pieces de canon &amp; aux mortiers.\n<i>Voyez la fig. du boute-feu, Pl. VI. de Fortific. fig. 6</i>.\n</p><p>Les <i>boute-feux</i> sont de toutes sortes de bois ; ils\nsont longs de deux à trois piés, gros d’un pouce, &amp;\nfendus par une de leurs extrémités pour y passer le\npremier <i>bout</i> d’une brasse de meche, laquelle est\ntournée autour ; l’autre <i>bout</i> repassant sur celle qui\nest tournée, passe dans la fente du <i>boute-feu</i>, qui\nl’empêche de se détortiller : on peut par ce moyen\nallumer les deux <i>bouts</i> de la meche, qu’on allonge\nfacilement à mesure qu’elle brûle. Saint-Remy, <i>Mémoires  d’Artillerie</i>. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTE-FEU, (<span class=\"sc\">le</span>) <i>Artillerie</i>) est un bâton ou\nhampe de bois, garni d’un serpentin de fer par en\nhaut, dans lequel se passe la meche, qui sert à mettre \nle feu aux pieces de canon &amp; aux mortiers.\n<i><span type=\"bold\">Voyez</span> la fig. du boute-feu, Pl. VI. de Fortific. fig. 6</i>.\n</p><p>Les <i>boute-feux</i> sont de toutes sortes de bois ; ils\nsont longs de deux à trois piés, gros d’un pouce, &amp;\nfendus par une de leurs extrémités pour y passer le\npremier <i>bout</i> d’une brasse de meche, laquelle est\ntournée autour ; l’autre <i>bout</i> repassant sur celle qui\nest tournée, passe dans la fente du <i>boute-feu</i>, qui\nl’empêche de se détortiller : on peut par ce moyen\nallumer les deux <i>bouts</i> de la meche, qu’on allonge\nfacilement à mesure qu’elle brûle. Saint-Remy, <i>Mémoires  d’Artillerie</i>. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "BOUTE-FEU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTE-FEU"
 }

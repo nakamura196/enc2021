@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-486",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2735-0/",
+    "item_id": "2-2735",
     "next": "2-2736",
     "pages": "486",
     "prev": "2-2734",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABALIG, (<i>Géog.</i>) ville d’Asie dans le Turquestan. \n<i>Long. 103. lat. 44</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABALIG, (<i>Géog.</i>) ville d’Asie dans le Turquestan. \n<i>Long. 103. lat. 44</i>.\n \n</p>\n</div>",
     "title": "CABALIG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABALIG"
 }

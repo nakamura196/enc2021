@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-398",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2122-0/",
+    "item_id": "2-2118",
     "next": "2-2119",
     "pages": "398",
     "prev": "2-2117",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAQUER <i>un canon</i> ou <i>un mortier</i>, (<i>Artillerie.</i>) \nc’est lui donner la position nécessaire pour tirer : mais \non se sert plus communément du terme de <i>pointer</i>, \npour exprimer la même chose. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POINTER\" title=\"L’Encyclopédie/1re édition/POINTER\"><span class=\"sc\">Pointer</span></a>. (<i>Q</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRAQUER <i>un canon</i> ou <i>un mortier</i>, (<i>Artillerie.</i>) \nc’est lui donner la position nécessaire pour tirer : mais \non se sert plus communément du terme de <i>pointer</i>, \npour exprimer la même chose. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POINTER\" title=\"L’Encyclopédie/1re édition/POINTER\"><span class=\"sc\">Pointer</span></a>. (<i>Q</i>) \n \n</p>\n</div>",
     "title": "BRAQUER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRAQUER"
 }

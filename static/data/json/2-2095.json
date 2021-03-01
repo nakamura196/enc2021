@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-394",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2099-0/",
+    "item_id": "2-2095",
     "next": "2-2096",
     "pages": "394",
     "prev": "2-2094",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRANCASTRE, (<i>Géog. anc. &amp; mod.</i>) village\ndu comté de Norfolck, autrefois grande ville. C’étoit \nle <i>Brannodunum</i> des Latins.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRANCASTRE, (<i>Géog. anc. &amp; mod.</i>) village\ndu comté de Norfolck, autrefois grande ville. C’étoit \nle <i>Brannodunum</i> des Latins.\n \n</p>\n</div>",
     "title": "BRANCASTRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANCASTRE"
 }

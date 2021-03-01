@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-780",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4011-0/",
+    "item_id": "2-4022",
     "next": "2-4023",
     "pages": "780",
     "prev": "2-4021",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATRUMNA, (<i>Géog.</i>) ville d’Asie dans l’île de Ceylan. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATRUMNA, (<i>Géog.</i>) ville d’Asie dans l’île de Ceylan. \n \n</p>\n</div>",
     "title": "CATRUMNA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATRUMNA"
 }

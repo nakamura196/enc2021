@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-569",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3163-0/",
+    "item_id": "2-3161",
     "next": "2-3162",
     "pages": "569",
     "prev": "2-3160",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAM-CHAIN, s. m. (<i>Hist. nat. bot.</i>) espece\nd’orange qui croît au royaume de Tonquin, dont la\npelure est fort épaisse, &amp; remplie d’inégalités ; elle a\nl’odeur très-agréable, &amp; le goût délicieux. On regarde \nce fruit comme fort sain ; on en permet même\nl’usage aux malades.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAM-CHAIN, s. m. (<i>Hist. nat. bot.</i>) espece\nd’orange qui croît au royaume de Tonquin, dont la\npelure est fort épaisse, &amp; remplie d’inégalités ; elle a\nl’odeur très-agréable, &amp; le goût délicieux. On regarde \nce fruit comme fort sain ; on en permet même\nl’usage aux malades.\n \n</p>\n</div>",
     "title": "CAM-CHAIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAM-CHAIN"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-539",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2976-0/",
+    "item_id": "2-2975",
     "next": "2-2976",
     "pages": "539",
     "prev": "2-2974",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAMALA, (<i>Géog.</i>) ville d’Europe dans la\nMorée, sur la riviere de Spinarza. <i>Long. 39. 45. lat. </i>\n<i>37. 8</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAMALA, (<i>Géog.</i>) ville d’Europe dans la\nMorée, sur la riviere de Spinarza. <i>Long. 39. 45. lat. </i>\n<i>37. 8</i>.\n \n</p>\n</div>",
     "title": "CALAMALA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALAMALA"
 }

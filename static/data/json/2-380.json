@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-70",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-388-0/",
+    "item_id": "2-380",
     "next": "2-381",
     "pages": "70",
     "prev": "2-379",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBATH <i>ou</i> MARBATH (<i>Géog. anc. &amp; mod.</i>),\nville de l’Arabie heureuse, dans une petite province\nnommé <i>Sehagt</i> ou <i>Hadhramuth</i>, qui est l’Adramytene\ndes anciens,\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBATH <i>ou</i> MARBATH (<i>Géog. anc. &amp; mod.</i>),\nville de l’Arabie heureuse, dans une petite province\nnommé <i>Sehagt</i> ou <i>Hadhramuth</i>, qui est l’Adramytene\ndes anciens,\n \n</p>\n</div>",
     "title": "BARBATH ou MARBATH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBATH_ou_MARBATH"
 }

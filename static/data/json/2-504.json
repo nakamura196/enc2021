@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-96",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-515-0/",
+    "item_id": "2-504",
     "next": "2-505",
     "pages": "96",
     "prev": "2-503",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARROIR, s. m. (<i>outil dont se servent les Tonneliers.</i>) \nc’est un instrument fait en forme de longue\ntarriere, dont la meche est étroite &amp; amorcée par le\nbout. C’est avec cet outil qu’on perce des trous au-dessus \ndu jable, pour y faire entrer les chevilles qui\ntiennent les barres des futailles. <i>Voyez Planche II.  du Tonnelier, figure premiere</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARROIR, s. m. (<i>outil dont se servent les Tonneliers.</i>) \nc’est un instrument fait en forme de longue\ntarriere, dont la meche est étroite &amp; amorcée par le\nbout. C’est avec cet outil qu’on perce des trous au-dessus \ndu jable, pour y faire entrer les chevilles qui\ntiennent les barres des futailles. <i><span type=\"bold\">Voyez</span> Planche II.  du Tonnelier, figure premiere</i>.\n \n</p>\n</div>",
     "title": "BARROIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARROIR"
 }

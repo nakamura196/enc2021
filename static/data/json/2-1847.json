@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-347",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1852-0/",
+    "item_id": "2-1847",
     "next": "2-1848",
     "pages": "347",
     "prev": "2-1846",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUARD, s. m. gros marteau qui étoit anciennement \nà l’usage des monnoyeurs. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUER\" title=\"L’Encyclopédie/1re édition/BOUER\"><span class=\"sc\">Bouer</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUARD, s. m. gros marteau qui étoit anciennement \nà l’usage des monnoyeurs. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUER\" title=\"L’Encyclopédie/1re édition/BOUER\"><span class=\"sc\">Bouer</span></a>. \n \n</p>\n</div>",
     "title": "BOUARD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUARD"
 }

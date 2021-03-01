@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-397",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2115-0/",
+    "item_id": "2-2111",
     "next": "2-2112",
     "pages": "397",
     "prev": "2-2110",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRANLANT, <i>en terme de Metteur-en-œuvre</i>, est une\ncroix qui se porte sans coulant, d’un simple chaton,\nqui se termine par une pendeloque qui lui donne ce\nnom. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PENDELOQUE\" title=\"L’Encyclopédie/1re édition/PENDELOQUE\"><span class=\"sc\">Pendeloque</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRANLANT, <i>en terme de Metteur-en-œuvre</i>, est une\ncroix qui se porte sans coulant, d’un simple chaton,\nqui se termine par une pendeloque qui lui donne ce\nnom. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PENDELOQUE\" title=\"L’Encyclopédie/1re édition/PENDELOQUE\"><span class=\"sc\">Pendeloque</span></a>.\n \n</p>\n</div>",
     "title": "BRANLANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANLANT"
 }

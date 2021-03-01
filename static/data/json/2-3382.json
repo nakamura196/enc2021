@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-624",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3385-0/",
+    "item_id": "2-3382",
     "next": "2-3383",
     "pages": "624",
     "prev": "2-3381",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAOR, <i>ou</i> CAHOR, (<i>Géog.</i>) royaume d’Asie, dans l’Inde, au delà du Gange ; la capitale porte le même nom. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAOR, <i>ou</i> CAHOR, (<i>Géog.</i>) royaume d’Asie, dans l’Inde, au delà du Gange ; la capitale porte le même nom. \n \n</p>\n</div>",
     "title": "CAOR, ou CAHOR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAOR,_ou_CAHOR"
 }

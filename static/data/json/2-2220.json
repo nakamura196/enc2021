@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-413",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2225-0/",
+    "item_id": "2-2220",
     "next": "2-2221",
     "pages": "413",
     "prev": "2-2219",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESSE, (<i>Géog.</i>) province &amp; comté de France,\ndont Bourg est la capitale ; elle est bornée au nord\npar la Bourgogne &amp; la Franche-Comté, à l’est par\nla Savoie, au midi par le Viennois, &amp; à l’orient par\nla principauté de Dombes &amp; la Sône. Elle comprend \nles pays de Gex, de Bugey, &amp; de Valromey.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESSE, (<i>Géog.</i>) province &amp; comté de France,\ndont Bourg est la capitale ; elle est bornée au nord\npar la Bourgogne &amp; la Franche-Comté, à l’est par\nla Savoie, au midi par le Viennois, &amp; à l’orient par\nla principauté de Dombes &amp; la Sône. Elle comprend \nles pays de Gex, de Bugey, &amp; de Valromey.\n \n</p>\n</div>",
     "title": "BRESSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESSE"
 }

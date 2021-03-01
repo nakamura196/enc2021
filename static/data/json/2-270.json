@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-50",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-278-0/",
+    "item_id": "2-270",
     "next": "2-271",
     "pages": "50",
     "prev": "2-269",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBOU <i>ou</i> BAMBUCK, (<i>Géog.</i>) royaume\nd’Afrique dans la Nigritie, borné au septentrion par\nles pays de Galam &amp; de Kassan, à l’occident par la\nriviere de Feleme &amp; les royaumes de Kantu &amp; de\nKombregudu, au midi par celui de Mankanna, &amp; à\nl’orient par des terres inconnues.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBOU <i>ou</i> BAMBUCK, (<i>Géog.</i>) royaume\nd’Afrique dans la Nigritie, borné au septentrion par\nles pays de Galam &amp; de Kassan, à l’occident par la\nriviere de Feleme &amp; les royaumes de Kantu &amp; de\nKombregudu, au midi par celui de Mankanna, &amp; à\nl’orient par des terres inconnues.\n \n</p>\n</div>",
     "title": "BAMBOU ou BAMBUCK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAMBOU_ou_BAMBUCK"
 }

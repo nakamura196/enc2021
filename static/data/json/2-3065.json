@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-560",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3066-0/",
+    "item_id": "2-3065",
     "next": "2-3066",
     "pages": "560",
     "prev": "2-3064",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALIO, (<i>Géog.</i>) petite ville d’Asie dans la Natolie, avec un port sur la mer Noire. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALIO, (<i>Géog.</i>) petite ville d’Asie dans la Natolie, avec un port sur la mer Noire. \n \n</p>\n</div>",
     "title": "CALIO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALIO"
 }

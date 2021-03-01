@@ -43,6 +43,21 @@
                 <template v-slot:activator="{ on }">
                   <v-btn
                     class="ma-1"
+                    target="_blank"
+                    :href="source.enc_link"
+                    v-on="on"
+                    ><img
+                      style="width: 24px"
+                      :src="baseUrl + '/img/icons/ENCCRE_icon.png'"
+                  /></v-btn>
+                </template>
+                <span>{{ $t('ENCCRE') }}</span>
+              </v-tooltip>
+
+              <v-tooltip bottom>
+                <template v-slot:activator="{ on }">
+                  <v-btn
+                    class="ma-1"
                     color="cyan"
                     dark
                     :to="localePath({ name: 'table', query: { id } })"
@@ -206,6 +221,32 @@
                                       dense
                                     ></v-combobox>
                                   </template>
+
+                                  <template v-if="obj.label === 'Schwab'">
+                                    <v-row>
+                                      <v-col cols="12" sm="2">
+                                        <v-text-field
+                                          :value="`vol. ${source.tome_r}`"
+                                          disabled
+                                        ></v-text-field>
+                                      </v-col>
+                                      <v-col cols="12" sm="10">
+                                        <v-textarea
+                                          v-model="item[obj.label].input"
+                                          :disabled="obj.disabled"
+                                          auto-grow
+                                          rows="1"
+                                          :placeholder="
+                                            obj.placeholder ||
+                                            $t('値を入力してください。')
+                                          "
+                                          clearable
+                                          @input="formUpdated(obj.label)"
+                                        ></v-textarea>
+                                      </v-col>
+                                    </v-row>
+                                  </template>
+
                                   <template v-else>
                                     <v-textarea
                                       v-model="item[obj.label].input"
@@ -391,6 +432,7 @@ export default {
       )
 
       const source = response.data
+      console.log({ source })
 
       return { source, id }
     }
@@ -553,8 +595,8 @@ export default {
     getVolAndPage() {
       const source = this.source
       return this.lang === 'ja'
-        ? source.tome + '巻, p.' + source.pages
-        : 'Vol.' + source.tome + ', p.' + source.pages
+        ? source.tome_r + '巻, p.' + source.pages
+        : 'Vol.' + source.tome_r + ', p.' + source.pages
     },
     formData() {
       const formData = [this.authority]

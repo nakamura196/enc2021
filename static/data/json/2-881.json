@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-196",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-877-0/",
+    "item_id": "2-881",
     "next": "2-882",
     "pages": "196",
     "prev": "2-880",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELGRADE, (<i>Géog. anc. &amp; mod.</i>) ville de la\nTurquie Européenne, capitale de la Servie, au confluent \ndu Danube &amp; de la Save. <i>Long. 38. 30. lat.  45</i>. Quelques-uns croyent que c’est le <i>Taurinum</i> des\nanciens.\n</p><p>* <span class=\"sc\">Belgrade</span>, (<i>Géog.</i>) petite ville de la Turquie\nEuropéenne dans la Romanie, sur le Bosphore de\nThrace. <i>Lon. 40. 30. lat. 41. 22</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELGRADE, (<i>Géog. anc. &amp; mod.</i>) ville de la\nTurquie Européenne, capitale de la Servie, au confluent \ndu Danube &amp; de la Save. <i>Long. 38. 30. lat.  45</i>. Quelques-uns croyent que c’est le <i>Taurinum</i> des\nanciens.\n</p><p>* <span class=\"sc\">Belgrade</span>, (<i>Géog.</i>) petite ville de la Turquie\nEuropéenne dans la Romanie, sur le Bosphore de\nThrace. <i>Lon. 40. 30. lat. 41. 22</i>.\n \n</p>\n</div>",
     "title": "BELGRADE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELGRADE"
 }

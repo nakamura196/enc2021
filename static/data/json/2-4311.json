@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-845",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4301-0/",
+    "item_id": "2-4311",
     "next": "2-4312",
     "pages": "845",
     "prev": "2-4310",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERNU, (<i>Géog.</i>) petite ville d’Afrique, au royaume de Maroc, dans la province de Duquela. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERNU, (<i>Géog.</i>) petite ville d’Afrique, au royaume de Maroc, dans la province de Duquela. \n \n</p>\n</div>",
     "title": "CERNU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERNU"
 }

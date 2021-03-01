@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-470",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2688-0/",
+    "item_id": "2-2685",
     "next": "2-2686",
     "pages": "470",
     "prev": "2-2684",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTERA, (<i>Géog.</i>) petite ville avec titre de\nprincipauté en Sicile, dans la vallée de Noto.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUTERA, (<i>Géog.</i>) petite ville avec titre de\nprincipauté en Sicile, dans la vallée de Noto.\n \n</p>\n</div>",
     "title": "BUTERA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUTERA"
 }

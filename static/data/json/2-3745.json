@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-704",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3748-0/",
+    "item_id": "2-3745",
     "next": "2-3746",
     "pages": "704",
     "prev": "2-3744",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARRETTO, (<i>Géog.</i>) petite ville d’Italie dans la province d’Aqui, au duché de Montferrat. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARRETTO, (<i>Géog.</i>) petite ville d’Italie dans la province d’Aqui, au duché de Montferrat. \n \n</p>\n</div>",
     "title": "CARRETTO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARRETTO"
 }

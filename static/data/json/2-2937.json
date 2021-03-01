@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-533",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2938-0/",
+    "item_id": "2-2937",
     "next": "2-2938",
     "pages": "533",
     "prev": "2-2936",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAILLOT, s. m. qui ne se dit que du sang caillé \nen petites masses. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAILLOT, s. m. qui ne se dit que du sang caillé \nen petites masses. \n \n</p>\n</div>",
     "title": "CAILLOT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAILLOT"
 }

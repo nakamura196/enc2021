@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-8",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-66-0/",
+    "item_id": "2-64",
     "next": "2-65",
     "pages": "8",
     "prev": "2-63",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACHOTAGE, s. m. (<i>Police.</i>) c’est l’emploi\nde ceux qui ont le droit de voiturer sur la riviere\ndans des bachots, au-dessus &amp; au-dessous de la ville.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTEURS\" title=\"L’Encyclopédie/1re édition/BACHOTEURS\"><span class=\"sc\">Bachoteurs</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACHOTAGE, s. m. (<i>Police.</i>) c’est l’emploi\nde ceux qui ont le droit de voiturer sur la riviere\ndans des bachots, au-dessus &amp; au-dessous de la ville.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTEURS\" title=\"L’Encyclopédie/1re édition/BACHOTEURS\"><span class=\"sc\">Bachoteurs</span></a>.\n \n</p>\n</div>",
     "title": "BACHOTAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACHOTAGE"
 }

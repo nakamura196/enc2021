@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-488",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2761-0/",
+    "item_id": "2-2761",
     "next": "2-2762",
     "pages": "488",
     "prev": "2-2760",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABIN, (<i>Géog.</i>) riviere de France, en Gascogne.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABIN, (<i>Géog.</i>) riviere de France, en Gascogne.\n \n</p>\n</div>",
     "title": "CABIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABIN"
 }

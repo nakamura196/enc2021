@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-248",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1266-0/",
+    "item_id": "2-1269",
     "next": "2-1270",
     "pages": "248",
     "prev": "2-1268",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIJOUX, <i>en Droit, voyez</i> <span class=\"sc\">Bagues <i>&amp;</i> Joyaux</span>.\n</p><p><span class=\"sc\">Bijoux</span>, s. m. pl. on entend par ce terme tous les \nouvrages d’<i>Orfévrerie</i> qui ne servent que d’ornement \nà l’homme ; comme tabatiere, pomme de canne, \nétui, flacon, tablettes, navette, panier à ouvrage, \n<i>&amp;c.</i> cette partie n’étant qu’un talent de mode &amp; de \ngoût, ne peut avoir aucune regle fixe, que le caprice \nde l’ouvrier ou du particulier qui commande. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIJOUX, <i>en Droit, voyez</i> <span class=\"sc\">Bagues <i>&amp;</i> Joyaux</span>.\n</p><p><span class=\"sc\">Bijoux</span>, s. m. pl. on entend par ce terme tous les \nouvrages d’<i>Orfévrerie</i> qui ne servent que d’ornement \nà l’homme ; comme tabatiere, pomme de canne, \nétui, flacon, tablettes, navette, panier à ouvrage, \n<i>&amp;c.</i> cette<span type=\"proposed\"> partie </span>n’étant qu’un talent de mode &amp; de \ngoût, ne peut avoir aucune regle fixe, que le caprice \nde l’ouvrier ou du particulier qui commande. \n \n</p>\n</div>",
     "title": "BIJOUX",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIJOUX"
 }

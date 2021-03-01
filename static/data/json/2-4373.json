@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-871",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4363-0/",
+    "item_id": "2-4373",
     "next": "2-4374",
     "pages": "871",
     "prev": "2-4372",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEZE, (<span class=\"sc\">la</span>) (<i>Géog.</i>) petite riviere de France en\nLanguedoc, qui roule des paillettes d’or avec son\nsable.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEZE, (<span class=\"sc\">la</span>) (<i>Géog.</i>) petite riviere de France en\nLanguedoc, qui roule des paillettes d’or avec son\nsable.\n \n</p>\n</div>",
     "title": "CEZE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEZE"
 }

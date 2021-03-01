@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-904-0/",
+    "item_id": "2-908",
     "next": "2-909",
     "pages": "198",
     "prev": "2-907",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLID ASTRUM, (<i>Hist. nat. bot.</i>) genre de\nplante qui ne differe de la paquerette que parce que\nses semences sont garnies d’aigrettes, &amp; que la couche \nde la fleur n’est pas faite en pyramide. <i><span class=\"lang-la\" lang=\"la\">Nova plantarum genera</span></i>, &amp;c. par M. Micheli. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>.\n(<i>I</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLID ASTRUM, (<i>Hist. nat. bot.</i>) genre de\nplante qui ne differe de la paquerette que parce que\nses semences sont garnies d’aigrettes, &amp; que la couche \nde la fleur n’est pas faite en pyramide. <i><span class=\"lang-la\" lang=\"la\">Nova plantarum genera</span></i>, &amp;c. par M. Micheli. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>.\n(<i>I</i>)\n \n</p>\n</div>",
     "title": "BELLID ASTRUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELLID_ASTRUM"
 }

@@ -3,7 +3,8 @@
         "Jean Le Rond d’Alembert",
         "Denis Diderot"
     ],
-    "item_id": "2-396",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2102-0/",
+    "item_id": "2-2098",
     "next": "2-2099",
     "pages": "396",
     "prev": "2-2097",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRANCHER, BRANCHE, <i>voy.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FOURCHE\" title=\"L’Encyclopédie/1re édition/FOURCHE\"><span class=\"sc\">Fourches</span></a>. (<i>O</i>)\n</p><p>* <span class=\"sc\">Brancher</span>, <i>en Verrerie ;</i> c’est mouvoir circulairement \nla branche dans l’ouverture de la bosse. <i>Voy.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANCHES\" title=\"L’Encyclopédie/1re édition/BRANCHES\"><span class=\"sc\">Branche</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie</span></a> <i>en plat, &amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSE\" title=\"L’Encyclopédie/1re édition/BOSSE\"><span class=\"sc\">Bosse</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRANCHER, BRANCHE, <i>voy.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FOURCHE\" title=\"L’Encyclopédie/1re édition/FOURCHE\"><span class=\"sc\">Fourches</span></a>. (<i>O</i>)\n</p><p>* <span class=\"sc\">Brancher</span>, <i>en Verrerie ;</i> c’est mouvoir circulairement \nla branche dans l’ouverture de la bosse. <i>Voy.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANCHES\" title=\"L’Encyclopédie/1re édition/BRANCHES\"><span class=\"sc\">Branche</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VERRERIE\" title=\"L’Encyclopédie/1re édition/VERRERIE\"><span class=\"sc\">Verrerie</span></a> <i>en plat, &amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSSE\" title=\"L’Encyclopédie/1re édition/BOSSE\"><span class=\"sc\">Bosse</span></a>.\n \n</p>\n</div>",
     "title": "BRANCHER, BRANCHE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANCHER,_BRANCHE"
 }

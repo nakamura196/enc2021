@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2633-0/",
+    "item_id": "2-2630",
     "next": "2-2631",
     "pages": "466",
     "prev": "2-2629",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURG, (<i>Géog.</i>) ville des Provinces-Unies, au \ncomté de Zutphen, sur l’Issel. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURG, (<i>Géog.</i>) ville des Provinces-Unies, au \ncomté de Zutphen, sur l’Issel. \n \n</p>\n</div>",
     "title": "BURG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURG"
 }

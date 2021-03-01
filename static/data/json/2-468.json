@@ -3,7 +3,8 @@
         "Denis Diderot",
         "Paul Landois"
     ],
-    "item_id": "2-77",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-479-0/",
+    "item_id": "2-468",
     "next": "2-469",
     "pages": "77",
     "prev": "2-467",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAROCHE, (<i>Géog.</i>) ville d’Afrique dans les\nétats du Mogol, au royaume de Gusarate, sur la riviere \nde Nerdaba. <i>Lat. 21. 55</i>.\n</p><p><span class=\"sc\">Baroché</span>, adj. <i>terme de Peinture</i> dont on se sert\npour exprimer que le pinceau n’a pas tracé nettement \nun contour, &amp; qu’il a éclaboussé de la couleur\nsur le fond ; on dit : <i>vous barochez toûjours vos contours.  Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RECHAMPIR\" title=\"L’Encyclopédie/1re édition/RECHAMPIR\"><span class=\"sc\">Rechampir</span></a>. (<i>R</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAROCHE, (<i>Géog.</i>) ville d’Afrique dans les\nétats du Mogol, au royaume de Gusarate, sur la riviere \nde Nerdaba. <i>Lat. 21. 55</i>.\n</p><p><span class=\"sc\">Baroché</span>, adj. <i>terme de Peinture</i> dont on se sert\npour exprimer que le pinceau n’a pas tracé nettement \nun contour, &amp; qu’il a éclaboussé de la couleur\nsur le fond ; on dit : <i>vous barochez toûjours vos contours.  <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RECHAMPIR\" title=\"L’Encyclopédie/1re édition/RECHAMPIR\"><span class=\"sc\">Rechampir</span></a>. (<i>R</i>)\n \n</p>\n</div>",
     "title": "BAROCHE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAROCHE"
 }

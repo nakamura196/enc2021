@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-421",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2313-0/",
+    "item_id": "2-2308",
     "next": "2-2309",
     "pages": "421",
     "prev": "2-2307",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRINNITZ, (<i>Géog.</i>) riviere d’Allemagne, dans \nla Silésie, qui se jette dans l’Oder. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRINNITZ, (<i>Géog.</i>) riviere d’Allemagne, dans \nla Silésie, qui se jette dans l’Oder. \n \n</p>\n</div>",
     "title": "BRINNITZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRINNITZ"
 }

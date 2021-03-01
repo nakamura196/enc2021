@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-624",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3374-0/",
+    "item_id": "2-3371",
     "next": "2-3372",
     "pages": "624",
     "prev": "2-3370",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTOR, s. m. (<i>Commerce.</i>) poids dont on se sert en Sardaigne. Un <i>cantor</i> pese cent quarante-cinq livres de Venise. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIVRE\" title=\"L’Encyclopédie/1re édition/LIVRE\"><span class=\"sc\">Livre</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTOR, s. m. (<i>Commerce.</i>) poids dont on se sert en Sardaigne. Un <i>cantor</i> pese cent quarante-cinq livres de Venise. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LIVRE\" title=\"L’Encyclopédie/1re édition/LIVRE\"><span class=\"sc\">Livre</span></a>. \n \n</p>\n</div>",
     "title": "CANTOR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTOR"
 }

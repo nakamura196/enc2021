@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-529",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2902-0/",
+    "item_id": "2-2901",
     "next": "2-2902",
     "pages": "529",
     "prev": "2-2900",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CAGASTRUM</i>, (<i>Medecine.</i>) Paracelse se sert\nde ce mot pour désigner le germe &amp; le principe de\ntoutes les maladies.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CAGASTRUM</i>, (<i>Medecine.</i>) <span type=\"auteur_p\">Paracelse</span> se sert\nde ce mot pour désigner le germe &amp; le principe de\ntoutes les maladies.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>CAGASTRUM</i>, (<i>Medecine.</i>) Paracelse se sert\nde ce mot pour désigner le germe &amp; le principe de\ntoutes les maladies.\n \n</p>\n</div>",
     "title": "CAGASTRUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAGASTRUM"
 }

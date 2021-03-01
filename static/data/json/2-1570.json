@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-291",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1568-0/",
+    "item_id": "2-1570",
     "next": "2-1571",
     "pages": "291",
     "prev": "2-1569",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BODENBURG, (<i>Géog.</i>) petite ville du duché de\nBrunswick-Wolfembuttel.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BODENBURG, (<i>Géog.</i>) petite ville du duché de\nBrunswick-Wolfembuttel.\n \n</p>\n</div>",
     "title": "BODENBURG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BODENBURG"
 }

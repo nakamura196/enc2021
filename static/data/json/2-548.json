@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-117",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-559-0/",
+    "item_id": "2-548",
     "next": "2-549",
     "pages": "117",
     "prev": "2-547",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASILICUM, (<i>Hist. anc.</i>) espece d’ajustement\nou de vêtement des anciens, dont la nature nous est\nencore inconnue.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASILICUM, (<i>Hist. anc.</i>) espece d’ajustement\nou de vêtement des anciens, dont la nature nous est\nencore inconnue.\n \n</p>\n</div>",
     "title": "BASILICUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASILICUM"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-626",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3406-0/",
+    "item_id": "2-3403",
     "next": "2-3404",
     "pages": "626",
     "prev": "2-3402",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPELET, s. m. (<i>Maréchalerie.</i>) enflure qui\nvient au train de derriere du cheval, à l’extrémité \ndu jarret, qui est grosse à peu-près comme une\npetite balle de jeu de paume. Cette maladie est causée \npar une matiere phlegmatique &amp; froide, qui s’endurcit \npar sa viscosité, &amp; ne fait pas grand mal. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPELET, s. m. (<i>Maréchalerie.</i>) enflure qui\nvient au train de derriere du cheval, à l’extrémité \ndu jarret, qui est grosse à peu-près comme une\npetite balle de jeu de paume. Cette maladie est causée \npar une matiere phlegmatique &amp; froide, qui s’endurcit \npar sa viscosité, &amp; ne fait pas grand mal. (<i>V</i>)\n \n</p>\n</div>",
     "title": "CAPELET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPELET"
 }

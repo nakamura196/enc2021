@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3882-10/",
+    "item_id": "2-3890",
     "next": "2-3891",
     "pages": "749",
     "prev": "2-3889",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Moron</span>, petite ville de France dans\nl’Agénois, sur la riviere de Lot.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Moron</span>, petite ville de France dans\nl’Agénois, sur la riviere de Lot.\n \n</p>\n</div>",
     "title": "CASTEL-MORON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTEL-MORON"
 }

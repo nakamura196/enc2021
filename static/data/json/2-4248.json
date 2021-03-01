@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-831",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4238-0/",
+    "item_id": "2-4248",
     "next": "2-4249",
     "pages": "831",
     "prev": "2-4247",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CENTUSSIS, (<i>Antiquité.</i>) c’était d’abord autant \nque <i><span class=\"lang-la\" lang=\"la\">centum asses</span> :</i> mais <i><span class=\"lang-la\" lang=\"la\">as</span></i> &amp; <i><span class=\"lang-la\" lang=\"la\">libra</span></i> étant synonymes,\nle <i>centussis</i> valoit cent livres de cuivre, évaluées en argent à dix deniers. Dans la suite le <i>centussis</i> ne fut plus compté que pour cent sextans, puis\npour cent onces, &amp; enfin pour cent demi-onces. <i>Voy</i>.\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONNOIE\" title=\"L’Encyclopédie/1re édition/MONNOIE\"><span class=\"sc\">Monnoies anciennes</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CENTUSSIS, (<i>Antiquité.</i>) c’était d’abord autant \nque <i><span class=\"lang-la\" lang=\"la\">centum asses</span> :</i> mais <i><span class=\"lang-la\" lang=\"la\">as</span></i> &amp; <i><span class=\"lang-la\" lang=\"la\">libra</span></i> étant synonymes,\nle <i>centussis</i> valoit cent livres de cuivre, évaluées en argent à dix deniers. Dans la suite le <i>centussis</i> ne fut plus compté que pour cent sextans, puis\npour cent onces, &amp; enfin pour cent demi-onces. <i>Voy</i>.\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONNOIE\" title=\"L’Encyclopédie/1re édition/MONNOIE\"><span class=\"sc\">Monnoies anciennes</span></a>.\n \n</p>\n</div>",
     "title": "CENTUSSIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENTUSSIS"
 }

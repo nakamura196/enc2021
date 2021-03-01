@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-750",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3897-0/",
+    "item_id": "2-3910",
     "next": "2-3911",
     "pages": "750",
     "prev": "2-3909",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELNAUDARY, (<i>Géog.</i>) ville considérable \nde France dans le haut-Languedoc, capitale du\nLauraguais, à six lieues de Carcassonne. <i>Long. 19. 38. lat. 43. 19. 4</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELNAUDARY, (<i>Géog.</i>) ville considérable \nde France dans le haut-Languedoc, capitale du\nLauraguais, à six lieues de Carcassonne. <i>Long. 19. 38. lat. 43. 19. 4</i>.\n \n</p>\n</div>",
     "title": "CASTELNAUDARY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTELNAUDARY"
 }

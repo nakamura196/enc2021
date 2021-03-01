@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-291",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1570-0/",
+    "item_id": "2-1572",
     "next": "2-1573",
     "pages": "291",
     "prev": "2-1571",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BODENHAUSEN, (<i>Géog.</i>) petite ville du Landgraviat \nde Hesse, sur la frontiere du duché de Brunswick.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BODENHAUSEN, (<i>Géog.</i>) petite ville du Landgraviat \nde Hesse, sur la frontiere du duché de Brunswick.\n \n</p>\n</div>",
     "title": "BODENHAUSEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BODENHAUSEN"
 }

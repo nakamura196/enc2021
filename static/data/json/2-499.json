@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-96",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-510-0/",
+    "item_id": "2-499",
     "next": "2-500",
     "pages": "96",
     "prev": "2-498",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARRILLIER, s. m. (<i>Hist. mod.</i>) nom d’un de\nces anciens officiers de l’échansonnerie du roi &amp; des\nprinces, qui avoient soin du vin. Il en est parlé dans\nl’état des officiers de l’échansonnerie du tems de S.\nLouis, en 1261.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARRILLIER, s. m. (<i>Hist. mod.</i>) nom d’un de\nces anciens officiers de l’échansonnerie du roi &amp; des\nprinces, qui avoient soin du vin. Il en est parlé dans\nl’état des officiers de l’échansonnerie du tems de S.\nLouis, en 1261.\n \n</p>\n</div>",
     "title": "BARRILLIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRILLIER"
 }

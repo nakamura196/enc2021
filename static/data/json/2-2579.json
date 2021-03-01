@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-461",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2582-0/",
+    "item_id": "2-2579",
     "next": "2-2580",
     "pages": "461",
     "prev": "2-2578",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULAFO, nom d’un instrument de musique dont\nles Negres de la côte de Guinée se servent beaucoup.\nCet instrument est composé de plusieurs tuyaux d’un\nbois fort dur, arrangés artistement, &amp; diminuant peu-à \npeu de longueur ; ces tuyaux sont attachés les uns\naux autres avec de petites bandes de cuir entortillées \nsur de petites baguettes, de maniere à laisser un\ncertain espace entre les différens tuyaux : on en joue\nen les frappant avec des bâtons dont les bouts sont\ngarnis de cuir, pour en rendre le son moins aigu.\n<i>Voyage de Froger, page 36</i>, &amp;c. <i>Voyez les Planches </i>\n<i>de Luth. &amp; leur explication</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULAFO, nom d’un instrument de musique dont\nles Negres de la côte de Guinée se servent beaucoup.\nCet instrument est composé de plusieurs tuyaux d’un\nbois fort dur, arrangés artistement, &amp; diminuant peu-à \npeu de longueur ; ces tuyaux sont attachés les uns\naux autres avec de petites bandes de cuir entortillées \nsur de petites baguettes, de maniere à laisser un\ncertain espace entre les différens tuyaux : on en joue\nen les frappant avec des bâtons dont les bouts sont\ngarnis de cuir, pour en rendre le son moins aigu.\n<i>Voyage de Froger,<span type=\"proposed\"> page </span>36</i>, &amp;c. <i><span type=\"bold\">Voyez</span> les Planches </i>\n<i>de Luth. &amp; leur explication</i>.\n \n</p>\n</div>",
     "title": "BULAFO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BULAFO"
 }

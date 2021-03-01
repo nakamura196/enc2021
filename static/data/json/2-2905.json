@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-530",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2906-0/",
+    "item_id": "2-2905",
     "next": "2-2906",
     "pages": "530",
     "prev": "2-2904",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGLI, (<i>Géog.</i>) ville d’Italie au duché d’Urbin,\nau pié de l’Appennin. <i>Long. 30. 18. lat. 43. 30</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGLI, (<i>Géog.</i>) ville d’Italie au duché d’Urbin,\nau pié de l’Appennin. <i>Long. 30. 18. lat. 43. 30</i>.\n \n</p>\n</div>",
     "title": "CAGLI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAGLI"
 }

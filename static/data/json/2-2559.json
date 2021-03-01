@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-459",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2562-0/",
+    "item_id": "2-2559",
     "next": "2-2560",
     "pages": "459",
     "prev": "2-2558",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUFLETIN, c’est le nom du bufle quand il est \nencore petit ; on prépare la peau du <i>bufletin</i>, &amp; on \nl’employe aux mêmes usages que celle du bufle. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUFLETIN, c’est le nom du bufle quand il est \nencore petit ; on prépare la peau du <i>bufletin</i>, &amp; on \nl’employe aux mêmes usages que celle du bufle. \n \n</p>\n</div>",
     "title": "BUFLETIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUFLETIN"
 }

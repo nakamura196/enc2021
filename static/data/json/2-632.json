@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-140",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-629-0/",
+    "item_id": "2-632",
     "next": "2-633",
     "pages": "140",
     "prev": "2-631",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATAVES, s. m. pl. (<span class=\"sc\">les</span>) <i>Hist. mod. &amp; Géog.</i>\nIl est fait mention de ces peuples dans les commentaires \nde César, &amp; autres écrivains anciens. Ils occupoient \nune partie de la Hollande méridionale, une\npartie du duché de Gueldre &amp; de la seigneurie d’Utrecht. \nOn entend aujourd’hui par <i>Bataves</i> les Hollandois.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATAVES, s. m. pl. (<span class=\"sc\">les</span>) <i>Hist. mod. &amp; Géog.</i>\nIl est fait mention de ces peuples dans les <span type=\"proposed\">commentaires</span> \nde <span type=\"auteur_p\">César</span>, &amp; autres écrivains anciens. Ils occupoient \nune<span type=\"proposed\"> partie </span>de la Hollande méridionale, une\npartie du duché de Gueldre &amp; de la seigneurie d’Utrecht. \nOn entend aujourd’hui par <i>Bataves</i> les Hollandois.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATAVES, s. m. pl. (<span class=\"sc\">les</span>) <i>Hist. mod. &amp; Géog.</i>\nIl est fait mention de ces peuples dans les commentaires \nde César, &amp; autres écrivains anciens. Ils occupoient \nune<span type=\"proposed\"> partie </span>de la Hollande méridionale, une\npartie du duché de Gueldre &amp; de la seigneurie d’Utrecht. \nOn entend aujourd’hui par <i>Bataves</i> les Hollandois.\n \n</p>\n</div>",
     "title": "BATAVES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATAVES"
 }

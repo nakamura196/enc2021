@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-531",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2912-0/",
+    "item_id": "2-2911",
     "next": "2-2912",
     "pages": "531",
     "prev": "2-2910",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHI <i>ou</i> CAHYS. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAHYS\" title=\"L’Encyclopédie/1re édition/CAHYS\"><span class=\"sc\">Cahys</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHI <i>ou</i> CAHYS. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAHYS\" title=\"L’Encyclopédie/1re édition/CAHYS\"><span class=\"sc\">Cahys</span></a>. \n \n</p>\n</div>",
     "title": "CAHI ou CAHYS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAHI_ou_CAHYS"
 }

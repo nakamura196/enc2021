@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-77",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-476-0/",
+    "item_id": "2-465",
     "next": "2-466",
     "pages": "77",
     "prev": "2-464",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARNAGASSE, (<i>Géog.</i>) royaume d’Afrique\nentre la haute Ethiopie, le Nil &amp; la mer Rouge, le\nlong de la côte d’Abex ; Barra en est la capitale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARNAGASSE, (<i>Géog.</i>) royaume d’Afrique\nentre la haute Ethiopie, le Nil &amp; la mer Rouge, le\nlong de la côte d’Abex ; Barra en est la capitale.\n \n</p>\n</div>",
     "title": "BARNAGASSE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARNAGASSE"
 }

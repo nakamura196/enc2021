@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-22",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-179-0/",
+    "item_id": "2-172",
     "next": "2-173",
     "pages": "22",
     "prev": "2-171",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAJOIRE, s. f. <i>à la Monnoie</i>, c’est une piece, ou\nmédaille qui a pour effigie deux têtes de profil, qui\nsemblent être appuyées l’une sur l’autre, telle que\nl’on en voit de Louis &amp; de Carloman, de Henri IV\n&amp; de Marie de Medicis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAJOIRE, s. f. <i>à la Monnoie</i>, c’est une piece, ou\nmédaille qui a pour effigie deux têtes de profil, qui\nsemblent être appuyées l’une sur l’autre, telle que\nl’on en voit de Louis &amp; de Carloman, de Henri IV\n&amp; de Marie de Medicis.\n \n</p>\n</div>",
     "title": "BAJOIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAJOIRE"
 }

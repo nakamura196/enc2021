@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-396",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2110-0/",
+    "item_id": "2-2106",
     "next": "2-2107",
     "pages": "396",
     "prev": "2-2105",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRANDERIE, s. f. (<i>Commerce.</i>) c’est ainsi\nqu’on nomme à Amsterdam, les lieux où l’on fait\nles eaux-de-vie de grain.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRANDERIE, s. f. (<i>Commerce.</i>) c’est ainsi\nqu’on nomme à Amsterdam, les lieux où l’on fait\nles eaux-de-vie de grain.\n \n</p>\n</div>",
     "title": "BRANDERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRANDERIE"
 }

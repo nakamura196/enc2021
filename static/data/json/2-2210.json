@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2215-0/",
+    "item_id": "2-2210",
     "next": "2-2211",
     "pages": "412",
     "prev": "2-2209",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESCON, (<i>Géog.</i>) petite île de France, dans\nle golfe de Lyon, près des côtés de Languedoc ; elle\nest pleine de rochers, &amp; il s’y trouve un château fort.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESCON, (<i>Géog.</i>) petite île de France, dans\nle golfe de Lyon, près des côtés de Languedoc ; elle\nest pleine de rochers, &amp; il s’y trouve un château fort.\n \n</p>\n</div>",
     "title": "BRESCON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESCON"
 }

@@ -1,13 +1,14 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1358-0/",
+    "item_id": "2-1361",
     "next": "2-1362",
     "pages": "260",
     "prev": "2-1360",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISALTES, s. m. pl. (<i>Hist. &amp; Géog. anc.</i>) peuples \nde Scythie sans aucune demeure fixe, &amp; vivant\nde lait mêlé avec du sang de cheval. Virgile en a fait\nmention au <i>III. livre des Géorgiques</i>.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISALTES, s. m. pl. (<i>Hist. &amp; Géog. anc.</i>) peuples \nde Scythie sans aucune demeure fixe, &amp; vivant\nde lait mêlé avec du sang de cheval. <span type=\"auteur_p\">Virgile</span> en a fait\nmention au <i>III.<span type=\"proposed\"> livre </span>des Géorgiques</i>.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISALTES, s. m. pl. (<i>Hist. &amp; Géog. anc.</i>) peuples \nde Scythie sans aucune demeure fixe, &amp; vivant\nde lait mêlé avec du sang de cheval. Virgile en a fait\nmention au <i>III.<span type=\"proposed\"> livre </span>des Géorgiques</i>.\n \n</p>\n</div>",
     "title": "BISALTES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISALTES"
 }

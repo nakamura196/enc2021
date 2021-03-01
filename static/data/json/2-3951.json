@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-759",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3939-0/",
+    "item_id": "2-3951",
     "next": "2-3952",
     "pages": "759",
     "prev": "2-3950",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATALECTIQUE, adj. <i>terme de le. Poésie Greque &amp; Latine</i>, usité parmi les anciens pour désigner les\nvers imparfaits, auxquels il manquoit quelques piés\nou quelques syllabes, par opposition aux vers <i>acatalectiques</i>, auxquels il ne manquoit rien de ce qui\ndevoit entrer dans leur structure. Ce mot est originairement \nGrec, &amp; formé de <span class=\"lang-grc\" lang=\"grc\">ϰατὰ</span>, <i>contra</i>, &amp; de\n<span class=\"lang-grc\" lang=\"grc\">λέγω</span>, <i>desino</i>, je finis ; c’est-à-dire <i>qui n’est pas termine</i> ou <i>fini</i> dans les regles. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ACATALECTIQUE\" title=\"L’Encyclopédie/1re édition/ACATALECTIQUE\"><span class=\"sc\">Acatalectique</span></a>.\n(<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATALECTIQUE, adj. <i>terme de le. Poésie Greque &amp; Latine</i>, usité parmi les anciens pour désigner les\nvers imparfaits, auxquels il manquoit quelques piés\nou quelques syllabes, par opposition aux vers <i>acatalectiques</i>, auxquels il ne manquoit rien de ce qui\ndevoit entrer dans leur structure. Ce mot est originairement \nGrec, &amp; formé de <span class=\"lang-grc\" lang=\"grc\">ϰατὰ</span>, <i>contra</i>, &amp; de\n<span class=\"lang-grc\" lang=\"grc\">λέγω</span>, <i>desino</i>, je finis ; c’est-à-dire <i>qui n’est pas termine</i> ou <i>fini</i> dans les regles. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ACATALECTIQUE\" title=\"L’Encyclopédie/1re édition/ACATALECTIQUE\"><span class=\"sc\">Acatalectique</span></a>.\n(<i>G</i>)\n \n</p>\n</div>",
     "title": "CATALECTIQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATALECTIQUE"
 }

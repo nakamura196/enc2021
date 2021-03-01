@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-415",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2250-0/",
+    "item_id": "2-2245",
     "next": "2-2246",
     "pages": "415",
     "prev": "2-2244",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREUILS <i>ou</i> CARGUES, (<i>Marine.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARGUE,_CARGUES\" title=\"L’Encyclopédie/1re édition/CARGUE, CARGUES\"><span class=\"sc\">Cargues</span></a>.\n</p><p><span class=\"sc\">Breuils, Martinets, <i>&amp;</i> Garcettes</span> : ces \nmots se prennent aussi, <i>en Marine</i>, pour toutes les petites \ncordes qui servent à breuiller, ferler, &amp; serrer \nles voiles. (<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREUILS <i>ou</i> CARGUES, (<i>Marine.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARGUE,_CARGUES\" title=\"L’Encyclopédie/1re édition/CARGUE, CARGUES\"><span class=\"sc\">Cargues</span></a>.\n</p><p><span class=\"sc\">Breuils, Martinets, <i>&amp;</i> Garcettes</span> : ces \nmots se prennent aussi, <i>en Marine</i>, pour toutes les petites \ncordes qui servent à breuiller, ferler, &amp; serrer \nles voiles. (<i>Z</i>) \n \n</p>\n</div>",
     "title": "BREUILS ou CARGUES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREUILS_ou_CARGUES"
 }

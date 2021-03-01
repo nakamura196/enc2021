@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-778",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3996-0/",
+    "item_id": "2-4008",
     "next": "2-4009",
     "pages": "778",
     "prev": "2-4007",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATI, <i>ou</i> CATTI, s. m. (<i>Commerce.</i>) poids de\nla Chine, particulierement en usage du côté de\nCanton.\n</p><p>Le <i>cati</i> se divise en seize taels, chaque tael faisant\nune once deux gros de France ; de maniere que le\n<i>cati</i> revient à une livre quatre onces poids de marc.\nIl faut cent <i>catis</i> pour faire un pic, qui est un gros\npoids de la Chine, semblable à cent vingt livres de\nParis, d’Amsterdam, de Strasbourg, &amp; de Besançon. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PIC\" title=\"L’Encyclopédie/1re édition/PIC\"><span class=\"sc\">Pic</span></a>, <i>Dictionn. du Commerce, tome II. page 132</i>.\n</p><p><i>Cati</i>, est aussi le seul poids du Japon : on s’en sert\npourtant à Batavia &amp; dans d’autres endroits des Indes, où il pese plus ou moins, selon qu’il contient\nplus ou moins de taels ; le <i>cati</i>, par exemple de Java,\nvalant jusqu’à vingt taels, &amp; celui de Cambaye jusqu’à vingt sept. <i>Dic. du commerce, ibid. Voy</i>. <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TAEL\" title=\"L’Encyclopédie/1re édition/TAEL\"><span class=\"sc\">Tael</span></a>.\n</p><p><i>Cati</i>, est encore un petit poids dont les Lapidaires\nde l’Orient se servent pour peser les émeraudes : ce\n<i>cati</i> ne pese que trois grains. <i>Idem. ibid</i>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATI, <i>ou</i> CATTI, s. m. (<i>Commerce.</i>) poids de\nla Chine, particulierement en usage du côté de\nCanton.\n</p><p>Le <i>cati</i> se divise en seize taels, chaque tael faisant\nune once deux gros de France ; de maniere que le\n<i>cati</i> revient à une<span type=\"proposed\"> livre </span>quatre onces poids de marc.\nIl faut cent <i>catis</i> pour faire un pic, qui est un gros\npoids de la Chine, semblable à cent vingt livres de\nParis, d’Amsterdam, de Strasbourg, &amp; de Besançon. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PIC\" title=\"L’Encyclopédie/1re édition/PIC\"><span class=\"sc\">Pic</span></a>, <i>Dictionn. du Commerce,<span type=\"proposed\"> tome </span>II.<span type=\"proposed\"> page </span>132</i>.\n</p><p><i>Cati</i>, est aussi le seul poids du Japon : on s’en sert\npourtant à Batavia &amp; dans d’autres endroits des Indes, où il pese plus ou moins, selon qu’il contient\nplus ou moins de taels ; le <i>cati</i>, par exemple de Java,\nvalant jusqu’à vingt taels, &amp; celui de Cambaye jusqu’à vingt sept. <i>Dic. du commerce, ibid. Voy</i>. <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TAEL\" title=\"L’Encyclopédie/1re édition/TAEL\"><span class=\"sc\">Tael</span></a>.\n</p><p><i>Cati</i>, est encore un petit poids dont les Lapidaires\nde l’Orient se servent pour peser les émeraudes : ce\n<i>cati</i> ne pese que trois grains. <i>Idem. ibid</i>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CATI, ou CATTI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATI,_ou_CATTI"
 }

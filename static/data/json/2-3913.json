@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-750",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3900-0/",
+    "item_id": "2-3913",
     "next": "2-3914",
     "pages": "750",
     "prev": "2-3912",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTER, (<i>Géog.</i>) petite ville d’Allemagne\ndans l’archevêché de Cologne, sur la riviere d’Erp.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTER, (<i>Géog.</i>) petite ville d’Allemagne\ndans l’archevêché de Cologne, sur la riviere d’Erp.\n \n</p>\n</div>",
     "title": "CASTER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTER"
 }

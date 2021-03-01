@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-527",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2884-0/",
+    "item_id": "2-2883",
     "next": "2-2884",
     "pages": "527",
     "prev": "2-2882",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CADUS</i> ou <i>CERANIUM</i>, (<i>Hist. anc.</i>) grande\nmesure des anciens, contenant cent vingt livres de\nvin, &amp; environ cent cinquante livres d’huile.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CADUS</i> ou <i>CERANIUM</i>, (<i>Hist. anc.</i>) grande\nmesure des anciens, contenant cent vingt livres de\nvin, &amp; environ cent cinquante livres d’huile.\n \n</p>\n</div>",
     "title": "CADUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADUS"
 }

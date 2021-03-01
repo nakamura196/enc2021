@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-675",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3593-0/",
+    "item_id": "2-3591",
     "next": "2-3592",
     "pages": "675",
     "prev": "2-3590",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARDAIRE, s. f. (<i>Hist. nat. Ichth.</i>) <i><span class=\"lang-la\" lang=\"la\">raia spinosa</span></i>, poisson de mer du genre des raies : il est herissé d’aiguillons à peu près comme des cardes avec lesquelles on carde la laine, c’est pourquoi on lui a donné le nom de <i>cardaire</i>. Il a des aiguillons non-seulement sur les nageoires, comme la raie appellée <i>ronce</i>, mais encore sur les côtés de la tête, devant les yeux, sur le dos, <i>&amp;c.</i> Rondelet. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RAIE,_RAYE\" title=\"L’Encyclopédie/1re édition/RAIE, RAYE\"><span class=\"sc\">Raie</span></a>. (<i>I</i>) \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARDAIRE, s. f. (<i>Hist. nat. Ichth.</i>) <i><span class=\"lang-la\" lang=\"la\">raia spinosa</span></i>, poisson de mer du genre des raies : il est herissé d’aiguillons à peu près comme des cardes avec lesquelles on carde la laine, c’est pourquoi on lui a donné le nom de <i>cardaire</i>. Il a des aiguillons non-seulement sur les nageoires, comme la raie appellée <i>ronce</i>, mais encore sur les côtés de la tête, devant les yeux, sur le dos, <i>&amp;c.</i> <span type=\"auteur_p\">Rondelet.</span> <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RAIE,_RAYE\" title=\"L’Encyclopédie/1re édition/RAIE, RAYE\"><span class=\"sc\">Raie</span></a>. (<i>I</i>) \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARDAIRE, s. f. (<i>Hist. nat. Ichth.</i>) <i><span class=\"lang-la\" lang=\"la\">raia spinosa</span></i>, poisson de mer du genre des raies : il est herissé d’aiguillons à peu près comme des cardes avec lesquelles on carde la laine, c’est pourquoi on lui a donné le nom de <i>cardaire</i>. Il a des aiguillons non-seulement sur les nageoires, comme la raie appellée <i>ronce</i>, mais encore sur les côtés de la tête, devant les yeux, sur le dos, <i>&amp;c.</i> Rondelet. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/RAIE,_RAYE\" title=\"L’Encyclopédie/1re édition/RAIE, RAYE\"><span class=\"sc\">Raie</span></a>. (<i>I</i>) \n \n</p>\n</div>",
     "title": "CARDAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARDAIRE"
 }

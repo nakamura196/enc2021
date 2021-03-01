@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-893-0/",
+    "item_id": "2-897",
     "next": "2-898",
     "pages": "198",
     "prev": "2-896",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLA MORESKOY-LEPORIE. <i>V.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LEPORIE\" title=\"L’Encyclopédie/1re édition/LEPORIE\"><span class=\"sc\">Leporie</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLA MORESKOY-LEPORIE.<span type=\"bold\"> <i>V.</i> </span><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LEPORIE\" title=\"L’Encyclopédie/1re édition/LEPORIE\"><span class=\"sc\">Leporie</span></a>.\n \n</p>\n</div>",
     "title": "BELLA MORESK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELLA_MORESK"
 }

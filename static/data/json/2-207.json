@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-32",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-214-0/",
+    "item_id": "2-207",
     "next": "2-208",
     "pages": "32",
     "prev": "2-206",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALANT, s. m. (<i>Marine.</i>) le <i>balant</i> d’une maneuvre est la partie qui n’est point halée : il se dit aussi de la maneuvre même lorsqu’elle n’est point employée. On dit <i>tenir le balant d’une maneuvre</i>, pour dire <i>l’amarrer de telle sorte qu’elle ne balance pas</i>. (<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALANT, s. m. (<i>Marine.</i>) le <i>balant</i> d’une maneuvre est la<span type=\"proposed\"> partie </span>qui n’est point halée : il se dit aussi de la maneuvre même lorsqu’elle n’est point employée. On dit <i>tenir le balant d’une maneuvre</i>, pour dire <i>l’amarrer de telle sorte qu’elle ne balance pas</i>. (<i>Z</i>) \n \n</p>\n</div>",
     "title": "BALANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALANT"
 }

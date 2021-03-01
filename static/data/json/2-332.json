@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-63",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-340-0/",
+    "item_id": "2-332",
     "next": "2-333",
     "pages": "63",
     "prev": "2-331",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANZA, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALVADOR,_San\" title=\"L’Encyclopédie/1re édition/SALVADOR, San\"><span class=\"sc\">S. Salvador</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANZA, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALVADOR,_San\" title=\"L’Encyclopédie/1re édition/SALVADOR, San\"><span class=\"sc\">S. Salvador</span></a>.\n \n</p>\n</div>",
     "title": "BANZA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANZA"
 }

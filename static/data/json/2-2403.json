@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-444",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2406-0/",
+    "item_id": "2-2403",
     "next": "2-2404",
     "pages": "444",
     "prev": "2-2402",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROU, s. m. (<i>Teinture.</i>) c’est ainsi qu’on appelle\nla coque verte de la noix. Il est permis aux teinturiers de l’employer dans quelques couleurs, mais non\ndans toutes. Les tourneurs, menuisiers, <i>&amp;c.</i> s’en servent \npour donner aux bois blancs la couleur du bouis,\n&amp; les distillateurs en tirent un ratafia, dont on fait\ncas.\n</p><p><span class=\"sc\">Brou</span>, (<i>Géog.</i>) ville de France, dans le Perche,\nsur la riviere de Douxaine, près de Châteaudun.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROU, s. m. (<i>Teinture.</i>) c’est ainsi qu’on appelle\nla coque verte de la noix. Il est permis aux teinturiers de l’employer dans quelques couleurs, mais non\ndans toutes. Les tourneurs, menuisiers, <i>&amp;c.</i> s’en servent \npour donner aux bois blancs la couleur du bouis,\n&amp; les distillateurs en tirent un ratafia, dont on fait\ncas.\n</p><p><span class=\"sc\">Brou</span>, (<i>Géog.</i>) ville de France, dans le Perche,\nsur la riviere de Douxaine, près de Châteaudun.\n \n</p>\n</div>",
     "title": "BROU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROU"
 }

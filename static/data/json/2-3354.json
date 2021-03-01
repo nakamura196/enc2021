@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-621",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3357-0/",
+    "item_id": "2-3354",
     "next": "2-3355",
     "pages": "621",
     "prev": "2-3353",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTANETTES, s. f. (<i>Marine.</i>) petites ouvertures \nrondes, entre lesquelles est le gouvernail, &amp;\nqui donnent la lumiere au gavon. <i>Voyez</i> <span class=\"sc\">Gavon</span>,\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GOUVERNAIL\" title=\"L’Encyclopédie/1re édition/GOUVERNAIL\"><span class=\"sc\">Gouvernail</span></a>. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTANETTES, s. f. (<i>Marine.</i>) petites ouvertures \nrondes, entre lesquelles est le gouvernail, &amp;\nqui donnent la lumiere au gavon. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Gavon</span>,\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GOUVERNAIL\" title=\"L’Encyclopédie/1re édition/GOUVERNAIL\"><span class=\"sc\">Gouvernail</span></a>. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "CANTANETTES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTANETTES"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-529",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2903-0/",
+    "item_id": "2-2902",
     "next": "2-2903",
     "pages": "529",
     "prev": "2-2901",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGAVEL, poisson de mer ; <i>voyez</i> <span class=\"sc\">Merdole</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGAVEL, poisson de mer ; <i>voyez</i> <span class=\"sc\">Merdole</span>.\n \n</p>\n</div>",
     "title": "CAGAVEL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAGAVEL"
 }

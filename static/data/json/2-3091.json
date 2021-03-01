@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-563",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3092-0/",
+    "item_id": "2-3091",
     "next": "2-3092",
     "pages": "563",
     "prev": "2-3090",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALMENDA, (<i>Géog.</i>) ville du royaume de Portugal, \npeu éloignée de Brague.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALMENDA, (<i>Géog.</i>) ville du royaume de Portugal, \npeu éloignée de Brague.\n \n</p>\n</div>",
     "title": "CALMENDA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALMENDA"
 }

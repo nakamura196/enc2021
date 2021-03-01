@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-672",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3557-0/",
+    "item_id": "2-3556",
     "next": "2-3557",
     "pages": "672",
     "prev": "2-3555",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARARA, s. m. (<i>Commerce.</i>) poids dont on se sert en quelques endroits d’Italie, &amp; particulierement à Livourne, pour la vente des laines &amp; des morues.\n</p><p>Le <i>carara</i> est de cent soixante livres du pays, où la livre n’est que de douze onces poids de marc, ce qui revient à cent dix livres six onces trois gros, un peu plus, de Paris, Amsterdam, &amp; autres villes où la livre est de seize onces. Le <i>carara</i> fait cent trente-six livres poids de Marseille. (<i>G</i>) \n</p><p>CARARA, (<i>Géog.</i>) petite ville d’Italie, avec titre de principauté, fameuse par ses carrieres de marbre. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARARA, s. m. (<i>Commerce.</i>) poids dont on se sert en quelques endroits d’Italie, &amp; particulierement à Livourne, pour la vente des laines &amp; des morues.\n</p><p>Le <i>carara</i> est de cent soixante livres du pays, où la<span type=\"proposed\"> livre </span>n’est que de douze onces poids de marc, ce qui revient à cent dix livres six onces trois gros, un peu plus, de Paris, Amsterdam, &amp; autres villes où la<span type=\"proposed\"> livre </span>est de seize onces. Le <i>carara</i> fait cent trente-six livres poids de Marseille. (<i>G</i>) \n</p><p>CARARA, (<i>Géog.</i>) petite ville d’Italie, avec titre de principauté, fameuse par ses carrieres de marbre. \n \n</p>\n</div>",
     "title": "CARARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARARA"
 }

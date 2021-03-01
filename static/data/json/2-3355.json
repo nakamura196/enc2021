@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-621",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3358-0/",
+    "item_id": "2-3355",
     "next": "2-3356",
     "pages": "621",
     "prev": "2-3354",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTARA, (<i>Géog.</i>) riviere de Sicile dans la\nvallée de Demona. Il y en a une autre de même\nnom en Sicile, dans la vallée de Noto.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANTARA, (<i>Géog.</i>) riviere de Sicile dans la\nvallée de Demona. Il y en a une autre de même\nnom en Sicile, dans la vallée de Noto.\n \n</p>\n</div>",
     "title": "CANTARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANTARA"
 }

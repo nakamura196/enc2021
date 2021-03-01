@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-699",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3735-0/",
+    "item_id": "2-3732",
     "next": "2-3733",
     "pages": "699",
     "prev": "2-3731",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARQUOIS, s. m. (<i>Art. milit.</i>) espece de boîte\nou de fourreau, dans lequel les troupes qui se servent \nd’arcs mettent leurs fleches. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARQUOIS, s. m. (<i>Art. milit.</i>) espece de boîte\nou de fourreau, dans lequel les troupes qui se servent \nd’arcs mettent leurs fleches. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "CARQUOIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARQUOIS"
 }

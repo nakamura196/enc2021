@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-206",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-990-0/",
+    "item_id": "2-994",
     "next": "2-995",
     "pages": "206",
     "prev": "2-993",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BER, (<i>Hist. nat. bot.</i>) grand arbre ou pommier\ndes Indes, qui porte beaucoup de feuilles, de fleurs,\n&amp; de fruit. Il a la feuille semblable à celle du pommier,\nd’un verd obscur &amp; blanchâtre par le bas, &amp;\nvelue comme celle de la sauge ; la fleur petite, blanche,\nà cinq pétales, &amp; sans odeur ; &amp; le fruit comme \nla jujube, mais plus agréable au goût. On le trouve \nsur les côtes de Malabar &amp; de Malaca. On le nomme \naussi <i>Malaïo</i>. On dit qu’on trouve sut cet arbre la\ngomme lacque ; &amp; l’on attribue à ses feuilles la qualité \nd’arrêter le cours de ventre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BER, (<i>Hist. nat. bot.</i>) grand arbre ou pommier\ndes Indes, qui porte beaucoup de feuilles, de fleurs,\n&amp; de fruit. Il a la feuille semblable à celle du pommier,\nd’un verd obscur &amp; blanchâtre par le bas, &amp;\nvelue comme celle de la sauge ; la fleur petite, blanche,\nà cinq pétales, &amp; sans odeur ; &amp; le fruit comme \nla jujube, mais plus agréable au goût. On le trouve \nsur les côtes de Malabar &amp; de Malaca. On le nomme \naussi <i>Malaïo</i>. On dit qu’on trouve sut cet arbre la\ngomme lacque ; &amp; l’on attribue à ses feuilles la qualité \nd’arrêter le cours de ventre.\n \n</p>\n</div>",
     "title": "BER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BER"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-791",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4075-0/",
+    "item_id": "2-4086",
     "next": "2-4087",
     "pages": "791",
     "prev": "2-4085",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUSSADE, (<i>Géog.</i>) petite ville de France\ndans le bas Quercy, près de l’Aveyrou.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUSSADE, (<i>Géog.</i>) petite ville de France\ndans le bas Quercy, près de l’Aveyrou.\n \n</p>\n</div>",
     "title": "CAUSSADE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUSSADE"
 }

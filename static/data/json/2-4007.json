@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-778",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3995-0/",
+    "item_id": "2-4007",
     "next": "2-4008",
     "pages": "778",
     "prev": "2-4006",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATHURS, s. m. (<i>Marine.</i>) ce sont des vaisseaux \nde guerre de Bantam, qui sont courbés &amp; aigus \npar les bouts, &amp; qui portent une voile tissue\nd’herbes &amp; de feuilles d’arbres. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATHURS, s. m. (<i>Marine.</i>) ce sont des vaisseaux \nde guerre de Bantam, qui sont courbés &amp; aigus \npar les bouts, &amp; qui portent une voile tissue\nd’herbes &amp; de feuilles d’arbres. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "CATHURS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATHURS"
 }

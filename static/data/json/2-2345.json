@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2347-0/",
+    "item_id": "2-2345",
     "next": "2-2346",
     "pages": "424",
     "prev": "2-2344",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRIZO, s. f. (<i>Myth.</i>) déesse des songes, adorée \nautrefois dans l’île de Delos. On lui offroit des\nnacelles pleines de toutes sortes d’offrandes, dont il\nn’y avoit que les poissons d’exceptés. <i>Brizo</i> vient de\n<span class=\"lang-grc\" lang=\"grc\">βρίζειν</span>, <i>dormir</i>. Les songes qu’envoyoit <i>Brizo</i> étoient\ndes oracles ; &amp; ceux qui avoient fait une heureuse navigation,\ncroyoient lui en devoir une action de grace. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRIZO, s. f. (<i>Myth.</i>) déesse des songes, adorée \nautrefois dans l’île de Delos. On lui offroit des\nnacelles pleines de toutes sortes d’offrandes, dont il\nn’y avoit que les poissons d’exceptés. <i>Brizo</i> vient de\n<span class=\"lang-grc\" lang=\"grc\">βρίζειν</span>, <i>dormir</i>. Les songes qu’envoyoit <i>Brizo</i> étoient\ndes oracles ; &amp; ceux qui avoient fait une heureuse navigation,\ncroyoient lui en devoir une action de grace. \n</p>\n</div>",
     "title": "BRIZO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIZO"
 }

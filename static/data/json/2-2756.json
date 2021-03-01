@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-488",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2756-0/",
+    "item_id": "2-2756",
     "next": "2-2757",
     "pages": "488",
     "prev": "2-2755",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABESTERRE, (<i>Géog.</i>) on appelle ainsi dans\nles îles Antilles, la partie de l’île qui regarde le levant,\n&amp; qui est toûjours rafraîchie par les vents alisés,\nqui courent depuis le nord jusqu’à l’est-sud-est.\nLa basse terre est la partie opposée ; les vents s’y font\nmoins sentir ; &amp; par conséquent cette partie est plus\nchaude, &amp; la mer y étant plus tranquille, elle est\nplus propre pour le mouillage &amp; le chargement des\nvaisseaux ; joint à ce que les côtes y sont plus basses\nque dans les <i>cabesterres</i>, où elles sont ordinairement\nhautes &amp; escarpées, &amp; où la mer est presque toûjours \nagitée. <i>Voyages du P. Labat</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABESTERRE, (<i>Géog.</i>) on appelle ainsi dans\nles îles Antilles, la<span type=\"proposed\"> partie </span>de l’île qui regarde le levant,\n&amp; qui est toûjours rafraîchie par les vents alisés,\nqui courent depuis le nord jusqu’à l’est-sud-est.\nLa basse terre est la<span type=\"proposed\"> partie </span>opposée ; les vents s’y font\nmoins sentir ; &amp; par conséquent cette<span type=\"proposed\"> partie </span>est plus\nchaude, &amp; la mer y étant plus tranquille, elle est\nplus propre pour le mouillage &amp; le chargement des\nvaisseaux ; joint à ce que les côtes y sont plus basses\nque dans les <i>cabesterres</i>, où elles sont ordinairement\nhautes &amp; escarpées, &amp; où la mer est presque toûjours \nagitée. <i>Voyages du P. Labat</i>.\n \n</p>\n</div>",
     "title": "CABESTERRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABESTERRE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2631-0/",
+    "item_id": "2-2628",
     "next": "2-2629",
     "pages": "466",
     "prev": "2-2627",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURELLA, (<i>Géog.</i>) petite ville du royaume de \nNaples, dans l’Abruzze, près de la riviere de Sangro. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURELLA, (<i>Géog.</i>) petite ville du royaume de \nNaples, dans l’Abruzze, près de la riviere de Sangro. \n \n</p>\n</div>",
     "title": "BURELLA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURELLA"
 }

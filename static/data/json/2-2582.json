@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-461",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2585-0/",
+    "item_id": "2-2582",
     "next": "2-2583",
     "pages": "461",
     "prev": "2-2581",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULAM <i>ou</i> BOULAM, (<i>Géog.</i>) île d’Afrique inhabitée,\nquoique fertile, près de la côte de Guinée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULAM <i>ou</i> BOULAM, (<i>Géog.</i>) île d’Afrique inhabitée,\nquoique fertile, près de la côte de Guinée.\n \n</p>\n</div>",
     "title": "BULAM ou BOULAM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BULAM_ou_BOULAM"
 }

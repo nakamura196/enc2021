@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-366",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1942-0/",
+    "item_id": "2-1935",
     "next": "2-1936",
     "pages": "366",
     "prev": "2-1934",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOURACHER, s. m. (<i>Commerce.</i>) c’est le nom\nqu’on donne dans certaines manufactures de Picardie à ceux qui travaillent aux raz de Gènes, &amp; autres \nsemblables étoffes. Ils sont de la communauté\ndes Hautelisseurs : mais ils ont leurs jurés particuliers.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOURACHER, s. m. (<i>Commerce.</i>) c’est le nom\nqu’on donne dans certaines manufactures de Picardie à ceux qui travaillent aux raz de Gènes, &amp; autres \nsemblables étoffes. Ils sont de la communauté\ndes Hautelisseurs : mais ils ont leurs jurés particuliers.\n \n</p>\n</div>",
     "title": "BOURACHER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURACHER"
 }

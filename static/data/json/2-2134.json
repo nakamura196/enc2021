@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-406",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2138-0/",
+    "item_id": "2-2134",
     "next": "2-2135",
     "pages": "406",
     "prev": "2-2133",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRASSEUR, s. f. (<i>Art méchan.</i>) ouvrier autorisé \nà lever une brasserie, &amp; à fabriquer &amp; vendre\nde la bierre. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRASSERIE\" title=\"L’Encyclopédie/1re édition/BRASSERIE\"><span class=\"sc\">Brasserie</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIERRE\" title=\"L’Encyclopédie/1re édition/BIERRE\"><span class=\"sc\">Bierre</span></a>. Les <i>Brasseurs</i> \ns’apelloient autrefois <i>Cervoisiers. Voyez</i> dans les\nmêmes articles les statuts auxquels les <i>Brasseurs</i> sont\nassujettis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRASSEUR, s. f. (<i>Art méchan.</i>) ouvrier autorisé \nà lever une brasserie, &amp; à fabriquer &amp; vendre\nde la bierre. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRASSERIE\" title=\"L’Encyclopédie/1re édition/BRASSERIE\"><span class=\"sc\">Brasserie</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIERRE\" title=\"L’Encyclopédie/1re édition/BIERRE\"><span class=\"sc\">Bierre</span></a>. Les <i>Brasseurs</i> \ns’apelloient autrefois <i>Cervoisiers. <span type=\"bold\">Voyez</span></i> dans les\nmêmes articles les statuts auxquels les <i>Brasseurs</i> sont\nassujettis.\n \n</p>\n</div>",
     "title": "BRASSEUR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRASSEUR"
 }

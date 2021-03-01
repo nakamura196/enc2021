@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-698",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3730-0/",
+    "item_id": "2-3727",
     "next": "2-3728",
     "pages": "698",
     "prev": "2-3726",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARPI, (<i>Géog.</i>) ville d’Italie en Lombardie dans le Modénois. <i>Long. 28. 25. lat. 44. 45</i>.\n</p><p><span class=\"sc\">Carpi</span>, (<i>Géog.</i>) petite ville d’Italie dans l’état de Venise au Veronois, sur l’Adige. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARPI, (<i>Géog.</i>) ville d’Italie en Lombardie dans le Modénois. <i>Long. 28. 25. lat. 44. 45</i>.\n</p><p><span class=\"sc\">Carpi</span>, (<i>Géog.</i>) petite ville d’Italie dans l’état de Venise au Veronois, sur l’Adige. \n \n</p>\n</div>",
     "title": "CARPI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARPI"
 }

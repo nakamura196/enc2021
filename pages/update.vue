@@ -15,6 +15,16 @@
         <template v-slot:default>
           <tbody>
             <tr>
+              <td>{{ '2021-03-01' }}</td>
+              <td class="py-2">
+                <ul>
+                  <li>編集ページにENCCREへのリンクを追加しました。</li>
+                  <li>Schwabの欄に巻数を自動表示するように修正しました。</li>
+                  <li>目次ページの表記の一部を修正しました。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
               <td>{{ '2021-02-28' }}</td>
               <td class="py-2">
                 <ul>

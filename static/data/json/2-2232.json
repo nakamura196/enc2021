@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-413",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2237-0/",
+    "item_id": "2-2232",
     "next": "2-2233",
     "pages": "413",
     "prev": "2-2231",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRETTÉ <i>ou</i> BRETELÉ, adj. <i>Serrurerie, Taillanderie</i> \nsur-tout. Il se dit de certains outils, tels que\nles marteaux à tailler de la pierre, les ébauchoirs\nde Sculpteur, <i>&amp;c.</i> où la partie tranchante est divisée\nen dents faites à la lime ; les unes prises de court sur\nle tranchant même de l’outil, les autres tirées de long\npar des traits paralleles sur les deux surfaces.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRETTÉ <i>ou</i> BRETELÉ, adj. <i>Serrurerie, Taillanderie</i> \nsur-tout. Il se dit de certains outils, tels que\nles marteaux à tailler de la pierre, les ébauchoirs\nde Sculpteur, <i>&amp;c.</i> où la<span type=\"proposed\"> partie </span>tranchante est divisée\nen dents faites à la lime ; les unes prises de court sur\nle tranchant même de l’outil, les autres tirées de long\npar des traits paralleles sur les deux surfaces.\n \n</p>\n</div>",
     "title": "BRETTÉ ou BRETELÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRETT%C3%89_ou_BRETEL%C3%89"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2200-0/",
+    "item_id": "2-2195",
     "next": "2-2196",
     "pages": "412",
     "prev": "2-2194",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMPT, (<i>Géog.</i>) petite ville d’Allemagne,\ndans l’électorat de Treves, sur la Moselle.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMPT, (<i>Géog.</i>) petite ville d’Allemagne,\ndans l’électorat de Treves, sur la Moselle.\n \n</p>\n</div>",
     "title": "BREMPT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREMPT"
 }

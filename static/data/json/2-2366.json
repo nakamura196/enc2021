@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-433",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2369-0/",
+    "item_id": "2-2366",
     "next": "2-2367",
     "pages": "433",
     "prev": "2-2365",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROCOLI, s. m. (<i>Jardinage.</i>) c’est une espece\nde choux qui se cultive en Angleterre, &amp; surtout en\nItalie : on l’y mange avec la viande, &amp; souvent en\nsalade chaude. Quelques Jardiniers en France coupent \nles têtes des choux pommés sans en arracher les\ntroncs, &amp; ils font passer pour <i>brocolis</i> les petits rejettons \nqu’ils poussent. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROCOLI, s. m. (<i>Jardinage.</i>) c’est une espece\nde choux qui se cultive en Angleterre, &amp; surtout en\nItalie : on l’y mange avec la viande, &amp; souvent en\nsalade chaude. Quelques Jardiniers en France coupent \nles têtes des choux pommés sans en arracher les\ntroncs, &amp; ils font passer pour <i>brocolis</i> les petits rejettons \nqu’ils poussent. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BROCOLI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROCOLI"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-633",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3446-0/",
+    "item_id": "2-3443",
     "next": "2-3444",
     "pages": "633",
     "prev": "2-3442",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPITULANT, qui a voix délibérative dans un chapitre. On peut dire aussi <i>capitulaire</i> dans le même sens : mais cette derniere façon de parler est moins en usage. (<i>H</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPITULANT, qui a voix délibérative dans un chapitre. On peut dire aussi <i>capitulaire</i> dans le même sens : mais cette derniere façon de parler est moins en usage. (<i>H</i>) \n \n</p>\n</div>",
     "title": "CAPITULANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPITULANT"
 }

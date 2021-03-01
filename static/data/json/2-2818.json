@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-504",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2819-0/",
+    "item_id": "2-2818",
     "next": "2-2819",
     "pages": "504",
     "prev": "2-2817",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHETI <i>ou</i> KACHETI, (<i>Géog.</i>) pays desert \nde l’Asie dans la Géorgie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHETI <i>ou</i> KACHETI, (<i>Géog.</i>) pays desert \nde l’Asie dans la Géorgie. \n \n</p>\n</div>",
     "title": "CACHETI ou KACHETI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHETI_ou_KACHETI"
 }

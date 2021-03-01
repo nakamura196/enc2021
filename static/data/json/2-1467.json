@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-278",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1465-0/",
+    "item_id": "2-1467",
     "next": "2-1468",
     "pages": "278",
     "prev": "2-1466",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANCKENBURG, (<i>Géog.</i>) principauté d’Allemagne, \ndans la basse Saxe. Il y a encore une ville\nde ce nom dans la Thuringe.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BLANCKENBURG, (<i>Géog.</i>) principauté d’Allemagne, \ndans la basse Saxe. Il y a encore une ville\nde ce nom dans la Thuringe.\n \n</p>\n</div>",
     "title": "BLANCKENBURG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BLANCKENBURG"
 }

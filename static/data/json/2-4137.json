@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-796",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4127-0/",
+    "item_id": "2-4137",
     "next": "2-4138",
     "pages": "796",
     "prev": "2-4136",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CECHIN, s. m. (<i>Commerce.</i>) c’est ainsi que dans\nle Levant on appelle le sequin d’or, qui a cours à\nVenise. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SEQUIN\" title=\"L’Encyclopédie/1re édition/SEQUIN\"><span class=\"sc\">Sequin</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CECHIN, s. m. (<i>Commerce.</i>) c’est ainsi que dans\nle Levant on appelle le sequin d’or, qui a cours à\nVenise. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SEQUIN\" title=\"L’Encyclopédie/1re édition/SEQUIN\"><span class=\"sc\">Sequin</span></a>.\n \n</p>\n</div>",
     "title": "CECHIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CECHIN"
 }

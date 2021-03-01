@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-388",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2036-0/",
+    "item_id": "2-2032",
     "next": "2-2033",
     "pages": "388",
     "prev": "2-2031",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOWENS, (<i>Géog.</i>) petite ville dans l’île de Fuhnen \navec un bon port.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOWENS, (<i>Géog.</i>) petite ville dans l’île de Fuhnen \navec un bon port.\n \n</p>\n</div>",
     "title": "BOWENS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOWENS"
 }

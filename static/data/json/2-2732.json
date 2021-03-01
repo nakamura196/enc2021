@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-475",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2732-0/",
+    "item_id": "2-2732",
     "next": "2-2733",
     "pages": "475",
     "prev": "2-2731",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABACK, (<i>Hist. mod.</i>) c’est ainsi qu’on appelle \nen Russie les cabarets &amp; les maisons où l’on\nva boire du vin, de l’eau-de-vie, &amp; d’autres liqueurs\nfortes. Tous les <i>cabacks</i> ou cabarets qui sont dans\nl’étendue de l’empire appartiennent au souverain ; il\nest le seul cabaretier de ses états : il afferme en argent\nces sortes de maisons ; cela fait une partie considérable \nde ses revenus, attendu la vaste étendue des pays\nqui lui sont soûmis, &amp; l’invincible penchant que ses\nsujets ont à s’enivrer de vin, &amp; sur tout d’eau-de-vie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABACK, (<i>Hist. mod.</i>) c’est ainsi qu’on appelle \nen Russie les cabarets &amp; les maisons où l’on\nva boire du vin, de l’eau-de-vie, &amp; d’autres liqueurs\nfortes. Tous les <i>cabacks</i> ou cabarets qui sont dans\nl’étendue de l’empire appartiennent au souverain ; il\nest le seul cabaretier de ses états : il afferme en argent\nces sortes de maisons ; cela fait une<span type=\"proposed\"> partie </span>considérable \nde ses revenus, attendu la vaste étendue des pays\nqui lui sont soûmis, &amp; l’invincible penchant que ses\nsujets ont à s’enivrer de vin, &amp; sur tout d’eau-de-vie.\n \n</p>\n</div>",
     "title": "CABACK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABACK"
 }

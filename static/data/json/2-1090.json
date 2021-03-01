@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1086-0/",
+    "item_id": "2-1090",
     "next": "2-1091",
     "pages": "212",
     "prev": "2-1089",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BES, s. m. (<i>Hist. anc.</i>) une des pieces qui ne\ncontenoient qu’une portion de l’as des Romains. Le\n<i>bes</i> étoit de huit parties de l’as divisé en douze, ou\nde <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {8}{12}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>8</mn>\n<mn>12</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {8}{12}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {8}{12}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/2fec9feaea828fb174f05cbd1b861a4cd9596d5b\" style=\"vertical-align: -1.171ex; width:2.171ex; height:3.176ex;\"/></span> de l’as. Cette valeur du <i>bes</i> étoit la même, soit\nqu’il fut question de l’as pondéral, ou de l’as mensural,\nou de l’as monnoie. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AS\" title=\"L’Encyclopédie/1re édition/AS\"><span class=\"sc\">As</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BES, s. m. (<i>Hist. anc.</i>) une des pieces qui ne\ncontenoient qu’une portion de l’as des Romains. Le\n<i>bes</i> étoit de huit parties de l’as divisé en douze, ou\nde <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {8}{12}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>8</mn>\n<mn>12</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {8}{12}}}</annotation>\n</semantics>\n</math></span><img alt=\"{\\displaystyle \\scriptstyle {\\frac {8}{12}}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/2fec9feaea828fb174f05cbd1b861a4cd9596d5b\" style=\"vertical-align: -1.171ex; width:2.171ex; height:3.176ex;\"/></span> de l’as. Cette valeur du <i>bes</i> étoit la même, soit\nqu’il fut question de l’as pondéral, ou de l’as mensural,\nou de l’as monnoie. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AS\" title=\"L’Encyclopédie/1re édition/AS\"><span class=\"sc\">As</span></a>.\n \n</p>\n</div>",
     "title": "BES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BES"
 }

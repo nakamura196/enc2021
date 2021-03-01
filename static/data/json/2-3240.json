@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-584",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3243-0/",
+    "item_id": "2-3240",
     "next": "2-3241",
     "pages": "584",
     "prev": "2-3239",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANARA, (<i>Géog.</i>) royaume d’Asie, sur la côte\nde Malabar, habité par des peuples idolatres.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANARA, (<i>Géog.</i>) royaume d’Asie, sur la côte\nde Malabar, habité par des peuples idolatres.\n \n</p>\n</div>",
     "title": "CANARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANARA"
 }

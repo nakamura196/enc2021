@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-451",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2478-0/",
+    "item_id": "2-2475",
     "next": "2-2476",
     "pages": "451",
     "prev": "2-2474",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUSILOW, (<i>Géog.</i>) ville de Pologne, dans le\npalatinat de Kiovie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUSILOW, (<i>Géog.</i>) ville de Pologne, dans le\npalatinat de Kiovie.\n \n</p>\n</div>",
     "title": "BRUSILOW",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUSILOW"
 }

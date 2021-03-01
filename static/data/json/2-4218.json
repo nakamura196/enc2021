@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-817",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4208-0/",
+    "item_id": "2-4218",
     "next": "2-4219",
     "pages": "817",
     "prev": "2-4217",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENSERIE, s. f. (<i>Commerce.</i>) se dit de tout ce qui signifie <i>courtage</i>, &amp; quelquefois de la profession même du censal, &amp; du droit qui lui est dû. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENSAL\" title=\"L’Encyclopédie/1re édition/CENSAL\"><span class=\"sc\">Censal</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COURTAGE\" title=\"L’Encyclopédie/1re édition/COURTAGE\"><span class=\"sc\">Courtage</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENSERIE, s. f. (<i>Commerce.</i>) se dit de tout ce qui signifie <i>courtage</i>, &amp; quelquefois de la profession même du censal, &amp; du droit qui lui est dû. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENSAL\" title=\"L’Encyclopédie/1re édition/CENSAL\"><span class=\"sc\">Censal</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COURTAGE\" title=\"L’Encyclopédie/1re édition/COURTAGE\"><span class=\"sc\">Courtage</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "title": "CENSERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENSERIE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-11",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-109-0/",
+    "item_id": "2-102",
     "next": "2-103",
     "pages": "11",
     "prev": "2-101",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BÆTIQUE, (<i>Géog. anc. &amp; mod.</i>) une des parties dans lesquelles les Romains avoient divisé l’Espagne. La Taraconoise, &amp; la Lusitanie étoient les deux autres : la <i>Bætique</i> fut ainsi appellée du <i>Bætis</i>, aujourd’hui <i>le Guadalquivir</i>, &amp; comprenoit l’Andalousie, avec la plus grande partie du royaume de Grenade. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BÆTIQUE, (<i>Géog. anc. &amp; mod.</i>) une des parties dans lesquelles les Romains avoient divisé l’Espagne. La Taraconoise, &amp; la Lusitanie étoient les deux autres : la <i>Bætique</i> fut ainsi appellée du <i>Bætis</i>, aujourd’hui <i>le Guadalquivir</i>, &amp; comprenoit l’Andalousie, avec la plus grande<span type=\"proposed\"> partie </span>du royaume de Grenade. \n \n</p>\n</div>",
     "title": "BAETIQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAETIQUE"
 }

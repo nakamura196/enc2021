@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-425",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2353-0/",
+    "item_id": "2-2350",
     "next": "2-2351",
     "pages": "425",
     "prev": "2-2349",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROCANTER, v. n. (<i>Commerce.</i>) terme particulierement \nen usage à Paris chez les curieux, les \nPeintres, ou parmi quelques marchands merciers, \npour dire acheter, revendre, ou troquer des tableaux, \ndes cabinets, des bureaux, des bronzes, tables, \nfigures de marbre, peintures, porcelaines, \npendules, paravents, &amp; autres semblables marchandises, \nmeubles, ou curiosités. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROCANTER, v. n. (<i>Commerce.</i>) terme particulierement \nen usage à Paris chez les curieux, les \nPeintres, ou parmi quelques marchands merciers, \npour dire acheter, revendre, ou troquer des tableaux, \ndes cabinets, des bureaux, des bronzes, tables, \nfigures de marbre, peintures, porcelaines, \npendules, paravents, &amp; autres semblables marchandises, \nmeubles, ou curiosités. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BROCANTER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROCANTER"
 }

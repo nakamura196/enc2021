@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-527",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2888-0/",
+    "item_id": "2-2887",
     "next": "2-2888",
     "pages": "527",
     "prev": "2-2886",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAERMARTHEN, (<i>Géog.</i>) ville d’Angleterre,\ndans la principauté de Galles, sur la riviere de Towy,\ndans une province qui se nomme <i>Caermarthenshire</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAERMARTHEN, (<i>Géog.</i>) ville d’Angleterre,\ndans la principauté de Galles, sur la riviere de Towy,\ndans une province qui se nomme <i>Caermarthenshire</i>.\n \n</p>\n</div>",
     "title": "CAERMARTHEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAERMARTHEN"
 }

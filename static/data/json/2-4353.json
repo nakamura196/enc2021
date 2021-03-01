@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-868",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4343-0/",
+    "item_id": "2-4353",
     "next": "2-4354",
     "pages": "868",
     "prev": "2-4352",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CESSER, DISCONTINUER, FINIR, (<i>Gram. Synon.</i>) termes relatifs à la durée successive d’une\naction. On <i>finit</i> en achevant ; on <i>cesse</i> en abandonnant ; \non <i>discontinue</i> en interrompant. Pour <i>finir</i> son\ndiscours à propos, il faut prévenir le moment où l’on\nennuyeroit : on doit <i>cesser</i> sa poursuite, quand on s’apperçoit \nqu’elle est inutile ; il faut <i>discontinuer</i> le travail,\nquand on est fatigué. <i>Voyez les Syn. Franç</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CESSER, DISCONTINUER, FINIR, (<i>Gram. Synon.</i>) termes relatifs à la durée successive d’une\naction. On <i>finit</i> en achevant ; on <i>cesse</i> en abandonnant ; \non <i>discontinue</i> en interrompant. Pour <i>finir</i> son\ndiscours à propos, il faut prévenir le moment où l’on\nennuyeroit : on doit <i>cesser</i> sa poursuite, quand on s’apperçoit \nqu’elle est inutile ; il faut <i>discontinuer</i> le travail,\nquand on est fatigué. <i><span type=\"bold\">Voyez</span> les Syn. Franç</i>.\n \n</p>\n</div>",
     "title": "CESSER, DISCONTINUER, FINIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CESSER,_DISCONTINUER,_FINIR"
 }

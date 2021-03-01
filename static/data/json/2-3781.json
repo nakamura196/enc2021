@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-731",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3784-0/",
+    "item_id": "2-3781",
     "next": "2-3782",
     "pages": "731",
     "prev": "2-3780",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARTONNIER, s. m. (<i>Art méch.</i>) ouvrier qui\na le droit de faire &amp; vendre du carton. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARTON\" title=\"L’Encyclopédie/1re édition/CARTON\"><span class=\"sc\">Carton</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARTONNIER, s. m. (<i>Art méch.</i>) ouvrier qui\na le droit de faire &amp; vendre du carton. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARTON\" title=\"L’Encyclopédie/1re édition/CARTON\"><span class=\"sc\">Carton</span></a>.\n \n</p>\n</div>",
     "title": "CARTONNIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARTONNIER"
 }

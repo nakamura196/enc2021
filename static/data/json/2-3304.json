@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-597",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3307-0/",
+    "item_id": "2-3304",
     "next": "2-3305",
     "pages": "597",
     "prev": "2-3303",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANICULAIRES, (<i>jours caniculaires.</i>) marquent\nproprement un certain nombre de jours qui précedent \n&amp; qui suivent celui où la canicule se leve le\nmatin avec le soleil. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANICULE\" title=\"L’Encyclopédie/1re édition/CANICULE\"><span class=\"sc\">Canicule</span></a>. Les Egyptiens &amp; les Ethiopiens commençoient leur année\naux jours <i>caniculaires</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANICULAIRES, (<i>jours caniculaires.</i>) marquent\nproprement un certain nombre de jours qui précedent \n&amp; qui suivent celui où la canicule se leve le\nmatin avec le soleil. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANICULE\" title=\"L’Encyclopédie/1re édition/CANICULE\"><span class=\"sc\">Canicule</span></a>. Les Egyptiens &amp; les Ethiopiens commençoient leur année\naux jours <i>caniculaires</i>.\n \n</p>\n</div>",
     "title": "CANICULAIRES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANICULAIRES"
 }

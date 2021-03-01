@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-246",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1238-0/",
+    "item_id": "2-1241",
     "next": "2-1242",
     "pages": "246",
     "prev": "2-1240",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIEZ, s. m. (<i>Arts méchaniq. &amp; Hydrauliq.</i>) est un \ncanal élevé &amp; un peu biaisé, qui conduit les eaux \npour les faire tomber sur la roue d’un moulin ; sa figure \nqui approche d’une <i>bierre</i>, fait croire que son \nnom en est tiré.\n</p><p>On appelle <i>arriere-biez</i> les canaux qui sont au-delà \nen remontant. (<i>K</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIEZ, s. m. (<i>Arts méchaniq. &amp; Hydrauliq.</i>) est un \ncanal élevé &amp; un peu biaisé, qui conduit les eaux \npour les faire tomber sur la roue d’un moulin ; sa figure \nqui approche d’une <i>bierre</i>, fait croire que son \nnom en est tiré.\n</p><p>On appelle <i>arriere-biez</i> les canaux qui sont au-delà \nen remontant. (<i>K</i>) \n \n</p>\n</div>",
     "title": "BIEZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIEZ"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-821",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4219-0/",
+    "item_id": "2-4229",
     "next": "2-4230",
     "pages": "821",
     "prev": "2-4228",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENTIEME-DENIER, est un droit que le Roi s’est attribué par l’édit du mois de Décembre 1703, sur tous acquéreurs d’immeubles à quelque titre que ce soit : c’est la centieme partie du prix de l’acquisition. (<i>H</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENTIEME-DENIER, est un droit que le Roi s’est attribué par l’édit du mois de Décembre 1703, sur tous acquéreurs d’immeubles à quelque titre que ce soit : c’est la centieme<span type=\"proposed\"> partie </span>du prix de l’acquisition. (<i>H</i>) \n \n</p>\n</div>",
     "title": "CENTIEME-DENIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENTIEME-DENIER"
 }

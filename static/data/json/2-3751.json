@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-705",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3754-0/",
+    "item_id": "2-3751",
     "next": "2-3752",
     "pages": "705",
     "prev": "2-3750",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARROSSIER, s. m. ouvrier qui fait &amp; qui vend des carrosses ; il y a dans la ville de Paris une communauté considérable de maîtres <i>Carrossiers</i>, qui sont plus connus sous le nom de <i>Selliers</i>. Ils ont dans leurs statuts la qualité de maîtres Selliers-Lormiers-<i>Carrossiers. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SELLIER\" title=\"L’Encyclopédie/1re édition/SELLIER\"><span class=\"sc\">Sellier</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARROSSIER, s. m. ouvrier qui fait &amp; qui vend des carrosses ; il y a dans la ville de Paris une communauté considérable de maîtres <i>Carrossiers</i>, qui sont plus connus sous le nom de <i>Selliers</i>. Ils ont dans leurs statuts la qualité de maîtres Selliers-Lormiers-<i>Carrossiers. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SELLIER\" title=\"L’Encyclopédie/1re édition/SELLIER\"><span class=\"sc\">Sellier</span></a>. \n \n</p>\n</div>",
     "title": "CARROSSIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARROSSIER"
 }

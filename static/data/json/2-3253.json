@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-587",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3256-0/",
+    "item_id": "2-3253",
     "next": "2-3254",
     "pages": "587",
     "prev": "2-3252",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCELLER, v. act. <i>en Droit</i>, signifie <i>barrer</i> ou\n<i>biffer</i> une obligation ou autre acte.\n</p><p>Ce mot vient du Latin <i><span class=\"lang-la\" lang=\"la\">cancellare</span>, croiser, traverser</i>,\nfait de <i>cancelli</i>, qui signifie des <i>barreaux</i> ou un <i>treillis ;</i>\nparce qu’en effet en biffant un acte par des raies tirées\nen differens sens, on forme une espece de treillis. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCELLER, v. act. <i>en Droit</i>, signifie <i>barrer</i> ou\n<i>biffer</i> une obligation ou autre acte.\n</p><p>Ce mot vient du Latin <i><span class=\"lang-la\" lang=\"la\">cancellare</span>, croiser, traverser</i>,\nfait de <i>cancelli</i>, qui signifie des <i>barreaux</i> ou un <i>treillis ;</i>\nparce qu’en effet en biffant un acte par des raies tirées\nen differens sens, on forme une espece de treillis. (<i>H</i>)\n \n</p>\n</div>",
     "title": "CANCELLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANCELLER"
 }

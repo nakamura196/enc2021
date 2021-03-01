@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-796",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4122-0/",
+    "item_id": "2-4132",
     "next": "2-4133",
     "pages": "796",
     "prev": "2-4131",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEA, (<i>Géog.</i>) riviere d’Espagne, au royaume\nde Léon, qui prend sa source près des Asturies, &amp; se\njette dans le Carrion.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEA, (<i>Géog.</i>) riviere d’Espagne, au royaume\nde Léon, qui prend sa source près des Asturies, &amp; se\njette dans le Carrion.\n \n</p>\n</div>",
     "title": "CEA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEA"
 }

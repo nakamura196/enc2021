@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-182",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-774-0/",
+    "item_id": "2-777",
     "next": "2-778",
     "pages": "182",
     "prev": "2-776",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEAUVOIR-SUR-MER, (<i>Géog.</i>) petite ville\nmaritime de France en Poitou, avec titre de marquisat.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEAUVOIR-SUR-MER, (<i>Géog.</i>) petite ville\nmaritime de France en Poitou, avec titre de marquisat.\n \n</p>\n</div>",
     "title": "BEAUVOIR-SUR-MER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEAUVOIR-SUR-MER"
 }

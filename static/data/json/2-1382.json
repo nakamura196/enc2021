@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-262",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1379-0/",
+    "item_id": "2-1382",
     "next": "2-1383",
     "pages": "262",
     "prev": "2-1381",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BISENTINA, (<i>Géog.</i>) petite île dans le lac de\nBolsena, dans l’état de l’Eglise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BISENTINA, (<i>Géog.</i>) petite île dans le lac de\nBolsena, dans l’état de l’Eglise.\n \n</p>\n</div>",
     "title": "BISENTINA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISENTINA"
 }

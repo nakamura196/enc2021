@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-516",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2862-0/",
+    "item_id": "2-2861",
     "next": "2-2862",
     "pages": "516",
     "prev": "2-2860",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADIAR, (<i>Géog.</i>) riviere d’Espagne, au royaume \nde Grenade, qui se jette dans la Méditerranée \nprès de Salobrena. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADIAR, (<i>Géog.</i>) riviere d’Espagne, au royaume \nde Grenade, qui se jette dans la Méditerranée \nprès de Salobrena. \n \n</p>\n</div>",
     "title": "CADIAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADIAR"
 }

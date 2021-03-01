@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-420",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2300-0/",
+    "item_id": "2-2295",
     "next": "2-2296",
     "pages": "420",
     "prev": "2-2294",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIHUEGA, (<i>Géog.</i>) petite ville d’Espagne dans\nla Castille nouvelle, sur la riviere de Trajuna. Il s’y\nfait un grand commerce de laine.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIHUEGA, (<i>Géog.</i>) petite ville d’Espagne dans\nla Castille nouvelle, sur la riviere de Trajuna. Il s’y\nfait un grand commerce de laine.\n \n</p>\n</div>",
     "title": "BRIHUEGA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIHUEGA"
 }

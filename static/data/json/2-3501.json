@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-641",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3503-0/",
+    "item_id": "2-3501",
     "next": "2-3502",
     "pages": "641",
     "prev": "2-3500",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPUK <i>ou</i> CAPAS-PUSSAR, (<i>Hist. nat. bot.</i>) c’est le nom d’un arbre qui croît communément aux Indes orientales, sans culture &amp; de lui-même, &amp; se multiplie par la semence qui en tombe : ses feuilles ressemblent à l’<i>agnus-castus</i>, mais elles sont un peu plus longues &amp; plus larges ; ses branches croissent à côté les unes des autres par couronnes. Le fruit qui en vient est une gousse fort épaisse, de la longueur de la main, qui séchée par le soleil se creve &amp; tombe ; les Indiens la ramassent &amp; en tirent le <i>capuk</i>, qui est une espece de coton, qu’ils renferment dans des sacs faits d’écorce d’arbres, &amp; vont le vendre aux Hollandois à Batavia : on s’en sert au lieu de plumes pour garnir les oreillers &amp; les matelas des lits. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPUK <i>ou</i> CAPAS-PUSSAR, (<i>Hist. nat. bot.</i>) c’est le nom d’un arbre qui croît communément aux Indes orientales, sans culture &amp; de lui-même, &amp; se multiplie par la semence qui en tombe : ses feuilles ressemblent à l’<i>agnus-castus</i>, mais elles sont un peu plus longues &amp; plus larges ; ses branches croissent à côté les unes des autres par couronnes. Le fruit qui en vient est une gousse fort épaisse, de la longueur de la main, qui séchée par le soleil se creve &amp; tombe ; les Indiens la ramassent &amp; en tirent le <i>capuk</i>, qui est une espece de coton, qu’ils renferment dans des sacs faits d’écorce d’arbres, &amp; vont le vendre aux Hollandois à Batavia : on s’en sert au lieu de plumes pour garnir les oreillers &amp; les matelas des lits. \n \n</p>\n</div>",
     "title": "CAPUK ou CAPAS-PUSSAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPUK_ou_CAPAS-PUSSAR"
 }

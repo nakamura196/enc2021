@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-541",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3005-0/",
+    "item_id": "2-3005",
     "next": "2-3006",
     "pages": "541",
     "prev": "2-3004",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALBOTIN, s. m. est un panier de paille dans \nlequel les <i>Cordonniers</i> mettent le fil. <i>Voyez la figure </i>\n<i>35. &amp; 36. qui en est le profil</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALBOTIN, s. m. est un panier de paille dans \nlequel les <i>Cordonniers</i> mettent le fil. <i><span type=\"bold\">Voyez</span> la figure </i>\n<i>35. &amp; 36. qui en est le profil</i>. \n \n</p>\n</div>",
     "title": "CALBOTIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALBOTIN"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-425",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2348-0/",
+    "item_id": "2-2346",
     "next": "2-2347",
     "pages": "425",
     "prev": "2-2345",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRO, (<i>Géog.</i>) riviere de la Prusse Polonoise, \nqui se jette dans la Vistule. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRO, (<i>Géog.</i>) riviere de la Prusse Polonoise, \nqui se jette dans la Vistule. \n \n</p>\n</div>",
     "title": "BRO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRO"
 }

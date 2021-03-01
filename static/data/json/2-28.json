@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-30-0/",
+    "item_id": "2-28",
     "next": "2-29",
     "pages": "4",
     "prev": "2-27",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABEL-MANDEL, (<i>Géog. mod.</i>) détroit ainsi\nappellé de l’Arabe, <i>bab-al-mandab</i>, porte de deuil,\nparce que les Arabes prenoient le deuil pour ceux qui\nle passoient. Il est à <i>12. 40. de latit.</i> entre une île &amp;\nune montagne de même nom, &amp; joint la mer Rouge\nà l’Océan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABEL-MANDEL, (<i>Géog. mod.</i>) détroit ainsi\nappellé de l’Arabe, <i>bab-al-mandab</i>, porte de deuil,\nparce que les Arabes prenoient le deuil pour ceux qui\nle passoient. Il est à <i>12. 40. de latit.</i> entre une île &amp;\nune montagne de même nom, &amp; joint la mer Rouge\nà l’Océan.\n \n</p>\n</div>",
     "title": "BABEL-MANDEL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BABEL-MANDEL"
 }

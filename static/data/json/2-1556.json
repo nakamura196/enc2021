@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-290",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1554-0/",
+    "item_id": "2-1556",
     "next": "2-1557",
     "pages": "290",
     "prev": "2-1555",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOCCALE ; l’on nomme ainsi un grand verre\nqui tient pinte, dont on se sert en Allemagne &amp; dans\nles Pays-Bas pour célébrer des santés intéressantes à\nla fin des grands repas, &amp; dans lesquels l’on force\nquelquefois impitoyablement les convives de noyer\nle peu de raison qui leur reste.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOCCALE ; l’on nomme ainsi un grand verre\nqui tient pinte, dont on se sert en Allemagne &amp; dans\nles Pays-Bas pour célébrer des santés intéressantes à\nla fin des grands repas, &amp; dans lesquels l’on force\nquelquefois impitoyablement les convives de noyer\nle peu de raison qui leur reste.\n \n</p>\n</div>",
     "title": "BOCCALE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCCALE"
 }

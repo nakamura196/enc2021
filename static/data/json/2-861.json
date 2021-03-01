@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-193",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-857-0/",
+    "item_id": "2-861",
     "next": "2-862",
     "pages": "193",
     "prev": "2-860",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELBINE, <i>ou</i> BELENTINE, (<i>Géog. anc.</i>) ville \nsituée à l’entrée de la Laconie, vers le nord, près de l’Eurotas. Plutarque en fait mention dans la vie \nde Cléomenes. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELBINE, <i>ou</i> BELENTINE, (<i>Géog. anc.</i>) ville \nsituée à l’entrée de la Laconie, vers le nord, près de l’Eurotas. <span type=\"auteur_p\">Plutarque</span> en fait mention dans la vie \nde Cléomenes. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELBINE, <i>ou</i> BELENTINE, (<i>Géog. anc.</i>) ville \nsituée à l’entrée de la Laconie, vers le nord, près de l’Eurotas. Plutarque en fait mention dans la vie \nde Cléomenes. \n \n</p>\n</div>",
     "title": "BELBINE, ou BELENTINE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELBINE,_ou_BELENTINE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-838",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4275-0/",
+    "item_id": "2-4285",
     "next": "2-4286",
     "pages": "838",
     "prev": "2-4284",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CERCURE, s. m. (<i>Hist. anc.</i>) petit vaisseau de\npirate, inventé par les Cypriots : on croit que c’étoit\nla même chose que ce qu’on appelloit l’<i>hemioli. Voy.</i>\n<span class=\"sc\">Hemioli</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CERCURE, s. m. (<i>Hist. anc.</i>) petit vaisseau de\npirate, inventé par les Cypriots : on croit que c’étoit\nla même chose que ce qu’on appelloit l’<i>hemioli. Voy.</i>\n<span class=\"sc\">Hemioli</span>.\n \n</p>\n</div>",
     "title": "CERCURE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERCURE"
 }

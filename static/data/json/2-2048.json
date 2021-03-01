@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-390",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2052-0/",
+    "item_id": "2-2048",
     "next": "2-2049",
     "pages": "390",
     "prev": "2-2047",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOZZOLO, (<i>Géog.</i>) petite ville du Mantouan,\ncapitale d’une principauté de même nom, entre Mantoue \n&amp; Crémone. <i>Long. 28. lat. 45. 9</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOZZOLO, (<i>Géog.</i>) petite ville du Mantouan,\ncapitale d’une principauté de même nom, entre Mantoue \n&amp; Crémone. <i>Long. 28. lat. 45. 9</i>.\n \n</p>\n</div>",
     "title": "BOZZOLO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOZZOLO"
 }

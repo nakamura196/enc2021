@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-569",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3158-0/",
+    "item_id": "2-3156",
     "next": "2-3157",
     "pages": "569",
     "prev": "2-3155",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRE, s. m. <i>en Architecture, ou</i> CAMBRURE,\ndu Latin <i><span class=\"lang-la\" lang=\"la\">cameratus</span>, courbé</i>, se dit de la courbure du\ncintre d’une voûte ou d’une piece de bois.\n</p><p><span class=\"sc\">Cambré</span>, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CONCAVE\" title=\"L’Encyclopédie/1re édition/CONCAVE\"><span class=\"sc\">Concave</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRE, s. m. <i>en Architecture, ou</i> CAMBRURE,\ndu Latin <i><span class=\"lang-la\" lang=\"la\">cameratus</span>, courbé</i>, se dit de la courbure du\ncintre d’une voûte ou d’une piece de bois.\n</p><p><span class=\"sc\">Cambré</span>, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CONCAVE\" title=\"L’Encyclopédie/1re édition/CONCAVE\"><span class=\"sc\">Concave</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "title": "CAMBRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMBRE"
 }

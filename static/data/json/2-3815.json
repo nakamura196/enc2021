@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-741",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3818-0/",
+    "item_id": "2-3815",
     "next": "2-3816",
     "pages": "741",
     "prev": "2-3814",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASHEL <i>ou</i> CASSEL, (<i>Géog.</i>) ville d’Irlande\nau comté de Tipperary. <i>Long. 9. 52. lat. 52. 36</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASHEL <i>ou</i> CASSEL, (<i>Géog.</i>) ville d’Irlande\nau comté de Tipperary. <i>Long. 9. 52. lat. 52. 36</i>.\n \n</p>\n</div>",
     "title": "CASHEL ou CASSEL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASHEL_ou_CASSEL"
 }

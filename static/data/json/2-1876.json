@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-354",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1881-0/",
+    "item_id": "2-1876",
     "next": "2-1877",
     "pages": "354",
     "prev": "2-1875",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUDINURE DE L’ARGANEAU, EMBOUDINURE, \n(<i>Marine.</i>) c’est un revêtement ou une enveloppe \ndont on garnit l’<i>arganeau</i> de l’ancre, &amp; qui \nse fait avec de vieux cordages qu’on met tout autour, \npour empêcher le cable de se gâter ou se pourrir. \n(<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUDINURE DE L’ARGANEAU, EMBOUDINURE, \n(<i>Marine.</i>) c’est un revêtement ou une enveloppe \ndont on garnit l’<i>arganeau</i> de l’ancre, &amp; qui \nse fait avec de vieux cordages qu’on met tout autour, \npour empêcher le cable de se gâter ou se pourrir. \n(<i>Z</i>) \n \n</p>\n</div>",
     "title": "BOUDINURE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUDINURE"
 }

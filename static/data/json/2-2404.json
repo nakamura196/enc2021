@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-444",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2407-0/",
+    "item_id": "2-2404",
     "next": "2-2405",
     "pages": "444",
     "prev": "2-2403",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROUAGE, (<i>Géog.</i>) ville forte de France, en\nSaintonge, avec un havre, fameuse par ses salines.\n<i>Long. 16<sup style=\"font-size:70%\">d</sup>. 35′. 26″. lat. 45<sup style=\"font-size:70%\">d</sup>. 50′. 11″</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BROUAGE, (<i>Géog.</i>) ville forte de France, en\nSaintonge, avec un havre, fameuse par ses salines.\n<i>Long. 16<sup style=\"font-size:70%\">d</sup>. 35′. 26″. lat. 45<sup style=\"font-size:70%\">d</sup>. 50′. 11″</i>.\n \n</p>\n</div>",
     "title": "BROUAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROUAGE"
 }

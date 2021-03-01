@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-320",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1663-0/",
+    "item_id": "2-1664",
     "next": "2-1665",
     "pages": "320",
     "prev": "2-1663",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONAIRE, (<i>Géog. mod.</i>) île vis-à vis du continent \nde l’Amérique méridionale, &amp; de la province\nde Caracai, au levant de l’île de Curaçao, &amp; occupée \npar les Hollandois. <i>Lat. 12. long. 309</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONAIRE, (<i>Géog. mod.</i>) île vis-à vis du continent \nde l’Amérique méridionale, &amp; de la province\nde Caracai, au levant de l’île de Curaçao, &amp; occupée \npar les Hollandois. <i>Lat. 12. long. 309</i>.\n \n</p>\n</div>",
     "title": "BONAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONAIRE"
 }

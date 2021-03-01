@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-255",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1292-0/",
+    "item_id": "2-1295",
     "next": "2-1296",
     "pages": "255",
     "prev": "2-1294",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BILLETER, v. act. (<i>Commerce</i>) attacher des\nétiquettes, mettre des billets aux étoffes ; c’est sur\nces billets que les marchands, particulierement ceux\nqui font le détail, mettent les numero &amp; les aunages \ndes pieces entieres, suivant les factures des commissionnaires \nqui leur en font les envois, &amp; qu’ils\nécrivent chaque jour ce qui a été levé de celles qui\nont été entamées. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BILLETER, v. act. (<i>Commerce</i>) attacher des\nétiquettes, mettre des billets aux étoffes ; c’est sur\nces billets que les marchands, particulierement ceux\nqui font le détail, mettent les numero &amp; les aunages \ndes pieces entieres, suivant les factures des commissionnaires \nqui leur en font les envois, &amp; qu’ils\nécrivent chaque jour ce qui a été levé de celles qui\nont été entamées. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BILLETER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILLETER"
 }

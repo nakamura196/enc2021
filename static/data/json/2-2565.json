@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-460",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2568-0/",
+    "item_id": "2-2565",
     "next": "2-2566",
     "pages": "460",
     "prev": "2-2564",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUGLAS <i>ou</i> L’ISLE DES NEGRES, (<i>Géog.</i>)\nîle de l’Océan oriental, l’une des Philippines. <i>Long. </i>\n<i>140<sup style=\"font-size:70%\">d</sup>. lat. 10</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUGLAS <i>ou</i> L’ISLE DES NEGRES, (<i>Géog.</i>)\nîle de l’Océan oriental, l’une des Philippines. <i>Long. </i>\n<i>140<sup style=\"font-size:70%\">d</sup>. lat. 10</i>.\n \n</p>\n</div>",
     "title": "BUGLAS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUGLAS"
 }

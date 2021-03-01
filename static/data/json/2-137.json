@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-15",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-144-0/",
+    "item_id": "2-137",
     "next": "2-138",
     "pages": "15",
     "prev": "2-136",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAHU, s. m. <i>en Architecture ;</i> c’est le profil bombé\ndu chaperon d’un mur, de l’appui d’un quai, d’un parapet,\nd’une terrasse ou d’un fossé, &amp; d’une balustrade.\n</p><p><span class=\"sc\">Bahu</span>. On dit <i>en terme de Jardinage</i>, qu’une platebande,\nqu’une planche, ou qu’une couche de terre\nest en <i>bahu</i>, lorsqu’elle est bombée sur sa largeur\npour faciliter l’écoulement des eaux, &amp; mieux élever \nles fleurs. Les platebandes se font aujourd’hui en\n<i>dos d’âne</i> ou <i>de carpe</i>, c’est-à-dire en glacis à deux\négoûts. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAHU, s. m. <i>en Architecture ;</i> c’est le profil bombé\ndu chaperon d’un mur, de l’appui d’un quai, d’un parapet,\nd’une terrasse ou d’un fossé, &amp; d’une balustrade.\n</p><p><span class=\"sc\">Bahu</span>. On dit <i>en terme de Jardinage</i>, qu’une platebande,\nqu’une planche, ou qu’une couche de terre\nest en <i>bahu</i>, lorsqu’elle est bombée sur sa largeur\npour faciliter l’écoulement des eaux, &amp; mieux élever \nles fleurs. Les platebandes se font aujourd’hui en\n<i>dos d’âne</i> ou <i>de carpe</i>, c’est-à-dire en glacis à deux\négoûts. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BAHU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAHU"
 }

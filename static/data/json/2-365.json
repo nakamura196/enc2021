@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-68",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-373-0/",
+    "item_id": "2-365",
     "next": "2-366",
     "pages": "68",
     "prev": "2-364",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARATTERIE, s. f. (<i>Commerce.</i>) malversation, \ntromperie. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARAT\" title=\"L’Encyclopédie/1re édition/BARAT\"><span class=\"sc\">Barat</span></a>.\n</p><p><span class=\"sc\">Barratterie de Patron</span>, (<i>Commerce.</i>) en termes \nde commerce de mer, signifie les <i>larcins, déguisemens</i>, \n&amp; <i>altérations</i> de marchandises que peuvent \ncauser le maître &amp; l’équipage d’un vaisseau, &amp; généralement \ntoutes les supercheries &amp; malversations \nqu’ils mettent assez souvent en usage pour tromper \nle marchand chargeur &amp; autres intéressés.\n</p><p>On trouve dans l’ordonnance de la Marine du mois \nd’Août 1681, <i>liv. II. &amp; III.</i> les détails des différentes \n<i>baratteries</i> que peuvent commettre les patrons ou maîtres \nde vaisseau, &amp; les peines decernées contr’eux \ndans ces occasions. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARATTERIE, s. f. (<i>Commerce.</i>) malversation, \ntromperie. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARAT\" title=\"L’Encyclopédie/1re édition/BARAT\"><span class=\"sc\">Barat</span></a>.\n</p><p><span class=\"sc\">Barratterie de Patron</span>, (<i>Commerce.</i>) en termes \nde commerce de mer, signifie les <i>larcins, déguisemens</i>, \n&amp; <i>altérations</i> de marchandises que peuvent \ncauser le maître &amp; l’équipage d’un vaisseau, &amp; généralement \ntoutes les supercheries &amp; malversations \nqu’ils mettent assez souvent en usage pour tromper \nle marchand chargeur &amp; autres intéressés.\n</p><p>On trouve dans l’ordonnance de la Marine du mois \nd’Août 1681, <i><span type=\"proposed\">liv.</span> II. &amp; III.</i> les détails des différentes \n<i>baratteries</i> que peuvent commettre les patrons ou maîtres \nde vaisseau, &amp; les peines decernées contr’eux \ndans ces occasions. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BARATTERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARATTERIE"
 }

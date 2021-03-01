@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-775",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3977-0/",
+    "item_id": "2-3989",
     "next": "2-3990",
     "pages": "775",
     "prev": "2-3988",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATERGI, subst. m. (<i>Hist. mod.</i>) c’est le nom\nqu’on donne aux voituriers dans les états du grand-seigneur.\nIls ont cela de singulier, qu’au lieu qu’en\nFrance, &amp; presque par-tout ailleurs, ce sont les marchands \nou voyageurs qui donnent des arrhes à ceux\nqui doivent conduire eux, leurs hardes &amp; marchandises,\nles voituriers Turcs en donnent au contraire\naux marchands &amp; autres, comme pour leur répondre \nqu’ils feront leurs voitures, ou qu’ils ne partiront\npoint sans eux. <i>Dict. de Comm. tom. II. p. 131</i>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATERGI, subst. m. (<i>Hist. mod.</i>) c’est le nom\nqu’on donne aux voituriers dans les états du grand-seigneur.\nIls ont cela de singulier, qu’au lieu qu’en\nFrance, &amp; presque par-tout ailleurs, ce sont les marchands \nou voyageurs qui donnent des arrhes à ceux\nqui doivent conduire eux, leurs hardes &amp; marchandises,\nles voituriers Turcs en donnent au contraire\naux marchands &amp; autres, comme pour leur répondre \nqu’ils feront leurs voitures, ou qu’ils ne partiront\npoint sans eux. <i>Dict. de Comm.<span type=\"proposed\"> tom. </span>II.<span type=\"proposed\"> p. </span>131</i>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CATERGI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATERGI"
 }

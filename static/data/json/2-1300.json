@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-256",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1297-0/",
+    "item_id": "2-1300",
     "next": "2-1301",
     "pages": "256",
     "prev": "2-1299",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILLON, s. m. (<i>Monnoyage.</i>) c’est un composé \nde métal précieux &amp; d’autres qui le sont moins,\noù la quantité du métal précieux est moindre que celle\ndes autres métaux ; ainsi l’or dont le titre est au-dessous\nde douze karats, est <i>billon</i> ; l’argent qui est au-dessous \nde six deniers, est <i>billon</i> : l’un s’appelle <i>billon  d’or</i> ; l’autre <i>billon d’argent</i>. Il faut appliquer la même\nnotion de <i>billon</i>, par-tout où le mot <i>billon</i> est employé.\n</p><p>On étoit autrefois si scrupuleux sur la pureté de\nl’or &amp; de l’argent, que l’on donnoit le nom de <i>billon</i> \nà l’or au-dessous de l’étalon, ou de 21 karats,\n&amp; à l’argent au-dessous de dix deniers.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILLON, s. m. (<i>Monnoyage.</i>) c’est un composé \nde métal précieux &amp; d’autres qui le sont moins,\noù la quantité du métal précieux est moindre que celle\ndes autres métaux ; ainsi l’or dont le titre est au-dessous\nde douze karats, est <i>billon</i> ; l’argent qui est au-dessous \nde six deniers, est <i>billon</i> : l’un s’appelle <i>billon  d’or</i> ; l’autre <i>billon d’argent</i>. Il faut appliquer la même\nnotion de <i>billon</i>, par-tout où le mot <i>billon</i> est employé.\n</p><p>On étoit autrefois si scrupuleux sur la pureté de\nl’or &amp; de l’argent, que l’on donnoit le nom de <i>billon</i> \nà l’or au-dessous de l’étalon, ou de 21 karats,\n&amp; à l’argent au-dessous de dix deniers.\n \n</p>\n</div>",
     "title": "BILLON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILLON"
 }

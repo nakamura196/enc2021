@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-819",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4213-0/",
+    "item_id": "2-4223",
     "next": "2-4224",
     "pages": "819",
     "prev": "2-4222",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENSIVE, s. f. (<i>Jurisprud.</i>) est l’étendue du fief\nd’un seigneur censier, c’est-à-dire, à qui il est dû un\ncens ou redevance fonciere par les propriétaires qui\npossedent des terres dans l’étendue de son fief. C’est\naussi le droit même de percevoir le cens.\n</p><p>L’origine des <i>censives</i> est aussi ancienne que celle\ndes fiefs. Les seigneurs qui avoient une trop grande\nétendue de domaine, en donnoient une partie en fief,\nà la charge du service militaire ; &amp; une autre partie \nà cens, avec amende faute de payer le cens au\njour de l’échéance. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENS\" title=\"L’Encyclopédie/1re édition/CENS\"><span class=\"sc\">Cens</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CENSIVE, s. f. (<i>Jurisprud.</i>) est l’étendue du fief\nd’un seigneur censier, c’est-à-dire, à qui il est dû un\ncens ou redevance fonciere par les propriétaires qui\npossedent des terres dans l’étendue de son fief. C’est\naussi le droit même de percevoir le cens.\n</p><p>L’origine des <i>censives</i> est aussi ancienne que celle\ndes fiefs. Les seigneurs qui avoient une trop grande\nétendue de domaine, en donnoient une<span type=\"proposed\"> partie </span>en fief,\nà la charge du service militaire ; &amp; une autre<span type=\"proposed\"> partie </span>\nà cens, avec amende faute de payer le cens au\njour de l’échéance. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENS\" title=\"L’Encyclopédie/1re édition/CENS\"><span class=\"sc\">Cens</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "CENSIVE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CENSIVE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-475",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2731-0/",
+    "item_id": "2-2731",
     "next": "2-2732",
     "pages": "475",
     "prev": "2-2730",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAB, (<i>Hist. anc.</i>) mesure Hébraïque, qui étoit\nla sixieme partie du <i>séah</i> ou <i>satum</i>, &amp; la dix-huitieme \npartie de l’<i>epha</i>. Le <i>cab</i> contenoit une pinte, chopine,\nun poisson, un pouce cube &amp; un peu plus. Le\nquart du <i>cab</i> étoit cette mesure de fiente de pigeon,\nou plûtôt d’une sorte de pois chiche appellée de ce\nnom, qui fut vendue à Samarie jusqu’à cinq sicles\npendant le siége de cette ville, comme il est rapporté \nau IV. livre des Rois, <i>c. vj. vers. 25</i>. Ce quart\nde <i>cab</i> contenoit un demi-septier, un poisson, un\nquart de poisson, trois lignes cubes &amp; un peu plus.\nOn l’appelle aussi <i>rog</i> ou <i>robah</i>. Le <i>cab</i> étoit fort différent \ndu <i>cad, cadus. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAD_ou_CADILS\" title=\"L’Encyclopédie/1re édition/CAD ou CADILS\"><span class=\"sc\">Cad</span></a>. <i>Dictionnaire de la </i>\n<i>bible</i>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAB, (<i>Hist. anc.</i>) mesure Hébraïque, qui étoit\nla sixieme<span type=\"proposed\"> partie </span>du <i>séah</i> ou <i>satum</i>, &amp; la dix-huitieme \npartie de l’<i>epha</i>. Le <i>cab</i> contenoit une pinte, chopine,\nun poisson, un pouce cube &amp; un peu plus. Le\nquart du <i>cab</i> étoit cette mesure de fiente de pigeon,\nou plûtôt d’une sorte de pois chiche appellée de ce\nnom, qui fut vendue à Samarie jusqu’à cinq sicles\npendant le siége de cette ville, comme il est rapporté \nau IV.<span type=\"proposed\"> livre </span>des Rois, <i>c. vj. vers. 25</i>. Ce quart\nde <i>cab</i> contenoit un demi-septier, un poisson, un\nquart de poisson, trois lignes cubes &amp; un peu plus.\nOn l’appelle aussi <i>rog</i> ou <i>robah</i>. Le <i>cab</i> étoit fort différent \ndu <i>cad, cadus. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAD_ou_CADILS\" title=\"L’Encyclopédie/1re édition/CAD ou CADILS\"><span class=\"sc\">Cad</span></a>. <i>Dictionnaire de la </i>\n<i>bible</i>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CAB",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAB"
 }

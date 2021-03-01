@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-781",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4026-0/",
+    "item_id": "2-4037",
     "next": "2-4038",
     "pages": "781",
     "prev": "2-4036",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n\n</div>",
     "title": "CAVALCADOUR ;",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVALCADOUR_;"
 }

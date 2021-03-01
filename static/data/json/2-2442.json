@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-448",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2445-0/",
+    "item_id": "2-2442",
     "next": "2-2443",
     "pages": "448",
     "prev": "2-2441",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUGGEN, (<i>Géog.</i>) petite ville d’Allemagne, au\ncercle de Westphalie, dans le duché de Juliers.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUGGEN, (<i>Géog.</i>) petite ville d’Allemagne, au\ncercle de Westphalie, dans le duché de Juliers.\n \n</p>\n</div>",
     "title": "BRUGGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUGGEN"
 }

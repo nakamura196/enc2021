@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-781",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4019-0/",
+    "item_id": "2-4030",
     "next": "2-4031",
     "pages": "781",
     "prev": "2-4029",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVA, (<i>Géog.</i>) ville d’Italie au royaume de Naples dans la principauté citérieure. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVA, (<i>Géog.</i>) ville d’Italie au royaume de Naples dans la principauté citérieure. \n \n</p>\n</div>",
     "title": "CAVA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVA"
 }

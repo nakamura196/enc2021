@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-584",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3241-0/",
+    "item_id": "2-3238",
     "next": "2-3239",
     "pages": "584",
     "prev": "2-3237",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANAPEYES, (<i>Géog.</i>) nom qu’on donne à une\nnation sauvage de l’Amérique meridionale, qui habite \nune partie de la nouvelle Grenade.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANAPEYES, (<i>Géog.</i>) nom qu’on donne à une\nnation sauvage de l’Amérique meridionale, qui habite \nune<span type=\"proposed\"> partie </span>de la nouvelle Grenade.\n \n</p>\n</div>",
     "title": "CANAPEYES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANAPEYES"
 }

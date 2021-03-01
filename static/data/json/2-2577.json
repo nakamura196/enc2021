@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-461",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2580-0/",
+    "item_id": "2-2577",
     "next": "2-2578",
     "pages": "461",
     "prev": "2-2576",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUKOVANY, (<i>Géog.</i>) ville du royaume de Boheme, \nà peu de distance de Prague.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUKOVANY, (<i>Géog.</i>) ville du royaume de Boheme, \nà peu de distance de Prague.\n \n</p>\n</div>",
     "title": "BUKOVANY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUKOVANY"
 }

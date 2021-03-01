@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-249",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1272-0/",
+    "item_id": "2-1275",
     "next": "2-1276",
     "pages": "249",
     "prev": "2-1274",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILBER <i>ou</i> BERBER, (<i>Géog.</i>) ville de Perse \ndans la province de Segistan, à la source de la riviere \nd’Ilmentel. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILBER <i>ou</i> BERBER, (<i>Géog.</i>) ville de <span type=\"auteur_p\">Perse</span> \ndans la province de Segistan, à la source de la riviere \nd’Ilmentel. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILBER <i>ou</i> BERBER, (<i>Géog.</i>) ville de Perse \ndans la province de Segistan, à la source de la riviere \nd’Ilmentel. \n \n</p>\n</div>",
     "title": "BILBER ou BERBER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILBER_ou_BERBER"
 }

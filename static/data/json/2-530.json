@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-114",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-540-0/",
+    "item_id": "2-530",
     "next": "2-531",
     "pages": "114",
     "prev": "2-529",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASAAL, s. m. (<i>Hist. nat. bot.</i>) nom d’un arbre\ndes Indes, qui croît dans les lieux sabloneux, particulierement \naux environs de Cochin ; il porte des\nfleurs &amp; des fruits une fois l’an, depuis la premiere\nfois qu’il a commencé à produire, jusqu’à sa quinzieme \nannée.\n</p><p>La decoction de ses feuilles dans l’eau, avec un\npeu de gingembre, soulage dans les maux de gorge :\non frotte le front &amp; les tempes des phrénetiques,\navec ses baies frites dans le beurre. Ses amandes\ntuent les vers.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASAAL, s. m. (<i>Hist. nat. bot.</i>) nom d’un arbre\ndes Indes, qui croît dans les lieux sabloneux, particulierement \naux environs de Cochin ; il porte des\nfleurs &amp; des fruits une fois l’an, depuis la premiere\nfois qu’il a commencé à produire, jusqu’à sa quinzieme \nannée.\n</p><p>La decoction de ses feuilles dans l’eau, avec un\npeu de gingembre, soulage dans les maux de gorge :\non frotte le front &amp; les tempes des phrénetiques,\navec ses baies frites dans le beurre. Ses amandes\ntuent les vers.\n \n</p>\n</div>",
     "title": "BASAAL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASAAL"
 }

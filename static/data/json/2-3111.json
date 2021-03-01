@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-565",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3113-0/",
+    "item_id": "2-3111",
     "next": "2-3112",
     "pages": "565",
     "prev": "2-3110",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALUCALA, (<i>Géog.</i>) riviere d’Afrique au \nroyaume d’Angola, dans la province d’Ilamba. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALUCALA, (<i>Géog.</i>) riviere d’Afrique au \nroyaume d’Angola, dans la province d’Ilamba. \n \n</p>\n</div>",
     "title": "CALUCALA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALUCALA"
 }

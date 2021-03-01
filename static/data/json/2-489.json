@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-93",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-500-0/",
+    "item_id": "2-489",
     "next": "2-490",
     "pages": "93",
     "prev": "2-488",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRELIERE, s. f. (<i>Hist. nat. bot.</i>) genre de \nplante, dont le nom a été dérivé de celui du P. <i>Barrelier</i> \nJacobin, dont le nom est bien connu des Botanistes. \nLa fleur de ce genre de plante est monopétale \n&amp; faite en forme de masque ; la levre supérieure \nest relevée &amp; l’inférieure divisée en trois parties. Il \ns’éleve du fond du calice un pistil qui est attaché \ncomme un clou à la partie postérieure de la fleur, &amp; \nqui devient dans la suite un fruit membraneux oblong \nà quatre angles, composé d’une seule capsule remplie \nde semences plates &amp; arrondies. Plumier, <i>nova  plant. Amer. gen. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>) \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRELIERE, s. f. (<i>Hist. nat. bot.</i>) genre de \nplante, dont le nom a été dérivé de celui du P. <i>Barrelier</i> \nJacobin, dont le nom est bien connu des Botanistes. \nLa fleur de ce genre de plante est monopétale \n&amp; faite en forme de masque ; la levre supérieure \nest relevée &amp; l’inférieure divisée en trois parties. Il \ns’éleve du fond du calice un pistil qui est attaché \ncomme un clou à la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; \nqui devient dans la suite un fruit membraneux oblong \nà quatre angles, composé d’une seule capsule remplie \nde semences plates &amp; arrondies. <span type=\"auteur_p\">Plumier</span>, <i>nova  plant. Amer. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>) \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRELIERE, s. f. (<i>Hist. nat. bot.</i>) genre de \nplante, dont le nom a été dérivé de celui du P. <i>Barrelier</i> \nJacobin, dont le nom est bien connu des Botanistes. \nLa fleur de ce genre de plante est monopétale \n&amp; faite en forme de masque ; la levre supérieure \nest relevée &amp; l’inférieure divisée en trois parties. Il \ns’éleve du fond du calice un pistil qui est attaché \ncomme un clou à la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; \nqui devient dans la suite un fruit membraneux oblong \nà quatre angles, composé d’une seule capsule remplie \nde semences plates &amp; arrondies. Plumier, <i>nova  plant. Amer. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>) \n \n</p>\n</div>",
     "title": "BARRELIERE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRELIERE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-294",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1584-0/",
+    "item_id": "2-1586",
     "next": "2-1587",
     "pages": "294",
     "prev": "2-1585",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOGESUND, (<i>Géog.</i>) petite ville de la province\nde West-Gothie en Suede.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOGESUND, (<i>Géog.</i>) petite ville de la province\nde West-Gothie en Suede.\n \n</p>\n</div>",
     "title": "BOGESUND",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOGESUND"
 }

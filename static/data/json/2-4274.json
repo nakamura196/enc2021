@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-833",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4264-0/",
+    "item_id": "2-4274",
     "next": "2-4275",
     "pages": "833",
     "prev": "2-4273",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERCARE (<span class=\"sc\">le</span>) <i>Géog.</i> petite île d’Afrique, dans la\nmer Méditerranée, sur la côte du royaume de Tunis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERCARE (<span class=\"sc\">le</span>) <i>Géog.</i> petite île d’Afrique, dans la\nmer Méditerranée, sur la côte du royaume de Tunis.\n \n</p>\n</div>",
     "title": "CERCARE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERCARE"
 }

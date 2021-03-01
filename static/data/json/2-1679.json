@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-321",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1678-0/",
+    "item_id": "2-1679",
     "next": "2-1680",
     "pages": "321",
     "prev": "2-1678",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONDRÉE, (<i>Hist. nat.</i>) oiseau de rapine qui \na le bec court, la tête plate &amp; grosse, le cou fort \ncourt, garni de beaucoup de plumes. Il est en-dessus \nd’une couleur brune &amp; obscure : mais il a le ventre \nblanc, marqueté de plusieurs taches brunes, oblongues ; \nil a la queue large. Aldrovandus lui donne trois \ntesticules ; c’est ce qui l’a fait appeller en Latin <span class=\"lang-la\" lang=\"la\"><i>buteo  triorchis</i></span>, ce qui est dérivé du mot Grec <span class=\"lang-grc\" lang=\"grc\">τριόρχης</span>. \n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUSE\" title=\"L’Encyclopédie/1re édition/BUSE\"><span class=\"sc\">Buse</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONDRÉE, (<i>Hist. nat.</i>) oiseau de rapine qui \na le bec court, la tête plate &amp; grosse, le cou fort \ncourt, garni de beaucoup de plumes. Il est en-dessus \nd’une couleur brune &amp; obscure : mais il a le ventre \nblanc, marqueté de plusieurs taches brunes, oblongues ; \nil a la queue large. Aldrovandus lui donne trois \ntesticules ; c’est ce qui l’a fait appeller en Latin <span class=\"lang-la\" lang=\"la\"><i>buteo  triorchis</i></span>, ce qui est dérivé du mot Grec <span class=\"lang-grc\" lang=\"grc\">τριόρχης</span>. \n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUSE\" title=\"L’Encyclopédie/1re édition/BUSE\"><span class=\"sc\">Buse</span></a>. \n \n</p>\n</div>",
     "title": "BONDRÉE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONDR%C3%89E"
 }

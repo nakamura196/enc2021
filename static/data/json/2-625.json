@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-138",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-622-0/",
+    "item_id": "2-625",
     "next": "2-626",
     "pages": "138",
     "prev": "2-624",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATANOMES, s. f. (<i>Commerce.</i>) toiles longues \nde vingt-huit piés la piece, &amp; dont la largeur varie ; \nelles se vendent au Caire vingt médins. <i>Voyez</i> <span class=\"sc\">Médins</span>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAIRE\" title=\"L’Encyclopédie/1re édition/CAIRE\"><span class=\"sc\">Caire</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BATANOMES, s. f. (<i>Commerce.</i>) toiles longues \nde vingt-huit piés la piece, &amp; dont la largeur varie ; \nelles se vendent au Caire vingt médins. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Médins</span>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAIRE\" title=\"L’Encyclopédie/1re édition/CAIRE\"><span class=\"sc\">Caire</span></a>. \n \n</p>\n</div>",
     "title": "BATANOMES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATANOMES"
 }

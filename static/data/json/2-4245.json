@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-831",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4235-0/",
+    "item_id": "2-4245",
     "next": "2-4246",
     "pages": "831",
     "prev": "2-4244",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEP, s. m. (<i>Agricult.</i>) se dit d’un pié de vigne.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIGNE\" title=\"L’Encyclopédie/1re édition/VIGNE\"><span class=\"sc\">Vigne</span></a>.\n</p><p><span class=\"sc\">Cep</span> <i>ou</i> <span class=\"sc\">Ceb</span>, (<i>Hist. nat. Zoolog.</i>) on appelle de\nce nom les singes qui ont des queues, &amp; qui sont de\nplusieurs couleurs. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SINGE\" title=\"L’Encyclopédie/1re édition/SINGE\"><span class=\"sc\">Singe</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEP, s. m. (<i>Agricult.</i>) se dit d’un pié de vigne.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIGNE\" title=\"L’Encyclopédie/1re édition/VIGNE\"><span class=\"sc\">Vigne</span></a>.\n</p><p><span class=\"sc\">Cep</span> <i>ou</i> <span class=\"sc\">Ceb</span>, (<i>Hist. nat. Zoolog.</i>) on appelle de\nce nom les singes qui ont des queues, &amp; qui sont de\nplusieurs couleurs. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SINGE\" title=\"L’Encyclopédie/1re édition/SINGE\"><span class=\"sc\">Singe</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "CEP",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEP"
 }

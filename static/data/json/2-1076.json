@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1072-0/",
+    "item_id": "2-1076",
     "next": "2-1077",
     "pages": "212",
     "prev": "2-1075",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEROE, (<i>Myth.</i>) une des nymphes, qui accompagne \ndans Virgile, Cyrene mere d’Aristée.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEROE, (<i>Myth.</i>) une des nymphes, qui accompagne \ndans <span type=\"auteur_p\">Virgile</span>, Cyrene mere d’Aristée.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEROE, (<i>Myth.</i>) une des nymphes, qui accompagne \ndans Virgile, Cyrene mere d’Aristée.\n \n</p>\n</div>",
     "title": "BEROE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEROE"
 }

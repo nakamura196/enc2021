@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4107-0/",
+    "item_id": "2-4118",
     "next": "2-4119",
     "pages": "794",
     "prev": "2-4117",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZ, s. m. (<i>Commerce.</i>) monnoie des Indes ; c’est\nainsi qu’en langue Malaye on appelle le <i>caxa. Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAXA\" title=\"L’Encyclopédie/1re édition/CAXA\"><span class=\"sc\">Caxa</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZ, s. m. (<i>Commerce.</i>) monnoie des Indes ; c’est\nainsi qu’en langue Malaye on appelle le <i>caxa. <span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAXA\" title=\"L’Encyclopédie/1re édition/CAXA\"><span class=\"sc\">Caxa</span></a>.\n \n</p>\n</div>",
     "title": "CAZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAZ"
 }

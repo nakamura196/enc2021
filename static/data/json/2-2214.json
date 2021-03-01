@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2219-0/",
+    "item_id": "2-2214",
     "next": "2-2215",
     "pages": "412",
     "prev": "2-2213",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRESILLER, v. act. (<i>Teinture</i>) c’est teindre\navec le bois de Bresil ; il faut que les toiles &amp; les fils\nà marquer ayent été teints en bonne cuve, pour être\nbresillés. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TEINTURE\" title=\"L’Encyclopédie/1re édition/TEINTURE\"><span class=\"sc\">Teinture</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BRESILLER, v. act. (<i>Teinture</i>) c’est teindre\navec le bois de Bresil ; il faut que les toiles &amp; les fils\nà marquer ayent été teints en bonne cuve, pour être\nbresillés. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TEINTURE\" title=\"L’Encyclopédie/1re édition/TEINTURE\"><span class=\"sc\">Teinture</span></a>.\n \n</p>\n</div>",
     "title": "BRESILLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESILLER"
 }

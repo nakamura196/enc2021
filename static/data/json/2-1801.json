@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-337",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1800-0/",
+    "item_id": "2-1801",
     "next": "2-1802",
     "pages": "337",
     "prev": "2-1800",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSCH, (<i>Géog.</i>) petite île dans la mer du Nord,\nprès les côtes de la Frise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSCH, (<i>Géog.</i>) petite île dans la mer du Nord,\nprès les côtes de la Frise.\n \n</p>\n</div>",
     "title": "BOSCH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSCH"
 }

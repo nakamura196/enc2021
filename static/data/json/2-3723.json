@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-698",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3726-0/",
+    "item_id": "2-3723",
     "next": "2-3724",
     "pages": "698",
     "prev": "2-3722",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARPENEDOLO, (<i>Géog.</i>) petite ville d’Italie dans le Brescian, aux Vénitiens. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARPENEDOLO, (<i>Géog.</i>) petite ville d’Italie dans le Brescian, aux Vénitiens. \n \n</p>\n</div>",
     "title": "CARPENEDOLO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARPENEDOLO"
 }

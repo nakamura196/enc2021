@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-195",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-868-0/",
+    "item_id": "2-872",
     "next": "2-873",
     "pages": "195",
     "prev": "2-871",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELER, (<i>Géog.</i>) riviere de Catalogne qui se \njette dans la Méditerranée proche de Barcelone. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BELER, (<i>Géog.</i>) riviere de Catalogne qui se \njette dans la Méditerranée proche de Barcelone. \n \n</p>\n</div>",
     "title": "BELER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELER"
 }

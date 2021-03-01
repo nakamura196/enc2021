@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-689",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3692-0/",
+    "item_id": "2-3689",
     "next": "2-3690",
     "pages": "689",
     "prev": "2-3688",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMONE, (<i>Géog.</i>) ville d’Espagne, dans l’Andalousie. <i>Long. 12. 52. lat. 37. 24</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARMONE, (<i>Géog.</i>) ville d’Espagne, dans l’Andalousie. <i>Long. 12. 52. lat. 37. 24</i>.\n \n</p>\n</div>",
     "title": "CARMONE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARMONE"
 }

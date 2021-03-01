@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-454",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2498-0/",
+    "item_id": "2-2495",
     "next": "2-2496",
     "pages": "454",
     "prev": "2-2494",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUANES, (<i>Géog.</i>) ville de France sur la riviere \nde Bahu, dans la Gascogne, près d’Aire.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BUANES, (<i>Géog.</i>) ville de France sur la riviere \nde Bahu, dans la Gascogne, près d’Aire.\n \n</p>\n</div>",
     "title": "BUANES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUANES"
 }

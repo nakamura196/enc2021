@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-538",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2952-0/",
+    "item_id": "2-2951",
     "next": "2-2952",
     "pages": "538",
     "prev": "2-2950",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAJUMANIS, (<i>Hist. nat. bot.</i>) on appelle de\nce nom une espece de canellier sauvage qui croît\ndans les Indes orientales, sur <span class=\"coquille\" title=\"le\">les</span> côtes du Sunde.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAJUMANIS, (<i>Hist. nat. bot.</i>) on appelle de\nce nom une espece de canellier sauvage qui croît\ndans les Indes orientales, sur <span class=\"coquille\" title=\"le\">les</span> côtes du Sunde.\n \n</p>\n</div>",
     "title": "CAJUMANIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAJUMANIS"
 }

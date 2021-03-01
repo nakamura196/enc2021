@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-471",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2708-0/",
+    "item_id": "2-2705",
     "next": "2-2706",
     "pages": "471",
     "prev": "2-2704",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYDZOW, (<i>Géog.</i>) ville du royaume le Boheme. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYDZOW, (<i>Géog.</i>) ville du royaume le Boheme. \n \n</p>\n</div>",
     "title": "BYDZOW",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BYDZOW"
 }

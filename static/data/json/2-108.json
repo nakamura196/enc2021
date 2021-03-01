@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-12",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-115-0/",
+    "item_id": "2-108",
     "next": "2-109",
     "pages": "12",
     "prev": "2-107",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGAGE, s. m. on donne ce nom en général à tout équipage de voyage ; &amp; il s’applique particulierement à celui d’une armée. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARM%C3%89E\" title=\"L’Encyclopédie/1re édition/ARMÉE\"><span class=\"sc\">Armée</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAGAGE, s. m. on donne ce nom en général à tout équipage de voyage ; &amp; il s’applique particulierement à celui d’une armée. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARM%C3%89E\" title=\"L’Encyclopédie/1re édition/ARMÉE\"><span class=\"sc\">Armée</span></a>. \n \n</p>\n</div>",
     "title": "BAGAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAGAGE"
 }

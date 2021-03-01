@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-18",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-171-0/",
+    "item_id": "2-164",
     "next": "2-165",
     "pages": "18",
     "prev": "2-163",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAILLIVAGE, ou <i>Balivage</i>, s. m. (<i>Jurisprudence</i>)\nterme d’eaux &amp; forêts, est l’étiquette ou la marque\ndes baliveaux qui doivent rester sur pié dans les bois\ncoupés ou à couper. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALIVEAU\" title=\"L’Encyclopédie/1re édition/BALIVEAU\"><span class=\"sc\">Baliveau</span></a>.  (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAILLIVAGE, ou <i>Balivage</i>, s. m. (<i>Jurisprudence</i>)\nterme d’eaux &amp; forêts, est l’étiquette ou la marque\ndes baliveaux qui doivent rester sur pié dans les bois\ncoupés ou à couper. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALIVEAU\" title=\"L’Encyclopédie/1re édition/BALIVEAU\"><span class=\"sc\">Baliveau</span></a>.  (<i>H</i>)\n \n</p>\n</div>",
     "title": "BAILLIVAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAILLIVAGE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-844",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4290-0/",
+    "item_id": "2-4300",
     "next": "2-4301",
     "pages": "844",
     "prev": "2-4299",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERINES, (<i>Géog.</i>) ville de l’île de Chypre avec\nun bon port. <i>Long. 51. 10. lat. 35. 22</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERINES, (<i>Géog.</i>) ville de l’île de Chypre avec\nun bon port. <i>Long. 51. 10. lat. 35. 22</i>.\n \n</p>\n</div>",
     "title": "CERINES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERINES"
 }

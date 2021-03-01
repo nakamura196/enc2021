@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2745-0/",
+    "item_id": "2-2745",
     "next": "2-2746",
     "pages": "487",
     "prev": "2-2744",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABARNES, s. m. pl. (<i>Hist. anc.</i>) c’est ainsi\nqu’on appelloit les prêtres de Cerès dans l’île de Paros.\nCe mot vient du Phénicien ou de l’Hébreu <i>carbarnin</i>\nou <i>careb, offrir :</i> il étoit en usage dans le même \nsens parmi les Syriens, ainsi que Josephe le fait\nvoir par Théophraste : d’autres prétendent que ce\nfut le nom du premier de ces prêtres, qui apprit, à\nce qu’on dit, à Cerès l’enlevement de sa fille.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABARNES, s. m. pl. (<i>Hist. anc.</i>) c’est ainsi\nqu’on appelloit les prêtres de Cerès dans l’île de Paros.\nCe mot vient du Phénicien ou de l’Hébreu <i>carbarnin</i>\nou <i>careb, offrir :</i> il étoit en usage dans le même \nsens parmi les Syriens, ainsi que <span type=\"auteur_p\">Josephe</span> le fait\nvoir par Théophraste : d’autres prétendent que ce\nfut le nom du premier de ces prêtres, qui apprit, à\nce qu’on dit, à Cerès l’enlevement de sa fille.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABARNES, s. m. pl. (<i>Hist. anc.</i>) c’est ainsi\nqu’on appelloit les prêtres de Cerès dans l’île de Paros.\nCe mot vient du Phénicien ou de l’Hébreu <i>carbarnin</i>\nou <i>careb, offrir :</i> il étoit en usage dans le même \nsens parmi les Syriens, ainsi que Josephe le fait\nvoir par Théophraste : d’autres prétendent que ce\nfut le nom du premier de ces prêtres, qui apprit, à\nce qu’on dit, à Cerès l’enlevement de sa fille.\n \n</p>\n</div>",
     "title": "CABARNES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABARNES"
 }

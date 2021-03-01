@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-432",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2366-0/",
+    "item_id": "2-2363",
     "next": "2-2364",
     "pages": "432",
     "prev": "2-2362",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROCHOIR, s. m. (<i>Maréchal-Ferrant.</i>) c’est\nle marteau dont ces ouvriers se servent pour ferrer\nles chevaux. Ils le portent attaché à leur ceinture.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROCHER\" title=\"L’Encyclopédie/1re édition/BROCHER\"><span class=\"sc\">Brocher</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BROCHOIR, s. m. (<i>Maréchal-Ferrant.</i>) c’est\nle marteau dont ces ouvriers se servent pour ferrer\nles chevaux. Ils le portent attaché à leur ceinture.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROCHER\" title=\"L’Encyclopédie/1re édition/BROCHER\"><span class=\"sc\">Brocher</span></a>.\n \n</p>\n</div>",
     "title": "BROCHOIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROCHOIR"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-47",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-249-0/",
+    "item_id": "2-242",
     "next": "2-243",
     "pages": "47",
     "prev": "2-241",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALLINEKIL (<i>Géog.</i>) ville d’Irlande, dans la\nprovince de Leinster, au comté de la Reine.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALLINEKIL (<i>Géog.</i>) ville d’Irlande, dans la\nprovince de Leinster, au comté de la Reine.\n \n</p>\n</div>",
     "title": "BALLINEKIL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALLINEKIL"
 }

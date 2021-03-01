@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-644",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3522-0/",
+    "item_id": "2-3521",
     "next": "2-3522",
     "pages": "644",
     "prev": "2-3520",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACOLE, s. f. <i>Manege &amp; Art milit</i>. est un\nmouvement qui se fait dans la cavalerie par le flanc\nou la hauteur de l’escadron ; chaque file fait une espece \nde quart de conversion en serpentant &amp; en faisant\ndes passades par la campagne à droit &amp; à gauche\npour ôter la mire à ceux que l’on insulte.\n</p><p>Ce mouvement differe de la conversion en ce que\ncelle-ci se fait par rang, &amp; que la <i>caracole</i> se fait par\nfile. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACOLE, s. f. <i>Manege &amp; Art milit</i>. est un\nmouvement qui se fait dans la cavalerie par le flanc\nou la hauteur de l’escadron ; chaque file fait une espece \nde quart de conversion en serpentant &amp; en faisant\ndes passades par la campagne à droit &amp; à gauche\npour ôter la mire à ceux que l’on insulte.\n</p><p>Ce mouvement differe de la conversion en ce que\ncelle-ci se fait par rang, &amp; que la <i>caracole</i> se fait par\nfile. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "CARACOLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARACOLE"
 }

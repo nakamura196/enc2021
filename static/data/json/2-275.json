@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-51",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-283-0/",
+    "item_id": "2-275",
     "next": "2-276",
     "pages": "51",
     "prev": "2-274",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMIA, (<i>Hist. nat. bot.</i>) on l’appelle aussi <i>alcea indica</i>. \nElle a la fleur large, pentapétale, avec un\nvaisseau séminal assez considérable, divisé en cinq\ncellules qui contiennent des semences en forme de\nreins. Sa feuille est découpée, dentelée &amp; attachée\nà la tige par des pédicules. Elle croît en Egypte. On\nse sert de sa semence : elle est d’un blanc sale ; elle\nrépand une odeur qui tient de celle du musc. Les\nEgyptiens la font sécher, la broyent &amp; en mêlent la\npoudre à leur caffé ; ils lui attribuent la vertu de fortifier \nla tête &amp; l’estomac. On en use en fumigations.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMIA, (<i>Hist. nat. bot.</i>) on l’appelle aussi <i>alcea indica</i>. \nElle a la fleur large, pentapétale, avec un\nvaisseau séminal assez considérable, divisé en cinq\ncellules qui contiennent des semences en forme de\nreins. Sa feuille est découpée, dentelée &amp; attachée\nà la tige par des pédicules. Elle croît en Egypte. On\nse sert de sa semence : elle est d’un blanc sale ; elle\nrépand une odeur qui tient de celle du musc. Les\nEgyptiens la font sécher, la broyent &amp; en mêlent la\npoudre à leur caffé ; ils lui attribuent la vertu de fortifier \nla tête &amp; l’estomac. On en use en fumigations.\n \n</p>\n</div>",
     "title": "BAMIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAMIA"
 }

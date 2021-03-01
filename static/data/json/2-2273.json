@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-418",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2278-0/",
+    "item_id": "2-2273",
     "next": "2-2274",
     "pages": "418",
     "prev": "2-2272",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIEF, s. m. <i>terme de Commerce de mer</i>, en usage\ndans toute la Bretagne, pour signifier l’<i>écrit</i> ou le\ncongé que les maîtres, patrons ou capitaines des vaisseaux \nsont obligés de prendre des commis des fermes\ndu Roi, dans les ports de cette province. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREF\" title=\"L’Encyclopédie/1re édition/BREF\"><span class=\"sc\">Bref</span></a>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIEUX\" title=\"L’Encyclopédie/1re édition/BRIEUX\"><span class=\"sc\">Brieux</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRIEF, s. m. <i>terme de Commerce de mer</i>, en usage\ndans toute la Bretagne, pour signifier l’<i>écrit</i> ou le\ncongé que les maîtres, patrons ou capitaines des vaisseaux \nsont obligés de prendre des commis des fermes\ndu Roi, dans les ports de cette province. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREF\" title=\"L’Encyclopédie/1re édition/BREF\"><span class=\"sc\">Bref</span></a>\n<i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIEUX\" title=\"L’Encyclopédie/1re édition/BRIEUX\"><span class=\"sc\">Brieux</span></a>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "BRIEF",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRIEF"
 }

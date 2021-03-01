@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-504",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2820-0/",
+    "item_id": "2-2819",
     "next": "2-2820",
     "pages": "504",
     "prev": "2-2818",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHEUR, s. m. <i>en termes de Rafineur de sucre ;</i> \nest un morceau de bois de neuf à dix pouces de long, \nplat par un bout &amp; rond par le manche. Le bout qui \nest plat, sert à frapper les cercles de bois qui environnent \nles formes. Celui qui est rond sert alors de \npoignée. On s’en sert pour sonder les formes. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SONDER\" title=\"L’Encyclopédie/1re édition/SONDER\"><span class=\"sc\">Sonder</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FORME\" title=\"L’Encyclopédie/1re édition/FORME\"><span class=\"sc\">Forme</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACHEUR, s. m. <i>en termes de Rafineur de sucre ;</i> \nest un morceau de bois de neuf à dix pouces de long, \nplat par un bout &amp; rond par le manche. Le bout qui \nest plat, sert à frapper les cercles de bois qui environnent \nles formes. Celui qui est rond sert alors de \npoignée. On s’en sert pour sonder les formes. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SONDER\" title=\"L’Encyclopédie/1re édition/SONDER\"><span class=\"sc\">Sonder</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FORME\" title=\"L’Encyclopédie/1re édition/FORME\"><span class=\"sc\">Forme</span></a>. \n \n</p>\n</div>",
     "title": "CACHEUR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHEUR"
 }

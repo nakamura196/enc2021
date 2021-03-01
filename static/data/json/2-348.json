@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-67",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-356-0/",
+    "item_id": "2-348",
     "next": "2-349",
     "pages": "67",
     "prev": "2-347",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARADAS, s. m. c’est, <i>en terme de Fleuriste</i>, un\nœillet rouge-brun, à fleur large, grosse, feuillue, &amp;\nen dôme ; ni blanc, ni carné, à panaches gros &amp; non\ndétachés. On ne lui laisse que quatre à cinq boutons.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARADAS, s. m. c’est, <i>en terme de Fleuriste</i>, un\nœillet rouge-brun, à fleur large, grosse, feuillue, &amp;\nen dôme ; ni blanc, ni carné, à panaches gros &amp; non\ndétachés. On ne lui laisse que quatre à cinq boutons.\n \n</p>\n</div>",
     "title": "BARADAS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARADAS"
 }

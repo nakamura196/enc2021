@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-8",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-72-0/",
+    "item_id": "2-70",
     "next": "2-71",
     "pages": "8",
     "prev": "2-69",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACLAN, (<i>Géographie.</i>) pays de la Perse dans\nle Chorasan, près de Balche, &amp; vers la riviere de\nGihon.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACLAN, (<i>Géographie.</i>) pays de la <span type=\"auteur_p\">Perse</span> dans\nle Chorasan, près de Balche, &amp; vers la riviere de\nGihon.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACLAN, (<i>Géographie.</i>) pays de la Perse dans\nle Chorasan, près de Balche, &amp; vers la riviere de\nGihon.\n \n</p>\n</div>",
     "title": "BACLAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACLAN"
 }

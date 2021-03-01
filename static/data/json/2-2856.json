@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-515",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2857-0/",
+    "item_id": "2-2856",
     "next": "2-2857",
     "pages": "515",
     "prev": "2-2855",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADES, (<i>Géog. sainte.</i>) ville de la tribu de Nephtali, \nsituée au haut d’une montagne, à l’occident du \nlac de Lamechon. Ce fut là que Jonathas, frere de \nJudas Machabée, tua trois mille hommes à Demetrius \nNicanor, avec une poignée de soldats. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADES, (<i>Géog. sainte.</i>) ville de la tribu de Nephtali, \nsituée au haut d’une montagne, à l’occident du \nlac de Lamechon. Ce fut là que Jonathas, frere de \nJudas Machabée, tua trois mille hommes à Demetrius \nNicanor, avec une poignée de soldats. \n \n</p>\n</div>",
     "title": "CADES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADES"
 }

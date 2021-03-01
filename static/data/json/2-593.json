@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-123",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-590-0/",
+    "item_id": "2-593",
     "next": "2-594",
     "pages": "123",
     "prev": "2-592",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASSIGNI (<span class=\"sc\">le</span>) (<i>Géog.</i>) petit pays de France,\ndans la partie méridionale de la Champagne, &amp; dans\nle Barrois, dans le dioc. de Langres &amp; celui de Toul.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASSIGNI (<span class=\"sc\">le</span>) (<i>Géog.</i>) petit pays de France,\ndans la<span type=\"proposed\"> partie </span>méridionale de la Champagne, &amp; dans\nle Barrois, dans le dioc. de Langres &amp; celui de Toul.\n \n</p>\n</div>",
     "title": "BASSIGNI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASSIGNI"
 }

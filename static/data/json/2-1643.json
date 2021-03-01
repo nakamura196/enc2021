@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-315",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1642-0/",
+    "item_id": "2-1643",
     "next": "2-1644",
     "pages": "315",
     "prev": "2-1642",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLZWAERT, (<i>Géog.</i>) ville de la province de\nFrise. près du Zuyder-Zée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLZWAERT, (<i>Géog.</i>) ville de la province de\nFrise. près du Zuyder-Zée.\n \n</p>\n</div>",
     "title": "BOLZWAERT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLZWAERT"
 }

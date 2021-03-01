@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-330",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1717-0/",
+    "item_id": "2-1718",
     "next": "2-1719",
     "pages": "330",
     "prev": "2-1717",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOOPE, (<i>Hist. nat.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOGUE,_BOOPS,_BOX\" title=\"L’Encyclopédie/1re édition/BOGUE, BOOPS, BOX\"><span class=\"sc\">Bogue</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOOPE, (<i>Hist. nat.</i>) <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOGUE,_BOOPS,_BOX\" title=\"L’Encyclopédie/1re édition/BOGUE, BOOPS, BOX\"><span class=\"sc\">Bogue</span></a>. \n \n</p>\n</div>",
     "title": "BOOPE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOOPE"
 }

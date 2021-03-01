@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-626",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3420-0/",
+    "item_id": "2-3417",
     "next": "2-3418",
     "pages": "626",
     "prev": "2-3416",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPI-CAG-TINGA, (<i>Hist. nat. bot.</i>) espece d’acorus \nqui croît aux Indes occidentales, &amp; ressemble\nbeaucoup à celui de l’Europe par sa racine &amp; ses\nfeuilles ; il est seulement plus petit : mais on lui attribue \ndes vertus bien supérieures à celles de l’autre ;\nil est plus chaud &amp; plus aromatique ; il incise les humeurs \nfroides &amp; peccantes ; il résiste au poison, <i>&amp;c.</i>\n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPI-CAG-TINGA, (<i>Hist. nat. bot.</i>) espece d’acorus \nqui croît aux Indes occidentales, &amp; ressemble\nbeaucoup à celui de l’Europe par sa racine &amp; ses\nfeuilles ; il est seulement plus petit : mais on lui attribue \ndes vertus bien supérieures à celles de l’autre ;\nil est plus chaud &amp; plus aromatique ; il incise les humeurs \nfroides &amp; peccantes ; il résiste au poison, <i>&amp;c.</i>\n</p>\n</div>",
     "title": "CAPI-CAG-TINGA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPI-CAG-TINGA"
 }

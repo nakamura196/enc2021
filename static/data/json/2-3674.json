@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-687",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3677-0/",
+    "item_id": "2-3674",
     "next": "2-3675",
     "pages": "687",
     "prev": "2-3673",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARLSRUHE, (<i>Géog.</i>) petite ville d’Allemagne, au cercle de Souabe, dans le Marggraviat de\nBade-Dourlach.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARLSRUHE, (<i>Géog.</i>) petite ville d’Allemagne, au cercle de Souabe, dans le Marggraviat de\nBade-Dourlach.\n \n</p>\n</div>",
     "title": "CARLSRUHE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARLSRUHE"
 }

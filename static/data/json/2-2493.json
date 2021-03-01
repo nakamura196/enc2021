@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-454",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2496-0/",
+    "item_id": "2-2493",
     "next": "2-2494",
     "pages": "454",
     "prev": "2-2492",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUANDERIE, s. f. <i>en Architecture</i>, est un bâtiment \nparticulier dans une communauté ou dans une\nmaison de campagne, composé de plusieurs salles\nau rez-de-chaussée, avec un fourneau &amp; des cuviers\npour faire la lessive. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUANDERIE, s. f. <i>en Architecture</i>, est un bâtiment \nparticulier dans une communauté ou dans une\nmaison de campagne, composé de plusieurs salles\nau rez-de-chaussée, avec un fourneau &amp; des cuviers\npour faire la lessive. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BUANDERIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUANDERIE"
 }

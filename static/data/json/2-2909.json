@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-530",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2910-0/",
+    "item_id": "2-2909",
     "next": "2-2910",
     "pages": "530",
     "prev": "2-2908",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGOUILLE <i>ou</i> GAGOUILLE, s. f. (<i>Marine.</i>)\nvolute du revers de l’éperon. C’est ce qui fait un ornement \nau haut du bout de l’éperon d’un vaisseau.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/REVERS\" title=\"L’Encyclopédie/1re édition/REVERS\"><span class=\"sc\">Revers d’eperon</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAGOUILLE <i>ou</i> GAGOUILLE, s. f. (<i>Marine.</i>)\nvolute du revers de l’éperon. C’est ce qui fait un ornement \nau haut du bout de l’éperon d’un vaisseau.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/REVERS\" title=\"L’Encyclopédie/1re édition/REVERS\"><span class=\"sc\">Revers d’eperon</span></a>.\n \n</p>\n</div>",
     "title": "CAGOUILLE ou GAGOUILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAGOUILLE_ou_GAGOUILLE"
 }

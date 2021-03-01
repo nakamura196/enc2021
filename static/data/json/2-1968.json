@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-371",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1975-0/",
+    "item_id": "2-1968",
     "next": "2-1969",
     "pages": "371",
     "prev": "2-1967",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURMONT, (<i>Géog.</i>) petite ville de France\nau duché de Bar, à sept lieues de Nancy, près de la\nMeuse. <i>Long. 23. 18. lat. 48. 10</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURMONT, (<i>Géog.</i>) petite ville de France\nau duché de Bar, à sept lieues de Nancy, près de la\nMeuse. <i>Long. 23. 18. lat. 48. 10</i>.\n \n</p>\n</div>",
     "title": "BOURMONT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURMONT"
 }

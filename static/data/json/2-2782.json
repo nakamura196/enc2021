@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2782-0/",
+    "item_id": "2-2782",
     "next": "2-2783",
     "pages": "495",
     "prev": "2-2781",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOTER, v. neut. <i>terme de Marine</i>, pour dire \n<i>aller de cap en cap, de port en port</i>, naviguant le long \ndes côtes. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOTER, v. neut. <i>terme de Marine</i>, pour dire \n<i>aller de cap en cap, de port en port</i>, naviguant le long \ndes côtes. \n \n</p>\n</div>",
     "title": "CABOTER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABOTER"
 }

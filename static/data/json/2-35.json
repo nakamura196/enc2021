@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-37-0/",
+    "item_id": "2-35",
     "next": "2-36",
     "pages": "4",
     "prev": "2-34",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABUL, (<i>Géog.</i>) ville des Indes orientales,\ndans une île du fleuve Indus. Quelques-uns croyent\nque c’est <i>Cambaya</i>, &amp; d’autres <i>Patan</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABUL, (<i>Géog.</i>) ville des Indes orientales,\ndans une île du fleuve Indus. Quelques-uns croyent\nque c’est <i>Cambaya</i>, &amp; d’autres <i>Patan</i>.\n \n</p>\n</div>",
     "title": "BABUL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BABUL"
 }

@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-561",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3083-0/",
+    "item_id": "2-3082",
     "next": "2-3083",
     "pages": "561",
     "prev": "2-3081",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLIOPE, (<i>Myth.</i>) une des neuf Muses, ainsi appellée à cause de la douceur de sa voix ; elle préside à l’éloquence &amp; à la Poësie héroïque. On la représente le bras gauche chargé de guirlandes, &amp; la main appuyée sur les œuvres des premiers Poëtes héroïques. On la donne pour mere à Orphée, &amp; l’on dit qu’elle eut de Jupiter les deux Corybantes, &amp; les Syrenes d’Acheloüs. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLIOPE, (<i>Myth.</i>) une des neuf Muses, ainsi appellée à cause de la douceur de sa voix ; elle préside à l’éloquence &amp; à la Poësie héroïque. On la représente le bras gauche chargé de guirlandes, &amp; la main appuyée sur les <span type=\"proposed\">œuvres</span> des premiers Poëtes héroïques. On la donne pour mere à Orphée, &amp; l’on dit qu’elle eut de Jupiter les deux Corybantes, &amp; les Syrenes d’Acheloüs. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLIOPE, (<i>Myth.</i>) une des neuf Muses, ainsi appellée à cause de la douceur de sa voix ; elle préside à l’éloquence &amp; à la Poësie héroïque. On la représente le bras gauche chargé de guirlandes, &amp; la main appuyée sur les œuvres des premiers Poëtes héroïques. On la donne pour mere à Orphée, &amp; l’on dit qu’elle eut de Jupiter les deux Corybantes, &amp; les Syrenes d’Acheloüs. \n \n</p>\n</div>",
     "title": "CALLIOPE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALLIOPE"
 }

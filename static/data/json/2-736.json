@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-168",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-733-0/",
+    "item_id": "2-736",
     "next": "2-737",
     "pages": "168",
     "prev": "2-735",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZADOIS, (<span class=\"sc\">le</span>) <i>Géog.</i> province de France\nqui fait partie de la basse Gascogne, entre la Guienne \npropre, l’Agénois, &amp; le Condomois. Bazas en est\nla capitale.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZADOIS, (<span class=\"sc\">le</span>) <i>Géog.</i> province de France\nqui fait<span type=\"proposed\"> partie </span>de la basse Gascogne, entre la Guienne \npropre, l’Agénois, &amp; le Condomois. Bazas en est\nla capitale.\n \n</p>\n</div>",
     "title": "BAZADOIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAZADOIS"
 }

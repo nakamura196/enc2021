@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-683",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3626-0/",
+    "item_id": "2-3623",
     "next": "2-3624",
     "pages": "683",
     "prev": "2-3622",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARENAGE, CRANAGE, CRAN, s. m. (<i>Marine</i>) c’est un lieu convenable sur le rivage de la mer,\npour donner la carene à des vaisseaux ; les mots de\n<i>cranage</i> &amp; de <i>cran</i> sont venus par corruption, &amp; ne\nsont d’usage que parmi quelques matelots.\n</p><p>Pour qu’un lieu soit propre pour en faire un <i>carenage</i>, il faut qu’au pié de la côté il y ait assez d’eau\npour que le vaisseau y soit à flot, &amp; qu’on puisse l’abattre \naisément sur la terre, &amp; le coucher sur le côté\nassez pour qu’on lui voye la quille.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARENAGE, CRANAGE, CRAN, s. m. (<i>Marine</i>) c’est un lieu convenable sur le rivage de la mer,\npour donner la carene à des vaisseaux ; les mots de\n<i>cranage</i> &amp; de <i>cran</i> sont venus par corruption, &amp; ne\nsont d’usage que parmi quelques matelots.\n</p><p>Pour qu’un lieu soit propre pour en faire un <i>carenage</i>, il faut qu’au pié de la côté il y ait assez d’eau\npour que le vaisseau y soit à flot, &amp; qu’on puisse l’abattre \naisément sur la terre, &amp; le coucher sur le côté\nassez pour qu’on lui voye la quille.\n \n</p>\n</div>",
     "title": "CARENAGE, CRANAGE, CRAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARENAGE,_CRANAGE,_CRAN"
 }

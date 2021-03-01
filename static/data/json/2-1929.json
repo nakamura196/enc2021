@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-366",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1936-0/",
+    "item_id": "2-1929",
     "next": "2-1930",
     "pages": "366",
     "prev": "2-1928",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUQUETIER, s. m. (<i>Commerce.</i>) ouvrier qui\nfait &amp; vend des bouquets de fleurs artificielles. Les\n<i>bouquetiers</i> sont de la communauté des Merciers.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FLEUR\" title=\"L’Encyclopédie/1re édition/FLEUR\"><span class=\"sc\">Fleurs artificielles</span></a>. Les <i>Plumassiers</i> prennent \naussi le titre de <i>Bouquetiers</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUQUETIER, s. m. (<i>Commerce.</i>) ouvrier qui\nfait &amp; vend des bouquets de fleurs artificielles. Les\n<i>bouquetiers</i> sont de la communauté des Merciers.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FLEUR\" title=\"L’Encyclopédie/1re édition/FLEUR\"><span class=\"sc\">Fleurs artificielles</span></a>. Les <i>Plumassiers</i> prennent \naussi le titre de <i>Bouquetiers</i>.\n \n</p>\n</div>",
     "title": "BOUQUETIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUQUETIER"
 }

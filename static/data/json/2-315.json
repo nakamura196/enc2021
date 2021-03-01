@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-60",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-323-0/",
+    "item_id": "2-315",
     "next": "2-316",
     "pages": "60",
     "prev": "2-314",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANNIE, s. f. signifie en quelques <i>coûtumes, publication</i>. \nOn dit en Normandie <i>banon</i> dans le même sens.\n</p><p><i>Banni</i> se dit aussi dans quelques coûtumes adjectivement, \n&amp; signifie <i>publié</i> ou <i>crié</i> en justice. C’est en \nce sens qu’on dit, une terre <i>bannie</i>, une espave <i>bannie</i>. \n(<i>H</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANNIE, s. f. signifie en quelques <i>coûtumes, publication</i>. \nOn dit en Normandie <i>banon</i> dans le même sens.\n</p><p><i>Banni</i> se dit aussi dans quelques coûtumes adjectivement, \n&amp; signifie <i>publié</i> ou <i>crié</i> en justice. C’est en \nce sens qu’on dit, une terre <i>bannie</i>, une espave <i>bannie</i>. \n(<i>H</i>) \n \n</p>\n</div>",
     "title": "BANNIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANNIE"
 }

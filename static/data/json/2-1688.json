@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-323",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1687-0/",
+    "item_id": "2-1688",
     "next": "2-1689",
     "pages": "323",
     "prev": "2-1687",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONIFACIO, (<i>Géog.</i>) petite ville &amp; port dans\nla partie méridionale de l’île de Corse. <i>Long. 27. lat.  41. 20</i>. Le détroit qui sépare la Corse de la Sardaigne \nse nomme <i><span class=\"lang-it\" lang=\"it\">Bocca di Bonifacio</span></i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONIFACIO, (<i>Géog.</i>) petite ville &amp; port dans\nla<span type=\"proposed\"> partie </span>méridionale de l’île de Corse. <i>Long. 27. lat.  41. 20</i>. Le détroit qui sépare la Corse de la Sardaigne \nse nomme <i><span class=\"lang-it\" lang=\"it\">Bocca di Bonifacio</span></i>.\n \n</p>\n</div>",
     "title": "BONIFACIO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONIFACIO"
 }

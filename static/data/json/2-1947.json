@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-367",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1954-0/",
+    "item_id": "2-1947",
     "next": "2-1948",
     "pages": "367",
     "prev": "2-1946",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDELAGE, s. m. <i>terme de Coûtume</i>, est la\nmême chose que <i>bordelage. Voyez ce dernier</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURDELAGE, s. m. <i>terme de Coûtume</i>, est la\nmême chose que <i>bordelage. <span type=\"bold\">Voyez</span> ce dernier</i>.\n \n</p>\n</div>",
     "title": "BOURDELAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURDELAGE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-644",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3519-0/",
+    "item_id": "2-3518",
     "next": "2-3519",
     "pages": "644",
     "prev": "2-3517",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACAS, CARACOS, LES CARAQUES,\n<i>ou</i> S. JEAN DE LÉON, ville riche &amp; considérable\nde l’Amérique en terre-ferme, dans la province de\nmême nom ; ses environs produisent beaucoup de\ncacao. <i>Long. 312. 35. lat. 9. 40</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARACAS, CARACOS, LES CARAQUES,\n<i>ou</i> S. JEAN DE LÉON, ville riche &amp; considérable\nde l’Amérique en terre-ferme, dans la province de\nmême nom ; ses environs produisent beaucoup de\ncacao. <i>Long. 312. 35. lat. 9. 40</i>.\n \n</p>\n</div>",
     "title": "CARACAS, CARACOS, LES CARAQUES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARACAS,_CARACOS,_LES_CARAQUES"
 }

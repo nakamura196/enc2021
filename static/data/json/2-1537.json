@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-289",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1535-0/",
+    "item_id": "2-1537",
     "next": "2-1538",
     "pages": "289",
     "prev": "2-1536",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOBENHAUSEN, (<i>Géog.</i>) petite ville d’Allemagne \ndans le comté de Hanau.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOBENHAUSEN, (<i>Géog.</i>) petite ville d’Allemagne \ndans le comté de Hanau.\n \n</p>\n</div>",
     "title": "BOBENHAUSEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOBENHAUSEN"
 }

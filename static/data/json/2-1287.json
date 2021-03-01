@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-253",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1284-0/",
+    "item_id": "2-1287",
     "next": "2-1288",
     "pages": "253",
     "prev": "2-1286",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILITZ, (<i>Géog.</i>) petite ville &amp; château, dans\nla haute Silésie, au point de rencontre de la Pologne, \nde la Hongrie, &amp; de la Silésie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BILITZ, (<i>Géog.</i>) petite ville &amp; château, dans\nla haute Silésie, au point de rencontre de la Pologne, \nde la Hongrie, &amp; de la Silésie.\n \n</p>\n</div>",
     "title": "BILITZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILITZ"
 }

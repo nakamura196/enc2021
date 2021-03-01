@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-569",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3161-0/",
+    "item_id": "2-3159",
     "next": "2-3160",
     "pages": "569",
     "prev": "2-3158",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRIDGE, (<i>Géog.</i>) ville considérable d’Angleterre, \ncapitale du Cambridgshire, avec titre de\nduché, fameuse par son université. Elle est sur la\nriviere de Cam. <i>Long. 17. 28. lat. 52. 10</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMBRIDGE, (<i>Géog.</i>) ville considérable d’Angleterre, \ncapitale du Cambridgshire, avec titre de\nduché, fameuse par son université. Elle est sur la\nriviere de Cam. <i>Long. 17. 28. lat. 52. 10</i>.\n \n</p>\n</div>",
     "title": "CAMBRIDGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMBRIDGE"
 }

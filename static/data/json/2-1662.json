@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-320",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1661-0/",
+    "item_id": "2-1662",
     "next": "2-1663",
     "pages": "320",
     "prev": "2-1661",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONA, (<i>Géog.</i>) ville maritime d’Afrique, dans\nle royaume d’Alger, &amp; peu loin de la frontiere de\nTunis. Les vestiges de l’ancien <i>Hyppo-regius</i> en sont\npeu éloignés. <i>Lat. 37 degrés, long. 27 &amp; demi</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BONA, (<i>Géog.</i>) ville maritime d’Afrique, dans\nle royaume d’Alger, &amp; peu loin de la frontiere de\nTunis. Les vestiges de l’ancien <i>Hyppo-regius</i> en sont\npeu éloignés. <i>Lat. 37 degrés, long. 27 &amp; demi</i>.\n \n</p>\n</div>",
     "title": "BONA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONA"
 }

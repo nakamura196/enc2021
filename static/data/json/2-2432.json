@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-447",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2435-0/",
+    "item_id": "2-2432",
     "next": "2-2433",
     "pages": "447-448",
     "prev": "2-2431",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUCHHAUSEN, (<i>Géog.</i>) comté d’Allemagne, <span><span class=\"pagenum ws-pagenum\" id=\"448\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/452\"></span></span>dans la Westphalie, sur les bords du Weser, appartenant \nà la maison de Brunswick.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRUCHHAUSEN, (<i>Géog.</i>) comté d’Allemagne, <span><span class=\"pagenum ws-pagenum\" id=\"448\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/452\"></span></span>dans la Westphalie, sur les bords du Weser, appartenant \nà la maison de Brunswick.\n \n</p>\n</div>",
     "title": "BRUCHHAUSEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRUCHHAUSEN"
 }

@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-329",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1714-0/",
+    "item_id": "2-1715",
     "next": "2-1716",
     "pages": "329",
     "prev": "2-1714",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>BONTIA</i>, s. f. (<i>Hist. nat. bot.</i>) genre de plante\ndont le nom a été dérivé de celui de Jacques <i>Bonti</i>,\nmedecin. La fleur de ce genre de plante est monopétale,\nen masque ; la levre supérieure est relevée, &amp;\nl’inférieure divisée en trois parties. Il s’éleve du calice \nde la fleur un pistil qui est attaché comme un clou\nà la partie postérieure de la fleur, &amp; qui devient\ndans la suite un fruit ovoïde, mou, &amp; plein de suc.\nCe fruit renferme un noyau oblong, dans lequel il y\na une amende de la même figure. Plumier, <i>Nova  plant. Amer. gen. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>BONTIA</i>, s. f. (<i>Hist. nat. bot.</i>) genre de plante\ndont le nom a été dérivé de celui de Jacques <i>Bonti</i>,\nmedecin. La fleur de ce genre de plante est monopétale,\nen masque ; la levre supérieure est relevée, &amp;\nl’inférieure divisée en trois parties. Il s’éleve du calice \nde la fleur un pistil qui est attaché comme un clou\nà la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; qui devient\ndans la suite un fruit ovoïde, mou, &amp; plein de suc.\nCe fruit renferme un noyau oblong, dans lequel il y\na une amende de la même figure. <span type=\"auteur_p\">Plumier</span>, <i>Nova  plant. Amer. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>BONTIA</i>, s. f. (<i>Hist. nat. bot.</i>) genre de plante\ndont le nom a été dérivé de celui de Jacques <i>Bonti</i>,\nmedecin. La fleur de ce genre de plante est monopétale,\nen masque ; la levre supérieure est relevée, &amp;\nl’inférieure divisée en trois parties. Il s’éleve du calice \nde la fleur un pistil qui est attaché comme un clou\nà la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; qui devient\ndans la suite un fruit ovoïde, mou, &amp; plein de suc.\nCe fruit renferme un noyau oblong, dans lequel il y\na une amende de la même figure. Plumier, <i>Nova  plant. Amer. gen. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BONTIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONTIA"
 }

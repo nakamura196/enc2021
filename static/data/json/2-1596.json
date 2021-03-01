@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-295",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1594-0/",
+    "item_id": "2-1596",
     "next": "2-1597",
     "pages": "295",
     "prev": "2-1595",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOHMISCH-WEYER, (<i>Géog.</i>) ville de Bohème, \ndans le cercle de Pilsen sur un lac.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOHMISCH-WEYER, (<i>Géog.</i>) ville de Bohème, \ndans le cercle de Pilsen sur un lac.\n \n</p>\n</div>",
     "title": "BOHMISCH-WEYER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOHMISCH-WEYER"
 }

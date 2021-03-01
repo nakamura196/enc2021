@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-12",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-129-0/",
+    "item_id": "2-122",
     "next": "2-123",
     "pages": "12",
     "prev": "2-121",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAGNOLOIS <i>ou</i> BAGNOLIENS, s. m. pl. (<i>Hist. ecclés.</i>) secte d’hérétiques qui parurent dans le <span class=\"sc\">viii</span>. siecle, &amp; furent ainsi nommés de <i>Bagnols</i>, ville du Languedoc au diocese d’Usès, où ils étoient en assez grand nombre. On les nomma aussi <i>Concordois</i> ou <i>Gozocois</i>, termes dont on ne connoît pas bien la véritable origine.\n</p><p>Ces <i>Bagnolois</i> étoient des Manichéens. Ils rejettoient l’ancien Testament &amp; une partie du nouveau. Leurs principales erreurs étoient, que Dieu ne crée point les ames quand il les unit au corps ; qu’il n’y avoit point en lui de prescience ; que le monde est éternel, <i>&amp;c.</i> On donna encore le même nom à une secte de Cathares dans le. siecle. <i>V.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATHARES\" title=\"L’Encyclopédie/1re édition/CATHARES\"><span class=\"sc\">Cathares</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAGNOLOIS <i>ou</i> BAGNOLIENS, s. m. pl. (<i>Hist. ecclés.</i>) secte d’hérétiques qui parurent dans le <span class=\"sc\">viii</span>. siecle, &amp; furent ainsi nommés de <i>Bagnols</i>, ville du Languedoc au diocese d’Usès, où ils étoient en assez grand nombre. On les nomma aussi <i>Concordois</i> ou <i>Gozocois</i>, termes dont on ne connoît pas bien la véritable origine.\n</p><p>Ces <i>Bagnolois</i> étoient des Manichéens. Ils rejettoient l’ancien Testament &amp; une<span type=\"proposed\"> partie </span>du nouveau. Leurs principales erreurs étoient, que Dieu ne crée point les ames quand il les unit au corps ; qu’il n’y avoit point en lui de prescience ; que le monde est éternel, <i>&amp;c.</i> On donna encore le même nom à une secte de Cathares dans le. siecle.<span type=\"bold\"> <i>V.</i> </span><a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATHARES\" title=\"L’Encyclopédie/1re édition/CATHARES\"><span class=\"sc\">Cathares</span></a>. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BAGNOLOIS ou BAGNOLIENS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAGNOLOIS_ou_BAGNOLIENS"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-587",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3251-0/",
+    "item_id": "2-3248",
     "next": "2-3249",
     "pages": "587",
     "prev": "2-3247",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCALE, (<i>Géog.</i>) ville de France, dans la\nhaute Bretagne, sur le bord de la mer. <i>Long. 15</i><sup style=\"font-size:70%\">d</sup>.\n<i>48′. 25″. lat. 48</i><sup style=\"font-size:70%\">d</sup>. <i>40′. 40″</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANCALE, (<i>Géog.</i>) ville de France, dans la\nhaute Bretagne, sur le bord de la mer. <i>Long. 15</i><sup style=\"font-size:70%\">d</sup>.\n<i>48′. 25″. lat. 48</i><sup style=\"font-size:70%\">d</sup>. <i>40′. 40″</i>.\n \n</p>\n</div>",
     "title": "CANCALE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANCALE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-550",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3029-0/",
+    "item_id": "2-3028",
     "next": "2-3029",
     "pages": "550",
     "prev": "2-3027",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALEMBERG, (<i>Géog.</i>) principauté d’Allemagne \ndans la basse-Saxe, qui fait partie du duché de\nBrunswick : on l’appelle ordinairement le <i>pays de </i>\n<i>Hanovre</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALEMBERG, (<i>Géog.</i>) principauté d’Allemagne \ndans la basse-Saxe, qui fait<span type=\"proposed\"> partie </span>du duché de\nBrunswick : on l’appelle ordinairement le <i>pays de </i>\n<i>Hanovre</i>.\n \n</p>\n</div>",
     "title": "CALEMBERG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALEMBERG"
 }

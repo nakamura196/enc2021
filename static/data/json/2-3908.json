@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-750",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3895-0/",
+    "item_id": "2-3908",
     "next": "2-3909",
     "pages": "750",
     "prev": "2-3907",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLUCCIA, (<i>Géog.</i>) petite ville d’Italie\nau royaume de Naples, dans la Calabre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLUCCIA, (<i>Géog.</i>) petite ville d’Italie\nau royaume de Naples, dans la Calabre.\n \n</p>\n</div>",
     "title": "CASTELLUCCIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTELLUCCIA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-455",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2509-0/",
+    "item_id": "2-2506",
     "next": "2-2507",
     "pages": "455",
     "prev": "2-2505",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCCARIZA, (<i>Géog.</i>) petite ville de Hongrie,\nen Croatie, sur un golfe de même nom, qui fait partie \nde celui de Venise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCCARIZA, (<i>Géog.</i>) petite ville de Hongrie,\nen Croatie, sur un golfe de même nom, qui fait<span type=\"proposed\"> partie </span>\nde celui de Venise.\n \n</p>\n</div>",
     "title": "BUCCARIZA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCCARIZA"
 }

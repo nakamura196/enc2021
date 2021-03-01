@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2800-0/",
+    "item_id": "2-2799",
     "next": "2-2800",
     "pages": "495",
     "prev": "2-2798",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABURA, (<i>Géog.</i>) endroit de la Mésopotamie \noù il y a, dit-on, une fontaine dont les eaux ont une \nodeur douce &amp; agréable. Pline qui en parle, dit que \ncette odeur leur fut laissée par Junon, qui s’y baigna \nune fois. \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABURA, (<i>Géog.</i>) endroit de la Mésopotamie \noù il y a, dit-on, une fontaine dont les eaux ont une \nodeur douce &amp; agréable. <span type=\"auteur_p\">Pline</span> qui en parle, dit que \ncette odeur leur fut laissée par Junon, qui s’y baigna \nune fois. \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABURA, (<i>Géog.</i>) endroit de la Mésopotamie \noù il y a, dit-on, une fontaine dont les eaux ont une \nodeur douce &amp; agréable. Pline qui en parle, dit que \ncette odeur leur fut laissée par Junon, qui s’y baigna \nune fois. \n \n</p>\n</div>",
     "title": "CABURA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABURA"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-743",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3838-0/",
+    "item_id": "2-3835",
     "next": "2-3836",
     "pages": "743",
     "prev": "2-3834",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSANT, adj. (<i>Phys.</i>) se dit d’un corps dont la\ndureté est accompagnée de fragilité, espece de dureté,\nqu’on suppose produite par l’engrenement mutuel \n&amp; facile à détruire, des parties du corps. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DURET%C3%89\" title=\"L’Encyclopédie/1re édition/DURETÉ\"><span class=\"sc\">Dureté</span></a>.\n</p><p><i>Cassant</i> est opposé à <i>ductile, malléable. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DUCTILIT%C3%89\" title=\"L’Encyclopédie/1re édition/DUCTILITÉ\"><span class=\"sc\">Ductilité</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSANT, adj. (<i>Phys.</i>) se dit d’un corps dont la\ndureté est accompagnée de fragilité, espece de dureté,\nqu’on suppose produite par l’engrenement mutuel \n&amp; facile à détruire, des parties du corps. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DURET%C3%89\" title=\"L’Encyclopédie/1re édition/DURETÉ\"><span class=\"sc\">Dureté</span></a>.\n</p><p><i>Cassant</i> est opposé à <i>ductile, malléable. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/DUCTILIT%C3%89\" title=\"L’Encyclopédie/1re édition/DUCTILITÉ\"><span class=\"sc\">Ductilité</span></a>, <i>&amp;c.</i> (<i>O</i>)\n \n</p>\n</div>",
     "title": "CASSANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASSANT"
 }

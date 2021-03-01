@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-3",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-11-0/",
+    "item_id": "2-9",
     "next": "2-10",
     "pages": "3",
     "prev": "2-8",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAALAM, ville de la Palestine dans la demi-tribu\nde Manassés.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAALAM, ville de la Palestine dans la demi-tribu\nde Manassés.\n \n</p>\n</div>",
     "title": "BAALAM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAALAM"
 }

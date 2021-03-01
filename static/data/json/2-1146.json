@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-220",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1142-0/",
+    "item_id": "2-1146",
     "next": "2-1147",
     "pages": "220",
     "prev": "2-1145",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEZANTÉ, adj. <i>terme de Blason</i> ; il se dit d’une\npiece chargée de bezans, comme une bordure <i>bezantée</i> \nde huit pieces. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEZANT_ou_BIZANT\" title=\"L’Encyclopédie/1re édition/BEZANT ou BIZANT\"><span class=\"sc\">Bezant</span></a>.\n</p><p>Rochefort en Angleterre, écartelé d’or &amp; de gueules,\nà la bordure <i>bezantée</i> d’or. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEZANTÉ, adj. <i>terme de Blason</i> ; il se dit d’une\npiece chargée de bezans, comme une bordure <i>bezantée</i> \nde huit pieces. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEZANT_ou_BIZANT\" title=\"L’Encyclopédie/1re édition/BEZANT ou BIZANT\"><span class=\"sc\">Bezant</span></a>.\n</p><p>Rochefort en Angleterre, écartelé d’or &amp; de gueules,\nà la bordure <i>bezantée</i> d’or. (<i>V</i>)\n \n</p>\n</div>",
     "title": "BEZANTÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEZANT%C3%89"
 }

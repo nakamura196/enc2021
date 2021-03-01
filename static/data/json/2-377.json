@@ -2,7 +2,8 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-70",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-385-0/",
+    "item_id": "2-377",
     "next": "2-378",
     "pages": "70",
     "prev": "2-376",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBARIN, s. m. (<i>Hist, nat. Zoolog.</i>) poisson de\nmer, mieux connu sous le nom de <i>surmulet. V.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SURMULET\" title=\"L’Encyclopédie/1re édition/SURMULET\"><span class=\"sc\">Surmulet</span></a>.\n</p><p><span class=\"sc\">Barbarin</span>, poisson de riviere, petit barbeau. <i>V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBEAU\" title=\"L’Encyclopédie/1re édition/BARBEAU\"><span class=\"sc\">Barbeau</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARBARIN, s. m. (<i>Hist, nat. Zoolog.</i>) poisson de\nmer, mieux connu sous le nom de <i>surmulet. V.</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SURMULET\" title=\"L’Encyclopédie/1re édition/SURMULET\"><span class=\"sc\">Surmulet</span></a>.\n</p><p><span class=\"sc\">Barbarin</span>, poisson de riviere, petit barbeau. <i>V.</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBEAU\" title=\"L’Encyclopédie/1re édition/BARBEAU\"><span class=\"sc\">Barbeau</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BARBARIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBARIN"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-290",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1563-0/",
+    "item_id": "2-1565",
     "next": "2-1566",
     "pages": "290-291",
     "prev": "2-1564",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOCKNIA, (<i>Géog.</i>) ville de la petite Pologne <span><span class=\"pagenum ws-pagenum\" id=\"291\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/295\"></span></span>dans le palatinat de Cracovie, renommée à cause\nqu’on y trouve beaucoup de sel gemme.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOCKNIA, (<i>Géog.</i>) ville de la petite Pologne <span><span class=\"pagenum ws-pagenum\" id=\"291\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/295\"></span></span>dans le palatinat de Cracovie, renommée à cause\nqu’on y trouve beaucoup de sel gemme.\n \n</p>\n</div>",
     "title": "BOCKNIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCKNIA"
 }

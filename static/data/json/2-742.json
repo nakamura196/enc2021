@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-168",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-739-0/",
+    "item_id": "2-742",
     "next": "2-743",
     "pages": "168",
     "prev": "2-741",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZUNA, (<i>Géog.</i>) ville maritime de l’Océan\néthiopique ou oriental, située entre les Cafres &amp; le\nZanguebar. On dit que ses habitans ne se nourrissent\nque de serpens &amp; de grenouilles.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZUNA, (<i>Géog.</i>) ville maritime de l’Océan\néthiopique ou oriental, située entre les Cafres &amp; le\nZanguebar. On dit que ses habitans ne se nourrissent\nque de serpens &amp; de grenouilles.\n \n</p>\n</div>",
     "title": "BAZUNA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAZUNA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2750-0/",
+    "item_id": "2-2750",
     "next": "2-2751",
     "pages": "487",
     "prev": "2-2749",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABE, (<i>Géog.</i>) petite riviere d’Espagne au royaume \nde Galice, qui se jette dans le Velezar, &amp; tombe \navec lui dans le Minho.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABE, (<i>Géog.</i>) petite riviere d’Espagne au royaume \nde Galice, qui se jette dans le Velezar, &amp; tombe \navec lui dans le Minho.\n \n</p>\n</div>",
     "title": "CABE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABE"
 }

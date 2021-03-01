@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-337",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1805-0/",
+    "item_id": "2-1806",
     "next": "2-1807",
     "pages": "337",
     "prev": "2-1805",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSNA, (<i>Géog.</i>) riviere de Bosnie, qui se jette\ndans la Save à Arki.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSNA, (<i>Géog.</i>) riviere de Bosnie, qui se jette\ndans la Save à Arki.\n \n</p>\n</div>",
     "title": "BOSNA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSNA"
 }

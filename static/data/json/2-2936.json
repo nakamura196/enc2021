@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-533",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2937-0/",
+    "item_id": "2-2936",
     "next": "2-2937",
     "pages": "533",
     "prev": "2-2935",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAILLIQUE, poisson de mer. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HARENGADES\" title=\"L’Encyclopédie/1re édition/HARENGADES\"><span class=\"sc\">Harengade</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAILLIQUE, poisson de mer. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HARENGADES\" title=\"L’Encyclopédie/1re édition/HARENGADES\"><span class=\"sc\">Harengade</span></a>. \n \n</p>\n</div>",
     "title": "CAILLIQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAILLIQUE"
 }

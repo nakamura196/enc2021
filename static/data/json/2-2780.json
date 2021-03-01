@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-495",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2780-0/",
+    "item_id": "2-2780",
     "next": "2-2781",
     "pages": "495",
     "prev": "2-2779",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABOLETTO, (<i>Commerce.</i>) monnoie d’Italie \nusitée dans les états de la république de Genes, qui \nvaut environ quatre sous de notre argent. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CABOLETTO, (<i>Commerce.</i>) monnoie d’Italie \nusitée dans les états de la république de Genes, qui \nvaut environ quatre sous de notre argent. \n \n</p>\n</div>",
     "title": "CABOLETTO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABOLETTO"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-370",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1967-0/",
+    "item_id": "2-1960",
     "next": "2-1961",
     "pages": "370",
     "prev": "2-1959",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGOIN, (<i>Géog.</i>) petite ville du Viennois\nen Dauphiné. Il s’y fait un grand commerce de chanvre.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGOIN, (<i>Géog.</i>) petite ville du Viennois\nen Dauphiné. Il s’y fait un grand commerce de chanvre.\n \n</p>\n</div>",
     "title": "BOURGOIN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURGOIN"
 }

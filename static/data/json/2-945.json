@@ -2,7 +2,8 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-201",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-941-0/",
+    "item_id": "2-945",
     "next": "2-946",
     "pages": "201",
     "prev": "2-944",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BENATH, s. f. (<i>Medecine.</i>) nom que les Arabes\ndonnent à de petites pustules qui s’élevent sur le corps\npendant la nuit après la sueur. (<i>N</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BENATH, s. f. (<i>Medecine.</i>) nom que les Arabes\ndonnent à de petites pustules qui s’élevent sur le corps\npendant la nuit après la sueur. (<i>N</i>)\n \n</p>\n</div>",
     "title": "BENATH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENATH"
 }

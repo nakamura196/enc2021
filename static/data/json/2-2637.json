@@ -2,7 +2,8 @@
     "authors": [
         "Paul Henri Thiry d’Holbach"
     ],
-    "item_id": "2-466",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2640-0/",
+    "item_id": "2-2637",
     "next": "2-2638",
     "pages": "466",
     "prev": "2-2636",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGHELLI, (<i>Hist. mod.</i>) on donne ce nom à \ndes petites barques dont on se sert à Venise pour aller \nprendre l’air en mer ; elles ont une salle où il peut \ntenir une compagnie de dix à douze personnes : on \nles nomme aussi <i>petits bucentaures</i>. (—) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BURGHELLI, (<i>Hist. mod.</i>) on donne ce nom à \ndes petites barques dont on se sert à Venise pour aller \nprendre l’air en mer ; elles ont une salle où il peut \ntenir une compagnie de dix à douze personnes : on \nles nomme aussi <i>petits bucentaures</i>. (—) \n \n</p>\n</div>",
     "title": "BURGHELLI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BURGHELLI"
 }

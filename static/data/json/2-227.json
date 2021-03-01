@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-36",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-234-0/",
+    "item_id": "2-227",
     "next": "2-228",
     "pages": "36",
     "prev": "2-226",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALISCORNE, <i>ou</i> BASSECONDE, s. f. on donne \ndans les <i>grosses forges</i> ce nom à une piece de fer\n<i>MX</i>, fixée sur le dessus de la caisse des soufflets par\ndes attaches de fer <i>NN</i>, qui l’embrassent : le bout\n<i>M</i> en est arrondi, &amp; c’est sur cette partie que portent\nles cammes de l’arbre qui fait baisser la caisse. <i>Voyez  Planche VII. fig. 1. des grosses forges</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALISCORNE, <i>ou</i> BASSECONDE, s. f. on donne \ndans les <i>grosses forges</i> ce nom à une piece de fer\n<i>MX</i>, fixée sur le dessus de la caisse des soufflets par\ndes attaches de fer <i>NN</i>, qui l’embrassent : le bout\n<i>M</i> en est arrondi, &amp; c’est sur cette<span type=\"proposed\"> partie </span>que portent\nles cammes de l’arbre qui fait baisser la caisse. <i><span type=\"bold\">Voyez</span>  Planche VII. fig. 1. des grosses forges</i>.\n \n</p>\n</div>",
     "title": "BALISCORNE, ou BASSECONDE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALISCORNE,_ou_BASSECONDE"
 }

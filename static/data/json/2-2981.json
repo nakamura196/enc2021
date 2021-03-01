@@ -2,7 +2,8 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-540",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2982-0/",
+    "item_id": "2-2981",
     "next": "2-2982",
     "pages": "540",
     "prev": "2-2980",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAMITE, adj. (<i>Mat. med.</i>) épithete que l’on\ndonne quelquefois au styrax, à cause qu’on le mettoit \nautrefois dans des roseaux appellés <i>calami</i> pour\nle conserver. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/STYRAX\" title=\"L’Encyclopédie/1re édition/STYRAX\"><span class=\"sc\">Styrax</span></a>. (<i>N</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALAMITE, adj. (<i>Mat. med.</i>) épithete que l’on\ndonne quelquefois au styrax, à cause qu’on le mettoit \nautrefois dans des roseaux appellés <i>calami</i> pour\nle conserver. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/STYRAX\" title=\"L’Encyclopédie/1re édition/STYRAX\"><span class=\"sc\">Styrax</span></a>. (<i>N</i>)\n \n</p>\n</div>",
     "title": "CALAMITE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALAMITE"
 }

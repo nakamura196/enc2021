@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-168",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-737-0/",
+    "item_id": "2-740",
     "next": "2-741",
     "pages": "168",
     "prev": "2-739",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZAT, s. m. coton qui vient de Leyde : il y a\nle <i>bazat</i> de la premiere sorte, l’ordinaire &amp; le moyen.\nLe premier est le plus beau.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAZAT, s. m. coton qui vient de Leyde : il y a\nle <i>bazat</i> de la premiere sorte, l’ordinaire &amp; le moyen.\nLe premier est le plus beau.\n \n</p>\n</div>",
     "title": "BAZAT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAZAT"
 }

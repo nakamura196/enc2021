@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-32",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-218-0/",
+    "item_id": "2-211",
     "next": "2-212",
     "pages": "32",
     "prev": "2-210",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALARES, s. m. pl. (<i>Hist. anc.</i>) nom que les habitans de l’île de Corse donnoient aux exilés, &amp; les habitans de Carthage à ceux de leur ville ou de leur territoire, qui l’abandonnoient pour habiter les montagnes de la Sardaigne. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALARES, s. m. pl. (<i>Hist. anc.</i>) nom que les habitans de l’île de Corse donnoient aux exilés, &amp; les habitans de Carthage à ceux de leur ville ou de leur territoire, qui l’abandonnoient pour habiter les montagnes de la Sardaigne. \n \n</p>\n</div>",
     "title": "BALARES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALARES"
 }

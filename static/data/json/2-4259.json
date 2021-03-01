@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-832",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4249-0/",
+    "item_id": "2-4259",
     "next": "2-4260",
     "pages": "832",
     "prev": "2-4258",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CÉRAMIQUE, s. m. (<i>Hist. anc.</i>) Il y avoit dans\nAthenes deux lieux célebres qui portoient ce nom,\nqui signifie en Grec <i>tuileries</i>. L’un s’appelloit le <i>céramique du dedans ;</i> c’étoit une partie de la ville, ornée\nde portiques, &amp; une des principales promenades.\nL’autre, le <i>céramique du dehors ;</i> c’étoit un faubourg\noù l’on faisoit des tuiles, &amp; où Platon avoit son académie.\nMeursius prétend que ce dernier étoit aussi le\nlieu de la sépulture de ceux qui étoient morts pour\nla patrie ; qu’on y faisoit des oraisons funebres à leurs\nloüanges, &amp; qu’on leur y élevoit des statues ; au lieu\nque le premier étoit un quartier de la ville bâti de\nbriques ou de tuiles ; ce qui le fit appeller <i>céramique</i>,\nhabité par les courtisanes.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CÉRAMIQUE, s. m. (<i>Hist. anc.</i>) Il y avoit dans\nAthenes deux lieux célebres qui portoient ce nom,\nqui signifie en Grec <i>tuileries</i>. L’un s’appelloit le <i>céramique du dedans ;</i> c’étoit une<span type=\"proposed\"> partie </span>de la ville, ornée\nde portiques, &amp; une des principales promenades.\nL’autre, le <i>céramique du dehors ;</i> c’étoit un faubourg\noù l’on faisoit des tuiles, &amp; où <span type=\"auteur_p\">Platon</span> avoit son académie.\nMeursius prétend que ce dernier étoit aussi le\nlieu de la sépulture de ceux qui étoient morts pour\nla patrie ; qu’on y faisoit des oraisons funebres à leurs\nloüanges, &amp; qu’on leur y élevoit des statues ; au lieu\nque le premier étoit un quartier de la ville bâti de\nbriques ou de tuiles ; ce qui le fit appeller <i>céramique</i>,\nhabité par les courtisanes.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CÉRAMIQUE, s. m. (<i>Hist. anc.</i>) Il y avoit dans\nAthenes deux lieux célebres qui portoient ce nom,\nqui signifie en Grec <i>tuileries</i>. L’un s’appelloit le <i>céramique du dedans ;</i> c’étoit une<span type=\"proposed\"> partie </span>de la ville, ornée\nde portiques, &amp; une des principales promenades.\nL’autre, le <i>céramique du dehors ;</i> c’étoit un faubourg\noù l’on faisoit des tuiles, &amp; où Platon avoit son académie.\nMeursius prétend que ce dernier étoit aussi le\nlieu de la sépulture de ceux qui étoient morts pour\nla patrie ; qu’on y faisoit des oraisons funebres à leurs\nloüanges, &amp; qu’on leur y élevoit des statues ; au lieu\nque le premier étoit un quartier de la ville bâti de\nbriques ou de tuiles ; ce qui le fit appeller <i>céramique</i>,\nhabité par les courtisanes.\n \n</p>\n</div>",
     "title": "CÉRAMIQUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/C%C3%89RAMIQUE"
 }

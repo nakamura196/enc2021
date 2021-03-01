@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-423",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2326-0/",
+    "item_id": "2-2321",
     "next": "2-2322",
     "pages": "423",
     "prev": "2-2320",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISACH, (<i>le vieux</i>) (<i>Géogr.</i>) ville d’Allemagne,\nautrefois capitale du Brisgaw, sur le Rhin. <i>Long. 25.  28. lat. 48. 8</i>.\n</p><p><span class=\"sc\">Brisach</span>, (<i>le neuf</i>) ville de France en Alsace,\nà une demi-lieue du Rhin. Elle est bien fortifiée. <i>Lon.  25. 21. lat. 48. 5</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISACH, (<i>le vieux</i>) (<i>Géogr.</i>) ville d’Allemagne,\nautrefois capitale du Brisgaw, sur le Rhin. <i>Long. 25.  28. lat. 48. 8</i>.\n</p><p><span class=\"sc\">Brisach</span>, (<i>le neuf</i>) ville de France en Alsace,\nà une demi-lieue du Rhin. Elle est bien fortifiée. <i>Lon.  25. 21. lat. 48. 5</i>.\n \n</p>\n</div>",
     "title": "BRISACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISACH"
 }

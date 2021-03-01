@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-371",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1970-0/",
+    "item_id": "2-1963",
     "next": "2-1964",
     "pages": "371",
     "prev": "2-1962",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGUIGNOTE, s. f. (<i>Art. milit.</i>) c’est une\narmure de tête faite de fer poli dont se servoient les\npiquiers. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGUIGNOTE, s. f. (<i>Art. milit.</i>) c’est une\narmure de tête faite de fer poli dont se servoient les\npiquiers. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "BOURGUIGNOTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURGUIGNOTE"
 }

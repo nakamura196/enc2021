@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-259",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1341-0/",
+    "item_id": "2-1344",
     "next": "2-1345",
     "pages": "259",
     "prev": "2-1343",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BI-QUINTILE, adj. (<i>Astron.</i>) c’est un aspect de \ndeux planetes quand elles sont à 144 degrés de distance \nl’une de l’autre. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ASPECT\" title=\"L’Encyclopédie/1re édition/ASPECT\"><span class=\"sc\">Aspect</span></a>.\n</p><p>On appelle cet aspect <i>bi-quintile</i>, parce que les \nplanetes sont alors éloignées l’une de l’autre de deux \nfois la cinquieme partie de 360 degrés, c’est-à-dire \nde deux fois 72 degrés, ou 144. (<i>O</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BI-QUINTILE, adj. (<i>Astron.</i>) c’est un aspect de \ndeux planetes quand elles sont à 144 degrés de distance \nl’une de l’autre. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ASPECT\" title=\"L’Encyclopédie/1re édition/ASPECT\"><span class=\"sc\">Aspect</span></a>.\n</p><p>On appelle cet aspect <i>bi-quintile</i>, parce que les \nplanetes sont alors éloignées l’une de l’autre de deux \nfois la cinquieme<span type=\"proposed\"> partie </span>de 360 degrés, c’est-à-dire \nde deux fois 72 degrés, ou 144. (<i>O</i>) \n \n</p>\n</div>",
     "title": "BI-QUINTILE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BI-QUINTILE"
 }

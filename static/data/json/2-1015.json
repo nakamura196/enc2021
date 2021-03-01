@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-207",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1011-0/",
+    "item_id": "2-1015",
     "next": "2-1016",
     "pages": "207",
     "prev": "2-1014",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERDOA, (<i>Géog.</i>) peuple de brigands, &amp; desert \nde même nom en Barbarie, au midi du royaume\nde Tripoli.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERDOA, (<i>Géog.</i>) peuple de brigands, &amp; desert \nde même nom en Barbarie, au midi du royaume\nde Tripoli.\n \n</p>\n</div>",
     "title": "BERDOA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERDOA"
 }

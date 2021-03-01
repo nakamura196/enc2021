@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4098-0/",
+    "item_id": "2-4109",
     "next": "2-4110",
     "pages": "794",
     "prev": "2-4108",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAYLAR, (<span class=\"sc\">le</span>) <i>Géog.</i> petite ville de France,\ndans la province de Languedoc.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAYLAR, (<span class=\"sc\">le</span>) <i>Géog.</i> petite ville de France,\ndans la province de Languedoc.\n \n</p>\n</div>",
     "title": "CAYLAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAYLAR"
 }

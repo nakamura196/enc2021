@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-434",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2390-0/",
+    "item_id": "2-2387",
     "next": "2-2388",
     "pages": "434",
     "prev": "2-2386",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRONCHORST, (<i>Géog.</i>) petite ville sur l’Issel,\ndans le comté de Zutphen, avec titre de comté de\nl’empire.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRONCHORST, (<i>Géog.</i>) petite ville sur l’Issel,\ndans le comté de Zutphen, avec titre de comté de\nl’empire.\n \n</p>\n</div>",
     "title": "BRONCHORST",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRONCHORST"
 }

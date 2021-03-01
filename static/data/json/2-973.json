@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-204",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-969-0/",
+    "item_id": "2-973",
     "next": "2-974",
     "pages": "204",
     "prev": "2-972",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENGUELA, (<i>Géog.</i>) royaume d’Afrique, sur\nla côte occidentale, entre le royaume d’Angola &amp; le\nJaga, avec ville de même nom, qu’on appelle aussi\n<i>S. Philippe</i> ou <i>le vieux Benguela</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENGUELA, (<i>Géog.</i>) royaume d’Afrique, sur\nla côte occidentale, entre le royaume d’Angola &amp; le\nJaga, avec ville de même nom, qu’on appelle aussi\n<i>S. Philippe</i> ou <i>le vieux Benguela</i>.\n \n</p>\n</div>",
     "title": "BENGUELA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENGUELA"
 }

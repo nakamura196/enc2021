@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-448",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2455-0/",
+    "item_id": "2-2452",
     "next": "2-2453",
     "pages": "448",
     "prev": "2-2451",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULLOIS, (<i>Géog.</i>) petit pays de France en Gascogne, \nentre le Condomois &amp; la Garonne, avec titre \nde Vicomté.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULLOIS, (<i>Géog.</i>) petit pays de France en Gascogne, \nentre le Condomois &amp; la Garonne, avec titre \nde Vicomté.\n \n</p>\n</div>",
     "title": "BRULLOIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRULLOIS"
 }

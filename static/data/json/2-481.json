@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-90",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-492-0/",
+    "item_id": "2-481",
     "next": "2-482",
     "pages": "90",
     "prev": "2-480",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRACANIERS, s. m. ouvriers qui font le barracan.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRACAN\" title=\"L’Encyclopédie/1re édition/BARRACAN\"><span class=\"sc\">Barracan</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRACANIERS, s. m. ouvriers qui font le barracan.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRACAN\" title=\"L’Encyclopédie/1re édition/BARRACAN\"><span class=\"sc\">Barracan</span></a>.\n \n</p>\n</div>",
     "title": "BARRACANIERS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRACANIERS"
 }

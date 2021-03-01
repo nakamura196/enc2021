@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-413",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2227-0/",
+    "item_id": "2-2222",
     "next": "2-2223",
     "pages": "413",
     "prev": "2-2221",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESSUITE, (<i>Géog.</i>) petite ville de France, sur\nla riviere d’Argenton, en Poitou.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRESSUITE, (<i>Géog.</i>) petite ville de France, sur\nla riviere d’Argenton, en Poitou.\n \n</p>\n</div>",
     "title": "BRESSUITE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRESSUITE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-563",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3090-0/",
+    "item_id": "2-3089",
     "next": "2-3090",
     "pages": "563",
     "prev": "2-3088",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALMAR, (<i>Géog.</i>) grande ville fortifiée de Suede, \ndans la province de Smaland, avec un port sur\nla mer Baltique, sur le détroit auquel on donne le\nnom de <i>Calmar-Sund. Long. 34. 33. lat. 56. 48</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALMAR, (<i>Géog.</i>) grande ville fortifiée de Suede, \ndans la province de Smaland, avec un port sur\nla mer Baltique, sur le détroit auquel on donne le\nnom de <i>Calmar-Sund. Long. 34. 33. lat. 56. 48</i>.\n \n</p>\n</div>",
     "title": "CALMAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALMAR"
 }

@@ -3,7 +3,8 @@
         "Jean Le Rond d’Alembert",
         "Jean-Baptiste Le Roy"
     ],
-    "item_id": "2-258",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1325-0/",
+    "item_id": "2-1328",
     "next": "2-1329",
     "pages": "258",
     "prev": "2-1327",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BINOCLE, <i>ou</i> TÉLESCOPE BINOCULAIRE, \nc’est un télescope par lequel on peut voir les objets \navec les deux yeux en même tems. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/T%C3%89LESCOPE\" title=\"L’Encyclopédie/1re édition/TÉLESCOPE\"><span class=\"sc\">Télescope</span></a>. \nIl est composé de deux tuyaux, qui contiennent \nchacun des verres de même force. On a crû \nqu’il représentoit les objets plus clairs &amp; plus grands \nque le télescope monoculaire, &amp; cette raison a engagé \nplusieurs auteurs à en traiter assez au long, entr’autres \nle P. Antoine-Marie de Réita, Capucin, dans son \n<i>Oculus Enoch &amp; Eliæ</i> ; &amp; après lui le P. Chérubin \nd’Orléans, aussi Capucin, <i>dans le tome onzieme de sa  Dioptrique oculaire</i>, qui a pour titre, <i>de la Vision parfaite</i> : \nmais on a reconnu que ces sortes de télescopes \nétoient plus embarrassans qu’utiles ; aussi la plûpart \ndes meilleurs auteurs qui ont traité de la Dioptrique, \nn’en ont fait aucune mention.\n</p><p>On fait aussi des microscopes <i>binocles</i> : mais comme \nils ont les mêmes inconvéniens que les télescopes de \ncette espece ; ils sont fort rares &amp; très peu en usage. \n(<i>O-T</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BINOCLE, <i>ou</i> TÉLESCOPE BINOCULAIRE, \nc’est un télescope par lequel on peut voir les objets \navec les deux yeux en même tems. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/T%C3%89LESCOPE\" title=\"L’Encyclopédie/1re édition/TÉLESCOPE\"><span class=\"sc\">Télescope</span></a>. \nIl est composé de deux tuyaux, qui contiennent \nchacun des verres de même force. On a crû \nqu’il représentoit les objets plus clairs &amp; plus grands \nque le télescope monoculaire, &amp; cette raison a engagé \nplusieurs auteurs à en traiter assez au long, entr’autres \nle P. Antoine-Marie de Réita, Capucin, dans son \n<i>Oculus Enoch &amp; Eliæ</i> ; &amp; après lui le P. Chérubin \nd’Orléans, aussi Capucin, <i>dans le<span type=\"proposed\"> tome </span>onzieme de sa  Dioptrique oculaire</i>, qui a pour titre, <i>de la Vision parfaite</i> : \nmais on a reconnu que ces sortes de télescopes \nétoient plus embarrassans qu’utiles ; aussi la plûpart \ndes meilleurs auteurs qui ont traité de la Dioptrique, \nn’en ont fait aucune mention.\n</p><p>On fait aussi des microscopes <i>binocles</i> : mais comme \nils ont les mêmes inconvéniens que les télescopes de \ncette espece ; ils sont fort rares &amp; très peu en usage. \n(<i>O-T</i>) \n \n</p>\n</div>",
     "title": "BINOCLE, ou TÉLESCOPE BINOCULAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BINOCLE,_ou_T%C3%89LESCOPE_BINOCULAIRE"
 }

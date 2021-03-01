@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-797",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4147-0/",
+    "item_id": "2-4157",
     "next": "2-4158",
     "pages": "797",
     "prev": "2-4156",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CEGINUS</i>, s. m. (<i>Astr.</i>) est une étoile fixe de\nla troisiéme grandeur, dans l’épaule gauche du Bouvier ; sa latitude est de 49<sup style=\"font-size:70%\">d</sup>, 33′, sa déclinaison de\n39<sup style=\"font-size:70%\">d</sup>, 27′. (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CEGINUS</i>, s. m. (<i>Astr.</i>) est une étoile fixe de\nla troisiéme grandeur, dans l’épaule gauche du Bouvier ; sa latitude est de 49<sup style=\"font-size:70%\">d</sup>, 33′, sa déclinaison de\n39<sup style=\"font-size:70%\">d</sup>, 27′. (<i>O</i>)\n \n</p>\n</div>",
     "title": "CEGINUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEGINUS"
 }

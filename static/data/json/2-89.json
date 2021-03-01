@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-11",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-95-0/",
+    "item_id": "2-89",
     "next": "2-90",
     "pages": "11",
     "prev": "2-88",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BADEBOU (<i>Géographie.</i>) petit pays d’Afrique, sur la côte de l’Océan, dans le pays des Negres, au nord de la riviere de Gambie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BADEBOU (<i>Géographie.</i>) petit pays d’Afrique, sur la côte de l’Océan, dans le pays des Negres, au nord de la riviere de Gambie. \n \n</p>\n</div>",
     "title": "BADEBOU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BADEBOU"
 }

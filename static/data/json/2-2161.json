@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-409",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2166-0/",
+    "item_id": "2-2161",
     "next": "2-2162",
     "pages": "409",
     "prev": "2-2160",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRECHKNOCK, (<i>Géog.</i>) ville d’Angleterre au\nmidi de la province de Galles, dans un petit pays\nappellé <i>Brecknockshire. Long. 14. 12. lat. 52. 8</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRECHKNOCK, (<i>Géog.</i>) ville d’Angleterre au\nmidi de la province de Galles, dans un petit pays\nappellé <i>Brecknockshire. Long. 14. 12. lat. 52. 8</i>.\n \n</p>\n</div>",
     "title": "BRECHKNOCK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRECHKNOCK"
 }

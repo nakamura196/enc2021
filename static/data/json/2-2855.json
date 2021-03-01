@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-515",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2856-0/",
+    "item_id": "2-2855",
     "next": "2-2856",
     "pages": "515",
     "prev": "2-2854",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADEQUIE <i>ou</i> CADAQUEZ, (<i>Géog.</i>) port \nd’Espagne, en Catalogne, sur la mer Méditerranée. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADEQUIE <i>ou</i> CADAQUEZ, (<i>Géog.</i>) port \nd’Espagne, en Catalogne, sur la mer Méditerranée. \n \n</p>\n</div>",
     "title": "CADEQUIE ou CADAQUEZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADEQUIE_ou_CADAQUEZ"
 }

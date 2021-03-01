@@ -2,7 +2,8 @@
     "authors": [
         "François-Vincent Toussaint"
     ],
-    "item_id": "2-140",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-627-0/",
+    "item_id": "2-630",
     "next": "2-631",
     "pages": "140",
     "prev": "2-629",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATARDISE, f. f. (<span class=\"sc\">droit de</span>) <i>terme de Jurispr.</i>\nest le droit qu’ont les souverains en France, &amp; en\ncertains cas les seigneurs haut-justiciers, de s’approprier \nla succession des bâtards morts sans enfans &amp;\nsans avoir disposé de leur bien par donation ou ordonnance \nde derniere volonté. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATARD\" title=\"L’Encyclopédie/1re édition/BATARD\"><span class=\"sc\">Batard</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATARDISE, f. f. (<span class=\"sc\">droit de</span>) <i>terme de Jurispr.</i>\nest le droit qu’ont les souverains en France, &amp; en\ncertains cas les seigneurs haut-justiciers, de s’approprier \nla succession des bâtards morts sans enfans &amp;\nsans avoir disposé de leur bien par donation ou<span type=\"proposed\"> ordonnance </span>\nde derniere volonté. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATARD\" title=\"L’Encyclopédie/1re édition/BATARD\"><span class=\"sc\">Batard</span></a>. (<i>H</i>)\n \n</p>\n</div>",
     "title": "BATARDISE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATARDISE"
 }

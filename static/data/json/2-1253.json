@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-247",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1250-0/",
+    "item_id": "2-1253",
     "next": "2-1254",
     "pages": "247",
     "prev": "2-1252",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIGE, s. m. (<i>Hist. anc.</i>) chariot à deux chevaux \nde front. Les Romains le nommoient <i><span class=\"lang-la\" lang=\"la\">bijuga</span></i>, \nparce que les deux chevaux y étoient unis par le \nmême joug. La course des chars à deux chevaux fut \nintroduite dans les jeux olympiques en la <span class=\"sc\">xciii</span>. \nolympiade ; mais l’invention en étoit beaucoup plus \nancienne : puisque dans l’Iliade les héros combattent \nsur ces sortes de chars. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIGE, s. m. (<i>Hist. anc.</i>) chariot à deux chevaux \nde front. Les Romains le nommoient <i><span class=\"lang-la\" lang=\"la\">bijuga</span></i>, \nparce que les deux chevaux y étoient unis par le \nmême joug. La course des chars à deux chevaux fut \nintroduite dans les jeux olympiques en la <span class=\"sc\">xciii</span>. \nolympiade ; mais l’invention en étoit beaucoup plus \nancienne : puisque dans l’Iliade les héros combattent \nsur ces sortes de chars. (<i>G</i>) \n \n</p>\n</div>",
     "title": "BIGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIGE"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2002-0/",
+    "item_id": "2-1994",
     "next": "2-1995",
     "pages": "380",
     "prev": "2-1993",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boutant</span>, adj. se joint, <i>en Architecture</i>, avec \nd’autres mots ; on dit, par exemple, <i>arc-boutant</i>, &amp; \nc’est un arc ou un soûtien qui sert à porter une \nvoûte, &amp; qui est lui-même soûtenu par quelque gros \nmur, ou par quelque gros pilier. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARC-BOUTANT\" title=\"L’Encyclopédie/1re édition/ARC-BOUTANT\"><span class=\"sc\">Arc-boutant</span></a>, \n<span class=\"sc\">soûtien</span>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/APPUI\" title=\"L’Encyclopédie/1re édition/APPUI\"><span class=\"sc\">appui</span></a>. Ce mot vient du vieux \nmot françois <i>bouter</i>.\n</p><p>Un <i>pilier boutant</i> est une grande chaîne de piliers de \npierre, faite pour supporter un mur, une terrasse ou \nune <i>voûte</i>. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Boutant</span>, adj. se joint, <i>en Architecture</i>, avec \nd’autres mots ; on dit, par exemple, <i>arc-boutant</i>, &amp; \nc’est un arc ou un soûtien qui sert à porter une \nvoûte, &amp; qui est lui-même soûtenu par quelque gros \nmur, ou par quelque gros pilier. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARC-BOUTANT\" title=\"L’Encyclopédie/1re édition/ARC-BOUTANT\"><span class=\"sc\">Arc-boutant</span></a>, \n<span class=\"sc\">soûtien</span>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/APPUI\" title=\"L’Encyclopédie/1re édition/APPUI\"><span class=\"sc\">appui</span></a>. Ce mot vient du vieux \nmot françois <i>bouter</i>.\n</p><p>Un <i>pilier boutant</i> est une grande chaîne de piliers de \npierre, faite pour supporter un mur, une terrasse ou \nune <i>voûte</i>. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BOUTANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTANT"
 }

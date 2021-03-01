@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-213",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1101-0/",
+    "item_id": "2-1105",
     "next": "2-1106",
     "pages": "213",
     "prev": "2-1104",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESSIERES, (<i>Géog.</i>) ville de France dans le bas \nLanguedoc, au diocese de Toulouse. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESSIERES, (<i>Géog.</i>) ville de France dans le bas \nLanguedoc, au diocese de Toulouse. \n \n</p>\n</div>",
     "title": "BESSIERES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BESSIERES"
 }

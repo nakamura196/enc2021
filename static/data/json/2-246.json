@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-48",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-253-0/",
+    "item_id": "2-246",
     "next": "2-247",
     "pages": "48",
     "prev": "2-245",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALLOTE, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur monopétale labiée, dont la levre supérieure est\ncreusée en forme de cuilliere, la levre inférieure est\ndivisée en trois parties ; celle du milieu est la plus\ngrande, sa figure approche de celle d’un cœur ; le\npistil sort du calice, il est attaché comme un clou\nà la partie postérieure de la fleur, &amp; il est environné\nde quatre embryons, qui deviennent autant de semences \noblongues, renfermées dans une capsule qui\na servi de calice à la fleur, &amp; qui est en forme de\ntuyau à cinq faces. Tournefort, <i>Inst. rei herb. Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALLOTE, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur monopétale labiée, dont la levre supérieure est\ncreusée en forme de cuilliere, la levre inférieure est\ndivisée en trois parties ; celle du milieu est la plus\ngrande, sa figure approche de celle d’un cœur ; le\npistil sort du calice, il est attaché comme un clou\nà la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; il est environné\nde quatre embryons, qui deviennent autant de semences \noblongues, renfermées dans une capsule qui\na servi de calice à la fleur, &amp; qui est en forme de\ntuyau à cinq faces. <span type=\"auteur_p\">Tournefort</span>, <i>Inst. rei herb. <span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALLOTE, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur monopétale labiée, dont la levre supérieure est\ncreusée en forme de cuilliere, la levre inférieure est\ndivisée en trois parties ; celle du milieu est la plus\ngrande, sa figure approche de celle d’un cœur ; le\npistil sort du calice, il est attaché comme un clou\nà la<span type=\"proposed\"> partie </span>postérieure de la fleur, &amp; il est environné\nde quatre embryons, qui deviennent autant de semences \noblongues, renfermées dans une capsule qui\na servi de calice à la fleur, &amp; qui est en forme de\ntuyau à cinq faces. Tournefort, <i>Inst. rei herb. <span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BALLOTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALLOTE"
 }

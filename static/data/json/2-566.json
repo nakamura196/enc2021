@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-118",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-577-0/",
+    "item_id": "2-566",
     "next": "2-567",
     "pages": "118",
     "prev": "2-565",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASS, (<i>Géog.</i>) petite île d’Ecosse, dans le golfe \nd’Edimbourg. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASS, (<i>Géog.</i>) petite île d’Ecosse, dans le golfe \nd’Edimbourg. \n \n</p>\n</div>",
     "title": "BASS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASS"
 }

@@ -2,14 +2,15 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-780",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4009-0/",
+    "item_id": "2-4020",
     "next": "2-4021",
     "pages": "780",
     "prev": "2-4019",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATOTÉRIQUES, adj. (<i>Med.</i>) c’est ainsi qu’on appelle les remedes évacuans, destinés à purger les reins, le foie, la vessie : tels sont le sirop de pomme composé, &amp; le sirop de rose pâle. Lemery, <i>Pharmacop</i>. (<i>N</i>) \n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATOTÉRIQUES, adj. (<i>Med.</i>) c’est ainsi qu’on appelle les remedes évacuans, destinés à purger les reins, le foie, la vessie : tels sont le sirop de pomme composé, &amp; le sirop de rose pâle. <span type=\"auteur_p\">Lemery</span>, <i>Pharmacop</i>. (<i>N</i>) \n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATOTÉRIQUES, adj. (<i>Med.</i>) c’est ainsi qu’on appelle les remedes évacuans, destinés à purger les reins, le foie, la vessie : tels sont le sirop de pomme composé, &amp; le sirop de rose pâle. Lemery, <i>Pharmacop</i>. (<i>N</i>) \n \n</p>\n</div>",
     "title": "CATOTÉRIQUES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATOT%C3%89RIQUES"
 }

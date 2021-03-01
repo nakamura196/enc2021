@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-209",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1047-0/",
+    "item_id": "2-1051",
     "next": "2-1052",
     "pages": "209",
     "prev": "2-1050",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERLINE, s. f. (<i>Sellier-Carrossier.</i>) espece de voiture \nde la nature des carrosses, fort en usage depuis\npeu, &amp; tirant son nom de la ville de Berlin en Allemagne, \nquoique certaines personnes en attribuent\nl’invention aux Italiens, &amp; prétendent en trouver l’étymologie \ndans <i><span class=\"lang-it\" lang=\"it\">berlina</span></i>, nom que ceux-ci donnent à\nune espece de théatre sur lequel on fait subir à des\ncoupables une ignominie publique. La <i>berline</i> est une\nallure très-commode en voyage ; elle est plus légere\nqu’un char, &amp; moins sujette à verser. Le corps en est\nélevé sur des fleches, &amp; suspendu par des bandes de\ncuir ; elle a une espece d’étriers <span class=\"coquille\" title=\"on\">ou</span> de marchepié pour\ny entrer ; &amp; au lieu de portieres, des paravents que\nl’on baisse lorsque le tems est mauvais, &amp; que l’on\néleve lorsqu’il fait beau. <i>Voyez les Pl. du Sellier</i>. Il\ny a des <i>berlines</i> à un &amp; à deux fonds.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BERLINE, s. f. (<i>Sellier-Carrossier.</i>) espece de voiture \nde la nature des carrosses, fort en usage depuis\npeu, &amp; tirant son nom de la ville de Berlin en Allemagne, \nquoique certaines personnes en attribuent\nl’invention aux Italiens, &amp; prétendent en trouver l’étymologie \ndans <i><span class=\"lang-it\" lang=\"it\">berlina</span></i>, nom que ceux-ci donnent à\nune espece de théatre sur lequel on fait subir à des\ncoupables une ignominie publique. La <i>berline</i> est une\nallure très-commode en voyage ; elle est plus légere\nqu’un char, &amp; moins sujette à verser. Le corps en est\nélevé sur des fleches, &amp; suspendu par des bandes de\ncuir ; elle a une espece d’étriers <span class=\"coquille\" title=\"on\">ou</span> de marchepié pour\ny entrer ; &amp; au lieu de portieres, des paravents que\nl’on baisse lorsque le tems est mauvais, &amp; que l’on\néleve lorsqu’il fait beau. <i><span type=\"bold\">Voyez</span> les Pl. du Sellier</i>. Il\ny a des <i>berlines</i> à un &amp; à deux fonds.\n \n</p>\n</div>",
     "title": "BERLINE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERLINE"
 }

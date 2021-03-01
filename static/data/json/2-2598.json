@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-464",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2601-0/",
+    "item_id": "2-2598",
     "next": "2-2599",
     "pages": "464",
     "prev": "2-2597",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLOS <i>ou</i> BOL, (<i>Géog.</i>) petite ville avec un \nchâteau en Suisse, au canton de Fribourg. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLOS <i>ou</i> BOL, (<i>Géog.</i>) petite ville avec un \nchâteau en Suisse, au canton de Fribourg. \n \n</p>\n</div>",
     "title": "BULLOS ou BOL",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BULLOS_ou_BOL"
 }

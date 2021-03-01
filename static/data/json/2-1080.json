@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-212",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1076-0/",
+    "item_id": "2-1080",
     "next": "2-1081",
     "pages": "212",
     "prev": "2-1079",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERS, (<i>Pharmacie.</i>) électuaire des Egyptiens,\nqui leur excitoit un délire gai &amp; momentanée.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BERS, (<i>Pharmacie.</i>) électuaire des Egyptiens,\nqui leur excitoit un délire gai &amp; momentanée.\n \n</p>\n</div>",
     "title": "BERS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BERS"
 }

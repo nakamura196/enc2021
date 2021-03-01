@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-76",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-469-0/",
+    "item_id": "2-458",
     "next": "2-459",
     "pages": "76",
     "prev": "2-457",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARLETTE (<i>Géog.</i>) ville d’Italie, au royaume \nde Naples, dans la terre de Bari, sur le golfe de\nVenise. <i>Long. 34. 2. lat. 41. 30</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARLETTE (<i>Géog.</i>) ville d’Italie, au royaume \nde Naples, dans la terre de Bari, sur le golfe de\nVenise. <i>Long. 34. 2. lat. 41. 30</i>.\n \n</p>\n</div>",
     "title": "BARLETTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARLETTE"
 }

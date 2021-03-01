@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-120",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-580-8/",
+    "item_id": "2-575",
     "next": "2-576",
     "pages": "120",
     "prev": "2-574",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basse de violon</span>, instrument de Musique en\ntout semblable au violon, à l’exception des oüies,\nqui sont en <i>C</i>, au lieu qu’au violon elles sont en <i>S</i>,\n&amp; en ce qu’il est beaucoup plus grand, &amp; qu’on le\ntient entre ses jambes pour en joüer. On le construit\nsur le moule représenté <i>fig. 2. Pl. XII. de Lutherie.  Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLON\" title=\"L’Encyclopédie/1re édition/VIOLON\"><span class=\"sc\">Violon</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLE\" title=\"L’Encyclopédie/1re édition/VIOLE\"><span class=\"sc\">Viole</span></a>.\n</p><p>Cet instrument sonne l’octave au-dessous de la\nquinte de violon &amp; la douzieme au-dessous du violon,\n&amp; l’unisson des basses du clavecin depuis le <i>c sol  ut</i> double octave au-dessous de celui de la clé de <i>c  sol ut</i> ou l’unisson du huit pié ouvert. <i>Voyez la table du  rapport de l’étendue des instrumens de Musique</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basse de violon</span>, instrument de Musique en\ntout semblable au violon, à l’exception des oüies,\nqui sont en <i>C</i>, au lieu qu’au violon elles sont en <i>S</i>,\n&amp; en ce qu’il est beaucoup plus grand, &amp; qu’on le\ntient entre ses jambes pour en joüer. On le construit\nsur le moule représenté <i>fig. 2. Pl. XII. de Lutherie.  <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLON\" title=\"L’Encyclopédie/1re édition/VIOLON\"><span class=\"sc\">Violon</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VIOLE\" title=\"L’Encyclopédie/1re édition/VIOLE\"><span class=\"sc\">Viole</span></a>.\n</p><p>Cet instrument sonne l’octave au-dessous de la\nquinte de violon &amp; la douzieme au-dessous du violon,\n&amp; l’unisson des basses du clavecin depuis le <i>c sol  ut</i> double octave au-dessous de celui de la clé de <i>c  sol ut</i> ou l’unisson du huit pié ouvert. <i><span type=\"bold\">Voyez</span> la table du  rapport de l’étendue des instrumens de Musique</i>.\n \n</p>\n</div>",
     "title": "BASSE DE VIOLON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASSE_DE_VIOLON"
 }

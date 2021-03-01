@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-189",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-808-0/",
+    "item_id": "2-812",
     "next": "2-813",
     "pages": "189",
     "prev": "2-811",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEDEGUAR, (<i>Hist. nat. &amp; mat. med.</i>) nom \nque quelques auteurs qui ont écrit de la matiere médicale, \nont donné aux excroissances spongieuses du \nlaurier sauvage. On dit que les cendres du <i>bedeguar</i> \nsont bonnes dans la gravelle &amp; dans la dysurie, &amp; \nqu’elles font dormir, si on en tient sous l’oreiller. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEDEGUAR, (<i>Hist. nat. &amp; mat. med.</i>) nom \nque quelques auteurs qui ont écrit de la matiere médicale, \nont donné aux excroissances spongieuses du \nlaurier sauvage. On dit que les cendres du <i>bedeguar</i> \nsont bonnes dans la gravelle &amp; dans la dysurie, &amp; \nqu’elles font dormir, si on en tient sous l’oreiller. \n \n</p>\n</div>",
     "title": "BEDEGUAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEDEGUAR"
 }

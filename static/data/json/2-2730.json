@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-475",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2730-0/",
+    "item_id": "2-2730",
     "next": "2-2731",
     "pages": "475",
     "prev": "2-2729",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAAPEBA, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur en rose, composée de quatre pétales disposés\nen rond, &amp; stérile. Il s’éleve du milieu un pistil applati,\nrond, &amp; marqué d’un ombilic. Il y a sur la\nmême plante des embryons séparés des fleurs, qui\ndeviennent dans la suite une baie molle &amp; sphérique,\nqui renferme une semence ridée. Plumier,\n<i>Nova plant. Amer. gener. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAAPEBA, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur en rose, composée de quatre pétales disposés\nen rond, &amp; stérile. Il s’éleve du milieu un pistil applati,\nrond, &amp; marqué d’un ombilic. Il y a sur la\nmême plante des embryons séparés des fleurs, qui\ndeviennent dans la suite une baie molle &amp; sphérique,\nqui renferme une semence ridée. <span type=\"auteur_p\">Plumier</span>,\n<i>Nova plant. Amer. gener. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAAPEBA, (<i>Hist. nat. bot.</i>) genre de plante à\nfleur en rose, composée de quatre pétales disposés\nen rond, &amp; stérile. Il s’éleve du milieu un pistil applati,\nrond, &amp; marqué d’un ombilic. Il y a sur la\nmême plante des embryons séparés des fleurs, qui\ndeviennent dans la suite une baie molle &amp; sphérique,\nqui renferme une semence ridée. Plumier,\n<i>Nova plant. Amer. gener. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "CAAPEBA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAAPEBA"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-561",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3074-0/",
+    "item_id": "2-3073",
     "next": "2-3074",
     "pages": "561",
     "prev": "2-3072",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLAIS, s. f. (<i>Hist. nat. Lith.</i>) pierre qui imite le saphyr, excepté que sa couleur est plus claire, &amp; ressemble à celle de l’eau de mer : on la trouve, à ce qu’il dit, dans les rochers escarpés &amp; couverts de glace ; qu’elle a la forme de l’ail, &amp; qu’elle y adhere légerement. Il paroît, ajoûte de Boot, que c’est l’aigue marine des modernes. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AIGUE-MARINE\" title=\"L’Encyclopédie/1re édition/AIGUE-MARINE\"><span class=\"sc\">Aigue marine</span></a>. Mais ce n’est pas l’avis de de Laet, qui dit que c’est la turquoise. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLAIS, s. f. (<i>Hist. nat. Lith.</i>) pierre qui imite le saphyr, excepté que sa couleur est plus claire, &amp; ressemble à celle de l’eau de mer : on la trouve, à ce qu’il dit, dans les rochers escarpés &amp; couverts de glace ; qu’elle a la forme de l’ail, &amp; qu’elle y adhere légerement. Il paroît, ajoûte de Boot, que c’est l’aigue marine des modernes. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/AIGUE-MARINE\" title=\"L’Encyclopédie/1re édition/AIGUE-MARINE\"><span class=\"sc\">Aigue marine</span></a>. Mais ce n’est pas l’avis de de Laet, qui dit que c’est la turquoise. \n \n</p>\n</div>",
     "title": "CALLAIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALLAIS"
 }

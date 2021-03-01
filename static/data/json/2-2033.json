@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-388",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2037-0/",
+    "item_id": "2-2033",
     "next": "2-2034",
     "pages": "388",
     "prev": "2-2032",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOXBERG, (<i>Géog.</i>) petite ville &amp; château en \nFranconie, près de la ville de Landa.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOXBERG, (<i>Géog.</i>) petite ville &amp; château en \nFranconie, près de la ville de Landa.\n \n</p>\n</div>",
     "title": "BOXBERG",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOXBERG"
 }

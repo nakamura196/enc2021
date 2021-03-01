@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-335",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1774-0/",
+    "item_id": "2-1775",
     "next": "2-1776",
     "pages": "335",
     "prev": "2-1774",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORMIO, (<i>Géog.</i>) ville agréable &amp; bien peuplée,\nau pays des Grisons ; c’est la capitale du comté\nde ce nom, elle est située au confluent de l’Adda &amp;\nde l’Issollaccia. <i>Long. 27. 45. lat. 26. 45</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORMIO, (<i>Géog.</i>) ville agréable &amp; bien peuplée,\nau pays des Grisons ; c’est la capitale du comté\nde ce nom, elle est située au confluent de l’Adda &amp;\nde l’Issollaccia. <i>Long. 27. 45. lat. 26. 45</i>.\n \n</p>\n</div>",
     "title": "BORMIO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORMIO"
 }

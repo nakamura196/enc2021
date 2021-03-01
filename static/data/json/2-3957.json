@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-765",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3945-0/",
+    "item_id": "2-3957",
     "next": "2-3958",
     "pages": "765",
     "prev": "2-3956",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATANE <i>ou</i> CATANÉE, (<i>Géog.</i>) ville de Sicile, sur un golfe de même nom, dans une vallée\nqui s’appelle <i>vallée de Catane</i>. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATANE <i>ou</i> CATANÉE, (<i>Géog.</i>) ville de Sicile, sur un golfe de même nom, dans une vallée\nqui s’appelle <i>vallée de Catane</i>. \n</p>\n</div>",
     "title": "CATANE ou CATANÉE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATANE_ou_CATAN%C3%89E"
 }

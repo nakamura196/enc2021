@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-568",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3142-0/",
+    "item_id": "2-3140",
     "next": "2-3141",
     "pages": "568",
     "prev": "2-3139",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAMARIN-BAS <i>ou</i> UMARI, (<i>Hist. nat. bot.</i>)\narbre qui s’éleve à une hauteur moyenne, &amp; porte\nde petites fleurs jaunes, suivies d’un fruit ovale semblable \nà la prune, de la saveur de la pêche, &amp; d’un\nverd tirant sur le jaune pâle : la pulpe en est petite,\ndouce, jaune, &amp; contient un noyau large, ovale,\nblanc, dont l’amande est bonne à manger. Le fruit\nest mûr, &amp; tombe en Mars.\n</p><p>On lui attribue plusieurs propriétés medicinales.\nOn le trouve dans les environs de Riogrande.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAMARIN-BAS <i>ou</i> UMARI, (<i>Hist. nat. bot.</i>)\narbre qui s’éleve à une hauteur moyenne, &amp; porte\nde petites fleurs jaunes, suivies d’un fruit ovale semblable \nà la prune, de la saveur de la pêche, &amp; d’un\nverd tirant sur le jaune pâle : la pulpe en est petite,\ndouce, jaune, &amp; contient un noyau large, ovale,\nblanc, dont l’amande est bonne à manger. Le fruit\nest mûr, &amp; tombe en Mars.\n</p><p>On lui attribue plusieurs propriétés medicinales.\nOn le trouve dans les environs de Riogrande.\n \n</p>\n</div>",
     "title": "CAMARIN-BAS ou UMARI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMARIN-BAS_ou_UMARI"
 }

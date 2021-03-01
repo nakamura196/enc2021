@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-362",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1919-0/",
+    "item_id": "2-1912",
     "next": "2-1913",
     "pages": "362-363",
     "prev": "2-1911",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULEROT NOIR, <i>gobio niger</i>, (<i>Hist. nat. Ichthyologie.</i>) \npoisson de mer de la grandeur du doigt ;\nson corps est rond &amp; noir principalement sur le devant ; \nil n’a qu’une nageoire au-dessous des oüies, <span><span class=\"pagenum ws-pagenum\" id=\"363\" title=\"Page:Diderot - Encyclopedie 1ere edition tome 2.djvu/367\"></span></span>qui ressemble en quelque sorte à une barbe noire ;\nc’est pourquoi Rondelet présume que ce poisson est\ncelui à qui Athenée a donné le nom de <i>bouc</i>. Le <i>boulerot  noir</i> vit sur les rivages. <i>Rondelet. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GOUJON\" title=\"L’Encyclopédie/1re édition/GOUJON\"><span class=\"sc\">Goujon</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULEROT NOIR, <i>gobio niger</i>, (<i>Hist. nat. Ichthyologie.</i>) \npoisson de mer de la grandeur du doigt ;\nson corps est rond &amp; noir principalement sur le devant ; \nil n’a qu’une nageoire au-dessous des oüies, <span><span class=\"pagenum ws-pagenum\" id=\"363\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/367\"></span></span>qui ressemble en quelque sorte à une barbe noire ;\nc’est pourquoi <span type=\"auteur_p\">Rondelet</span> présume que ce poisson est\ncelui à qui Athenée a donné le nom de <i>bouc</i>. Le <i>boulerot  noir</i> vit sur les rivages. <i>Rondelet. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GOUJON\" title=\"L’Encyclopédie/1re édition/GOUJON\"><span class=\"sc\">Goujon</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOULEROT NOIR, <i>gobio niger</i>, (<i>Hist. nat. Ichthyologie.</i>) \npoisson de mer de la grandeur du doigt ;\nson corps est rond &amp; noir principalement sur le devant ; \nil n’a qu’une nageoire au-dessous des oüies, <span><span class=\"pagenum ws-pagenum\" id=\"363\" title=\"Page:Diderot - Encyclopedie 1ere edition tom. 2.djvu/367\"></span></span>qui ressemble en quelque sorte à une barbe noire ;\nc’est pourquoi Rondelet présume que ce poisson est\ncelui à qui Athenée a donné le nom de <i>bouc</i>. Le <i>boulerot  noir</i> vit sur les rivages. <i>Rondelet. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GOUJON\" title=\"L’Encyclopédie/1re édition/GOUJON\"><span class=\"sc\">Goujon</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/POISSON\" title=\"L’Encyclopédie/1re édition/POISSON\"><span class=\"sc\">Poisson</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "BOULEROT NOIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOULEROT_NOIR"
 }

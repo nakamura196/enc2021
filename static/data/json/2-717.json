@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-166",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-714-0/",
+    "item_id": "2-717",
     "next": "2-718",
     "pages": "166",
     "prev": "2-716",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"sc\">Baunach</span>, (<i>Géog.</i>) riviere de Franconie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"sc\">Baunach</span>, (<i>Géog.</i>) riviere de Franconie.\n \n</p>\n</div>",
     "title": "BAUNACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAUNACH"
 }

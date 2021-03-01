@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-380",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2005-0/",
+    "item_id": "2-1997",
     "next": "2-1998",
     "pages": "380",
     "prev": "2-1996",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTÉ, adj. (<i>cheval bouté</i>) est celui qui a les\njambes droites depuis le genou jusqu’à la couronne ;\nce qui arrive souvent aux chevaux court-jointés.\nCheval <i>long jointé</i> est le contraire de <i>bouté</i>. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUTÉ, adj. (<i>cheval bouté</i>) est celui qui a les\njambes droites depuis le genou jusqu’à la couronne ;\nce qui arrive souvent aux chevaux court-jointés.\nCheval <i>long jointé</i> est le contraire de <i>bouté</i>. (<i>V</i>)\n \n</p>\n</div>",
     "title": "BOUTÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUT%C3%89"
 }

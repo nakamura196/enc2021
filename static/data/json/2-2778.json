@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-494",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2778-0/",
+    "item_id": "2-2778",
     "next": "2-2779",
     "pages": "494",
     "prev": "2-2777",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOCHÉ, adj. <i>terme de Blason</i>, se dit d’une tête\nd’animal coupée derriere les oreilles par une section\nparallele à la face, ou par une section perpendiculaire ; \nau lieu qu’on diroit <i>coupé</i>, si la section étoit\nfaite horisontalement. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABOCHÉ, adj. <i>terme de Blason</i>, se dit d’une tête\nd’animal coupée derriere les oreilles par une section\nparallele à la face, ou par une section perpendiculaire ; \nau lieu qu’on diroit <i>coupé</i>, si la section étoit\nfaite horisontalement. (<i>V</i>)\n \n</p>\n</div>",
     "title": "CABOCHÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABOCH%C3%89"
 }

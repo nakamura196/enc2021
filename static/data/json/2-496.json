@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-96",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-507-0/",
+    "item_id": "2-496",
     "next": "2-497",
     "pages": "96",
     "prev": "2-495",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRILLARD, s. m. (<i>Marine.</i>) c’est ainsi qu’on\nappelle sur les galeres l’officier qui a soin du vin &amp;\nde l’eau.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BARRILLARD, s. m. (<i>Marine.</i>) c’est ainsi qu’on\nappelle sur les galeres l’officier qui a soin du vin &amp;\nde l’eau.\n \n</p>\n</div>",
     "title": "BARRILLARD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARRILLARD"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2744-0/",
+    "item_id": "2-2744",
     "next": "2-2745",
     "pages": "487",
     "prev": "2-2743",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAR-HUD, (<i>Géog.</i>) ville de l’Arabie heureuse \ndans la province de Hadhramuth.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAR-HUD, (<i>Géog.</i>) ville de l’Arabie heureuse \ndans la province de Hadhramuth.\n \n</p>\n</div>",
     "title": "CABAR-HUD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABAR-HUD"
 }

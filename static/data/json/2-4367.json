@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-870",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4357-0/",
+    "item_id": "2-4367",
     "next": "2-4368",
     "pages": "870",
     "prev": "2-4366",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEU, (<i>Géog.</i>) ville de la Chine, dans la province de Chanton ou Xantung. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEU, (<i>Géog.</i>) ville de la Chine, dans la province de Chanton ou Xantung. \n \n</p>\n</div>",
     "title": "CEU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEU"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-472",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2718-0/",
+    "item_id": "2-2715",
     "next": "2-2716",
     "pages": "472",
     "prev": "2-2714",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYTTE, (<i>Géog.</i>) île de la mer d’Allemagne, près\nde celle de Falster.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYTTE, (<i>Géog.</i>) île de la mer d’Allemagne, près\nde celle de Falster.\n \n</p>\n</div>",
     "title": "BYTTE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BYTTE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-267",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1419-0/",
+    "item_id": "2-1422",
     "next": "2-1423",
     "pages": "267",
     "prev": "2-1421",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BITORD, s. m. menue corde de deux fils. <i>Voyez  l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDERIE\" title=\"L’Encyclopédie/1re édition/CORDERIE\"><span class=\"sc\">Corderie</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BITORD, s. m. menue corde de deux fils. <i><span type=\"bold\">Voyez</span>  l’article</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDERIE\" title=\"L’Encyclopédie/1re édition/CORDERIE\"><span class=\"sc\">Corderie</span></a>.\n \n</p>\n</div>",
     "title": "BITORD",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BITORD"
 }

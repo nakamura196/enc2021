@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-220",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1144-0/",
+    "item_id": "2-1148",
     "next": "2-1149",
     "pages": "220",
     "prev": "2-1147",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEZET, <i>au jeu du Trictrac</i>, est la même chose que\ndeux as.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEZET, <i>au jeu du Trictrac</i>, est la même chose que\ndeux as.\n \n</p>\n</div>",
     "title": "BEZET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEZET"
 }

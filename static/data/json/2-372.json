@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-68",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-380-0/",
+    "item_id": "2-372",
     "next": "2-373",
     "pages": "68",
     "prev": "2-371",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBARCA, (<i>Hist. nat. bot.</i>) plante qui pousse \nplusieurs tiges à la hauteur d’un pié &amp; demi, branchues, \ncreuses, plus petites que celles de la rave, \n&amp; ayant quelque ressemblance à celles du cresson, \nvertes, noirâtres &amp; luisantes ; ses fleurs sont petites, \njaunes, à quatre feuilles disposées en croix. Il leur \nsuccede de petites gousses tendres, rondes &amp; longues, \nqui contiennent des semences rougeâtres : sa \nracine est oblongue, mediocrement grosse, &amp; d’un \ngoût acre. Elle croît dans les champs, &amp; on la cultive \ndans les potagers.\n</p><p>Elle contient du sel essentiel &amp; de l’huile ; elle est \ndétersive &amp; vulnéraire ; elle excite l’urine ; elle est \nsalutaire dans le scorbut, les maladies de la rate &amp; la \nnéphrétique. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBARCA, (<i>Hist. nat. bot.</i>) plante qui pousse \nplusieurs tiges à la hauteur d’un pié &amp; demi, branchues, \ncreuses, plus petites que celles de la rave, \n&amp; ayant quelque ressemblance à celles du cresson, \nvertes, noirâtres &amp; luisantes ; ses fleurs sont petites, \njaunes, à quatre feuilles disposées en croix. Il leur \nsuccede de petites gousses tendres, rondes &amp; longues, \nqui contiennent des semences rougeâtres : sa \nracine est oblongue, mediocrement grosse, &amp; d’un \ngoût acre. Elle croît dans les champs, &amp; on la cultive \ndans les potagers.\n</p><p>Elle contient du sel essentiel &amp; de l’huile ; elle est \ndétersive &amp; vulnéraire ; elle excite l’urine ; elle est \nsalutaire dans le scorbut, les maladies de la rate &amp; la \nnéphrétique. \n \n</p>\n</div>",
     "title": "BARBARCA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBARCA"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-370",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1964-0/",
+    "item_id": "2-1957",
     "next": "2-1958",
     "pages": "370",
     "prev": "2-1956",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGEON <i>ou</i> BOUTON, s. m. (<i>Jardin.</i>) c’est\nune éminence qu’on remarque aux branches des arbres,\nou un œil animé qui produit dans la suite une\njeune branche ; les feuilles y sont arrangées &amp; couchées \navec beaucoup d’industrie. (<i>K</i>)\n</p><p>Il paroît que le terme de <i>bourgeon</i> s’employe mieux\npour la vigne, le verjus, le chasselas, le muscat.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTON\" title=\"L’Encyclopédie/1re édition/BOUTON\"><span class=\"sc\">Bouton</span></a>. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURGEON <i>ou</i> BOUTON, s. m. (<i>Jardin.</i>) c’est\nune éminence qu’on remarque aux branches des arbres,\nou un œil animé qui produit dans la suite une\njeune branche ; les feuilles y sont arrangées &amp; couchées \navec beaucoup d’industrie. (<i>K</i>)\n</p><p>Il paroît que le terme de <i>bourgeon</i> s’employe mieux\npour la vigne, le verjus, le chasselas, le muscat.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUTON\" title=\"L’Encyclopédie/1re édition/BOUTON\"><span class=\"sc\">Bouton</span></a>. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BOURGEON ou BOUTON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURGEON_ou_BOUTON"
 }

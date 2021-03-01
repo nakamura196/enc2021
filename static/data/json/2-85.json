@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-11",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-88-0/",
+    "item_id": "2-85",
     "next": "2-86",
     "pages": "11",
     "prev": "2-84",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BADAI (<i>Géographie &amp; Histoire.</i>) peuples de la Tartarie déserte, qui adoroient le soleil, ou un morceau de drap rouge élevé en l’air, qui en étoit apparemment la banniere ou le symbole. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BADAI (<i>Géographie &amp; Histoire.</i>) peuples de la Tartarie déserte, qui adoroient le soleil, ou un morceau de drap rouge élevé en l’air, qui en étoit apparemment la banniere ou le symbole. \n \n</p>\n</div>",
     "title": "BADAI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BADAI"
 }

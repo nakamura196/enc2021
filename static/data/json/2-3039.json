@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-555",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3040-0/",
+    "item_id": "2-3039",
     "next": "2-3040",
     "pages": "555",
     "prev": "2-3038",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALENTER, s. m. (<i>Hist. mod.</i>) les Perses nomment \nainsi le thrésorier &amp; receveur des finances d’une\nprovince ; il a la direction du domaine, fait la recette \ndes deniers, &amp; en rend compte au conseil, ou\nau chan de la province. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHAM,_ou_CHAN,_ou_KAN\" title=\"L’Encyclopédie/1re édition/CHAM, ou CHAN, ou KAN\"><span class=\"sc\">Chan</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALENTER, s. m. (<i>Hist. mod.</i>) les Perses nomment \nainsi le thrésorier &amp; receveur des finances d’une\nprovince ; il a la direction du domaine, fait la recette \ndes deniers, &amp; en rend compte au conseil, ou\nau chan de la province. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHAM,_ou_CHAN,_ou_KAN\" title=\"L’Encyclopédie/1re édition/CHAM, ou CHAN, ou KAN\"><span class=\"sc\">Chan</span></a>.\n \n</p>\n</div>",
     "title": "CALENTER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALENTER"
 }

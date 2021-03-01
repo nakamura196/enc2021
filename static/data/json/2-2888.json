@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-527",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2889-0/",
+    "item_id": "2-2888",
     "next": "2-2889",
     "pages": "527",
     "prev": "2-2887",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAERNARVAN, (<i>Géog.</i>) ville d’Angleterre,\ndans le pays de Galles, sur le Menay, capitale du\nCaernarvanshire.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAERNARVAN, (<i>Géog.</i>) ville d’Angleterre,\ndans le pays de Galles, sur le Menay, capitale du\nCaernarvanshire.\n \n</p>\n</div>",
     "title": "CAERNARVAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAERNARVAN"
 }

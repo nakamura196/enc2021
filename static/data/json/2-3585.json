@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-675",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3587-0/",
+    "item_id": "2-3585",
     "next": "2-3586",
     "pages": "675",
     "prev": "2-3584",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARCASSEZ (<span class=\"sc\">le</span>) <i>Géog.</i> petit pays de France, au bas Languedoc, dont Carcassone est la capitale. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARCASSEZ (<span class=\"sc\">le</span>) <i>Géog.</i> petit pays de France, au bas Languedoc, dont Carcassone est la capitale. \n \n</p>\n</div>",
     "title": "CARCASSEZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARCASSEZ"
 }

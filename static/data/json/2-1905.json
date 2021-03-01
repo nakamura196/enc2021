@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-358",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1911-0/",
+    "item_id": "2-1905",
     "next": "2-1906",
     "pages": "358",
     "prev": "2-1904",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVINO, (<i>Géog.</i>) petite ville d’Italie au royaume \nde Naples dans la Capitanate, proche les monts\nApennins, avec évêché.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVINO, (<i>Géog.</i>) petite ville d’Italie au royaume \nde Naples dans la Capitanate, proche les monts\nApennins, avec évêché.\n \n</p>\n</div>",
     "title": "BOVINO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOVINO"
 }

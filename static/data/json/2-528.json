@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-François Blondel"
     ],
-    "item_id": "2-114",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-538-0/",
+    "item_id": "2-528",
     "next": "2-529",
     "pages": "114",
     "prev": "2-527",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAS-RELIEF, s. m. (<i>en Architecture.</i>) ouvrage de\nsculpture qui a peu de saillie, &amp; qui est attaché sur\nun fonds ; on y représente des histoires, des ornemens,\ndes rinceaux de feuillages, comme on en voit\ndans les frises, &amp; lorsque dans les <i>bas-reliefs</i> il y a des\nparties saillantes &amp; détachées, on les nomme <i>demi-bosses.  Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SCULPTURE\" title=\"L’Encyclopédie/1re édition/SCULPTURE\"><span class=\"sc\">Sculpture</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BAS-RELIEF, s. m. (<i>en Architecture.</i>) ouvrage de\nsculpture qui a peu de saillie, &amp; qui est attaché sur\nun fonds ; on y représente des histoires, des ornemens,\ndes rinceaux de feuillages, comme on en voit\ndans les frises, &amp; lorsque dans les <i>bas-reliefs</i> il y a des\nparties saillantes &amp; détachées, on les nomme <i>demi-bosses.  <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SCULPTURE\" title=\"L’Encyclopédie/1re édition/SCULPTURE\"><span class=\"sc\">Sculpture</span></a>. (<i>P</i>)\n \n</p>\n</div>",
     "title": "BAS-RELIEF",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAS-RELIEF"
 }

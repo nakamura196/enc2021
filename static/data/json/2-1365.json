@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1362-0/",
+    "item_id": "2-1365",
     "next": "2-1366",
     "pages": "260",
     "prev": "2-1364",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCARA, (<i>Géog.</i>) ville d’Afrique au royaume\nd’Alger, dans la province de Labez. <i>Long. 23. 20.  lat. 35. 10</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCARA, (<i>Géog.</i>) ville d’Afrique au royaume\nd’Alger, dans la province de Labez. <i>Long. 23. 20.  lat. 35. 10</i>.\n \n</p>\n</div>",
     "title": "BISCARA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISCARA"
 }

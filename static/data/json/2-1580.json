@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-291",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1578-0/",
+    "item_id": "2-1580",
     "next": "2-1581",
     "pages": "291",
     "prev": "2-1579",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOESJES, s. f. pl. (<i>Comm. &amp; Hist. mod.</i>) coquilles \nde mer qui servent de monnoie parmi les habitans \nde la basse Ethiopie.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOESJES, s. f. pl. (<i>Comm. &amp; <span type=\"proposed\">Hist.</span> mod.</i>) coquilles \nde mer qui servent de monnoie parmi les habitans \nde la basse Ethiopie.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOESJES, s. f. pl. (<i>Comm. &amp; Hist. mod.</i>) coquilles \nde mer qui servent de monnoie parmi les habitans \nde la basse Ethiopie.\n \n</p>\n</div>",
     "title": "BOESJES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOESJES"
 }

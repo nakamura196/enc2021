@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-5",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-42-0/",
+    "item_id": "2-40",
     "next": "2-41",
     "pages": "5",
     "prev": "2-39",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACA, <i>ou</i> BAZA, (<i>Géog.</i>) ville d’Espagne, au\nroyaume de Grenade. <i>Long. 15. 34. lat. 37. 18</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BACA, <i>ou</i> BAZA, (<i>Géog.</i>) ville d’Espagne, au\nroyaume de Grenade. <i>Long. 15. 34. lat. 37. 18</i>.\n \n</p>\n</div>",
     "title": "BACA, ou BAZA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACA,_ou_BAZA"
 }

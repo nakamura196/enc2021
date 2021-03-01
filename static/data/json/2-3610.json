@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-682",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3613-0/",
+    "item_id": "2-3610",
     "next": "2-3611",
     "pages": "682",
     "prev": "2-3609",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARDINAUX, s. m. pl. <i>en terme de Drapier &amp; de Tondeur</i>, c’est une espece de petites cardes de fer,\nremplies par le pié, &amp; dont il n’y a que l’extrémité\ndes pointes qui paroisse ; on s’en sert pour ranger le\npoil &amp; le coucher dans la tonte. <i>Voyez l’article &amp; les figures de la Draperie</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARDINAUX, s. m. pl. <i>en terme de Drapier &amp; de Tondeur</i>, c’est une espece de petites cardes de fer,\nremplies par le pié, &amp; dont il n’y a que l’extrémité\ndes pointes qui paroisse ; on s’en sert pour ranger le\npoil &amp; le coucher dans la tonte. <i><span type=\"bold\">Voyez</span> l’article &amp; les figures de la Draperie</i>.\n \n</p>\n</div>",
     "title": "CARDINAUX",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARDINAUX"
 }

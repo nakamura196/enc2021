@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-669",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3532-0/",
+    "item_id": "2-3531",
     "next": "2-3532",
     "pages": "669",
     "prev": "2-3530",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARADIVA, (<i>Géog.</i>) île de l’Asie, auprès de l’île de Ceylan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARADIVA, (<i>Géog.</i>) île de l’Asie, auprès de l’île de Ceylan.\n \n</p>\n</div>",
     "title": "CARADIVA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARADIVA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-468",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2665-0/",
+    "item_id": "2-2662",
     "next": "2-2663",
     "pages": "468",
     "prev": "2-2661",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUS, (<i>Géog.</i>) île de l’Océan septentrional, entre \nl’Islande &amp; Terre-neuve.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUS, (<i>Géog.</i>) île de l’Océan septentrional, entre \nl’Islande &amp; Terre-neuve.\n \n</p>\n</div>",
     "title": "BUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUS"
 }

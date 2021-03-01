@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-206",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-989-0/",
+    "item_id": "2-993",
     "next": "2-994",
     "pages": "206",
     "prev": "2-992",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEQUILLON, s. m. <i>terme de Fleuriste</i>, qui signifie\nles <i>petites feuilles</i> arrondies qui garnissent le dedans de\nl’anémone, c’est-à-dire qui sortent de la peluche de\ncertaines anémones. Un <i>béquillon</i> pour être beau,\ndoit être large &amp; arrondi par le bout ; c’est une marque \nque la fleur est forte. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BEQUILLON, s. m. <i>terme de Fleuriste</i>, qui signifie\nles <i>petites feuilles</i> arrondies qui garnissent le dedans de\nl’anémone, c’est-à-dire qui sortent de la peluche de\ncertaines anémones. Un <i>béquillon</i> pour être beau,\ndoit être large &amp; arrondi par le bout ; c’est une marque \nque la fleur est forte. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BEQUILLON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEQUILLON"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2743-0/",
+    "item_id": "2-2743",
     "next": "2-2744",
     "pages": "487",
     "prev": "2-2742",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABARETIER, s. m. celui qui est autorisé à donner \nà boire &amp; à manger dans sa maison à tous ceux\nqui s’y présentent. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABARET\" title=\"L’Encyclopédie/1re édition/CABARET\"><span class=\"sc\">Cabaret</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABARETIER, s. m. celui qui est autorisé à donner \nà boire &amp; à manger dans sa maison à tous ceux\nqui s’y présentent. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABARET\" title=\"L’Encyclopédie/1re édition/CABARET\"><span class=\"sc\">Cabaret</span></a>.\n \n</p>\n</div>",
     "title": "CABARETIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABARETIER"
 }

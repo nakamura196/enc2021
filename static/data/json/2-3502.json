@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-641",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3504-0/",
+    "item_id": "2-3502",
     "next": "2-3503",
     "pages": "641",
     "prev": "2-3501",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPULE, s. m. (<i>Hist. anc.</i>) c’étoit chez les anciens Romains une biere ou cercueil, pour porter les morts en terre. De-là vient qu’on appelloit les vieillards <i><span class=\"lang-la\" lang=\"la\">capulares senes</span></i>, &amp; les criminels condamnés à mort <i><span class=\"lang-la\" lang=\"la\">capulares rei</span></i>, pour exprimer que les uns &amp; les autres étoient sur le bord de leur fosse, &amp; près de la biere ou du tombeau. (<i>G</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPULE, s. m. (<i>Hist. anc.</i>) c’étoit chez les anciens Romains une biere ou cercueil, pour porter les morts en terre. De-là vient qu’on appelloit les vieillards <i><span class=\"lang-la\" lang=\"la\">capulares senes</span></i>, &amp; les criminels condamnés à mort <i><span class=\"lang-la\" lang=\"la\">capulares rei</span></i>, pour exprimer que les uns &amp; les autres étoient sur le bord de leur fosse, &amp; près de la biere ou du tombeau. (<i>G</i>) \n \n</p>\n</div>",
     "title": "CAPULE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPULE"
 }

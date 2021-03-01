@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-783",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4034-0/",
+    "item_id": "2-4045",
     "next": "2-4046",
     "pages": "783",
     "prev": "2-4044",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVAN, (<i>Commer.</i>) mesure dont on se sert dans\nquelques-unes des îles Philippines, &amp; sur-tout à Manille, pour mesurer les grains &amp; les légumes, &amp; entr’autres le riz. Le <i>cavan</i> de riz pese cinquante livres\npoids d’Espagne. <i>Dictionn. de Commerce, tom. II. pag. 134</i>. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAVAN, (<i>Commer.</i>) mesure dont on se sert dans\nquelques-unes des îles Philippines, &amp; sur-tout à Manille, pour mesurer les grains &amp; les légumes, &amp; entr’autres le riz. Le <i>cavan</i> de riz pese cinquante livres\npoids d’Espagne. <i>Dictionn. de Commerce,<span type=\"proposed\"> tom. </span>II.<span type=\"proposed\"> pag. </span>134</i>. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CAVAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVAN"
 }

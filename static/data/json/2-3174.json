@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-571",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3176-0/",
+    "item_id": "2-3174",
     "next": "2-3175",
     "pages": "571",
     "prev": "2-3173",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMERAN, (<i>Geog.</i>) îsle d’Afrique, dépendante\nde l’Abyssinie, dans la mer Rouge.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMERAN, (<i>Geog.</i>) îsle d’Afrique, dépendante\nde l’Abyssinie, dans la mer Rouge.\n \n</p>\n</div>",
     "title": "CAMERAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMERAN"
 }

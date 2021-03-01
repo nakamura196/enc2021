@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-253",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1279-0/",
+    "item_id": "2-1282",
     "next": "2-1283",
     "pages": "253",
     "prev": "2-1281",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BILIEUX, EUSE, adj. qui abonde en bile ; <i>une  humeur bilieuse, un tempérament bilieux</i>.\n</p><p>Il est aussi subst. <i>les bilieux sont sujets à de grandes  maladies. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILE\" title=\"L’Encyclopédie/1re édition/BILE\"><span class=\"sc\">Bile</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TEMP%C3%89RAMENT\" title=\"L’Encyclopédie/1re édition/TEMPÉRAMENT\"><span class=\"sc\">Tempérament</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BILIEUX, EUSE, adj. qui abonde en bile ; <i>une  humeur bilieuse, un tempérament bilieux</i>.\n</p><p>Il est aussi subst. <i>les bilieux sont sujets à de grandes  maladies. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILE\" title=\"L’Encyclopédie/1re édition/BILE\"><span class=\"sc\">Bile</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TEMP%C3%89RAMENT\" title=\"L’Encyclopédie/1re édition/TEMPÉRAMENT\"><span class=\"sc\">Tempérament</span></a>. (<i>L</i>)\n \n</p>\n</div>",
     "title": "BILIEUX",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BILIEUX"
 }

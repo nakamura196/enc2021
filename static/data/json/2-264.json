@@ -2,7 +2,8 @@
     "authors": [
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-50",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-272-0/",
+    "item_id": "2-264",
     "next": "2-265",
     "pages": "50",
     "prev": "2-263",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALZANE, s. f. (<i>Manége.</i>) c’est la marque de\npoil blanc qui vient aux piés de plusieurs chevaux,\ndepuis le boulet jusqu’au sabot, devant &amp; derriere.\nCe mot vient de l’Italien <i><span class=\"lang-it\" lang=\"it\">balzano</span></i>. On appelle cheval \n<i>balzan</i>, celui qui a des <i>balzanes</i> à quelqu’un de\nses piés, ou à tous les quatre. On juge de la bonté\n&amp; de la nature des chevaux, selon les piés où les\n<i>balzanes</i> se rencontrent. <i>Balzan</i> s’applique à l’animal ;\ncheval <i>balzan. Balzane</i>, c’est la marque qui le distingue.\nLes termes de <i>travat, transtravat, &amp; chaussé trop  haut</i>, appartiennent aux <i>balzanes</i>. <i>Voyez ces termes à  leurs lettres</i>. Quelques cavaliers sont assez superstitieux \npour s’imaginer qu’il y a une fatalité sinistre\nattachée à la <i>balzane</i> du cheval arzel. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BALZANE, s. f. (<i>Manége.</i>) c’est la marque de\npoil blanc qui vient aux piés de plusieurs chevaux,\ndepuis le boulet jusqu’au sabot, devant &amp; derriere.\nCe mot vient de l’Italien <i><span class=\"lang-it\" lang=\"it\">balzano</span></i>. On appelle cheval \n<i>balzan</i>, celui qui a des <i>balzanes</i> à quelqu’un de\nses piés, ou à tous les quatre. On juge de la bonté\n&amp; de la nature des chevaux, selon les piés où les\n<i>balzanes</i> se rencontrent. <i>Balzan</i> s’applique à l’animal ;\ncheval <i>balzan. Balzane</i>, c’est la marque qui le distingue.\nLes termes de <i>travat, transtravat, &amp; chaussé trop  haut</i>, appartiennent aux <i>balzanes</i>. <i><span type=\"bold\">Voyez</span> ces termes à  leurs lettres</i>. Quelques cavaliers sont assez superstitieux \npour s’imaginer qu’il y a une fatalité sinistre\nattachée à la <i>balzane</i> du cheval arzel. (<i>V</i>)\n \n</p>\n</div>",
     "title": "BALZANE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALZANE"
 }

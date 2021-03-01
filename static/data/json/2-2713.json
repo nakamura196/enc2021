@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-472",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2716-0/",
+    "item_id": "2-2713",
     "next": "2-2714",
     "pages": "472",
     "prev": "2-2712",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYSTRICE <i>ou</i> BYSTRYTZ, (<i>Géog.</i>) il y a trois\nvilles de ce nom dans le royaume de Boheme.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BYSTRICE <i>ou</i> BYSTRYTZ, (<i>Géog.</i>) il y a trois\nvilles de ce nom dans le royaume de Boheme.\n \n</p>\n</div>",
     "title": "BYSTRICE ou BYSTRYTZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BYSTRICE_ou_BYSTRYTZ"
 }

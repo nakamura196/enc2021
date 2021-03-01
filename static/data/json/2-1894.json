@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-357",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1899-0/",
+    "item_id": "2-1894",
     "next": "2-1895",
     "pages": "357",
     "prev": "2-1893",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLER, v. act. <i>bouiller</i> une étoffe, c’est la\nmarquer : <i>bouiller</i> un endroit de riviere, c’est le battre \navec la <i>bouille. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLE\" title=\"L’Encyclopédie/1re édition/BOUILLE\"><span class=\"sc\">Bouille</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUILLER, v. act. <i>bouiller</i> une étoffe, c’est la\nmarquer : <i>bouiller</i> un endroit de riviere, c’est le battre \navec la <i>bouille. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLE\" title=\"L’Encyclopédie/1re édition/BOUILLE\"><span class=\"sc\">Bouille</span></a>.\n \n</p>\n</div>",
     "title": "BOUILLER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUILLER"
 }

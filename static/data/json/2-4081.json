@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-787",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4070-0/",
+    "item_id": "2-4081",
     "next": "2-4082",
     "pages": "787",
     "prev": "2-4080",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUNE, (<span class=\"sc\">la</span>) (<i>Géog.</i>) petite ville de France,\nau haut Languedoc, au diocese de Castres, sur les\nconfins du Rouergue. Il y a dans cette province une\nautre ville de ce nom, au diocese de Carcassonne.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUNE, (<span class=\"sc\">la</span>) (<i>Géog.</i>) petite ville de France,\nau haut Languedoc, au diocese de Castres, sur les\nconfins du Rouergue. Il y a dans cette province une\nautre ville de ce nom, au diocese de Carcassonne.\n \n</p>\n</div>",
     "title": "CAUNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUNE"
 }

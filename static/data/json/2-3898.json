@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3885-0/",
+    "item_id": "2-3898",
     "next": "2-3899",
     "pages": "749",
     "prev": "2-3897",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLANE, (<i>Géog.</i>) ville de France en Provence, au diocese de Senez. <i>Lon. 24. 24. lat. 43. 55</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLANE, (<i>Géog.</i>) ville de France en Provence, au diocese de Senez. <i>Lon. 24. 24. lat. 43. 55</i>.\n \n</p>\n</div>",
     "title": "CASTELLANE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTELLANE"
 }

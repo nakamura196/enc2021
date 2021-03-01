@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-807",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4177-0/",
+    "item_id": "2-4187",
     "next": "2-4188",
     "pages": "807",
     "prev": "2-4186",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELLERIER, s. m. (<i>terme d’office dans les ordres monastiques.</i>) c’est un religieux qui prend soin du\ntemporel de l’abbaye, &amp; qui a sous lui d’autres officiers \nqui partagent ses fonctions. <i>Voyez</i> <span class=\"sc\">Dish</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CELLERIER, s. m. (<i>terme d’office dans les ordres monastiques.</i>) c’est un religieux qui prend soin du\ntemporel de l’abbaye, &amp; qui a sous lui d’autres officiers \nqui partagent ses fonctions. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Dish</span>.\n \n</p>\n</div>",
     "title": "CELLERIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CELLERIER"
 }

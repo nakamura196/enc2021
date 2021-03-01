@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-337",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1803-0/",
+    "item_id": "2-1804",
     "next": "2-1805",
     "pages": "337",
     "prev": "2-1803",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSENHAM, (<i>Géog.</i>) ville d’Angleterre dans la\nprovince de Sussex.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSENHAM, (<i>Géog.</i>) ville d’Angleterre dans la\nprovince de Sussex.\n \n</p>\n</div>",
     "title": "BOSENHAM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSENHAM"
 }

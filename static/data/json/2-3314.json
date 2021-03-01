@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-598",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3317-0/",
+    "item_id": "2-3314",
     "next": "2-3315",
     "pages": "598",
     "prev": "2-3313",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANISTRO, (<i>Géog.</i>) petite ville de la Turquie,\nen Europe, dans la Macédoine, près du cap de même \nnom.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANISTRO, (<i>Géog.</i>) petite ville de la Turquie,\nen Europe, dans la Macédoine, près du cap de même \nnom.\n \n</p>\n</div>",
     "title": "CANISTRO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANISTRO"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-192",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-839-0/",
+    "item_id": "2-843",
     "next": "2-844",
     "pages": "192",
     "prev": "2-842",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉJAUNE, sub. m. se dit, <i>en Fauconnerie</i>, des oiseaux \nniais &amp; tout jeunes, qui ne savent encore rien\nfaire ; <i>béjaune</i> ou <i>bec-jaune</i> signifie <i>ignorance</i>. Ce terme,\n<i>béjaune</i>, vient des petits oiseaux qui, avant d’être \nen état de sortir du nid, ont le bec jaune.\n</p><p>* <span class=\"sc\">BÉjaune</span> <i>ou</i> <span class=\"sc\">Becjaune</span>, (<i>Hist. mod.</i>) c’est ainsi\nqu’on nomme communément le régal qu’un officier\ndonne à ses camarades en entrant dans un régiment :\non dit payer son <i>béjaune</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BÉJAUNE, sub. m. se dit, <i>en Fauconnerie</i>, des oiseaux \nniais &amp; tout jeunes, qui ne savent encore rien\nfaire ; <i>béjaune</i> ou <i>bec-jaune</i> signifie <i>ignorance</i>. Ce terme,\n<i>béjaune</i>, vient des petits oiseaux qui, avant d’être \nen état de sortir du nid, ont le bec jaune.\n</p><p>* <span class=\"sc\">BÉjaune</span> <i>ou</i> <span class=\"sc\">Becjaune</span>, (<i>Hist. mod.</i>) c’est ainsi\nqu’on nomme communément le régal qu’un officier\ndonne à ses camarades en entrant dans un régiment :\non dit payer son <i>béjaune</i>.\n \n</p>\n</div>",
     "title": "BÉJAUNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/B%C3%89JAUNE"
 }

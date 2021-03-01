@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-415",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2255-0/",
+    "item_id": "2-2250",
     "next": "2-2251",
     "pages": "415",
     "prev": "2-2249",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREYN, (<i>Géog.</i>) petite ville du comté d’Assint, \ndans l’Ecosse septentrionale, sur un petit golfe de \nmême nom. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREYN, (<i>Géog.</i>) petite ville du comté d’Assint, \ndans l’Ecosse septentrionale, sur un petit golfe de \nmême nom. \n \n</p>\n</div>",
     "title": "BREYN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREYN"
 }

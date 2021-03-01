@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2328-0/",
+    "item_id": "2-2323",
     "next": "2-2324",
     "pages": "424",
     "prev": "2-2322",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISE, s. f. (<i>Architect. Hydrauliq.</i>) c’est une poutre \nen bascule, posée sur la tête d’un gros pieu, laquelle \nsert à appuyer par le haut les aiguilles d’un\npertuis. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISE, s. f. (<i>Architect. Hydrauliq.</i>) c’est une poutre \nen bascule, posée sur la tête d’un gros pieu, laquelle \nsert à appuyer par le haut les aiguilles d’un\npertuis. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BRISE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISE"
 }

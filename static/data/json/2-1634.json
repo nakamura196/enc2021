@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-315",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1633-0/",
+    "item_id": "2-1634",
     "next": "2-1635",
     "pages": "315",
     "prev": "2-1633",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLLINGEN, (<i>Géog.</i>) petite ville sur le bord\nd’un lac, dans l’évêché de Constance.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOLLINGEN, (<i>Géog.</i>) petite ville sur le bord\nd’un lac, dans l’évêché de Constance.\n \n</p>\n</div>",
     "title": "BOLLINGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOLLINGEN"
 }

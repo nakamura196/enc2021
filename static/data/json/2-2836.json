@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-510",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2837-0/",
+    "item_id": "2-2836",
     "next": "2-2837",
     "pages": "510",
     "prev": "2-2835",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACOUCHACS, (<i>Géog.</i>) nation sauvage de l’Amérique \nseptentrionale, dans la nouvelle France.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CACOUCHACS, (<i>Géog.</i>) nation sauvage de l’Amérique \nseptentrionale, dans la nouvelle France.\n \n</p>\n</div>",
     "title": "CACOUCHACS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACOUCHACS"
 }

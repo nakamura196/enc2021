@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-749",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3882-7/",
+    "item_id": "2-3887",
     "next": "2-3888",
     "pages": "749",
     "prev": "2-3886",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Gandolfe</span>, place d’Italie dans l’état ecclésiastique,\navec un château sur le lac du même\nnom, à quatre lieues de Rome.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Castel-Gandolfe</span>, place d’Italie dans l’état ecclésiastique,\navec un château sur le lac du même\nnom, à quatre lieues de Rome.\n \n</p>\n</div>",
     "title": "CASTEL-GANDOLFE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTEL-GANDOLFE"
 }

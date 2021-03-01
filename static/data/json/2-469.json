@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-77",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-480-0/",
+    "item_id": "2-469",
     "next": "2-470",
     "pages": "77",
     "prev": "2-468",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAROCO, (<i>Log.</i>) terme qui désigne le quatrieme \nmode d’argument de la seconde figure. Un syllogisme \nen <i>baroco</i> a la majeure universelle affirmative,\n&amp; la mineure &amp; la conclusion particulieres négatives.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SYLLOGISME\" title=\"L’Encyclopédie/1re édition/SYLLOGISME\"><span class=\"sc\">Syllogisme</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAROCO, (<i>Log.</i>) terme qui désigne le quatrieme \nmode d’argument de la seconde figure. Un syllogisme \nen <i>baroco</i> a la majeure universelle affirmative,\n&amp; la mineure &amp; la conclusion particulieres négatives.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SYLLOGISME\" title=\"L’Encyclopédie/1re édition/SYLLOGISME\"><span class=\"sc\">Syllogisme</span></a>.\n \n</p>\n</div>",
     "title": "BAROCO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAROCO"
 }

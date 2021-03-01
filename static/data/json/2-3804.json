@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-740",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3807-0/",
+    "item_id": "2-3804",
     "next": "2-3805",
     "pages": "740",
     "prev": "2-3803",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASCAES, (<i>Géog.</i>) petite ville du royaume de\nPortugal, à l’embouchure du Tage, avec une bonne\nrade.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASCAES, (<i>Géog.</i>) petite ville du royaume de\nPortugal, à l’embouchure du Tage, avec une bonne\nrade.\n \n</p>\n</div>",
     "title": "CASCAES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASCAES"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2209-0/",
+    "item_id": "2-2204",
     "next": "2-2205",
     "pages": "412",
     "prev": "2-2203",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENTZ, (<i>Géog.</i>) riviere qui prend sa source\ndans le duché de Wirtemberg, &amp; qui se jette dans le\nDanube, près de Laugingen.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRENTZ, (<i>Géog.</i>) riviere qui prend sa source\ndans le duché de Wirtemberg, &amp; qui se jette dans le\nDanube, près de Laugingen.\n \n</p>\n</div>",
     "title": "BRENTZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRENTZ"
 }

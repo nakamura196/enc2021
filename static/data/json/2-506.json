@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-96",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-517-0/",
+    "item_id": "2-506",
     "next": "2-507",
     "pages": "96",
     "prev": "2-505",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Barrots</span>, <i>ou</i> <span class=\"sc\">Baux</span>, (<i>Marine.</i>) <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAU,_BAUX,_BARROTS\" title=\"L’Encyclopédie/1re édition/BAU, BAUX, BARROTS\"><span class=\"sc\">Bau</span></a>.\nQuoiqu’on se serve indifféremment des termes de\n<i>baux</i> &amp; de <i>barrots</i>, il est pourtant certain que ceux\nqui sont les plus exacts, ne se servent de celui de <i>bau</i>\nque pour les solives du premier pont, &amp; qu’ils employent \ncelui de <i>barrot</i> pour les solives des autres\nponts. <i>Voyez Planche VI, figure 8. la forme de cette  piece de bois</i>.\n</p><p>Il y a les <i>barrots</i> des gaillards. <i>Voyez leur situation  Planche IV. fig. prem. n°. 142</i>.\n</p><p>Les <i>barrots</i> de la dunette, n°. 151.\n</p><p>Les <i>barrots</i> du celtis, n°. 128. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Barrots</span>, <i>ou</i> <span class=\"sc\">Baux</span>, (<i>Marine.</i>) <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAU,_BAUX,_BARROTS\" title=\"L’Encyclopédie/1re édition/BAU, BAUX, BARROTS\"><span class=\"sc\">Bau</span></a>.\nQuoiqu’on se serve indifféremment des termes de\n<i>baux</i> &amp; de <i>barrots</i>, il est pourtant certain que ceux\nqui sont les plus exacts, ne se servent de celui de <i>bau</i>\nque pour les solives du premier pont, &amp; qu’ils employent \ncelui de <i>barrot</i> pour les solives des autres\nponts. <i><span type=\"bold\">Voyez</span> Planche VI, figure 8. la forme de cette  piece de bois</i>.\n</p><p>Il y a les <i>barrots</i> des gaillards. <i><span type=\"bold\">Voyez</span> leur situation  Planche IV. fig. prem. n°. 142</i>.\n</p><p>Les <i>barrots</i> de la dunette, n°. 151.\n</p><p>Les <i>barrots</i> du celtis, n°. 128. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BARROTS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARROTS"
 }

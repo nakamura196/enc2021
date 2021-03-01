@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-626",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3421-0/",
+    "item_id": "2-3418",
     "next": "2-3419",
     "pages": "626",
     "prev": "2-3417",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"coquille\" title=\"CAPIe\">CAPIE</span>, s. f. se dit dans les <i>manufactures où l’on travaille la soie, le fil, la laine, &amp;c.</i> de plusieurs brins\nmis en double, à l’aide desquels on serre l’écheveau\nquand il est fini, &amp; l’on arrête le dernier bout ; ce\nqui empêche l’écheveau de se déranger, &amp; ce qui\nen facilite le devidage, en permettant d’en prendre\ntoûjours le dernier bout.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <span class=\"coquille\" title=\"CAPIe\">CAPIE</span>, s. f. se dit dans les <i>manufactures où l’on travaille la soie, le fil, la laine, &amp;c.</i> de plusieurs brins\nmis en double, à l’aide desquels on serre l’écheveau\nquand il est fini, &amp; l’on arrête le dernier bout ; ce\nqui empêche l’écheveau de se déranger, &amp; ce qui\nen facilite le devidage, en permettant d’en prendre\ntoûjours le dernier bout.\n \n</p>\n</div>",
     "title": "CAPIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPIE"
 }

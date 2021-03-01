@@ -2,7 +2,8 @@
     "authors": [
         "Edme-François Mallet"
     ],
-    "item_id": "2-487",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2747-0/",
+    "item_id": "2-2747",
     "next": "2-2748",
     "pages": "487",
     "prev": "2-2746",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAS, s. m. (<i>Messagerie.</i>) grand coche dont\nle corps est d’osier clissé. Cette voiture appartient\nordinairement aux messageries.\n</p><p><span class=\"sc\">Cabas</span> <i>ou</i> <span class=\"sc\">Cabat</span>, (<i>Commerce.</i>) panier fait de\njonc ou de feuilles de palmier. C’est dans ces sortes\nde paniers que l’on met les figues de Provence, après\nles avoir fait sécher. Il y en a de grands &amp; de petits ;\nles uns pour la marchandise d’élite, &amp; les autres\npour la commune : on les couvre également avec une\ntoile ordinairement bleue ou violette. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FIGUIER\" title=\"L’Encyclopédie/1re édition/FIGUIER\"><span class=\"sc\">Figue</span></a>.\n</p><p><i>Cabat</i> se dit aussi dans quelques provinces de France, \nd’une mesure à mesurer les grains, particulierement \nle blé. (<i>G</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAS, s. m. (<i>Messagerie.</i>) grand coche dont\nle corps est d’osier clissé. Cette voiture appartient\nordinairement aux messageries.\n</p><p><span class=\"sc\">Cabas</span> <i>ou</i> <span class=\"sc\">Cabat</span>, (<i>Commerce.</i>) panier fait de\njonc ou de feuilles de palmier. C’est dans ces sortes\nde paniers que l’on met les figues de Provence, après\nles avoir fait sécher. Il y en a de grands &amp; de petits ;\nles uns pour la marchandise d’élite, &amp; les autres\npour la commune : on les couvre également avec une\ntoile ordinairement bleue ou violette. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FIGUIER\" title=\"L’Encyclopédie/1re édition/FIGUIER\"><span class=\"sc\">Figue</span></a>.\n</p><p><i>Cabat</i> se dit aussi dans quelques provinces de France, \nd’une mesure à mesurer les grains, particulierement \nle blé. (<i>G</i>)\n \n</p>\n</div>",
     "title": "CABAS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABAS"
 }

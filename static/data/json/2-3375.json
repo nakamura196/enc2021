@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-624",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3378-0/",
+    "item_id": "2-3375",
     "next": "2-3376",
     "pages": "624",
     "prev": "2-3374",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANZON, (<i>Géog.</i>) petite ville d’Italie, dans le duché de Milan, au comté de Come. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANZON, (<i>Géog.</i>) petite ville d’Italie, dans le duché de Milan, au comté de Come. \n \n</p>\n</div>",
     "title": "CANZON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANZON"
 }

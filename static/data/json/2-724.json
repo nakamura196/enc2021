@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-166",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-721-0/",
+    "item_id": "2-724",
     "next": "2-725",
     "pages": "166",
     "prev": "2-723",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAYA <i>ou</i> BAJA (<i>Géog.</i>), ville de la basse Hongrie, \ndans le comté de Bath, près du Danube. <i>Long.  37. lat. 46. 25</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAYA <i>ou</i> BAJA (<i>Géog.</i>), ville de la basse Hongrie, \ndans le comté de Bath, près du Danube. <i>Long.  37. lat. 46. 25</i>.\n \n</p>\n</div>",
     "title": "BAYA ou BAJA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAYA_ou_BAJA"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-472",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2719-0/",
+    "item_id": "2-2716",
     "next": "2-2717",
     "pages": "472",
     "prev": "2-2715",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BZO, (<i>Géog.</i>) ville d’Afrique, au royaume de\nMaroc. \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BZO, (<i>Géog.</i>) ville d’Afrique, au royaume de\nMaroc. \n</p>\n</div>",
     "title": "BZO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BZO"
 }

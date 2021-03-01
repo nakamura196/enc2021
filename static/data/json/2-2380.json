@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-434",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2383-0/",
+    "item_id": "2-2380",
     "next": "2-2381",
     "pages": "434",
     "prev": "2-2379",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>BROMIUS</i>, sub. m. (<i>Myth.</i>) ce mot vient de\n<span class=\"lang-grc\" lang=\"grc\">βρόμος</span>, <i>bruit ;</i> &amp; Bacchus a été surnommé <i>Bromius</i>,\nou parce qu’il naquit, dit-on, au bruit d’un coup de\ntonnerre, qui fit accoucher Semélé sa mere, ou parce\nque les Bacchantes, femmes particulierement attachées \nà son culte, étoient fort bruyantes.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* <i>BROMIUS</i>, sub. m. (<i>Myth.</i>) ce mot vient de\n<span class=\"lang-grc\" lang=\"grc\">βρόμος</span>, <i>bruit ;</i> &amp; Bacchus a été surnommé <i>Bromius</i>,\nou parce qu’il naquit, dit-on, au bruit d’un coup de\ntonnerre, qui fit accoucher Semélé sa mere, ou parce\nque les Bacchantes, femmes particulierement attachées \nà son culte, étoient fort bruyantes.\n \n</p>\n</div>",
     "title": "BROMIUS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BROMIUS"
 }

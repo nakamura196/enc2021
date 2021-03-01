@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-706",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3757-0/",
+    "item_id": "2-3754",
     "next": "2-3755",
     "pages": "706",
     "prev": "2-3753",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARS, (<i>Géog.</i>) ville forte d’Asie dans l’Arménie, sur la riviere de même nom. <i>Long. 60. 23. lat. 40. 20</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARS, (<i>Géog.</i>) ville forte d’Asie dans l’Arménie, sur la riviere de même nom. <i>Long. 60. 23. lat. 40. 20</i>.\n \n</p>\n</div>",
     "title": "CARS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARS"
 }

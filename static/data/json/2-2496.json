@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-454",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2499-0/",
+    "item_id": "2-2496",
     "next": "2-2497",
     "pages": "454",
     "prev": "2-2495",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUARCOS, (<i>Géog.</i>) ville de Portugal dans la\nprovince de Beira, proche de la mer.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUARCOS, (<i>Géog.</i>) ville de Portugal dans la\nprovince de Beira, proche de la mer.\n \n</p>\n</div>",
     "title": "BUARCOS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUARCOS"
 }

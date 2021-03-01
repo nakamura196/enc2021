@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-831",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4236-0/",
+    "item_id": "2-4246",
     "next": "2-4247",
     "pages": "831",
     "prev": "2-4245",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEPEAU, s. m. (<i>Monnoyage.</i>) c’étoit le billot\ndans lequel étoit arrêtée la pelle ou matrice d’écusson,\nlorsqu’on frappoit les monnoies au marteau.\n<i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONNOYAGE\" title=\"L’Encyclopédie/1re édition/MONNOYAGE\"><span class=\"sc\">Monnoyage</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CEPEAU, s. m. (<i>Monnoyage.</i>) c’étoit le billot\ndans lequel étoit arrêtée la pelle ou matrice d’écusson,\nlorsqu’on frappoit les monnoies au marteau.\n<i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONNOYAGE\" title=\"L’Encyclopédie/1re édition/MONNOYAGE\"><span class=\"sc\">Monnoyage</span></a>.\n \n</p>\n</div>",
     "title": "CEPEAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CEPEAU"
 }

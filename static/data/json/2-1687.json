@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-323",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1686-0/",
+    "item_id": "2-1687",
     "next": "2-1688",
     "pages": "323",
     "prev": "2-1686",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONIER, s. m. (<i>Commerce &amp; Agricultu : e.</i>) mesure \nde terre qui contient en surface 4074 toises cinq\npouces &amp; quatre lignes. Ainsi l’arpent contenant 900\ntoises, il faut quatre <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>1</mn>\n<mn>2</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {1}{2}}}</annotation>\n</semantics>\n</math></span><img alt=\"\\scriptstyle {\\frac  {1}{2}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/6365ab33810f89fb39ee1f30dae53207d88718c9\" style=\"vertical-align: -1.171ex; width:1.503ex; height:3.176ex;\"/></span> arpens 24 toises 5 pouces &amp;\n4 lignes, pour l’équivalent d’un <i>bonier</i> en mesure de\nParis. Cette mesure varie d’un canton à l’autre de\nla Flandre, où elle est en usage.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BONIER, s. m. (<i>Commerce &amp; Agricultu : e.</i>) mesure \nde terre qui contient en surface 4074 toises cinq\npouces &amp; quatre lignes. Ainsi l’arpent contenant 900\ntoises, il faut quatre <span class=\"mwe-math-element\"><span class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math alttext=\"{\\displaystyle \\scriptstyle {\\frac {1}{2}}}\" xmlns=\"http://www.w3.org/1998/Math/MathML\">\n<semantics>\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mstyle displaystyle=\"true\" scriptlevel=\"0\">\n<mstyle displaystyle=\"false\" scriptlevel=\"1\">\n<mrow class=\"MJX-TeXAtom-ORD\">\n<mfrac>\n<mn>1</mn>\n<mn>2</mn>\n</mfrac>\n</mrow>\n</mstyle>\n</mstyle>\n</mrow>\n<annotation encoding=\"application/x-tex\">{\\displaystyle \\scriptstyle {\\frac {1}{2}}}</annotation>\n</semantics>\n</math></span><img alt=\"\\scriptstyle {\\frac  {1}{2}}\" aria-hidden=\"true\" class=\"mwe-math-fallback-image-inline\" src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/6365ab33810f89fb39ee1f30dae53207d88718c9\" style=\"vertical-align: -1.171ex; width:1.503ex; height:3.176ex;\"/></span> arpens 24 toises 5 pouces &amp;\n4 lignes, pour l’équivalent d’un <i>bonier</i> en mesure de\nParis. Cette mesure varie d’un canton à l’autre de\nla Flandre, où elle est en usage.\n \n</p>\n</div>",
     "title": "BONIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BONIER"
 }

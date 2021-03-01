@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-207",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1013-0/",
+    "item_id": "2-1017",
     "next": "2-1018",
     "pages": "207",
     "prev": "2-1016",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEREBERES <i>ou</i> BREBERES, (<span class=\"sc\">les</span>) <i>Géog. &amp; Hist. mod.</i> peuples d’Afrique qui vivent sous des tentes \nà la maniere des Arabes, dans les différentes contrées \nde la Barbarie, mais sur-tout au midi des royaumes \nde Tunis &amp; de Tripoli. Ils sont braves &amp; se piquent \nde noblesse : ils se disent descendus de la tribu\ndes Sabéens, qui passerent de l’Arabie heureuse en\nAfrique sous la conduite de leur roi Melec-Ifriqui ;\nqui, selon quelques-uns, a donné son nom à l’Afrique. \nIl y a des <i>Bereberes</i> sédentaires.\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEREBERES <i>ou</i> BREBERES, (<span class=\"sc\">les</span>) <i>Géog. &amp; <span type=\"proposed\">Hist.</span> mod.</i> peuples d’Afrique qui vivent sous des tentes \nà la maniere des Arabes, dans les différentes contrées \nde la Barbarie, mais sur-tout au midi des royaumes \nde Tunis &amp; de Tripoli. Ils sont braves &amp; se piquent \nde noblesse : ils se disent descendus de la tribu\ndes Sabéens, qui passerent de l’Arabie heureuse en\nAfrique sous la conduite de leur roi Melec-Ifriqui ;\nqui, selon quelques-uns, a donné son nom à l’Afrique. \nIl y a des <i>Bereberes</i> sédentaires.\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEREBERES <i>ou</i> BREBERES, (<span class=\"sc\">les</span>) <i>Géog. &amp; Hist. mod.</i> peuples d’Afrique qui vivent sous des tentes \nà la maniere des Arabes, dans les différentes contrées \nde la Barbarie, mais sur-tout au midi des royaumes \nde Tunis &amp; de Tripoli. Ils sont braves &amp; se piquent \nde noblesse : ils se disent descendus de la tribu\ndes Sabéens, qui passerent de l’Arabie heureuse en\nAfrique sous la conduite de leur roi Melec-Ifriqui ;\nqui, selon quelques-uns, a donné son nom à l’Afrique. \nIl y a des <i>Bereberes</i> sédentaires.\n \n</p>\n</div>",
     "title": "BEREBERES ou BREBERES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEREBERES_ou_BREBERES"
 }

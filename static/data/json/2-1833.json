@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Louis"
     ],
-    "item_id": "2-345",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1832-0/",
+    "item_id": "2-1833",
     "next": "2-1834",
     "pages": "345",
     "prev": "2-1832",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTHRION, s. m. (<i>Chirurgie.</i>) nom d’une espece\nd’ulcere creux, étroit, &amp; dur, qui se forme sur la\ncornée transparente &amp; sur l’opaque. On l’appelle aussi\n<i>fossette, fossula</i> ou <i>annulus</i>, à cause de sa profondeur.\nLa cure ne differe point de celle des autres ulceres qui\nattaquent ces parties. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARGEMA_ou_ARGEMON\" title=\"L’Encyclopédie/1re édition/ARGEMA ou ARGEMON\"><span class=\"sc\">Argema</span></a>. (<i>Y</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTHRION, s. m. (<i>Chirurgie.</i>) nom d’une espece\nd’ulcere creux, étroit, &amp; dur, qui se forme sur la\ncornée transparente &amp; sur l’opaque. On l’appelle aussi\n<i>fossette, fossula</i> ou <i>annulus</i>, à cause de sa profondeur.\nLa cure ne differe point de celle des autres ulceres qui\nattaquent ces parties. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARGEMA_ou_ARGEMON\" title=\"L’Encyclopédie/1re édition/ARGEMA ou ARGEMON\"><span class=\"sc\">Argema</span></a>. (<i>Y</i>)\n \n</p>\n</div>",
     "title": "BOTHRION",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOTHRION"
 }

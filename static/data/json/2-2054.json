@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-390",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2058-0/",
+    "item_id": "2-2054",
     "next": "2-2055",
     "pages": "390",
     "prev": "2-2053",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRACCIO DI MAINA, (<i>Géog.</i>) la plus grande\ndes provinces de la Morée ; on l’appelle aussi <i>Zaconia</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRACCIO DI MAINA, (<i>Géog.</i>) la plus grande\ndes provinces de la Morée ; on l’appelle aussi <i>Zaconia</i>.\n \n</p>\n</div>",
     "title": "BRACCIO DI MAINA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRACCIO_DI_MAINA"
 }

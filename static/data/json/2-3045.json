@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-556",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3046-0/",
+    "item_id": "2-3045",
     "next": "2-3046",
     "pages": "556",
     "prev": "2-3044",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALFATAGE, s. m. (<i>Marine.</i>) c’est l’étoupe qui\na été mise à force dans la couture du vaisseau.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CALFATAGE, s. m. (<i>Marine.</i>) c’est l’étoupe qui\na été mise à force dans la couture du vaisseau.\n \n</p>\n</div>",
     "title": "CALFATAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALFATAGE"
 }

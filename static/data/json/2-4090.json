@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-792",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4079-0/",
+    "item_id": "2-4090",
     "next": "2-4091",
     "pages": "792",
     "prev": "2-4089",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUTEN, (<i>Géog.</i>) cap &amp; riviere de l’Amérique méridionale. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUTEN, (<i>Géog.</i>) cap &amp; riviere de l’Amérique méridionale. \n \n</p>\n</div>",
     "title": "CAUTEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUTEN"
 }

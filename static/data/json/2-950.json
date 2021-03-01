@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-201",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-946-0/",
+    "item_id": "2-950",
     "next": "2-951",
     "pages": "201",
     "prev": "2-949",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDA, (<i>Géog.</i>) ville de la Macédoine, appartenante \naux Turcs.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENDA, (<i>Géog.</i>) ville de la Macédoine, appartenante \naux Turcs.\n \n</p>\n</div>",
     "title": "BENDA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENDA"
 }

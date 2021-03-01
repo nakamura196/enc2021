@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-626",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3415-0/",
+    "item_id": "2-3412",
     "next": "2-3413",
     "pages": "626",
     "prev": "2-3411",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPETIEN, s. m. (<i>Hist. mod.</i>) nom par lequel\non désigne la troisieme race de nos rois ; il vient de\nHugues Capet, le premier roi de cette race. Il y a\naujourd’hui, en 1752, 765 ans qu’elle occupe le throne \nde la France. <i>Nulle généalogie ne remonte si haut que celle de Jesus-Christ</i>, dit un auteur Allemand, cité par\nles auteurs du Trévoux, <i>pas même celle des Capétiens</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAPETIEN, s. m. (<i>Hist. mod.</i>) nom par lequel\non désigne la troisieme race de nos rois ; il vient de\nHugues Capet, le premier roi de cette race. Il y a\naujourd’hui, en 1752, 765 ans qu’elle occupe le throne \nde la France. <i>Nulle généalogie ne remonte si haut que celle de Jesus-Christ</i>, dit un auteur Allemand, cité par\nles auteurs du Trévoux, <i>pas même celle des Capétiens</i>.\n \n</p>\n</div>",
     "title": "CAPETIEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPETIEN"
 }

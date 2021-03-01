@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-58",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-307-0/",
+    "item_id": "2-299",
     "next": "2-300",
     "pages": "58",
     "prev": "2-298",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANDOIR, s. m. c’est ainsi que <i>les Passementiers</i>\nappellent le bâton qui passe dans la noix du bandage\ndu battant. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANDAGE\" title=\"L’Encyclopédie/1re édition/BANDAGE\"><span class=\"sc\">Bandage</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BANDOIR, s. m. c’est ainsi que <i>les Passementiers</i>\nappellent le bâton qui passe dans la noix du bandage\ndu battant. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANDAGE\" title=\"L’Encyclopédie/1re édition/BANDAGE\"><span class=\"sc\">Bandage</span></a>.\n \n</p>\n</div>",
     "title": "BANDOIR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BANDOIR"
 }

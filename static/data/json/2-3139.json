@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-568",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3141-0/",
+    "item_id": "2-3139",
     "next": "2-3140",
     "pages": "568",
     "prev": "2-3138",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMARGUE, (<span class=\"sc\">la</span>) <i>Géog.</i> île de France en Provence, \nà l’embouchure du Rhône.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMARGUE, (<span class=\"sc\">la</span>) <i>Géog.</i> île de France en Provence, \nà l’embouchure du Rhône.\n \n</p>\n</div>",
     "title": "CAMARGUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMARGUE"
 }

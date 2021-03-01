@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1369-0/",
+    "item_id": "2-1372",
     "next": "2-1373",
     "pages": "260",
     "prev": "2-1371",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHOFFS-WERDA, (<i>Géog.</i>) petite ville d’Allemagne \ndans le cercle de la haute-Saxe en Misnie,\nà une lieue de Dresde.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHOFFS-WERDA, (<i>Géog.</i>) petite ville d’Allemagne \ndans le cercle de la haute-Saxe en Misnie,\nà une lieue de Dresde.\n \n</p>\n</div>",
     "title": "BISCHOFFS-WERDA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISCHOFFS-WERDA"
 }

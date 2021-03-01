@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-515",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2855-0/",
+    "item_id": "2-2854",
     "next": "2-2855",
     "pages": "515",
     "prev": "2-2853",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADENET, (<i>Géog.</i>) petite ville de France, en \nProvence, à cinq lieues d’Aix, près de la Durance. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CADENET, (<i>Géog.</i>) petite ville de France, en \nProvence, à cinq lieues d’Aix, près de la Durance. \n \n</p>\n</div>",
     "title": "CADENET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CADENET"
 }

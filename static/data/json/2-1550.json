@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-290",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1548-0/",
+    "item_id": "2-1550",
     "next": "2-1551",
     "pages": "290",
     "prev": "2-1549",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOCAMBRE, s. m. terme à l’usage des grosses-Forges : \nil est synonyme à <i>bocard. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCARD\" title=\"L’Encyclopédie/1re édition/BOCARD\"><span class=\"sc\">Bocard</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOCAMBRE, s. m. terme à l’usage des grosses-Forges : \nil est synonyme à <i>bocard. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCARD\" title=\"L’Encyclopédie/1re édition/BOCARD\"><span class=\"sc\">Bocard</span></a>.\n \n</p>\n</div>",
     "title": "BOCAMBRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOCAMBRE"
 }

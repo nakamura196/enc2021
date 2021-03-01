@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-486",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2738-0/",
+    "item_id": "2-2738",
     "next": "2-2739",
     "pages": "486",
     "prev": "2-2737",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAMITEN <i>ou</i> CABAMITAN, (<i>Geog.</i>) petite\ncontrée d’Asie dans la Tartarie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CABAMITEN <i>ou</i> CABAMITAN, (<i>Geog.</i>) petite\ncontrée d’Asie dans la Tartarie.\n \n</p>\n</div>",
     "title": "CABAMITEN ou CABAMITAN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CABAMITEN_ou_CABAMITAN"
 }

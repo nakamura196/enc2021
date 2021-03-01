@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-11",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-107-0/",
+    "item_id": "2-101",
     "next": "2-102",
     "pages": "11",
     "prev": "2-100",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAEÇA, (<i>Géog.</i>) ville d’Espagne, dans l’Andalousie, sur le Guadalquivir. <i>Long. 14. 58. lat. 37. 45</i>. \n</p><p>* BAEÇA, (<i>Géog. mod.</i>) ville du Pérou, dans la province de Los Quixos, proche la ligne. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAEÇA, (<i>Géog.</i>) ville d’Espagne, dans l’Andalousie, sur le Guadalquivir. <i>Long. 14. 58. lat. 37. 45</i>. \n</p><p>* BAEÇA, (<i>Géog. mod.</i>) ville du Pérou, dans la province de Los Quixos, proche la ligne. \n \n</p>\n</div>",
     "title": "BAEÇA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAE%C3%87A"
 }

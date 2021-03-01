@@ -2,7 +2,8 @@
     "authors": [
         "Jean Le Rond d’Alembert"
     ],
-    "item_id": "2-448",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2452-0/",
+    "item_id": "2-2449",
     "next": "2-2450",
     "pages": "448",
     "prev": "2-2448",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULANT, (<i>miroir</i> ou <i>verre brûlant</i>) se dit d’un\nmiroir ou d’un verre par le moyen duquel on <i>brûle</i>,\nen ramassant les rayons du soleil. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARDENT\" title=\"L’Encyclopédie/1re édition/ARDENT\"><span class=\"sc\">Ardent</span></a>.\n</p><p><span class=\"sc\">Brulant</span>, (<i>montagnes brûlantes.</i>) <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VOLCANS\" title=\"L’Encyclopédie/1re édition/VOLCANS\"><span class=\"sc\">Volcan</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONTAGNES\" title=\"L’Encyclopédie/1re édition/MONTAGNES\"><span class=\"sc\">Montagne</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TREMBLEMENS_de_Terre\" title=\"L’Encyclopédie/1re édition/TREMBLEMENS de Terre\"><span class=\"sc\">Tremblement</span></a> <i>de terre</i>, &amp;c. (<i>O</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRULANT, (<i>miroir</i> ou <i>verre brûlant</i>) se dit d’un\nmiroir ou d’un verre par le moyen duquel on <i>brûle</i>,\nen ramassant les rayons du soleil. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ARDENT\" title=\"L’Encyclopédie/1re édition/ARDENT\"><span class=\"sc\">Ardent</span></a>.\n</p><p><span class=\"sc\">Brulant</span>, (<i>montagnes brûlantes.</i>) <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VOLCANS\" title=\"L’Encyclopédie/1re édition/VOLCANS\"><span class=\"sc\">Volcan</span></a>, \n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MONTAGNES\" title=\"L’Encyclopédie/1re édition/MONTAGNES\"><span class=\"sc\">Montagne</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/TREMBLEMENS_de_Terre\" title=\"L’Encyclopédie/1re édition/TREMBLEMENS de Terre\"><span class=\"sc\">Tremblement</span></a> <i>de terre</i>, &amp;c. (<i>O</i>)\n \n</p>\n</div>",
     "title": "BRULANT",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRULANT"
 }

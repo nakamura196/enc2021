@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-295",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1604-0/",
+    "item_id": "2-1606",
     "next": "2-1607",
     "pages": "295",
     "prev": "2-1605",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOIER. (<i>Marine.</i>) <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOYER,_BOIER,_et_BOUIER\" title=\"L’Encyclopédie/1re édition/BOYER, BOIER, et BOUIER\"><span class=\"sc\">Boyer</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOIER. (<i>Marine.</i>) <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOYER,_BOIER,_et_BOUIER\" title=\"L’Encyclopédie/1re édition/BOYER, BOIER, et BOUIER\"><span class=\"sc\">Boyer</span></a>.\n \n</p>\n</div>",
     "title": "BOIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOIER"
 }

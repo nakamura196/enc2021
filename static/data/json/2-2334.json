@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-424",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2336-0/",
+    "item_id": "2-2334",
     "next": "2-2335",
     "pages": "424",
     "prev": "2-2333",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISSAC, (<i>Géog.</i>) petite ville de France en Anjou, \nsur la riviere d’Aubence, avec titre de duché-pairie, \nà quatre lieues d’Angers.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRISSAC, (<i>Géog.</i>) petite ville de France en Anjou, \nsur la riviere d’Aubence, avec titre de duché-pairie, \nà quatre lieues d’Angers.\n \n</p>\n</div>",
     "title": "BRISSAC",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRISSAC"
 }

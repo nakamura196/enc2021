@@ -2,14 +2,15 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-4",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-38-0/",
+    "item_id": "2-36",
     "next": "2-37",
     "pages": "4",
     "prev": "2-35",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABYCA, (<i>Géog. &amp; Hist. anc.</i>) lieu entre lequel \n&amp; le Cnacion les Lacédémoniens tenoient leurs\nassemblées. Aristote dit que le Cnacion est la riviere,\n&amp; que le <i>Babyca</i> est le pont ; ce qui rend ce que l’on\nvient de dire des Lacédémoniens entierement inintelligible ; \ncar entre un pont &amp; une riviere quel espace \ny a-t-il où un peuple puisse s’assembler ?\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABYCA, (<i>Géog. &amp; <span type=\"proposed\">Hist.</span> anc.</i>) lieu entre lequel \n&amp; le Cnacion les Lacédémoniens tenoient leurs\nassemblées. <span type=\"auteur_p\">Aristote</span> dit que le Cnacion est la riviere,\n&amp; que le <i>Babyca</i> est le pont ; ce qui rend ce que l’on\nvient de dire des Lacédémoniens entierement inintelligible ; \ncar entre un pont &amp; une riviere quel espace \ny a-t-il où un peuple puisse s’assembler ?\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BABYCA, (<i>Géog. &amp; Hist. anc.</i>) lieu entre lequel \n&amp; le Cnacion les Lacédémoniens tenoient leurs\nassemblées. Aristote dit que le Cnacion est la riviere,\n&amp; que le <i>Babyca</i> est le pont ; ce qui rend ce que l’on\nvient de dire des Lacédémoniens entierement inintelligible ; \ncar entre un pont &amp; une riviere quel espace \ny a-t-il où un peuple puisse s’assembler ?\n \n</p>\n</div>",
     "title": "BABYCA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BABYCA"
 }

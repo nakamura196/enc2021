@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-474",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2720-3/",
+    "item_id": "2-2718",
     "next": "2-2719",
     "pages": "474",
     "prev": "2-2717",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>C <span class=\"sc\">barré</span>, qui se fait ainsi \n<span class=\"music-symbol\" style=\"font-family: Arial Unicode MS, Lucida Sans Unicode;\"><a class=\"image\" href=\"/wiki/Fichier:Allabreve.svg\" title=\"alla breve\"><img alt=\"alla breve\" data-file-height=\"50\" data-file-width=\"30\" decoding=\"async\" height=\"18\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/11px-Allabreve.svg.png\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/17px-Allabreve.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/22px-Allabreve.svg.png 2x\" width=\"11\"/></a></span>, est <i>en Musique</i>, \nle signe de la mesure à quatre tems vîtes, ou plûtôt à \ndeux tems posés, conservant pourtant toûjours le caractere \nde la mesure à quatre tems, qui est l’égalité \ndes croches. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MESURE\" title=\"L’Encyclopédie/1re édition/MESURE\"><span class=\"sc\">Mesure</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>C <span class=\"sc\">barré</span>, qui se fait ainsi \n<span class=\"music-symbol\" style=\"font-family: Arial Unicode MS, Lucida Sans Unicode;\"><a class=\"image\" href=\"/wiki/Fichier:Allabreve.svg\" title=\"alla breve\"><img alt=\"alla breve\" data-file-height=\"50\" data-file-width=\"30\" decoding=\"async\" height=\"18\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/11px-Allabreve.svg.png\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/17px-Allabreve.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Allabreve.svg/22px-Allabreve.svg.png 2x\" width=\"11\"/></a></span>, est <i>en Musique</i>, \nle signe de la mesure à quatre tems vîtes, ou plûtôt à \ndeux tems posés, conservant pourtant toûjours le caractere \nde la mesure à quatre tems, qui est l’égalité \ndes croches. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/MESURE\" title=\"L’Encyclopédie/1re édition/MESURE\"><span class=\"sc\">Mesure</span></a>. \n \n</p>\n</div>",
     "title": "C barré",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/C_barr%C3%A9"
 }

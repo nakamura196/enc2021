@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-464",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2598-0/",
+    "item_id": "2-2595",
     "next": "2-2596",
     "pages": "464",
     "prev": "2-2594",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLINGBROOK, (<i>Géog.</i>) ville &amp; comté d’Angleterre \ndans la province de Lincoln. <i>Long. 17. 20. </i>\n<i>lat. 53</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BULLINGBROOK, (<i>Géog.</i>) ville &amp; comté d’Angleterre \ndans la province de Lincoln. <i>Long. 17. 20. </i>\n<i>lat. 53</i>. \n \n</p>\n</div>",
     "title": "BULLINGBROOK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BULLINGBROOK"
 }

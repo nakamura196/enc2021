@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-193",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-847-0/",
+    "item_id": "2-851",
     "next": "2-852",
     "pages": "193",
     "prev": "2-850",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEIRE, (<i>Géog.</i>) petite ville de France, en Bourgogne, \nau bailliage de Dijon. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BEIRE, (<i>Géog.</i>) petite ville de France, en Bourgogne, \nau bailliage de Dijon. \n \n</p>\n</div>",
     "title": "BEIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BEIRE"
 }

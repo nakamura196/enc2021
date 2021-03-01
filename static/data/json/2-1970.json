@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-371",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1977-0/",
+    "item_id": "2-1970",
     "next": "2-1971",
     "pages": "371",
     "prev": "2-1969",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURON, (<i>Géog.</i>) ville de la Romanie sur un\nlac de même nom, appartenante aux Turcs.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOURON, (<i>Géog.</i>) ville de la Romanie sur un\nlac de même nom, appartenante aux Turcs.\n \n</p>\n</div>",
     "title": "BOURON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOURON"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4095-0/",
+    "item_id": "2-4106",
     "next": "2-4107",
     "pages": "794",
     "prev": "2-4105",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAYES, (<i>Navigation.</i>) on appelle ainsi des roches \nsous l’eau, peu éloignées des côtes, &amp; souvent\nsur des hauts fonds de sable ; lorsqu’il se rencontre\ndes <i>cayes</i> dans les rades ou dans les ports, les vaisseaux \nsont obligés de prendre des précautions pour\néviter d’en être endommagés.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAYES, (<i>Navigation.</i>) on appelle ainsi des roches \nsous l’eau, peu éloignées des côtes, &amp; souvent\nsur des hauts fonds de sable ; lorsqu’il se rencontre\ndes <i>cayes</i> dans les rades ou dans les ports, les vaisseaux \nsont obligés de prendre des précautions pour\néviter d’en être endommagés.\n \n</p>\n</div>",
     "title": "CAYES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAYES"
 }

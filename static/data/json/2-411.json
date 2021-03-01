@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-74",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-420-0/",
+    "item_id": "2-411",
     "next": "2-412",
     "pages": "74",
     "prev": "2-410",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBY, (<i>Géog.</i>) ville d’Allemagne dans la haute Saxe, capitale du comté de son nom sur l’Elbe. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BARBY, (<i>Géog.</i>) ville d’Allemagne dans la haute Saxe, capitale du comté de son nom sur l’Elbe. \n \n</p>\n</div>",
     "title": "BARBY",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BARBY"
 }

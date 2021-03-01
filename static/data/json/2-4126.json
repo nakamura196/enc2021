@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-795",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4115-0/",
+    "item_id": "2-4126",
     "next": "2-4127",
     "pages": "795",
     "prev": "2-4125",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZERNES, s. f. (<i>Art. milit.</i>) sont de grands corps de logis construits entre le rempart &amp; les maisons d’une ville fortifiée, ou même sur le rempart, pour loger les soldats, à la décharge &amp; au soulagement des habitans. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GARNISON\" title=\"L’Encyclopédie/1re édition/GARNISON\"><span class=\"sc\">Garnison</span></a>.\n</p><p>Il y a pour l’ordinaire deux lits dans chaque chambre, &amp; trois soldats couchent dans le même lit. (<i>Q</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAZERNES, s. f. (<i>Art. milit.</i>) sont de grands corps de logis construits entre le rempart &amp; les maisons d’une ville fortifiée, ou même sur le rempart, pour loger les soldats, à la décharge &amp; au soulagement des habitans. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/GARNISON\" title=\"L’Encyclopédie/1re édition/GARNISON\"><span class=\"sc\">Garnison</span></a>.\n</p><p>Il y a pour l’ordinaire deux lits dans chaque chambre, &amp; trois soldats couchent dans le même lit. (<i>Q</i>) \n \n</p>\n</div>",
     "title": "CAZERNES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAZERNES"
 }

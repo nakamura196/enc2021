@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-5",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-52-0/",
+    "item_id": "2-50",
     "next": "2-51",
     "pages": "5",
     "prev": "2-49",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACCARACH, (<i>Géog.</i>) ville d’Allemagne, dans\nle bas Palatinat, sur le Rhin. <i>Long. 25. 15. lat. 49. 57</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BACCARACH, (<i>Géog.</i>) ville d’Allemagne, dans\nle bas Palatinat, sur le Rhin. <i>Long. 25. 15. lat. 49. 57</i>.\n \n</p>\n</div>",
     "title": "BACCARACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BACCARACH"
 }

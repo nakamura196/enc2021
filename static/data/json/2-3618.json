@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-682",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3621-0/",
+    "item_id": "2-3618",
     "next": "2-3619",
     "pages": "682",
     "prev": "2-3617",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARELIE, (<i>Géog.</i>) province de la partie orientale \nde la Finlande ; on la divise en Suédoise &amp; en\nMoscovite : la partie la plus considérable appartient\nà la Russie.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CARELIE, (<i>Géog.</i>) province de la<span type=\"proposed\"> partie </span>orientale \nde la Finlande ; on la divise en Suédoise &amp; en\nMoscovite : la<span type=\"proposed\"> partie </span>la plus considérable appartient\nà la Russie.\n \n</p>\n</div>",
     "title": "CARELIE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CARELIE"
 }

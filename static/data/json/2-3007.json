@@ -2,7 +2,8 @@
     "authors": [
         "Pierre Tarin"
     ],
-    "item_id": "2-542",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3007-0/",
+    "item_id": "2-3007",
     "next": "2-3008",
     "pages": "542",
     "prev": "2-3006",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CALCANEUM, en Anatomie</i>, c’est la même\nchose que l’os du talon. Il est situé sous l’astragale à\nla partie postérieure du tarse ; c’est le plus gros des\nos du pié.\n</p><p>On peut y distinguer six faces : une postérieure,\nconvexe &amp; inégale, qui forme la partie du pié qu’on\nappelle le <i>talon</i> : une supérieure, qui est divisée en\ndeux portions, dont la postérieure est la plus élevée,\ninégale &amp; un peu concave ; l’antérieure plus basse a\ndeux faces articulaires séparées l’une de l’autre par\nune gouttiere : une inférieure, à la partie postérieure\nde laquelle on remarque deux tubérosités ; une grosse\nsituée interieurement ; l’autre petite située posterieurement : \ndeux latérales, dont l’externe est légerement\nconvexe ; l’interne est concave : une antérieure,\nqu’on appelle la <i>grande apophyse</i>. (<i>L</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CALCANEUM, en Anatomie</i>, c’est la même\nchose que l’os du talon. Il est situé sous l’astragale à\nla<span type=\"proposed\"> partie </span>postérieure du tarse ; c’est le plus gros des\nos du pié.\n</p><p>On peut y distinguer six faces : une postérieure,\nconvexe &amp; inégale, qui forme la<span type=\"proposed\"> partie </span>du pié qu’on\nappelle le <i>talon</i> : une supérieure, qui est divisée en\ndeux portions, dont la postérieure est la plus élevée,\ninégale &amp; un peu concave ; l’antérieure plus basse a\ndeux faces articulaires séparées l’une de l’autre par\nune gouttiere : une inférieure, à la<span type=\"proposed\"> partie </span>postérieure\nde laquelle on remarque deux tubérosités ; une grosse\nsituée interieurement ; l’autre petite située posterieurement : \ndeux latérales, dont l’externe est légerement\nconvexe ; l’interne est concave : une antérieure,\nqu’on appelle la <i>grande apophyse</i>. (<i>L</i>)\n \n</p>\n</div>",
     "title": "CALCANEUM",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALCANEUM"
 }

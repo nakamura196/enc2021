@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-340",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1827-0/",
+    "item_id": "2-1828",
     "next": "2-1829",
     "pages": "340",
     "prev": "2-1827",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTADON, (<i>Géog.</i>) petite ville d’Angleterre,\ndans la province de Cornoüaille.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTADON, (<i>Géog.</i>) petite ville d’Angleterre,\ndans la province de Cornoüaille.\n \n</p>\n</div>",
     "title": "BOTADON",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOTADON"
 }

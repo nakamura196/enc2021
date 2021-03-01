@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-787",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4063-0/",
+    "item_id": "2-4074",
     "next": "2-4075",
     "pages": "787",
     "prev": "2-4073",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAVIAR, (<i>Antiquité.</i>) L’on nommoit ainsi une\nlonge de cheval que l’on offroit tous les cinq ans pour\nle collége des prêtres. On ne nous dit point à quelle\ndivinité. On faisoit un pareil sacrifice tous les ans au\nmois d’Octobre au dieu Mars ; la victime étoit un\ncheval que l’on nommoit <i><span class=\"lang-la\" lang=\"la\">October equus</span></i>. Le rit exigeoit \nque la queue de ce cheval fût transportée avec\ntant de vîtesse du champ de Mars, où on la coupoit,\njusqu’au temple du dieu, qu’il en tombât encore des\ngouttes de sang dans le feu, quand on y arrivoit.\n<i>Voyez Festus, <span class=\"lang-la\" lang=\"la\">Caviares hostiæ</span></i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAVIAR, (<i>Antiquité.</i>) L’on nommoit ainsi une\nlonge de cheval que l’on offroit tous les cinq ans pour\nle collége des prêtres. On ne nous dit point à quelle\ndivinité. On faisoit un pareil sacrifice tous les ans au\nmois d’Octobre au dieu Mars ; la victime étoit un\ncheval que l’on nommoit <i><span class=\"lang-la\" lang=\"la\">October equus</span></i>. Le rit exigeoit \nque la queue de ce cheval fût transportée avec\ntant de vîtesse du champ de Mars, où on la coupoit,\njusqu’au temple du dieu, qu’il en tombât encore des\ngouttes de sang dans le feu, quand on y arrivoit.\n<i><span type=\"bold\">Voyez</span> Festus, <span class=\"lang-la\" lang=\"la\">Caviares hostiæ</span></i>.\n \n</p>\n</div>",
     "title": "CAVIAR",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAVIAR"
 }

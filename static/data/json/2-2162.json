@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-409",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2167-0/",
+    "item_id": "2-2162",
     "next": "2-2163",
     "pages": "409",
     "prev": "2-2161",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREDA, (<i>Géog.</i>) ville forte avec titre de baronie,\nsituée dans le Brabant Hollandois, dans un lieu\nfort marécageux, sur la Merck. <i>Long. 22. 20. lat.  51. 35</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREDA, (<i>Géog.</i>) ville forte avec titre de baronie,\nsituée dans le Brabant Hollandois, dans un lieu\nfort marécageux, sur la Merck. <i>Long. 22. 20. lat.  51. 35</i>.\n \n</p>\n</div>",
     "title": "BREDA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREDA"
 }

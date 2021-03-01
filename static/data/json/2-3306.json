@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-597",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3309-0/",
+    "item_id": "2-3306",
     "next": "2-3307",
     "pages": "597",
     "prev": "2-3305",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANIDE, <i>ou</i> CANIVET, très-grand &amp; très-beau\nperroquet d’Amérique. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PERROQUET\" title=\"L’Encyclopédie/1re édition/PERROQUET\"><span class=\"sc\">Perroquet</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANIDE, <i>ou</i> CANIVET, très-grand &amp; très-beau\nperroquet d’Amérique. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PERROQUET\" title=\"L’Encyclopédie/1re édition/PERROQUET\"><span class=\"sc\">Perroquet</span></a>.\n \n</p>\n</div>",
     "title": "CANIDE, ou CANIVET",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANIDE,_ou_CANIVET"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-572",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3186-0/",
+    "item_id": "2-3184",
     "next": "2-3185",
     "pages": "572",
     "prev": "2-3183",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMINIETZ, (<i>Géog.</i>) petite ville de Pologne, \nsur la riviere de Bug, dans la Province de Mazovie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAMINIETZ, (<i>Géog.</i>) petite ville de Pologne, \nsur la riviere de Bug, dans la Province de Mazovie. \n \n</p>\n</div>",
     "title": "CAMINIETZ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAMINIETZ"
 }

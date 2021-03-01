@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-787",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4072-0/",
+    "item_id": "2-4083",
     "next": "2-4084",
     "pages": "787",
     "prev": "2-4082",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAURIS, (<i>Hist. med. commerce</i>) espece de petites \ncoquilles, qui tient lieu de monnoie dans quelques \nendroits des Indes orientales.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CAURIS, (<i>Hist. med. commerce</i>) espece de petites \ncoquilles, qui tient lieu de monnoie dans quelques \nendroits des Indes orientales.\n \n</p>\n</div>",
     "title": "CAURIS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAURIS"
 }

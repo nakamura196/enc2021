@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-746",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3843-0/",
+    "item_id": "2-3840",
     "next": "2-3841",
     "pages": "746",
     "prev": "2-3839",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSE-AIGUILLE, s. m. ouvrier occupé dans\nles salines. <i>Voyez</i> <span class=\"sc\">Aiguilleur</span>, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALINES\" title=\"L’Encyclopédie/1re édition/SALINES\"><span class=\"sc\">Salines</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASSE-AIGUILLE, s. m. ouvrier occupé dans\nles salines. <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Aiguilleur</span>, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/SALINES\" title=\"L’Encyclopédie/1re édition/SALINES\"><span class=\"sc\">Salines</span></a>.\n \n</p>\n</div>",
     "title": "CASSE-AIGUILLE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASSE-AIGUILLE"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-331",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1739-0/",
+    "item_id": "2-1740",
     "next": "2-1741",
     "pages": "331",
     "prev": "2-1739",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORCKEN, (<i>Géog.</i>) petite ville de la basse-Hesse, \nsur la riviere de Sehwalm.\n</p><p><span class=\"sc\">Borcken</span>, (<i>Géog.</i>) petite ville de l’évéché de \nMunster, sur l’Aa, près de Wesel. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORCKEN, (<i>Géog.</i>) petite ville de la basse-Hesse, \nsur la riviere de Sehwalm.\n</p><p><span class=\"sc\">Borcken</span>, (<i>Géog.</i>) petite ville de l’évéché de \nMunster, sur l’Aa, près de Wesel. \n \n</p>\n</div>",
     "title": "BORCKEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORCKEN"
 }

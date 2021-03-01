@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-258",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1326-0/",
+    "item_id": "2-1329",
     "next": "2-1330",
     "pages": "258",
     "prev": "2-1328",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BINOCULAIRE. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BINOCLE,_ou_T%C3%89LESCOPE_BINOCULAIRE\" title=\"L’Encyclopédie/1re édition/BINOCLE, ou TÉLESCOPE BINOCULAIRE\"><span class=\"sc\">Binocle</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BINOCULAIRE. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BINOCLE,_ou_T%C3%89LESCOPE_BINOCULAIRE\" title=\"L’Encyclopédie/1re édition/BINOCLE, ou TÉLESCOPE BINOCULAIRE\"><span class=\"sc\">Binocle</span></a>. \n \n</p>\n</div>",
     "title": "BINOCULAIRE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BINOCULAIRE"
 }

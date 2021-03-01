@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-348",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1861-0/",
+    "item_id": "2-1856",
     "next": "2-1857",
     "pages": "348",
     "prev": "2-1855",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOUCHAGE, s. m. c’est dans les <i>grosses forges</i>, une certaine quantité de terre détrempée &amp; pétrie,\ndont on se sert pour fermer la coulée. <i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COUL%C3%89E\" title=\"L’Encyclopédie/1re édition/COULÉE\"><span class=\"sc\">Coulée</span></a>. Ainsi faire le <i>bouchage</i>, c’est détremper &amp;\npétrir cette terre. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FORGE\" title=\"L’Encyclopédie/1re édition/FORGE\"><span class=\"sc\">grosses Forges</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BOUCHAGE, s. m. c’est dans les <i>grosses forges</i>, une certaine quantité de terre détrempée &amp; pétrie,\ndont on se sert pour fermer la coulée. <i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/COUL%C3%89E\" title=\"L’Encyclopédie/1re édition/COULÉE\"><span class=\"sc\">Coulée</span></a>. Ainsi faire le <i>bouchage</i>, c’est détremper &amp;\npétrir cette terre. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FORGE\" title=\"L’Encyclopédie/1re édition/FORGE\"><span class=\"sc\">grosses Forges</span></a>.\n \n</p>\n</div>",
     "title": "BOUCHAGE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUCHAGE"
 }

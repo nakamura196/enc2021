@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-118",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-573-0/",
+    "item_id": "2-562",
     "next": "2-563",
     "pages": "118",
     "prev": "2-561",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASKRON, PASCATIR, <i>ou</i> PASCHARTI, \n(<i>Géog.</i>) province de la Tartarie Moscovite, bornée \nà l’orient par les Kalmuks ; au midi par la grande Nogaia ; \nau couchant par la riviere de Kam, &amp; au nord \npar la Permia Velchi, &amp; par une partie de la Siberie. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BASKRON, PASCATIR, <i>ou</i> PASCHARTI, \n(<i>Géog.</i>) province de la Tartarie Moscovite, bornée \nà l’orient par les Kalmuks ; au midi par la grande Nogaia ; \nau couchant par la riviere de Kam, &amp; au nord \npar la Permia Velchi, &amp; par une<span type=\"proposed\"> partie </span>de la Siberie. \n \n</p>\n</div>",
     "title": "BASKRON, PASCATIR, ou PASCHARTI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASKRON,_PASCATIR,_ou_PASCHARTI"
 }

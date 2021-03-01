@@ -2,7 +2,8 @@
     "authors": [
         "Urbain de Vandenesse"
     ],
-    "item_id": "2-154",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-677-0/",
+    "item_id": "2-680",
     "next": "2-681",
     "pages": "154",
     "prev": "2-679",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATTITURES, s. f. (<i>Mat. med.</i>) écailles des métaux \nqui s’en séparent en les battant : elles ont les\nmêmes usages en Medecine que les métaux dont on\nles tire. (<i>N</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BATTITURES, s. f. (<i>Mat. med.</i>) écailles des métaux \nqui s’en séparent en les battant : elles ont les\nmêmes usages en Medecine que les métaux dont on\nles tire. (<i>N</i>)\n \n</p>\n</div>",
     "title": "BATTITURES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BATTITURES"
 }

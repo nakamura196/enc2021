@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-121",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-580-16/",
+    "item_id": "2-583",
     "next": "2-584",
     "pages": "121",
     "prev": "2-582",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basses-voiles</span>, c’est ainsi qu’on appelle en <i>Marine</i>, \nla grande voile &amp; celle de misene ; quelques-uns \ny ajoûtent l’artimon, qui ne doit pas y être compris \nquand on dit <i>amarez les basses-voiles ;</i> car l’artimon\nn’a point de coüets. (<i>Z</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Basses-voiles</span>, c’est ainsi qu’on appelle en <i>Marine</i>, \nla grande voile &amp; celle de misene ; quelques-uns \ny ajoûtent l’artimon, qui ne doit pas y être compris \nquand on dit <i>amarez les basses-voiles ;</i> car l’artimon\nn’a point de coüets. (<i>Z</i>)\n \n</p>\n</div>",
     "title": "BASSES-VOILES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASSES-VOILES"
 }

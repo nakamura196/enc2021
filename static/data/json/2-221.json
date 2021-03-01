@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-32",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-228-0/",
+    "item_id": "2-221",
     "next": "2-222",
     "pages": "32",
     "prev": "2-220",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALDIVIA, (<i>Géog.</i>) port &amp; place considérable du Chili, entre les rivieres de Callacalla &amp; del Potrero, à leur embouchure dans la mer du Sud. <i>Long. 306. 52. lat. mérid. 39. 58</i>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BALDIVIA, (<i>Géog.</i>) port &amp; place considérable du Chili, entre les rivieres de Callacalla &amp; del Potrero, à leur embouchure dans la mer du Sud. <i>Long. 306. 52. lat. mérid. 39. 58</i>. \n \n</p>\n</div>",
     "title": "BALDIVIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BALDIVIA"
 }

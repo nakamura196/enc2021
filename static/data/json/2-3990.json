@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-775",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3978-0/",
+    "item_id": "2-3990",
     "next": "2-3991",
     "pages": "775",
     "prev": "2-3989",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATERLAGH, (<i>Géog.</i>) ville d’Irlande, capitale\ndu comté de même nom, dans la province de Leinster, sur le Barrow.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATERLAGH, (<i>Géog.</i>) ville d’Irlande, capitale\ndu comté de même nom, dans la province de Leinster, sur le Barrow.\n \n</p>\n</div>",
     "title": "CATERLAGH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATERLAGH"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-412",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2193-0/",
+    "item_id": "2-2188",
     "next": "2-2189",
     "pages": "412",
     "prev": "2-2187",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMA, (<i>Géog.</i>) royaume &amp; ville d’Asie, dans\nl’Inde au-delà du Gange.\n</p><p><span class=\"sc\">Brema</span>, (<i>Géog.</i>) petite ville du duché de Milan,\nsur le Pô, entre Casal &amp; Valence.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREMA, (<i>Géog.</i>) royaume &amp; ville d’Asie, dans\nl’Inde au-delà du Gange.\n</p><p><span class=\"sc\">Brema</span>, (<i>Géog.</i>) petite ville du duché de Milan,\nsur le Pô, entre Casal &amp; Valence.\n \n</p>\n</div>",
     "title": "BREMA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREMA"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-561",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3077-0/",
+    "item_id": "2-3076",
     "next": "2-3077",
     "pages": "561",
     "prev": "2-3075",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLÉE. s. f. (<i>Commerce.</i>) <i>Cuirs de callée ;</i> c’est ainsi qu’on appelle des excellens cuirs de Barbarie, que les Tagrains &amp; les Andalous achettent, &amp; dont ils rendent le commerce difficile, par le cas &amp; les usages qu’ils en font. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* CALLÉE. s. f. (<i>Commerce.</i>) <i>Cuirs de callée ;</i> c’est ainsi qu’on appelle des excellens cuirs de Barbarie, que les Tagrains &amp; les Andalous achettent, &amp; dont ils rendent le commerce difficile, par le cas &amp; les usages qu’ils en font. \n \n</p>\n</div>",
     "title": "CALLÉE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CALL%C3%89E"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-457",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2522-0/",
+    "item_id": "2-2519",
     "next": "2-2520",
     "pages": "457",
     "prev": "2-2518",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCHEN, (<i>Géog.</i>) petite ville d’Allemagne\ndans l’Odenwaldt, appartenante à l’électorat de\nMayence.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BUCHEN, (<i>Géog.</i>) petite ville d’Allemagne\ndans l’Odenwaldt, appartenante à l’électorat de\nMayence.\n \n</p>\n</div>",
     "title": "BUCHEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BUCHEN"
 }

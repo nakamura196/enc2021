@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-794",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4087-0/",
+    "item_id": "2-4098",
     "next": "2-4099",
     "pages": "794",
     "prev": "2-4097",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUX, (<i>le pays de</i>) contrée de France, située\nentre la Seine &amp; l’Océan, la Picardie, le pays de\nBray, &amp; le Vexin-Normand. La capitale est Caudebec, où l’on fabrique des chapeaux de ce nom (<i>Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHAPEAU\" title=\"L’Encyclopédie/1re édition/CHAPEAU\"><span class=\"sc\">Chapeau</span></a>) : ce pays produit du chanvre, du lin, &amp;\nest très-fertile.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAUX, (<i>le pays de</i>) contrée de France, située\nentre la Seine &amp; l’Océan, la Picardie, le pays de\nBray, &amp; le Vexin-Normand. La capitale est Caudebec, où l’on fabrique des chapeaux de ce nom (<i><span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CHAPEAU\" title=\"L’Encyclopédie/1re édition/CHAPEAU\"><span class=\"sc\">Chapeau</span></a>) : ce pays produit du chanvre, du lin, &amp;\nest très-fertile.\n \n</p>\n</div>",
     "title": "CAUX",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAUX"
 }

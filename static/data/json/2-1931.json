@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-366",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1938-0/",
+    "item_id": "2-1931",
     "next": "2-1932",
     "pages": "366",
     "prev": "2-1930",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUQUINER, (<i>en terme de chasse.</i>) se dit d’un lievre \nen amour, lorsqu’il tient une hase.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOUQUINER, (<i>en terme de chasse.</i>) se dit d’un lievre \nen amour, lorsqu’il tient une hase.\n \n</p>\n</div>",
     "title": "BOUQUINER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOUQUINER"
 }

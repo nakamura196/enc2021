@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-358",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1910-0/",
+    "item_id": "2-1904",
     "next": "2-1905",
     "pages": "358",
     "prev": "2-1903",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVINES <i>ou</i> BOVIGNES, (<i>Géog.</i>) petite ville\ndu comté de Namur sur la Meuse, renommée par la\nvictoire qu’y remporta Philippe-Auguste.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOVINES <i>ou</i> BOVIGNES, (<i>Géog.</i>) petite ville\ndu comté de Namur sur la Meuse, renommée par la\nvictoire qu’y remporta Philippe-Auguste.\n \n</p>\n</div>",
     "title": "BOVINES ou BOVIGNES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOVINES_ou_BOVIGNES"
 }

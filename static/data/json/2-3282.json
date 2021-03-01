@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-592",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3285-0/",
+    "item_id": "2-3282",
     "next": "2-3283",
     "pages": "592",
     "prev": "2-3281",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Canée</span>, (<span class=\"sc\">la</span>) <i>Géog.</i> ville forte de l’île de Candie, avec un port. <i>Long. 41. 43. lat. 35. 28</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><span class=\"sc\">Canée</span>, (<span class=\"sc\">la</span>) <i>Géog.</i> ville forte de l’île de Candie, avec un port. <i>Long. 41. 43. lat. 35. 28</i>.\n \n</p>\n</div>",
     "title": "CANÉE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAN%C3%89E"
 }

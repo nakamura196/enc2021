@@ -2,7 +2,8 @@
     "authors": [
         "Guillaume Le Blond"
     ],
-    "item_id": "2-740",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3808-0/",
+    "item_id": "2-3805",
     "next": "2-3806",
     "pages": "740",
     "prev": "2-3804",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASCANES, s. f. <i>en termes de Fortification</i>, sont\ndes trous ou cavités en forme de puits que l’on fait\ndans le terre-plein, près du rempart, &amp; d’où l’on\npousse une galerie soûterraine, pour découvrir &amp;\néventer, ou couper la mine des ennemis. Ce terme\nn’est plus guere d’usage à présent ; on se sert plûtôt\nde celui de <i>puits</i> ou d’<i>écoutes. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PUITS\" title=\"L’Encyclopédie/1re édition/PUITS\"><span class=\"sc\">Puits</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ECOUTES\" title=\"L’Encyclopédie/1re édition/ECOUTES\"><span class=\"sc\">Ecoutes</span></a>. (<i>Q</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASCANES, s. f. <i>en termes de Fortification</i>, sont\ndes trous ou cavités en forme de puits que l’on fait\ndans le terre-plein, près du rempart, &amp; d’où l’on\npousse une galerie soûterraine, pour découvrir &amp;\néventer, ou couper la mine des ennemis. Ce terme\nn’est plus guere d’usage à présent ; on se sert plûtôt\nde celui de <i>puits</i> ou d’<i>écoutes. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PUITS\" title=\"L’Encyclopédie/1re édition/PUITS\"><span class=\"sc\">Puits</span></a> <i>&amp;</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ECOUTES\" title=\"L’Encyclopédie/1re édition/ECOUTES\"><span class=\"sc\">Ecoutes</span></a>. (<i>Q</i>)\n \n</p>\n</div>",
     "title": "CASCANES",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASCANES"
 }

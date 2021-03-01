@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-259",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1335-0/",
+    "item_id": "2-1338",
     "next": "2-1339",
     "pages": "259",
     "prev": "2-1337",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIOPHIO, <i>ou</i> BIOBIO, (<i>Géog.</i>) riviere du \nChili, dans l’Amérique méridionale, qui se jette dans \nla mer du Sud. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BIOPHIO, <i>ou</i> BIOBIO, (<i>Géog.</i>) riviere du \nChili, dans l’Amérique méridionale, qui se jette dans \nla mer du Sud. \n \n</p>\n</div>",
     "title": "BIOPHIO, ou BIOBIO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIOPHIO,_ou_BIOBIO"
 }

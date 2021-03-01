@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-51",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-281-0/",
+    "item_id": "2-273",
     "next": "2-274",
     "pages": "51",
     "prev": "2-272",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBYCATIENS, s. m. pl. (<i>Géog. anc.</i>) peuples \nvoisins du Tigre, peut-être les habitans de Bambyce \nou Hiérapolis.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BAMBYCATIENS, s. m. pl. (<i>Géog. anc.</i>) peuples \nvoisins du Tigre, peut-être les habitans de Bambyce \nou Hiérapolis.\n \n</p>\n</div>",
     "title": "BAMBYCATIENS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BAMBYCATIENS"
 }

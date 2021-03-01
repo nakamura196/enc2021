@@ -2,14 +2,15 @@
     "authors": [
         "Louis Jean-Marie Daubenton"
     ],
-    "item_id": "2-765",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3944-0/",
+    "item_id": "2-3956",
     "next": "2-3957",
     "pages": "765",
     "prev": "2-3955",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATANANCE, s. f. (<i>Hist. nat. bot.</i>) genre de\nplante, dont la fleur est un bouquet à demi-fleurons,\nportes chacun sur un embryon, &amp; soûtenus par un\ncalice composé de plusieurs feuilles en écailles. Chaque embryon devient dans la suite une semence garnie \nd’une couronne de poils, &amp; renfermée dans le\ncalice. Tournefort, <i>Inst. rei herb. Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATANANCE, s. f. (<i>Hist. nat. bot.</i>) genre de\nplante, dont la fleur est un bouquet à demi-fleurons,\nportes chacun sur un embryon, &amp; soûtenus par un\ncalice composé de plusieurs feuilles en écailles. Chaque embryon devient dans la suite une semence garnie \nd’une couronne de poils, &amp; renfermée dans le\ncalice. <span type=\"auteur_p\">Tournefort</span>, <i>Inst. rei herb. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATANANCE, s. f. (<i>Hist. nat. bot.</i>) genre de\nplante, dont la fleur est un bouquet à demi-fleurons,\nportes chacun sur un embryon, &amp; soûtenus par un\ncalice composé de plusieurs feuilles en écailles. Chaque embryon devient dans la suite une semence garnie \nd’une couronne de poils, &amp; renfermée dans le\ncalice. Tournefort, <i>Inst. rei herb. <span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PLANTE\" title=\"L’Encyclopédie/1re édition/PLANTE\"><span class=\"sc\">Plante</span></a>. (<i>I</i>)\n \n</p>\n</div>",
     "title": "CATANANCE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATANANCE"
 }

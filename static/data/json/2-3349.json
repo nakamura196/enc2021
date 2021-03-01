@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-621",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3352-0/",
+    "item_id": "2-3349",
     "next": "2-3350",
     "pages": "621",
     "prev": "2-3348",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANOURGUE, (<span class=\"sc\">la</span>) <i>Géog.</i> petite ville de France dans le Gevaudan.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANOURGUE, (<span class=\"sc\">la</span>) <i>Géog.</i> petite ville de France dans le Gevaudan.\n \n</p>\n</div>",
     "title": "CANOURGUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANOURGUE"
 }

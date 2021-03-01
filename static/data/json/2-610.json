@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-129",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-607-0/",
+    "item_id": "2-610",
     "next": "2-611",
     "pages": "129",
     "prev": "2-609",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASTINGUER ; on dit se <i>bastinguer</i>, lorsque pour \nse préparer au combat, on tend les <i>bastingues</i> : on se \nsert aussi de Matelots pour en tenir lieu, &amp; mettre \nceux qui sont sur le pont un peu à couvert de la mousqueterie. \n(<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BASTINGUER ; on dit se <i>bastinguer</i>, lorsque pour \nse préparer au combat, on tend les <i>bastingues</i> : on se \nsert aussi de Matelots pour en tenir lieu, &amp; mettre \nceux qui sont sur le pont un peu à couvert de la mousqueterie. \n(<i>Z</i>) \n \n</p>\n</div>",
     "title": "BASTINGUER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BASTINGUER"
 }

@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-213",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1100-0/",
+    "item_id": "2-1104",
     "next": "2-1105",
     "pages": "213",
     "prev": "2-1103",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESSI, (<i>Commerce.</i>) petite monnoie qui fait un \ndemi-soldo ; il en faut quarante pour faire une lira. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BESSI, (<i>Commerce.</i>) petite monnoie qui fait un \ndemi-soldo ; il en faut quarante pour faire une lira. \n \n</p>\n</div>",
     "title": "BESSI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BESSI"
 }

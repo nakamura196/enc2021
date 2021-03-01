@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-216",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1116-0/",
+    "item_id": "2-1120",
     "next": "2-1121",
     "pages": "216",
     "prev": "2-1119",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BETHUNE, (<i>Géog.</i>) ville de France au comté\nd’Artois, sur la petite riviere de Biette. <i>Long. 20.  18. 8. lat. 50. 31. 66</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BETHUNE, (<i>Géog.</i>) ville de France au comté\nd’Artois, sur la petite riviere de Biette. <i>Long. 20.  18. 8. lat. 50. 31. 66</i>.\n \n</p>\n</div>",
     "title": "BETHUNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BETHUNE"
 }

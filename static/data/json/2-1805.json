@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-337",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1804-0/",
+    "item_id": "2-1805",
     "next": "2-1806",
     "pages": "337",
     "prev": "2-1804",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSINGEN, (<i>Géog.</i>) ville de Suisse dans le canton \nde Fribourg, sur la riviere de Senfen.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOSINGEN, (<i>Géog.</i>) ville de Suisse dans le canton \nde Fribourg, sur la riviere de Senfen.\n \n</p>\n</div>",
     "title": "BOSINGEN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOSINGEN"
 }

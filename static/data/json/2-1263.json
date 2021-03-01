@@ -2,7 +2,8 @@
     "authors": [
         "Jacques-Nicolas Bellin"
     ],
-    "item_id": "2-248",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1260-0/",
+    "item_id": "2-1263",
     "next": "2-1264",
     "pages": "248",
     "prev": "2-1262",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIGUE, s. f. <i>en Marine</i>, c’est une grosse &amp; longue \npiece de bois que l’on passe dans les sabords aux \ncôtés des vaisseaux, lorsqu’il y a quelque chose à \nfaire, soit pour les soulever, soit pour les coucher.\n</p><p><span class=\"sc\">Bigues</span> ; ce sont aussi les mâts qui soûtiennent \ncelui d’une machine à mâter. (<i>Z</i>) \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BIGUE, s. f. <i>en Marine</i>, c’est une grosse &amp; longue \npiece de bois que l’on passe dans les sabords aux \ncôtés des vaisseaux, lorsqu’il y a quelque chose à \nfaire, soit pour les soulever, soit pour les coucher.\n</p><p><span class=\"sc\">Bigues</span> ; ce sont aussi les mâts qui soûtiennent \ncelui d’une machine à mâter. (<i>Z</i>) \n \n</p>\n</div>",
     "title": "BIGUE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BIGUE"
 }

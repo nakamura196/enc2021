@@ -3,7 +3,8 @@
         "Pierre Tarin",
         "Marc-Antoine Eidous"
     ],
-    "item_id": "2-333",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1747-0/",
+    "item_id": "2-1748",
     "next": "2-1749",
     "pages": "333",
     "prev": "2-1747",
@@ -11,6 +12,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORDÉ, adj. corps bordés, <i><span class=\"lang-la\" lang=\"la\">corpora fimbriatæ</span>, en Anatomie</i>, est le nom d’un petit rebord collatéral,\nmince &amp; plat, comme une espece de bandelette, que\nl’on remarque aux côtés externes des piliers postérieurs \nde la voûte à trois piliers. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VO%C3%9BTE\" title=\"L’Encyclopédie/1re édition/VOÛTE\"><span class=\"sc\">Voûte</span></a>. (<i>L</i>)\n</p><p><span class=\"sc\">Bordé</span>, <i>en terme de Blason</i>, se dit des croix, des\nbandes, des gonfanons, &amp; autres choses qui ont des\nbords de différens émaux.\n</p><p>Thomas d’Embri, d’or à la bande d’or bordée &amp;\ndentelée de gueules. (<i>V</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORDÉ, adj. corps bordés, <i><span class=\"lang-la\" lang=\"la\">corpora fimbriatæ</span>, en Anatomie</i>, est le nom d’un petit rebord collatéral,\nmince &amp; plat, comme une espece de bandelette, que\nl’on remarque aux côtés externes des piliers postérieurs \nde la voûte à trois piliers. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/VO%C3%9BTE\" title=\"L’Encyclopédie/1re édition/VOÛTE\"><span class=\"sc\">Voûte</span></a>. (<i>L</i>)\n</p><p><span class=\"sc\">Bordé</span>, <i>en terme de Blason</i>, se dit des croix, des\nbandes, des gonfanons, &amp; autres choses qui ont des\nbords de différens émaux.\n</p><p>Thomas d’Embri, d’or à la bande d’or bordée &amp;\ndentelée de gueules. (<i>V</i>)\n \n</p>\n</div>",
     "title": "BORDÉ",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORD%C3%89"
 }

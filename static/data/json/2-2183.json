@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-410",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2188-0/",
+    "item_id": "2-2183",
     "next": "2-2184",
     "pages": "410",
     "prev": "2-2182",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREITENBACH, (<i>Géog.</i>) petite ville &amp; château\ndans la Thuringe.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BREITENBACH, (<i>Géog.</i>) petite ville &amp; château\ndans la Thuringe.\n \n</p>\n</div>",
     "title": "BREITENBACH",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BREITENBACH"
 }

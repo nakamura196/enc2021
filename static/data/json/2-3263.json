@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-590",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3266-0/",
+    "item_id": "2-3263",
     "next": "2-3264",
     "pages": "590",
     "prev": "2-3262",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANDAU, (<i>Géog</i>.) petite ville d’Allemagne, dans le duché de Courlande à 9 milles de Mittau. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CANDAU, (<i>Géog</i>.) petite ville d’Allemagne, dans le duché de Courlande à 9 milles de Mittau. \n \n</p>\n</div>",
     "title": "CANDAU",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CANDAU"
 }

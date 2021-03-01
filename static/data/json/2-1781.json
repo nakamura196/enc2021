@@ -2,7 +2,8 @@
     "authors": [
         "Antoine Joseph Dezallier d’Argenville"
     ],
-    "item_id": "2-336",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1780-0/",
+    "item_id": "2-1781",
     "next": "2-1782",
     "pages": "336",
     "prev": "2-1780",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORNER, v. act. (<i>Jardinage.</i>) du bouis, par exemple,\nc’est, lorsqu’il vient d’être planté, lui donner\navec le dos du plantoir ou avec les mains, la forme\n&amp; le contour qu’il doit avoir suivant le dessein, en\nplombant bien la terre tout au-tour de peur qu’il ne\ns’évente. (<i>K</i>)\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BORNER, v. act. (<i>Jardinage.</i>) du bouis, par exemple,\nc’est, lorsqu’il vient d’être planté, lui donner\navec le dos du plantoir ou avec les mains, la forme\n&amp; le contour qu’il doit avoir suivant le dessein, en\nplombant bien la terre tout au-tour de peur qu’il ne\ns’évente. (<i>K</i>)\n \n</p>\n</div>",
     "title": "BORNER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BORNER"
 }

@@ -2,14 +2,15 @@
     "authors": [
         "Paul Henri Thiry d’Holbach"
     ],
-    "item_id": "2-509",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2831-0/",
+    "item_id": "2-2830",
     "next": "2-2831",
     "pages": "509",
     "prev": "2-2829",
     "publish_year": "1751",
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CACHIMIA</i>, s. f. (<i>Chimie.</i>) ce mot ne se trouve\nguere que dans Paracelse, qui s’en sert pour désigner\ndes substances minérales qui ne sont point parvenues\nà perfection, ou ce qui n’est ni sel ni métal, mais qui\nparticipe cependant plus de la nature métallique que\nde toute autre. Les substances de ce genre sont les\ndifférentes especes de cobalt, le bismuth, le zinc,\nl’arsenic, <i>&amp;c.</i> (—)\n \n</p>\n</div>",
-    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CACHIMIA</i>, s. f. (<i>Chimie.</i>) ce mot ne se trouve\nguere que dans <span type=\"auteur_p\">Paracelse</span>, qui s’en sert pour désigner\ndes substances minérales qui ne sont point parvenues\nà perfection, ou ce qui n’est ni sel ni métal, mais qui\nparticipe cependant plus de la nature métallique que\nde toute autre. Les substances de ce genre sont les\ndifférentes especes de cobalt, le bismuth, le zinc,\nl’arsenic, <i>&amp;c.</i> (—)\n \n</p>\n</div>",
+    "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p><i>CACHIMIA</i>, s. f. (<i>Chimie.</i>) ce mot ne se trouve\nguere que dans Paracelse, qui s’en sert pour désigner\ndes substances minérales qui ne sont point parvenues\nà perfection, ou ce qui n’est ni sel ni métal, mais qui\nparticipe cependant plus de la nature métallique que\nde toute autre. Les substances de ce genre sont les\ndifférentes especes de cobalt, le bismuth, le zinc,\nl’arsenic, <i>&amp;c.</i> (—)\n \n</p>\n</div>",
     "title": "CACHIMIA",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CACHIMIA"
 }

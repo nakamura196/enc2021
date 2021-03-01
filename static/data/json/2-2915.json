@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-531",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2916-0/",
+    "item_id": "2-2915",
     "next": "2-2916",
     "pages": "531",
     "prev": "2-2914",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHYS, s. m. (<i>Commerce.</i>) mesure de grains dont \non se sert en quelques endroits d’Espagne, particulierement \nà Seville &amp; à Cadix. Quatre <i>cahys</i> font le \nfanega, &amp; cinquante fanegas font le last d’Amsterdam. \nIl faut douze anegras pour un <i>cahys. Voyez</i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FANEGOS\" title=\"L’Encyclopédie/1re édition/FANEGOS\"><span class=\"sc\">Fanega</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LAST_ou_LASTE\" title=\"L’Encyclopédie/1re édition/LAST ou LASTE\"><span class=\"sc\">Last</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ANEGRAS\" title=\"L’Encyclopédie/1re édition/ANEGRAS\"><span class=\"sc\">Anegra</span></a>. <i>Dictionn. du Commerce, </i>\n<i>tome II. page 31</i>.\n</p><p>* Le <i>Cahys</i> est généralement en usage en Espagne \npour les marchandises seches ; l’anegra tient douze \nalmudas, &amp; l’almuda répond à environ sept livres \nde Hollande ou d’Amsterdam, &amp; neuf à dix onces. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAHYS, s. m. (<i>Commerce.</i>) mesure de grains dont \non se sert en quelques endroits d’Espagne, particulierement \nà Seville &amp; à Cadix. Quatre <i>cahys</i> font le \nfanega, &amp; cinquante fanegas font le last d’Amsterdam. \nIl faut douze anegras pour un <i>cahys. <span type=\"bold\">Voyez</span></i>\n<a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/FANEGOS\" title=\"L’Encyclopédie/1re édition/FANEGOS\"><span class=\"sc\">Fanega</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LAST_ou_LASTE\" title=\"L’Encyclopédie/1re édition/LAST ou LASTE\"><span class=\"sc\">Last</span></a>, <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/ANEGRAS\" title=\"L’Encyclopédie/1re édition/ANEGRAS\"><span class=\"sc\">Anegra</span></a>. <i>Dictionn. du Commerce, </i>\n<i><span type=\"proposed\">tome </span>II.<span type=\"proposed\"> page </span>31</i>.\n</p><p>* Le <i>Cahys</i> est généralement en usage en Espagne \npour les marchandises seches ; l’anegra tient douze \nalmudas, &amp; l’almuda répond à environ sept livres \nde Hollande ou d’Amsterdam, &amp; neuf à dix onces. \n \n</p>\n</div>",
     "title": "CAHYS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAHYS"
 }

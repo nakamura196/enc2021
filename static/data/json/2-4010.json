@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-778",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3998-0/",
+    "item_id": "2-4010",
     "next": "2-4011",
     "pages": "778",
     "prev": "2-4009",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATIF, (<i>Géog.</i>) ville d’Asie dans l’Arabie heureuse,\nprès du golfe Persique.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CATIF, (<i>Géog.</i>) ville d’Asie dans l’Arabie heureuse,\nprès du golfe Persique.\n \n</p>\n</div>",
     "title": "CATIF",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CATIF"
 }

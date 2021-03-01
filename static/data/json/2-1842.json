@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-347",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1847-0/",
+    "item_id": "2-1842",
     "next": "2-1843",
     "pages": "347",
     "prev": "2-1841",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTTIER, s. m. est celui qui fait &amp; vend toutes \nsortes de bottes molles, fortes, bottines. Les <i>Bottiers</i> \nsont du corps des Cordonniers, &amp; ne se servent point \nd’autres outils qu’eux. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDONNIER\" title=\"L’Encyclopédie/1re édition/CORDONNIER\"><span class=\"sc\">Cordonnier</span></a>. \n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BOTTIER, s. m. est celui qui fait &amp; vend toutes \nsortes de bottes molles, fortes, bottines. Les <i>Bottiers</i> \nsont du corps des Cordonniers, &amp; ne se servent point \nd’autres outils qu’eux. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CORDONNIER\" title=\"L’Encyclopédie/1re édition/CORDONNIER\"><span class=\"sc\">Cordonnier</span></a>. \n \n</p>\n</div>",
     "title": "BOTTIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BOTTIER"
 }

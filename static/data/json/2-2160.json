@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-409",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-2165-0/",
+    "item_id": "2-2160",
     "next": "2-2161",
     "pages": "409",
     "prev": "2-2159",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRECHYN, (<i>Géog.</i>) petite ville de l’Ecosse septentrionale,\ndans la province d’Angus. <i>Longit. 15.  20. lat. 36. 47</i>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BRECHYN, (<i>Géog.</i>) petite ville de l’Ecosse septentrionale,\ndans la province d’Angus. <i>Longit. 15.  20. lat. 36. 47</i>.\n \n</p>\n</div>",
     "title": "BRECHYN",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BRECHYN"
 }

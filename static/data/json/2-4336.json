@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-866",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-4326-0/",
+    "item_id": "2-4336",
     "next": "2-4337",
     "pages": "866",
     "prev": "2-4335",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERVIER, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LYNX\" title=\"L’Encyclopédie/1re édition/LYNX\"><span class=\"sc\">Loup cervier</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CERVIER, <i>voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/LYNX\" title=\"L’Encyclopédie/1re édition/LYNX\"><span class=\"sc\">Loup cervier</span></a>.\n \n</p>\n</div>",
     "title": "CERVIER",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CERVIER"
 }

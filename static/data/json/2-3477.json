@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-637",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3479-0/",
+    "item_id": "2-3477",
     "next": "2-3478",
     "pages": "637",
     "prev": "2-3476",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRIATO, (<i>Géog.</i>) petite ville d’Italie, dans\nle marquisat de Montferrat.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CAPRIATO, (<i>Géog.</i>) petite ville d’Italie, dans\nle marquisat de Montferrat.\n \n</p>\n</div>",
     "title": "CAPRIATO",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CAPRIATO"
 }

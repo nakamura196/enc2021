@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-750",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-3888-0/",
+    "item_id": "2-3901",
     "next": "2-3902",
     "pages": "750",
     "prev": "2-3900",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLANI, <i>&amp;</i> NICOLOTTI, (<i>Hist. mod.</i>)\nc’est le nom de deux factions toûjours opposées, qui\ndivisent la populace à Venise.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>CASTELLANI, <i>&amp;</i> NICOLOTTI, (<i>Hist. mod.</i>)\nc’est le nom de deux factions toûjours opposées, qui\ndivisent la populace à Venise.\n \n</p>\n</div>",
     "title": "CASTELLANI, et NICOLOTTI",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/CASTELLANI,_et_NICOLOTTI"
 }

@@ -2,7 +2,8 @@
     "authors": [
         "Denis Diderot"
     ],
-    "item_id": "2-205",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-977-0/",
+    "item_id": "2-981",
     "next": "2-982",
     "pages": "205",
     "prev": "2-980",
@@ -10,6 +11,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENNE, s. f. (<i>Commerce.</i>) c’est une voiture qui\nsert de mesure à charbon dans la Flandre. La <i>benne</i>\ncontient 25 vaux ou 18 queues, &amp; la queue 2 mannes.\nPour faire une <i>benne</i> de charbon, il faut au moins\nsix cordes de bois ; la corde de bois revient rendue\nà Namur à dix escalins, &amp; la <i>benne</i> à seize florins.\n</p><p>On nomme aussi <i>benne</i> un petit vaisseau qui sert à\ncharger des bêtes de somme, pour transporter des\ngrains, de la chaux, la vendange, <i>&amp;c.</i> elle tient deux\nminots.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>* BENNE, s. f. (<i>Commerce.</i>) c’est une voiture qui\nsert de mesure à charbon dans la Flandre. La <i>benne</i>\ncontient 25 vaux ou 18 queues, &amp; la queue 2 mannes.\nPour faire une <i>benne</i> de charbon, il faut au moins\nsix cordes de bois ; la corde de bois revient rendue\nà Namur à dix escalins, &amp; la <i>benne</i> à seize florins.\n</p><p>On nomme aussi <i>benne</i> un petit vaisseau qui sert à\ncharger des bêtes de somme, pour transporter des\ngrains, de la chaux, la vendange, <i>&amp;c.</i> elle tient deux\nminots.\n \n</p>\n</div>",
     "title": "BENNE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BENNE"
 }

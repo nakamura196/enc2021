@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-264",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1392-0/",
+    "item_id": "2-1395",
     "next": "2-1396",
     "pages": "264",
     "prev": "2-1394",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISQUAINS, s. f. plur. (<i>Commerce.</i>) ce sont des\npeaux de moutons garnies de leur laine, qui ont été\npassées &amp; préparées chez les Mégissiers. C’est avec\nces peaux que les Bourreliers font des couvertures\naux colliers des chevaux de tirage. <i>Voyez</i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HOUSSES\" title=\"L’Encyclopédie/1re édition/HOUSSES\"><span class=\"sc\">Housse</span></a>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISQUAINS, s. f. plur. (<i>Commerce.</i>) ce sont des\npeaux de moutons garnies de leur laine, qui ont été\npassées &amp; préparées chez les Mégissiers. C’est avec\nces peaux que les Bourreliers font des couvertures\naux colliers des chevaux de tirage. <i><span type=\"bold\">Voyez</span></i> <a href=\"/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/HOUSSES\" title=\"L’Encyclopédie/1re édition/HOUSSES\"><span class=\"sc\">Housse</span></a>.\n \n</p>\n</div>",
     "title": "BISQUAINS",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISQUAINS"
 }

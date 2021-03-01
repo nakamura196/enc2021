@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-260",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-1367-0/",
+    "item_id": "2-1370",
     "next": "2-1371",
     "pages": "260",
     "prev": "2-1369",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHOFFS-LACK, (<i>Géog.</i>) ville de la haute\nCarinthie, entre les rivieres de Pollent &amp; de Zaher.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BISCHOFFS-LACK, (<i>Géog.</i>) ville de la haute\nCarinthie, entre les rivieres de Pollent &amp; de Zaher.\n \n</p>\n</div>",
     "title": "BISCHOFFS-LACK",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BISCHOFFS-LACK"
 }

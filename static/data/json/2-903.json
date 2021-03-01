@@ -1,6 +1,7 @@
 {
     "authors": [],
-    "item_id": "2-198",
+    "enc_link": "http://enccre.academie-sciences.fr/encyclopedie/article/v2-899-0/",
+    "item_id": "2-903",
     "next": "2-904",
     "pages": "198",
     "prev": "2-902",
@@ -8,6 +9,6 @@
     "texthtml": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLE-FACE, (<i>Manege.</i>) <i>Voyez</i> <span class=\"sc\">Chanfrein</span>.\n \n</p>\n</div>",
     "texthtml_re": "<div class=\"prp-pages-output\" lang=\"fr\">\n\n<p>BELLE-FACE, (<i>Manege.</i>) <i><span type=\"bold\">Voyez</span></i> <span class=\"sc\">Chanfrein</span>.\n \n</p>\n</div>",
     "title": "BELLE-FACE",
-    "tome": "2",
+    "tome_r": "II",
     "url": "https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/BELLE-FACE"
 }
