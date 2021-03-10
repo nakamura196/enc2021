@@ -435,5 +435,6 @@
   "更新履歴" : "Update",
   "コピー" : "Copy",
   "コピー元" : "Copy from",
-  "典拠を選択してください。" : "Select the authority to be copied."
+  "典拠を選択してください。" : "Select the authority to be copied.",
+  "admin" : "Admin"
 }

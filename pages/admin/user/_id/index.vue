@@ -2,7 +2,9 @@
   <AdminLayout :breadcrumbs="breadcrumbs">
     <div class="text-right mb-5">
       <v-btn
-        v-if="userRole == 'global_admin' || user.id === userUid"
+        v-if="
+          ['global_admin', 'admin'].includes(userRole) || user.id === userUid
+        "
         :to="
           localePath({
             name: 'admin-user-id-edit',
@@ -51,6 +53,9 @@ export default {
     userUid() {
       return this.$store.getters.getUserUid
     },
+    userRole() {
+      return this.$store.getters.getUserRole
+    },
     lang() {
       return this.$i18n.locale
     },
@@ -82,7 +87,13 @@ export default {
       .onSnapshot(
         (res) => {
           const user = res.data()
-          this.user = user
+          if (
+            this.userRole === 'global_admin' ||
+            this.userRole === 'admin' ||
+            this.userUid === user.id
+          ) {
+            this.user = user
+          }
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)

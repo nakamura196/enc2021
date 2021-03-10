@@ -70,7 +70,8 @@
 
               <v-btn
                 v-if="
-                  (!finished || userRole === 'global_admin') &&
+                  (!finished ||
+                    ['global_admin', 'admin'].incluldes(userRole)) &&
                   formData.length < 2
                 "
                 class="ma-1"
@@ -119,7 +120,9 @@
             </v-card>
           </v-col>
           <v-col
-            v-if="isSignedIn && (!finished || userRole === 'global_admin')"
+            v-if="
+              isSignedIn && (!finished || ['global_admin', 'admin'].includes())
+            "
             cols="12"
             sm="6"
           >
@@ -273,17 +276,34 @@
                     <v-col>
                       <div class="text-center">
                         <v-btn
+                          v-if="tab == 0"
                           class="ma-1"
                           color="primary"
                           :loading="loading"
                           :disabled="loading"
                           @click="submit()"
-                          >{{ $t(tab == 0 ? '送信' : '更新') }}</v-btn
+                          >{{ $t('送信') }}</v-btn
+                        >
+                        <v-btn
+                          v-if="
+                            tab !== 0 &&
+                            (['global_admin', 'admin'].includes(userRole) ||
+                              currentAuthority.editors.includes(userUid))
+                          "
+                          class="ma-1"
+                          color="primary"
+                          :loading="loading"
+                          :disabled="loading"
+                          @click="submit()"
+                          >{{ $t('更新') }}</v-btn
                         >
                         <template v-if="tab == 0"> </template>
                         <template v-if="tab !== 0 && currentAuthority">
                           <v-btn
-                            v-if="!currentAuthority.doubleChecked"
+                            v-if="
+                              !currentAuthority.doubleChecked &&
+                              ['global_admin', 'admin'].includes(userRole)
+                            "
                             class="ma-1"
                             color="success"
                             :loading="loading"
@@ -292,6 +312,10 @@
                             >{{ $t('ダブルチェック') }}</v-btn
                           >
                           <v-btn
+                            v-if="
+                              ['global_admin', 'admin'].includes(userRole) ||
+                              currentAuthority.editors.includes(userUid)
+                            "
                             class="ma-1"
                             color="error"
                             :loading="loading"

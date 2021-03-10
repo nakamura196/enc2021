@@ -51,13 +51,13 @@
           <v-list-item
             link
             target="_blank"
-            href="https://drive.google.com/file/d/1jk3gz_uyZ_XJTWx6Ns5T3CeDeravTZI4/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Sqchv-UhNtHYbmf7Li-1eVS5YX1ywiBj/view?usp=sharing"
           >
             <v-list-item-action>
               <v-icon>mdi-book</v-icon>
             </v-list-item-action>
             <v-list-item-content>
-              <v-list-item-title>!Test! {{ $t('manual') }}</v-list-item-title>
+              <v-list-item-title>{{ $t('manual') }}</v-list-item-title>
             </v-list-item-content>
           </v-list-item>
 

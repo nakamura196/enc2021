@@ -2,7 +2,11 @@
   <AdminLayout :breadcrumbs="breadcrumbs">
     <div class="text-right mb-5">
       <v-btn
-        v-if="userRole == 'global_admin' || user.id === userUid"
+        v-if="
+          userRole == 'global_admin' ||
+          userRole == 'admin' ||
+          user.id === userUid
+        "
         :loading="loading"
         @click="save()"
         >{{ $t('保存') }}</v-btn
@@ -25,9 +29,14 @@
           <tr>
             <th>{{ $t('役割') }}</th>
             <td>
+              <!--  -->
               <v-select
                 v-model="user.role"
-                :disabled="userRole == 'global_admin' ? false : true"
+                :disabled="
+                  userRole == 'global_admin' || userRole == 'admin'
+                    ? false
+                    : true
+                "
                 :items="items"
                 class="mt-6 mb-0"
                 outlined
@@ -66,25 +75,14 @@ export default {
       dialog: false,
       user: {},
       loading: false,
-      items: [
-        {
-          text: this.$t('global_admin'),
-          value: 'global_admin',
-        },
-        {
-          text: this.$t('editor'),
-          value: 'editor',
-        },
-        {
-          text: this.$t('researcher'),
-          value: 'researcher',
-        },
-      ],
     }
   },
   computed: {
     userUid() {
       return this.$store.getters.getUserUid
+    },
+    userRole() {
+      return this.$store.getters.getUserRole
     },
     lang() {
       return this.$i18n.locale
@@ -117,6 +115,26 @@ export default {
         },
       ]
     },
+    items() {
+      return [
+        {
+          text: this.$t('global_admin'),
+          value: 'global_admin',
+        },
+        {
+          text: this.$t('admin'),
+          value: 'admin',
+        },
+        {
+          text: this.$t('editor'),
+          value: 'editor',
+        },
+        {
+          text: this.$t('researcher'),
+          value: 'researcher',
+        },
+      ]
+    },
   },
   created() {
     firebase
@@ -126,7 +144,13 @@ export default {
       .onSnapshot(
         (res) => {
           const user = res.data()
-          this.user = user
+          if (
+            this.userRole === 'global_admin' ||
+            this.userRole === 'admin' ||
+            this.userUid === user.id
+          ) {
+            this.user = user
+          }
         },
         (error) => {
           console.error('GET_REALTIME_LIST', error)

@@ -15,6 +15,17 @@
         <template v-slot:default>
           <tbody>
             <tr>
+              <td>{{ '2021-03-09' }}</td>
+              <td class="py-2">
+                <ul>
+                  <li>
+                    ユーザ権限の不具合の改修、および権限の内容を更新しました。
+                  </li>
+                  <li>マニュアルを追加しました。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
               <td>{{ '2021-03-01' }}</td>
               <td class="py-2">
                 <ul>
