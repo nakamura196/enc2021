@@ -15,6 +15,14 @@
         <template v-slot:default>
           <tbody>
             <tr>
+              <td>{{ '2021-03-26' }}</td>
+              <td class="py-2">
+                <ul>
+                  <li>ヘッダー画像とロゴを更新しました。</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
               <td>{{ '2021-03-09' }}</td>
               <td class="py-2">
                 <ul>
